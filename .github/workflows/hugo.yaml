@@ -47,7 +47,7 @@ jobs:
         run: hugo --minify
 
       - name: Build Pagefind index
-        run: npx -y pagefind --site public --baseurl /ai-bookmarks/
+        run: npx -y pagefind --site public
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
