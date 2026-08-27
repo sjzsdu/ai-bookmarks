@@ -18,9 +18,30 @@
   "@type": "SoftwareApplication",
   "name": "{{ .Title }}",
   "url": "{{ .Permalink }}",
-  {{ with .Params.description }}"description": "{{ . }}",{{ end }}
+  {{ with .Description }}"description": "{{ . }}",{{ end }}
   {{ with .Params.price }}"offers": { "@type": "Offer", "price": "{{ . }}", "priceCurrency": "{{ $.Params.priceCurrency | default "USD" }}" },{{ end }}
   "applicationCategory": "{{ .Params.category | default "AI Tool" }}"
+}
+</script>
+{{ end }}
+{{ with .Params.faq }}
+{{ $n := len . }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{ range $i, $item := . }}
+    {
+      "@type": "Question",
+      "name": "{{ $item.q }}",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ $item.a }}"
+      }
+    }{{ if ne (add $i 1) $n }},{{ end }}
+    {{ end }}
+  ]
 }
 </script>
 {{ end }}
