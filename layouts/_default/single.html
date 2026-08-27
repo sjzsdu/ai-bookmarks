@@ -4,7 +4,7 @@
   {{ with .Description }}<p>{{ . }}</p>{{ end }}
   <div class="tool-meta">
     {{ with .Params.category }}<span class="tag">{{ . }}</span>{{ end }}
-    {{ with .Params.price }}<span class="tag">价格 {{ . }} {{ .Params.priceCurrency }}</span>{{ end }}
+    {{ with .Params.price }}<span class="tag">价格 {{ . }} {{ $.Params.priceCurrency }}</span>{{ end }}
     {{ with .Params.website }}<a class="tag" rel="nofollow noopener" href="{{ . }}">访问官网 ↗</a>{{ end }}
   </div>
   {{ .Content }}
