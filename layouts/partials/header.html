@@ -1,0 +1,7 @@
+<header>
+  <a href="{{ .Site.Home.RelPermalink }}">{{ .Site.Title }}</a>
+  <nav>
+    {{ range .Site.Languages }}<a href="/{{ .Lang }}/">{{ .Label }}</a>{{ end }}
+    <a href="/{{ .Lang }}/search/">🔍</a>
+  </nav>
+</header>

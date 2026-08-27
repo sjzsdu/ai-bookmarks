@@ -1,0 +1,30 @@
+baseURL = "https://ai-bookmarks.pages.dev/"
+title = "AI Bookmarks"
+defaultContentLanguage = "zh"
+defaultContentLanguageInSubdir = true
+enableRobotsTXT = true
+paginate = 12
+
+[params]
+  description = "AI 工具导航：按地区视角独立整理的 AI 产品目录。"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+# 多语言：中英文各自独立内容集（非翻译）
+[languages.zh]
+  weight = 1
+  contentDir = "content/zh"
+  locale = "zh-CN"
+  label = "中文"
+
+[languages.en]
+  weight = 2
+  contentDir = "content/en"
+  locale = "en-US"
+  label = "English"

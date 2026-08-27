@@ -1,0 +1,36 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "{{ .Site.Title }}",
+  "url": "{{ .Site.BaseURL }}",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "{{ .Site.BaseURL }}search/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+{{ if eq .Type "tools" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "{{ .Title }}",
+  "url": "{{ .Permalink }}",
+  {{ with .Params.description }}"description": "{{ . }}",{{ end }}
+  {{ with .Params.price }}"offers": { "@type": "Offer", "price": "{{ . }}", "priceCurrency": "{{ $.Params.priceCurrency | default "USD" }}" },{{ end }}
+  "applicationCategory": "{{ .Params.category | default "AI Tool" }}"
+}
+</script>
+{{ end }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "{{ .Site.Title }}", "item": "{{ .Site.Home.RelPermalink }}" },
+    { "@type": "ListItem", "position": 2, "name": "{{ .Title }}", "item": "{{ .RelPermalink }}" }
+  ]
+}
+</script>

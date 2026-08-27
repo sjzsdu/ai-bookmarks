@@ -1,0 +1,11 @@
+{{ define "main" }}
+{{ with .Content }}<div>{{ . }}</div>{{ end }}
+<h2>分类 / Categories</h2>
+<ul>
+{{ range .Site.Sections }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>{{ end }}
+</ul>
+<h2>最新 / Latest</h2>
+<ul>
+{{ range first 10 .Site.RegularPages }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>{{ end }}
+</ul>
+{{ end }}
