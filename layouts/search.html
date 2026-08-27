@@ -1,0 +1,8 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  <div id="search"></div>
+  <link rel="stylesheet" href="{{ "pagefind/pagefind-ui.css" | relURL }}">
+  <script src="{{ "pagefind/pagefind-ui.js" | relURL }}"></script>
+  <script>new PagefindUI({ element: "#search", showSubResults: true });</script>
+{{ end }}
+

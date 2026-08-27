@@ -1,7 +1,7 @@
 <header>
   <a href="{{ .Site.Home.RelPermalink }}">{{ .Site.Title }}</a>
   <nav>
-    {{ range .Site.Languages }}<a href="/{{ .Lang }}/">{{ .LanguageName }}</a>{{ end }}
-    <a href="/{{ .Lang }}/search/">🔍</a>
+    {{ range .Site.Languages }}<a href="{{ printf "%s/" .Lang | relURL }}">{{ .LanguageName }}</a>{{ end }}
+    <a href="{{ printf "%s/search/" .Lang | relURL }}">🔍</a>
   </nav>
 </header>
