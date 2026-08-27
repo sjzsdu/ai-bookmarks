@@ -3,7 +3,7 @@ title = "AI Bookmarks"
 defaultContentLanguage = "zh"
 defaultContentLanguageInSubdir = true
 enableRobotsTXT = true
-paginate = 12
+pagination.pagerSize = 12
 
 [params]
   description = "AI 工具导航：按地区视角独立整理的 AI 产品目录。"
@@ -20,11 +20,11 @@ paginate = 12
 [languages.zh]
   weight = 1
   contentDir = "content/zh"
-  locale = "zh-CN"
-  label = "中文"
+  languageCode = "zh-CN"
+  languageName = "中文"
 
 [languages.en]
   weight = 2
   contentDir = "content/en"
-  locale = "en-US"
-  label = "English"
+  languageCode = "en-US"
+  languageName = "English"
