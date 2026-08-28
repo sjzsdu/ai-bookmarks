@@ -1,39 +1,64 @@
-# AI Bookmarks
+# AI 工具导航
 
-零成本、SEO/GEO 友好的 AI 工具导航站（中英文双语，内容独立整理，非翻译）。
+一个帮你找到合适 AI 工具的导航站。
 
-## 技术栈
-- **Hugo**（SSG，纯静态、零 JS 默认）— 对 SEO/GEO 友好
-- **Cloudflare Pages** — 免费托管（无限带宽、自带 CDN）
-- 无后端；站内搜索用 **Pagefind**（构建期生成索引）
-- 内容即 Git 仓库中的 Markdown
+不管是写文案、做图、剪视频、写代码，还是做 PPT、翻译、分析数据——这里按场景分好了类，你直接挑就行。
 
-## 多语言架构
-- `content/zh/` 与 `content/en/` 两套**独立内容集**（非翻译）。
-- 同一工具在两种语言下用 `translationKey` 关联，用于输出 `hreflang`，但内容各自独立撰写（不同地区关注点不同）。
-- URL 结构：`/zh/...` 与 `/en/...`，根路径重定向到默认语言（中文）。
+## 怎么用
 
-## 本地运行
-```bash
-hugo server
-# 构建 + 搜索索引
-hugo --minify && npx -y pagefind --site public
-```
+- **分类导航**：16 个分类，按用途整理，点进去就能看到该方向下的所有工具。
+- **搜索**：站内搜索支持中英文，直接搜工具名或功能关键词。
+- **最近更新**：首页会展示最近新增或更新的工具，方便你发现新东西。
 
-## 部署到 Cloudflare Pages（零成本）
-1. 在 Cloudflare Pages 连接本 GitHub 仓库。
-2. 构建设置：
-   - 构建命令：`hugo --minify && npx -y pagefind --site public`
-   - 输出目录：`public`
-3. 部署后提交 sitemap 到 Google Search Console / Bing Webmaster。
-（也可使用 `.github/workflows/build.yml` 在 PR 时验证构建。）
+## 16 个分类一览
 
-## 已包含
-- 首页 / 分类页 / 工具详情页模板
-- hreflang 多语言 alternates + `x-default`
-- schema.org 结构化数据（WebSite/SearchAction、SoftwareApplication、BreadcrumbList）
-- sitemap.xml、robots.txt、RSS
-- Pagefind 站内搜索（`/zh/search/` 与 `/en/search/`）
+| 分类 | 适合谁 |
+|------|--------|
+| AI 对话 | 想找个 AI 聊天、问答、头脑风暴 |
+| 图像生成 | 想用 AI 画图、生图、修图 |
+| 视频生成 | 想把文字/图片变成视频 |
+| 音频与音乐 | 想做配乐、配音、语音克隆 |
+| 编程与开发 | 程序员找 AI 写代码、补全、调试 |
+| 写作与内容 | 写文案、博客、社媒内容 |
+| 办公与效率 | AI 做 PPT、整理笔记、管日程 |
+| 设计与创意 | UI 设计、Logo 生成、创意素材 |
+| 翻译 | 多语言互译，比传统翻译更自然 |
+| 数据分析 | 数据可视化、BI、SQL 生成 |
+| 搜索与浏览器 | AI 搜索引擎，结果更精准 |
+| 电商与营销 | 商品图、广告投放、营销文案 |
+| 自动化与 Agent | 工作流编排、智能体、RPA |
+| 学习与教育 | AI 课程、学习辅助、知识管理 |
+| 模型与 API | 大模型平台、API 接入、推理服务 |
+| 3D 与素材 | 3D 建模、素材库、设计资源 |
 
-## 范围说明
-当前为**骨架**：含占位内容，不含真实工具条目、评论、用户系统或广告。正式内容进入 AI 起草 + 人工审校阶段。
+## 给中文用户的几句提醒
+
+- **国内访问**：部分工具（如 ChatGPT、Claude、Midjourney）在国内需要代理才能用。站里每个工具都标注了是否国内可直连。
+- **支付方式**：海外工具大多只支持信用卡/Stripe，国内工具一般支持支付宝/微信。标注了支付方式，付费前先看一眼。
+- **替代方案**：如果一个工具用不了，分类里通常有国产替代。比如 ChatGPT 用不了，可以看 Kimi、豆包、通义千问。
+
+## 推荐工具
+
+每个分类里都有编辑挑选的推荐工具，标有 ⭐ 的是综合体验较好的。如果你不知道从哪个开始，先看推荐。
+
+## 想推荐一个工具？
+
+欢迎推荐！在 GitHub 仓库提 Issue，告诉我们：
+- 工具名称和网址
+- 它能干什么（一句话就行）
+- 你觉得它好在哪
+
+我们会审核后添加。
+
+---
+
+<details>
+<summary>给开发者</summary>
+
+本站基于 Hugo 静态生成，部署在 Cloudflare Pages（免费）。内容是 Git 仓库里的 Markdown 文件，中英文独立撰写（不是翻译）。
+
+本地运行：`hugo server`
+构建：`hugo --minify && npx -y pagefind --site public`
+
+技术细节和部署说明见仓库。
+</details>
