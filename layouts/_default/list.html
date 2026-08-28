@@ -29,11 +29,11 @@
         </div>
         <div class="card-grid">
           {{ range .Pages }}
-            <a class="card" href="{{ .RelPermalink }}">
+            <a class="card" href="{{ .RelPermalink }}" data-category="{{ .Params.category }}" data-free="{{ if .Params.price }}{{ if strings.Contains .Params.price "Free" }}1{{ else }}0{{ end }}{{ else }}0{{ end }}">
               <h3>{{ .Title }}</h3>
               {{ with .Description }}<p>{{ . }}</p>{{ end }}
               <div class="card-meta">
-                {{ with .Params.price }}<span class="card-price">{{ . }} {{ $.Params.priceCurrency }}</span>{{ end }}
+                {{ $pc := .Params.priceCurrency }}{{ with .Params.price }}<span class="card-price">{{ if and $pc (not (strings.Contains . $pc)) }}{{ $pc }} {{ end }}{{ . }}</span>{{ end }}
               </div>
             </a>
           {{ end }}
@@ -41,14 +41,15 @@
       {{ end }}
     {{ end }}
   {{ else }}
-    {{/* At a specific category: show tools in this category */}}
-    <div class="card-grid">
+    {{/* At a specific category: show tools in this category with filter */}}
+    {{ partial "tool-filter.html" . }}
+    <div class="card-grid" id="tool-list">
       {{ range .Pages }}
-        <a class="card" href="{{ .RelPermalink }}">
+        <a class="card" href="{{ .RelPermalink }}" data-category="{{ .Params.category }}" data-free="{{ if .Params.price }}{{ if strings.Contains .Params.price "Free" }}1{{ else }}0{{ end }}{{ else }}0{{ end }}">
           <h3>{{ .Title }}</h3>
           {{ with .Description }}<p>{{ . }}</p>{{ end }}
           <div class="card-meta">
-            {{ with .Params.price }}<span class="card-price">{{ . }} {{ $.Params.priceCurrency }}</span>{{ end }}
+            {{ $pc := .Params.priceCurrency }}{{ with .Params.price }}<span class="card-price">{{ if and $pc (not (strings.Contains . $pc)) }}{{ $pc }} {{ end }}{{ . }}</span>{{ end }}
           </div>
         </a>
       {{ end }}

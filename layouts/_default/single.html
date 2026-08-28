@@ -31,14 +31,20 @@
 
   <div class="tool-meta">
     {{ with .Params.price }}
-      <span class="tag">{{ $.Params.priceCurrency }} {{ . }}</span>
+      {{ $pc := $.Params.priceCurrency }}<span class="tag">{{ if and $pc (not (strings.Contains . $pc)) }}{{ $pc }} {{ end }}{{ . }}</span>
     {{ end }}
     {{ with .Params.website }}
       <a class="visit-btn" rel="nofollow noopener" target="_blank" href="{{ . }}">
         {{ if eq $.Lang "zh" }}访问官网{{ else }}Visit Website{{ end }} ↗
       </a>
     {{ end }}
+    <button class="fav-btn" data-tool="{{ .RelPermalink }}" data-title="{{ .Title }}" data-category="{{ .Params.category }}" data-price="{{ .Params.price }}" data-access="{{ .Params.access }}" type="button">{{ if eq $.Lang "zh" }}☆ 收藏{{ else }}☆ Save{{ end }}</button>
+    <button class="compare-btn" data-tool="{{ .RelPermalink }}" data-title="{{ .Title }}" data-category="{{ .Params.category }}" data-price="{{ .Params.price }}" data-access="{{ .Params.access }}" type="button">{{ if eq $.Lang "zh" }}＋ 对比{{ else }}＋ Compare{{ end }}</button>
   </div>
+
+  {{ with .Params.access }}
+    <p class="access-note">{{ if eq $.Lang "zh" }}{{ if eq . "直连" }}✅ 国内可直连{{ else if eq . "需代理" }}⚠️ 国内需代理{{ else }}{{ . }}{{ end }}{{ else }}{{ . }}{{ end }}</p>
+  {{ end }}
 
   {{ .Content }}
 
@@ -66,7 +72,7 @@
           <h3>{{ .Title }}</h3>
           {{ with .Description }}<p>{{ . }}</p>{{ end }}
           <div class="card-meta">
-            {{ with .Params.price }}<span class="card-price">{{ . }} {{ $.Params.priceCurrency }}</span>{{ end }}
+            {{ $pc := .Params.priceCurrency }}{{ with .Params.price }}<span class="card-price">{{ if and $pc (not (strings.Contains . $pc)) }}{{ $pc }} {{ end }}{{ . }}</span>{{ end }}
           </div>
         </a>
       {{ end }}

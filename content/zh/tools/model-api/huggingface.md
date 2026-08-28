@@ -1,6 +1,6 @@
 ---
 title: "Hugging Face"
-description: "最大的开源模型库，下载和部署AI模型的一站式平台。"
+description: "最大的开源模型库，下载和部署 AI 模型都在这个平台。"
 translationKey: "huggingface"
 category: "模型与 API"
 website: "https://huggingface.co"

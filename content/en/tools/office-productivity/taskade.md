@@ -14,7 +14,7 @@ faq:
 ---
 # Taskade
 
-All-in-one productivity tool combining notes, task management, databases, and AI. AI is deeply integrated — use it anywhere to write, organize, and summarize content.
+A productivity tool combining notes, task management, databases, and AI. AI is deeply integrated — use it anywhere to write, organize, and summarize content.
 
 ## Strengths
 - AI built into every feature

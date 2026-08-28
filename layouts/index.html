@@ -45,6 +45,93 @@
 </div>
 
 <div class="section-title">
+  <span class="icon">🧭</span>
+  <h2>{{ if eq .Lang "zh" }}场景速查{{ else }}Find by Use Case{{ end }}</h2>
+</div>
+<p class="section-hint">{{ if eq .Lang "zh" }}不知道工具叫啥？先想你要干啥：{{ else }}Not sure of a tool name? Start from what you want to do:{{ end }}</p>
+<div class="chip-row">
+  {{ range $categories }}
+    {{ $section := $.Site.GetPage (printf "tools/%s" .slug) }}
+    <a class="chip" href="{{ $section.RelPermalink | default (printf "%s/tools/%s/" $.Lang .slug | relURL) }}">{{ .icon }} {{ if eq $.Lang "zh" }}{{ .zh }}{{ else }}{{ .en }}{{ end }}</a>
+  {{ end }}
+</div>
+
+<div class="section-title">
+  <span class="icon">⭐</span>
+  <h2>{{ if eq .Lang "zh" }}编辑精选{{ else }}Editor's Picks{{ end }}</h2>
+</div>
+<p class="section-hint">{{ if eq .Lang "zh" }}按场景挑的，附一句为什么值得用。{{ else }}Hand-picked by scenario, with a line on why it's worth it.{{ end }}</p>
+{{ $picks := slice
+  (dict "label_zh" "写代码" "label_en" "Coding" "slug" "coding")
+  (dict "label_zh" "做图" "label_en" "Image" "slug" "image-generation")
+  (dict "label_zh" "写文案" "label_en" "Writing" "slug" "writing-content")
+  (dict "label_zh" "做视频" "label_en" "Video" "slug" "video-generation")
+  (dict "label_zh" "办公提效" "label_en" "Productivity" "slug" "office-productivity")
+  (dict "label_zh" "学外语" "label_en" "Translate" "slug" "translation")
+}}
+{{ range $picks }}
+  {{ $p := . }}
+  {{ $sec := $.Site.GetPage (printf "tools/%s" $p.slug) }}
+  {{ with $sec }}
+    <h3 class="pick-label">{{ if eq $.Lang "zh" }}{{ $p.label_zh }}{{ else }}{{ $p.label_en }}{{ end }}</h3>
+    <div class="card-grid">
+      {{ range first 3 .Pages }}
+        <a class="card" href="{{ .RelPermalink }}">
+          <h3>{{ .Title }} ⭐</h3>
+          {{ with .Description }}<p>{{ . }}</p>{{ end }}
+          <div class="card-meta">
+            {{ $pc := .Params.priceCurrency }}{{ with .Params.price }}<span class="card-price">{{ if and $pc (not (strings.Contains . $pc)) }}{{ $pc }} {{ end }}{{ . }}</span>{{ end }}
+          </div>
+        </a>
+      {{ end }}
+    </div>
+  {{ end }}
+{{ end }}
+
+<div class="trust-block">
+  <div class="section-title">
+    <span class="icon">🛡️</span>
+    <h2>{{ if eq .Lang "zh" }}为什么值得信赖{{ else }}Why Trust Us{{ end }}</h2>
+  </div>
+  <ul class="trust-list">
+    {{ if eq .Lang "zh" }}
+      <li><strong>收录标准</strong>：只收官网能直达、有真实演示或免费试用的工具；不能用的、纯割韭菜的不收。</li>
+      <li><strong>更新承诺</strong>：每周新增 3–5 个工具，发现失效链接立即下架。</li>
+      <li><strong>人话整理</strong>：每条都按中文用户视角写——国内能不能直连、怎么付费、有没有国产替代，而不是堆术语。</li>
+    {{ else }}
+      <li><strong>Criteria</strong>: only tools with a direct official site, a real demo, or a free trial. No hype-only or scammy listings.</li>
+      <li><strong>Freshness</strong>: 3–5 new tools added weekly; dead links are removed promptly.</li>
+      <li><strong>Plain writing</strong>: every entry is written from a real-user view — access, pricing, and alternatives — not buzzwords.</li>
+    {{ end }}
+  </ul>
+</div>
+
+<div class="section-title">
+  <span class="icon">🚀</span>
+  <h2>{{ if eq .Lang "zh" }}快速上手{{ else }}Get Started{{ end }}</h2>
+</div>
+<p class="section-hint">{{ if eq .Lang "zh" }}第一次用 AI？先从这几个免费、好上手的开始：{{ else }}New to AI? Start with these free, easy ones:{{ end }}</p>
+<div class="card-grid">
+  {{ $starters := slice
+    (dict "cat" "ai-chat" "slug" "chatgpt")
+    (dict "cat" "ai-chat" "slug" "deepseek")
+    (dict "cat" "coding" "slug" "cursor")
+    (dict "cat" "image-generation" "slug" "midjourney")
+  }}
+  {{ range $starters }}
+    {{ with $.Site.GetPage (printf "tools/%s/%s" .cat .slug) }}
+      <a class="card" href="{{ .RelPermalink }}">
+        <h3>{{ .Title }}</h3>
+        {{ with .Description }}<p>{{ . }}</p>{{ end }}
+        <div class="card-meta">
+          {{ $pc := .Params.priceCurrency }}{{ with .Params.price }}<span class="card-price">{{ if and $pc (not (strings.Contains . $pc)) }}{{ $pc }} {{ end }}{{ . }}</span>{{ end }}
+        </div>
+      </a>
+    {{ end }}
+  {{ end }}
+</div>
+
+<div class="section-title">
   <span class="icon">🆕</span>
   <h2>{{ if eq .Lang "zh" }}最近更新{{ else }}Recently Updated{{ end }}</h2>
 </div>
@@ -54,7 +141,7 @@
       <h3>{{ .Title }}</h3>
       {{ with .Description }}<p>{{ . }}</p>{{ end }}
       <div class="card-meta">
-        {{ with .Params.price }}<span class="card-price">{{ . }} {{ $.Params.priceCurrency }}</span>{{ end }}
+        {{ $pc := .Params.priceCurrency }}{{ with .Params.price }}<span class="card-price">{{ if and $pc (not (strings.Contains . $pc)) }}{{ $pc }} {{ end }}{{ . }}</span>{{ end }}
         {{ with .Params.category }}<span>{{ . }}</span>{{ end }}
       </div>
     </a>

@@ -1,0 +1,9 @@
+<div class="tool-filter" id="tool-filter">
+  <span class="filter-label">{{ if eq .Lang "zh" }}筛选：{{ else }}Filter: {{ end }}</span>
+  <button class="filter-btn active" data-filter="all" type="button">{{ if eq .Lang "zh" }}全部{{ else }}All{{ end }}</button>
+  <button class="filter-btn" data-filter="free" type="button">{{ if eq .Lang "zh" }}免费{{ else }}Free{{ end }}</button>
+  <button class="filter-btn" data-filter="paid" type="button">{{ if eq .Lang "zh" }}付费{{ else }}Paid{{ end }}</button>
+  <span class="filter-sep">|</span>
+  <button class="filter-btn" data-sort="default" type="button">{{ if eq .Lang "zh" }}默认{{ else }}Default{{ end }}</button>
+  <button class="filter-btn" data-sort="title" type="button">{{ if eq .Lang "zh" }}按名称{{ else }}By name{{ end }}</button>
+</div>

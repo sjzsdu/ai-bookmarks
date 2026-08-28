@@ -6,5 +6,8 @@
     {{ end }}
     <a href="{{ printf "%s/tools/" .Lang | relURL }}">{{ if eq $.Lang "zh" }}工具{{ else }}Tools{{ end }}</a>
     <a href="{{ printf "%s/search/" .Lang | relURL }}">{{ if eq $.Lang "zh" }}搜索{{ else }}Search{{ end }}</a>
+    <a href="{{ printf "%s/favorites/" .Lang | relURL }}" class="fav-link">{{ if eq $.Lang "zh" }}★ 收藏{{ else }}★ Saved{{ end }}</a>
+    <a href="{{ printf "%s/compare/" .Lang | relURL }}" class="cmp-link">{{ if eq $.Lang "zh" }}⇄ 对比{{ else }}⇄ Compare{{ end }}</a>
+    <button class="theme-toggle" type="button" aria-label="Toggle theme">🌓</button>
   </nav>
 </header>
