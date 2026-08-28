@@ -20,11 +20,11 @@ pagination.pagerSize = 12
 [languages.zh]
   weight = 1
   contentDir = "content/zh"
-  languageCode = "zh-CN"
-  languageName = "中文"
+  locale = "zh-CN"
+  label = "中文"
 
 [languages.en]
   weight = 2
   contentDir = "content/en"
-  languageCode = "en-US"
-  languageName = "English"
+  locale = "en-US"
+  label = "English"

@@ -1,11 +1,63 @@
 {{ define "main" }}
-{{ with .Content }}<div>{{ . }}</div>{{ end }}
-<h2>分类 / Categories</h2>
-<div class="card-grid">
-{{ range .Site.Sections }}<a class="card" href="{{ .RelPermalink }}"><h3>{{ .Title }}</h3></a>{{ end }}
+<div class="hero">
+  <h1>{{ if eq .Lang "zh" }}AI 工具导航{{ else }}AI Tools Directory{{ end }}</h1>
+  <p>{{ if eq .Lang "zh" }}不吹不黑，只推荐真正好用的 AI 工具。按分类整理，带真实体验和价格信息。{{ else }}Honest, practical AI tool recommendations. Organized by category with real pricing and access info.{{ end }}</p>
+  <div class="hero-actions">
+    <a href="{{ printf "%s/tools/" .Lang | relURL }}" class="btn-primary">{{ if eq .Lang "zh" }}浏览全部工具{{ else }}Browse All Tools{{ end }}</a>
+    <a href="{{ printf "%s/search/" .Lang | relURL }}" class="btn-secondary">{{ if eq .Lang "zh" }}搜索{{ else }}Search{{ end }}</a>
+  </div>
 </div>
-<h2>最新 / Latest</h2>
+
+<div class="section-title">
+  <span class="icon">📂</span>
+  <h2>{{ if eq .Lang "zh" }}分类导航{{ else }}Categories{{ end }}</h2>
+</div>
+<div class="category-grid">
+  {{ $categories := slice
+    (dict "slug" "image-generation" "icon" "🎨" "zh" "图像生成" "en" "Image Generation" "desc_zh" "AI 画画、生图、修图，从创意到落地" "desc_en" "AI art, image generation, and editing tools")
+    (dict "slug" "video-generation" "icon" "🎬" "zh" "视频生成" "en" "Video Generation" "desc_zh" "文字/图片转视频，AI 剪辑与特效" "desc_en" "Text-to-video, AI editing and visual effects")
+    (dict "slug" "audio-music" "icon" "🎵" "zh" "音频与音乐" "en" "Audio & Music" "desc_zh" "AI 作曲、配音、语音克隆" "desc_en" "AI music, voice cloning, and audio tools")
+    (dict "slug" "ai-chat" "icon" "💬" "zh" "AI 对话" "en" "AI Chat" "desc_zh" "聊天机器人、问答、写作助手" "desc_en" "Chatbots, Q&A, and writing assistants")
+    (dict "slug" "coding" "icon" "💻" "zh" "编程与开发" "en" "Coding & Dev" "desc_zh" "AI 写代码、补全、调试、部署" "desc_en" "AI coding, completion, debugging, and deployment")
+    (dict "slug" "writing-content" "icon" "✍️" "zh" "写作与内容" "en" "Writing & Content" "desc_zh" "文案、博客、社媒内容生成" "desc_en" "Copywriting, blogging, and social content")
+    (dict "slug" "office-productivity" "icon" "📊" "zh" "办公与效率" "en" "Office & Productivity" "desc_zh" "AI 做 PPT、整理笔记、自动化办公" "desc_en" "AI presentations, notes, and workflow automation")
+    (dict "slug" "design-creativity" "icon" "🎯" "zh" "设计与创意" "en" "Design & Creativity" "desc_zh" "UI 设计、Logo、创意素材" "desc_en" "UI design, logos, and creative assets")
+    (dict "slug" "search-browser" "icon" "🔍" "zh" "搜索与浏览器" "en" "Search & Browser" "desc_zh" "AI 搜索引擎、智能浏览器" "desc_en" "AI search engines and smart browsers")
+    (dict "slug" "automation-agent" "icon" "⚙️" "zh" "自动化与 Agent" "en" "Automation & Agent" "desc_zh" "工作流编排、智能体、RPA" "desc_en" "Workflow orchestration, agents, and RPA")
+    (dict "slug" "model-api" "icon" "🧩" "zh" "模型与 API" "en" "Model & API" "desc_zh" "大模型平台、API 接入、推理服务" "desc_en" "LLM platforms, API access, and inference")
+    (dict "slug" "learning-education" "icon" "📚" "zh" "学习与教育" "en" "Learning & Education" "desc_zh" "AI 课程、学习工具、知识管理" "desc_en" "AI courses, learning tools, and knowledge management")
+    (dict "slug" "translation" "icon" "🌐" "zh" "翻译" "en" "Translation" "desc_zh" "AI 翻译工具、多语言处理" "desc_en" "AI translation and multilingual tools")
+    (dict "slug" "data-analysis" "icon" "📈" "zh" "数据分析" "en" "Data Analysis" "desc_zh" "数据可视化、BI、SQL 生成" "desc_en" "Data visualization, BI, and SQL generation")
+    (dict "slug" "ecommerce-marketing" "icon" "🛒" "zh" "电商与营销" "en" "E-commerce & Marketing" "desc_zh" "商品图、广告投放、营销文案" "desc_en" "Product images, ad campaigns, and marketing copy")
+    (dict "slug" "3d-assets" "icon" "🧊" "zh" "3D 与素材" "en" "3D & Assets" "desc_zh" "3D 建模、素材库、设计资源" "desc_en" "3D modeling, asset libraries, and design resources")
+  }}
+  {{ range $categories }}
+    {{ $section := $.Site.GetPage (printf "tools/%s" .slug) }}
+    <a class="category-card cat-{{ .slug }}" href="{{ $section.RelPermalink | default (printf "%s/tools/%s/" $.Lang .slug | relURL) }}">
+      <span class="cat-icon">{{ .icon }}</span>
+      <h3>{{ if eq $.Lang "zh" }}{{ .zh }}{{ else }}{{ .en }}{{ end }}</h3>
+      <p>{{ if eq $.Lang "zh" }}{{ .desc_zh }}{{ else }}{{ .desc_en }}{{ end }}</p>
+      {{ with $section }}
+        <span class="cat-count">{{ len .Pages }} {{ if eq $.Lang "zh" }}个工具{{ else }}tools{{ end }}</span>
+      {{ end }}
+    </a>
+  {{ end }}
+</div>
+
+<div class="section-title">
+  <span class="icon">🆕</span>
+  <h2>{{ if eq .Lang "zh" }}最近更新{{ else }}Recently Updated{{ end }}</h2>
+</div>
 <div class="card-grid">
-{{ range first 10 .Site.RegularPages }}<a class="card" href="{{ .RelPermalink }}"><h3>{{ .Title }}</h3>{{ with .Description }}<p>{{ . }}</p>{{ end }}</a>{{ end }}
+  {{ range first 8 .Site.RegularPages }}
+    <a class="card" href="{{ .RelPermalink }}">
+      <h3>{{ .Title }}</h3>
+      {{ with .Description }}<p>{{ . }}</p>{{ end }}
+      <div class="card-meta">
+        {{ with .Params.price }}<span class="card-price">{{ . }} {{ $.Params.priceCurrency }}</span>{{ end }}
+        {{ with .Params.category }}<span>{{ . }}</span>{{ end }}
+      </div>
+    </a>
+  {{ end }}
 </div>
 {{ end }}

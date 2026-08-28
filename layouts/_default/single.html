@@ -1,12 +1,76 @@
 {{ define "main" }}
+{{ $category := .Params.category }}
+{{ $categorySlug := "" }}
+{{ $related := slice }}
+
+{{/* Find the category section and related tools */}}
+{{ with .Site.GetPage "tools" }}
+  {{ range .Sections }}
+    {{ if eq .Title $category }}
+      {{ $categorySlug = .RelPermalink }}
+      {{ range .Pages }}
+        {{ if ne .RelPermalink $.RelPermalink }}
+          {{ $related = $related | append . }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
 <article data-pagefind-body>
+  {{ with $categorySlug }}
+    <a class="back-link" href="{{ . }}">← {{ $category }}</a>
+  {{ end }}
+
+  {{ with $category }}
+    <span class="category-badge">{{ . }}</span>
+  {{ end }}
+
   <h1>{{ .Title }}</h1>
-  {{ with .Description }}<p>{{ . }}</p>{{ end }}
+  {{ with .Description }}<p class="description">{{ . }}</p>{{ end }}
+
   <div class="tool-meta">
-    {{ with .Params.category }}<span class="tag">{{ . }}</span>{{ end }}
-    {{ with .Params.price }}<span class="tag">价格 {{ . }} {{ $.Params.priceCurrency }}</span>{{ end }}
-    {{ with .Params.website }}<a class="tag" rel="nofollow noopener" href="{{ . }}">访问官网 ↗</a>{{ end }}
+    {{ with .Params.price }}
+      <span class="tag">{{ $.Params.priceCurrency }} {{ . }}</span>
+    {{ end }}
+    {{ with .Params.website }}
+      <a class="visit-btn" rel="nofollow noopener" target="_blank" href="{{ . }}">
+        {{ if eq $.Lang "zh" }}访问官网{{ else }}Visit Website{{ end }} ↗
+      </a>
+    {{ end }}
   </div>
+
   {{ .Content }}
+
+  {{ with .Params.faq }}
+    <div class="faq-section">
+      <h2>{{ if eq $.Lang "zh" }}常见问题{{ else }}FAQ{{ end }}</h2>
+      {{ range . }}
+        <details class="faq-item">
+          <summary>{{ .q }}</summary>
+          <div class="faq-answer">{{ .a }}</div>
+        </details>
+      {{ end }}
+    </div>
+  {{ end }}
 </article>
+
+{{ if $related }}
+  <div class="related-section">
+    <div class="section-title">
+      <h2>{{ if eq .Lang "zh" }}同类推荐{{ else }}Related Tools{{ end }}</h2>
+    </div>
+    <div class="card-grid">
+      {{ range first 4 $related }}
+        <a class="card" href="{{ .RelPermalink }}">
+          <h3>{{ .Title }}</h3>
+          {{ with .Description }}<p>{{ . }}</p>{{ end }}
+          <div class="card-meta">
+            {{ with .Params.price }}<span class="card-price">{{ . }} {{ $.Params.priceCurrency }}</span>{{ end }}
+          </div>
+        </a>
+      {{ end }}
+    </div>
+  </div>
+{{ end }}
 {{ end }}

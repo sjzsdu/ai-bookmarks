@@ -1,7 +1,10 @@
 <header>
-  <a href="{{ .Site.Home.RelPermalink }}">{{ .Site.Title }}</a>
+  <a class="logo" href="{{ .Site.Home.RelPermalink }}">AI Bookmarks</a>
   <nav>
-    {{ range .Site.Languages }}<a href="{{ printf "%s/" .Lang | relURL }}">{{ .LanguageName }}</a>{{ end }}
-    <a href="{{ printf "%s/search/" .Lang | relURL }}">🔍</a>
+    {{ range .Site.Languages }}
+      <a href="{{ printf "%s/" .Lang | relURL }}">{{ .Label }}</a>
+    {{ end }}
+    <a href="{{ printf "%s/tools/" .Lang | relURL }}">{{ if eq $.Lang "zh" }}工具{{ else }}Tools{{ end }}</a>
+    <a href="{{ printf "%s/search/" .Lang | relURL }}">{{ if eq $.Lang "zh" }}搜索{{ else }}Search{{ end }}</a>
   </nav>
 </header>
