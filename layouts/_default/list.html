@@ -1,12 +1,71 @@
 {{ define "main" }}
-<h1>{{ .Title }}</h1>
-{{ with .Content }}<div>{{ . }}</div>{{ end }}
-<div class="card-grid">
-{{ range .Pages }}
-  <a class="card" href="{{ .RelPermalink }}">
-    <h3>{{ .Title }}</h3>
-    {{ with .Description }}<p>{{ . }}</p>{{ end }}
-  </a>
+{{ $isToolsSection := eq .Section "tools" }}
+
+{{ if $isToolsSection }}
+  {{/* Tools section: show category groups */}}
+  <h1>{{ if eq .Lang "zh" }}全部工具{{ else }}All Tools{{ end }}</h1>
+  {{ with .Content }}<div>{{ . }}</div>{{ end }}
+
+  {{/* Check if we're at the tools root or a specific category */}}
+  {{ if .Sections }}
+    {{/* At tools root: show category cards */}}
+    <div class="category-grid">
+      {{ range .Sections }}
+        <a class="card" href="{{ .RelPermalink }}">
+          <h3>{{ .Title }}</h3>
+          {{ with .Description }}<p>{{ . }}</p>{{ end }}
+          <div class="card-meta">
+            <span>{{ len .Pages }} {{ if eq $.Lang "zh" }}个工具{{ else }}tools{{ end }}</span>
+          </div>
+        </a>
+      {{ end }}
+    </div>
+
+    {{/* Show all tools grouped by category */}}
+    {{ range .Sections }}
+      {{ if .Pages }}
+        <div class="section-title">
+          <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        </div>
+        <div class="card-grid">
+          {{ range .Pages }}
+            <a class="card" href="{{ .RelPermalink }}">
+              <h3>{{ .Title }}</h3>
+              {{ with .Description }}<p>{{ . }}</p>{{ end }}
+              <div class="card-meta">
+                {{ with .Params.price }}<span class="card-price">{{ . }} {{ $.Params.priceCurrency }}</span>{{ end }}
+              </div>
+            </a>
+          {{ end }}
+        </div>
+      {{ end }}
+    {{ end }}
+  {{ else }}
+    {{/* At a specific category: show tools in this category */}}
+    <div class="card-grid">
+      {{ range .Pages }}
+        <a class="card" href="{{ .RelPermalink }}">
+          <h3>{{ .Title }}</h3>
+          {{ with .Description }}<p>{{ . }}</p>{{ end }}
+          <div class="card-meta">
+            {{ with .Params.price }}<span class="card-price">{{ . }} {{ $.Params.priceCurrency }}</span>{{ end }}
+          </div>
+        </a>
+      {{ end }}
+    </div>
+  {{ end }}
+
+{{ else }}
+  {{/* Non-tools sections: default list */}}
+  <h1>{{ .Title }}</h1>
+  {{ with .Content }}<div>{{ . }}</div>{{ end }}
+  <div class="card-grid">
+    {{ range .Pages }}
+      <a class="card" href="{{ .RelPermalink }}">
+        <h3>{{ .Title }}</h3>
+        {{ with .Description }}<p>{{ . }}</p>{{ end }}
+      </a>
+    {{ end }}
+  </div>
 {{ end }}
-</div>
 {{ end }}

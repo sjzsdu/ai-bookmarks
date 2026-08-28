@@ -1,5 +1,4 @@
 ---
-title: "Tool Categories"
-description: "AI tool categories from a global perspective."
+title: "All Tools"
+description: "Browse all AI tools by category and find what works for you."
 ---
-Browse AI tool categories organized by what English-speaking users care about.
