@@ -1,6 +1,6 @@
 ---
 title: "Clipdrop"
-description: "AI 图片工具集，抠图、清理、放大、生成一站式搞定。"
+description: "AI 图片工具集，抠图、清理、放大、生成全都能做。"
 translationKey: "clipdrop"
 category: "设计与创意"
 website: "https://clipdrop.co"
@@ -14,7 +14,7 @@ faq:
 ---
 # Clipdrop
 
-AI 图片工具集合，一站式解决常见图片处理需求——抠图、清理杂物、放大图片、AI 生成、移除文字等。每个功能都做得比较专注，效果稳定。
+AI 图片工具集合，常见图片处理需求都能在这里解决——抠图、清理杂物、放大图片、AI 生成、移除文字等。每个功能都做得比较专注，效果稳定。
 
 ## 核心能力
 - 抠图：自动去背景
