@@ -80,7 +80,7 @@
           <h3>{{ .Title }} ⭐</h3>
           {{ with .Description }}<p>{{ . }}</p>{{ end }}
           <div class="card-meta">
-            {{ $pc := .Params.priceCurrency }}{{ with .Params.price }}<span class="card-price">{{ if and $pc (not (strings.Contains . $pc)) }}{{ $pc }} {{ end }}{{ . }}</span>{{ end }}
+            {{ with .Params.price }}<span class="card-price">{{ . }}</span>{{ end }}
           </div>
         </a>
       {{ end }}
@@ -124,7 +124,7 @@
         <h3>{{ .Title }}</h3>
         {{ with .Description }}<p>{{ . }}</p>{{ end }}
         <div class="card-meta">
-          {{ $pc := .Params.priceCurrency }}{{ with .Params.price }}<span class="card-price">{{ if and $pc (not (strings.Contains . $pc)) }}{{ $pc }} {{ end }}{{ . }}</span>{{ end }}
+          {{ with .Params.price }}<span class="card-price">{{ . }}</span>{{ end }}
         </div>
       </a>
     {{ end }}
@@ -141,7 +141,7 @@
       <h3>{{ .Title }}</h3>
       {{ with .Description }}<p>{{ . }}</p>{{ end }}
       <div class="card-meta">
-        {{ $pc := .Params.priceCurrency }}{{ with .Params.price }}<span class="card-price">{{ if and $pc (not (strings.Contains . $pc)) }}{{ $pc }} {{ end }}{{ . }}</span>{{ end }}
+        {{ with .Params.price }}<span class="card-price">{{ . }}</span>{{ end }}
         {{ with .Params.category }}<span>{{ . }}</span>{{ end }}
       </div>
     </a>

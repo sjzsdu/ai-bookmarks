@@ -4,7 +4,7 @@ description: "语音合成领域龙头，音色拟真、情感自然，支持多
 translationKey: "elevenlabs"
 category: "音频与音乐"
 website: "https://elevenlabs.io"
-price: "Free / 5+ USD"
+price: "Free / $5+"
 priceCurrency: "USD"
 faq:
   - q: "ElevenLabs 在国内能用吗？"
@@ -12,7 +12,6 @@ faq:
   - q: "中文音色怎么样？"
     a: "支持中文且拟真度高，但母语质感略逊原生中文模型。"
 ---
-# ElevenLabs
 
 语音合成（TTS）领域的标杆工具，音色拟真度高、情感自然。支持多语种和声音克隆，有声书批量生成能力强。
 

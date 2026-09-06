@@ -4,7 +4,7 @@ description: "一键部署和调用开源模型，不用自己搭GPU。"
 translationKey: "replicate"
 category: "模型与 API"
 website: "https://replicate.com"
-price: "Pay-as-you-go"
+price: "按量付费"
 priceCurrency: "USD"
 faq:
   - q: "和Hugging Face有什么区别？"
@@ -12,7 +12,6 @@ faq:
   - q: "国内能用吗？"
     a: "需要VPN。"
 ---
-# Replicate
 
 把开源模型变成API的服务，不用自己买GPU、配环境。
 

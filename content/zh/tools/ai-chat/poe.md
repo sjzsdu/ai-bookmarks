@@ -4,7 +4,7 @@ description: "Quora 出品的 AI 聚合平台，一个入口用多个模型。"
 translationKey: "poe"
 category: "AI 对话"
 website: "https://poe.com"
-price: "Free / 20 USD"
+price: "Free / $20"
 priceCurrency: "USD"
 faq:
   - q: "Poe 在国内能用吗？"
@@ -12,7 +12,6 @@ faq:
   - q: "有什么优势？"
     a: "一个订阅用多个模型（GPT-4、Claude、Gemini 等），切换方便。"
 ---
-# Poe
 
 Quora 出品的 AI 聚合平台，整合了多个主流 AI 模型（GPT-4、Claude、Gemini、Llama 等），一个入口就能切换不同模型。
 

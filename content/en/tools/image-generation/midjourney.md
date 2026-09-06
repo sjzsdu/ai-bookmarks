@@ -4,7 +4,7 @@ description: "Top-tier AI image generator for quality; requires subscription and
 translationKey: "midjourney"
 category: "Image Generation"
 website: "https://www.midjourney.com"
-price: "10 / 30 / 60 USD"
+price: "From $10"
 priceCurrency: "USD"
 faq:
   - q: "Is there a free tier?"
@@ -12,7 +12,6 @@ faq:
   - q: "How does it compare to Stable Diffusion?"
     a: "Higher out-of-the-box quality and easier to start; less controllable, not locally deployable."
 ---
-# Midjourney
 
 Known for exceptional image quality, Midjourney excels at artistic and conceptual visuals. Mature prompt community, fast iteration, accessible via Discord or web app.
 

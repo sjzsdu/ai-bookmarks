@@ -12,7 +12,6 @@ faq:
   - q: "How is the Chinese song quality?"
     a: "Among the best AI music tools for Chinese lyrics comprehension and generation."
 ---
-# MiniStrel
 
 MiniMax's AI music model, strong at Chinese song generation compared to other AI music tools in the market.
 

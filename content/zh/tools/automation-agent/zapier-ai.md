@@ -4,7 +4,7 @@ description: "老牌自动化平台加了AI功能，连接5000+应用。"
 translationKey: "zapier-ai"
 category: "自动化与 Agent"
 website: "https://zapier.com"
-price: "Free / 20 USD"
+price: "Free / $20"
 priceCurrency: "USD"
 faq:
   - q: "国内能用吗？"
@@ -12,7 +12,6 @@ faq:
   - q: "AI功能是什么？"
     a: "可以在工作流里调用GPT处理文本、分类、提取信息等。"
 ---
-# Zapier AI
 
 老牌自动化工具加了AI能力，连接各种SaaS应用，让AI在中间处理数据。
 

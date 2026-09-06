@@ -4,7 +4,7 @@ description: "智谱清言背后的国产大模型开放平台，提供 GLM 系�
 translationKey: "bigmodel"
 category: "模型与 API"
 website: "https://open.bigmodel.cn"
-price: "Free / 按量计费"
+price: "Free / 按量付费"
 priceCurrency: "CNY"
 faq:
   - q: "BigModel 提供哪些能力？"
@@ -12,7 +12,6 @@ faq:
   - q: "能否先免费试用？"
     a: "部分模型或新账户通常有体验额度，具体活动和限额以控制台为准。"
 ---
-# 智谱 BigModel
 
 BigModel 是智谱面向开发者和企业的大模型开放平台，也是智谱清言背后的模型能力入口。平台覆盖文本、多模态和应用开发所需的常见 API。
 

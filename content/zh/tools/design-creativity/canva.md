@@ -4,7 +4,7 @@ description: "AI 综合设计工具，模板丰富，非设计师也能做出好
 translationKey: "canva"
 category: "设计与创意"
 website: "https://canva.com"
-price: "Free / 13"
+price: "Free / $13"
 priceCurrency: "USD"
 faq:
   - q: "Canva 国内能用吗？"
@@ -12,7 +12,6 @@ faq:
   - q: "免费版够用吗？"
     a: "大部分模板和功能免费版够用，AI 功能和高级素材需要 Pro 版。"
 ---
-# Canva
 
 最流行的在线设计工具，模板数量碾压同类产品。AI 功能可以帮你生成设计、抠图、改文案、做视频。非设计师也能用它做出社交媒体图片、海报、PPT。
 

@@ -4,7 +4,7 @@ description: "开源模型推理平台，速度快，价格便宜。"
 translationKey: "together-ai"
 category: "模型与 API"
 website: "https://together.ai"
-price: "Pay-as-you-go"
+price: "按量付费"
 priceCurrency: "USD"
 faq:
   - q: "和OpenAI API比怎么样？"
@@ -12,7 +12,6 @@ faq:
   - q: "国内能用吗？"
     a: "需要VPN。"
 ---
-# Together AI
 
 专注开源模型的推理平台，LLaMA、Mistral等模型调用速度快、价格低。
 

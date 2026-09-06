@@ -4,7 +4,7 @@ description: "Anthropic 出品，以长上下文与写作质量著称。"
 translationKey: "claude"
 category: "AI 对话"
 website: "https://claude.ai"
-price: "Free / 20 USD"
+price: "Free / $20"
 priceCurrency: "USD"
 faq:
   - q: "Claude 在国内能用吗？"
@@ -12,7 +12,6 @@ faq:
   - q: "Claude 适合做什么？"
     a: "长文档理解、代码、严谨写作，尤其擅长处理大段材料的任务。"
 ---
-# Claude
 
 Anthropic 开发的对话模型，以更安全、更长上下文、写作更自然为卖点。Artifacts 功能便于做可交互原型。
 

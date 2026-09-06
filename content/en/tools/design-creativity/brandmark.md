@@ -12,7 +12,6 @@ faq:
   - q: "Does it support Chinese brand names?"
     a: "Primarily English-focused, Chinese brand name results may be limited."
 ---
-# Brandmark
 
 AI logo generator with above-average design quality. Logos look more designed and unique, not obviously template-generated.
 

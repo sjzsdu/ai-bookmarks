@@ -4,7 +4,7 @@ description: "基于 VS Code 的 AI 原生编辑器，多文件重构和对话�
 translationKey: "cursor"
 category: "编程与开发"
 website: "https://cursor.com"
-price: "Free / 20"
+price: "Free / $20"
 priceCurrency: "USD"
 faq:
   - q: "Cursor 在国内能用吗？"
@@ -12,7 +12,6 @@ faq:
   - q: "和 Copilot 有什么不同？"
     a: "它是整编辑器，可多文件重构、对话式改代码，而不只是补全。"
 ---
-# Cursor
 
 「AI 优先」的代码编辑器，fork 自 VS Code，把大模型直接嵌进编辑、搜索与重构流程。Composer 功能可以一次改动多个文件，对大型重构很有帮助。
 

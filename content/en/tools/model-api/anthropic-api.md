@@ -12,7 +12,6 @@ faq:
   - q: "Is there a free tier?"
     a: "No free tier, but pricing is competitive."
 ---
-# Anthropic API
 
 Official API for Claude — known for safety, long-context handling, and strong reasoning.
 

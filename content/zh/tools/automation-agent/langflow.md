@@ -4,7 +4,7 @@ description: "可视化拖拽式 LLM 应用编排平台，可快速搭建 Agent 
 translationKey: "langflow"
 category: "自动化与 Agent"
 website: "https://www.langflow.org"
-price: "Free / Cloud"
+price: "Free / 付费方案"
 priceCurrency: "USD"
 faq:
   - q: "Langflow 需要编程吗？"
@@ -12,7 +12,6 @@ faq:
   - q: "可以自托管吗？"
     a: "可以，Langflow 是开源项目，也提供托管服务。"
 ---
-# Langflow
 
 Langflow 用节点和连线表达 LLM 应用逻辑，让开发者直观看到模型、提示词、检索器、记忆和工具之间的数据流，并快速测试 Agent 或 RAG 原型。
 

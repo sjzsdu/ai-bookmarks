@@ -4,7 +4,7 @@ description: "Free education platform with Khanmigo AI tutor for one-on-one guid
 translationKey: "khan-academy"
 category: "Learning & Education"
 website: "https://khanacademy.org"
-price: "Free / 44 USD"
+price: "Free / $44"
 priceCurrency: "USD"
 faq:
   - q: "Is Khan Academy really free?"
@@ -12,7 +12,6 @@ faq:
   - q: "What subjects are covered?"
     a: "Math, science, computing, humanities — from elementary to college level."
 ---
-# Khan Academy
 
 The most generous education platform — all courses free, AI tutor Khanmigo for one-on-one help.
 

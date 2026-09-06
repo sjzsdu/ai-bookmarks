@@ -4,7 +4,7 @@ description: "The go-to framework for building AI applications that connect LLMs
 translationKey: "langchain"
 category: "Automation & Agent"
 website: "https://langchain.com"
-price: "Free (open source)"
+price: "Free"
 priceCurrency: "USD"
 faq:
   - q: "Do I need to code?"
@@ -12,7 +12,6 @@ faq:
   - q: "How long to learn?"
     a: "With Python or JS experience, expect 1-2 weeks to get comfortable."
 ---
-# LangChain
 
 The standard framework for building AI apps that chain LLMs with databases, APIs, and tools.
 

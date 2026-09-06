@@ -12,7 +12,6 @@ faq:
   - q: "How does it compare?"
     a: "Strong Chinese and local search integration; reasoning and English lag frontier models."
 ---
-# ERNIE Bot
 
 Baidu's Chinese large model (ERNIE), accessible in China without VPN, integrated with Baidu search, netdisk, and docs. Natural Chinese expression.
 

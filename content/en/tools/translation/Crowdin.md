@@ -4,7 +4,7 @@ description: "Collaborative localization management platform for teams"
 translationKey: "crowdin"
 category: "Translation"
 website: "https://crowdin.com"
-price: "Free / 40 USD"
+price: "Free / $40"
 priceCurrency: "USD"
 faq:
   - q: "Is Crowdin just a translation tool?"
@@ -13,7 +13,6 @@ faq:
     a: "Yes, open source projects get free access to enterprise features."
 ---
 
-# Crowdin
 
 The go-to platform for managing localization projects. Connects to GitHub/GitLab/Bitbucket, auto-generates translation tasks, and lets teams collaborate on translation, review, and publishing. Built for App/website/game multilingual localization.
 

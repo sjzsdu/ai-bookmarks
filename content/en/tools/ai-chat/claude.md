@@ -4,7 +4,7 @@ description: "Anthropic's model known for long context, careful writing, and Art
 translationKey: "claude"
 category: "AI Chat"
 website: "https://claude.ai"
-price: "Free / 20 USD"
+price: "Free / $20"
 priceCurrency: "USD"
 faq:
   - q: "What is Claude best at?"
@@ -12,7 +12,6 @@ faq:
   - q: "How do enterprises use it?"
     a: "Via AWS Bedrock or Azure for regional deployment and data controls."
 ---
-# Claude
 
 Anthropic's conversational model — safer, longer-context, more natural writing. Artifacts make interactive prototypes easy.
 

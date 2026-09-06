@@ -14,7 +14,6 @@ faq:
   - q: "How does it compare to Dify?"
     a: "Coze is no-code and faster to start; Dify is better for self-hosting and data control."
 ---
-# Coze
 
 ByteDance's no-code AI agent platform — drag-and-drop bots published to many channels.
 

@@ -13,7 +13,6 @@ faq:
     a: "Email subject lines, push notifications, and ad copy for better click-through rates."
 ---
 
-# Phrasee
 
 Enterprise-grade marketing copy optimization. Uses AI to write email subject lines, push notifications, and ad copy, then predicts which version performs best. Focused on large e-commerce, retail, and travel companies.
 

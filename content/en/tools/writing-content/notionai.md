@@ -4,7 +4,7 @@ description: "AI writing assistant built into Notion, use AI right in your notes
 translationKey: "notionai"
 category: "Writing & Content"
 website: "https://notion.so/product/ai"
-price: "Free / 10"
+price: "Free / $10"
 priceCurrency: "USD"
 faq:
   - q: "Does Notion AI require separate payment?"
@@ -12,7 +12,6 @@ faq:
   - q: "Does it work globally?"
     a: "Notion is accessible worldwide, AI features call external APIs."
 ---
-# Notion AI
 
 AI built into Notion — use it directly in notes, docs, and knowledge bases for writing, summarizing, translating, and organizing. Integrates well with Notion's database and template system.
 

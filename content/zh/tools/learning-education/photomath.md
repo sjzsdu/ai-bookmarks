@@ -4,7 +4,7 @@ description: "拍照解数学题，AI识别手写和印刷公式，步骤详解�
 translationKey: "photomath"
 category: "学习与教育"
 website: "https://photomath.com"
-price: "Free / 10 USD"
+price: "Free / $10"
 priceCurrency: "USD"
 faq:
   - q: "能解多难的题？"
@@ -12,7 +12,6 @@ faq:
   - q: "国内能用吗？"
     a: "能用，手机拍照就能解题。"
 ---
-# Photomath
 
 拍一下数学题，AI识别公式并给出详细解题步骤。
 

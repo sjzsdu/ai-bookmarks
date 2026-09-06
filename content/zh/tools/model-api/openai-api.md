@@ -4,7 +4,7 @@ description: "GPT系列模型的官方API，按量付费。"
 translationKey: "openai-api"
 category: "模型与 API"
 website: "https://platform.openai.com"
-price: "Pay-as-you-go"
+price: "按量付费"
 priceCurrency: "USD"
 faq:
   - q: "国内能直接调用吗？"
@@ -12,7 +12,6 @@ faq:
   - q: "怎么收费？"
     a: "按Token计费，GPT-4o比GPT-4便宜很多，具体看模型页面。"
 ---
-# OpenAI API
 
 GPT系列模型的官方API，按Token计费，应用最广泛。
 

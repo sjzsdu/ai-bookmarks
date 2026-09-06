@@ -4,7 +4,7 @@ description: "开源工作流自动化，可自托管，把AI接进业务系统�
 translationKey: "n8n"
 category: "自动化与 Agent"
 website: "https://n8n.io"
-price: "Free / Cloud EUR"
+price: "Free / 付费方案"
 priceCurrency: "EUR"
 faq:
   - q: "n8n能自己部署吗？"
@@ -12,7 +12,6 @@ faq:
   - q: "和Dify区别？"
     a: "n8n偏通用自动化（连各种API/数据库），Dify偏LLM应用；二者常配合使用。"
 ---
-# n8n
 
 开源的工作流自动化工具，用节点把不同系统连起来，也能把大模型塞进自动化流程。
 

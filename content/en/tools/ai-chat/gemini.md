@@ -4,7 +4,7 @@ description: "Google's AI chat model with strong multimodal and search integrati
 translationKey: "gemini"
 category: "AI Chat"
 website: "https://gemini.google.com"
-price: "Free / 20 USD"
+price: "Free / $20"
 priceCurrency: "USD"
 faq:
   - q: "Is Gemini free?"
@@ -12,7 +12,6 @@ faq:
   - q: "How does it compare to ChatGPT?"
     a: "Stronger multimodal (image/video) and search integration; slightly weaker Chinese ecosystem."
 ---
-# Gemini
 
 Google's AI chat model with native multimodal understanding — can process text, images, video, and audio directly. Deep Google Search integration for real-time information.
 

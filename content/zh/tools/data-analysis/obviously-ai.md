@@ -4,7 +4,7 @@ description: "无需编程的机器学习预测平台"
 translationKey: "obviously-ai"
 category: "数据分析"
 website: "https://obviously.ai"
-price: "Free / 75 USD"
+price: "Free / $75"
 priceCurrency: "USD"
 faq:
   - q: "Obviously AI 能做什么？"
@@ -13,7 +13,6 @@ faq:
     a: "完全不需要，界面非常简单，适合业务人员使用。"
 ---
 
-# Obviously AI
 
 不想写代码但想做机器学习预测？Obviously AI 就是为这种场景设计的。上传数据，选择要预测的目标，它会自动训练模型并给出结果。适合业务人员快速验证数据假设。
 

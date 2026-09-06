@@ -12,7 +12,6 @@ faq:
   - q: "What products is it suitable for?"
     a: "It fits assistants, voice products, audio content, music, and video creation applications."
 ---
-# MiniMax API
 
 MiniMax exposes the multimodal model capabilities behind Hailuo AI. Developers can access text, speech, music, and video APIs from one platform instead of combining multiple providers.
 

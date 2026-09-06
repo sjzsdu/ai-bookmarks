@@ -4,7 +4,7 @@ description: "Translation API supporting 100+ languages with self-hosted option"
 translationKey: "lingvanex"
 category: "Translation"
 website: "https://lingvanex.com"
-price: "Free / 10 USD"
+price: "Free / $10"
 priceCurrency: "USD"
 faq:
   - q: "Does Lingvanex support Chinese?"
@@ -13,7 +13,6 @@ faq:
     a: "Cheaper, but less documentation and ecosystem. Good alternative if you want to avoid big tech dependency."
 ---
 
-# Lingvanex
 
 A lesser-known but full-featured translation API. Supports 100+ languages with both cloud and self-hosted options. Good for developers who need batch translation without relying on Google or Microsoft.
 

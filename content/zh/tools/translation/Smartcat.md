@@ -4,7 +4,7 @@ description: "AI 翻译与本地化协作平台"
 translationKey: "smartcat"
 category: "翻译"
 website: "https://smartcat.com"
-price: "Free / 99 USD"
+price: "Free / $99"
 priceCurrency: "USD"
 faq:
   - q: "Smartcat 是什么？"
@@ -13,7 +13,6 @@ faq:
     a: "免费版够小项目用，企业版 $99/月起。"
 ---
 
-# Smartcat
 
 企业级的翻译和本地化平台，结合了 AI 翻译和人工翻译工作流。支持翻译记忆库、术语管理、质量检查，适合需要专业翻译的大型项目。
 

@@ -4,7 +4,7 @@ description: "AI 自动抠图工具，上传图片一键去除背景，效果不
 translationKey: "removebg"
 category: "设计与创意"
 website: "https://removebg.com"
-price: "Free / 1.99"
+price: "Free / $1.99"
 priceCurrency: "USD"
 faq:
   - q: "免费版有什么限制？"
@@ -12,7 +12,6 @@ faq:
   - q: "效果怎么样？"
     a: "大部分场景效果很好，复杂边缘（如头发）可能需要手动调整。"
 ---
-# Remove.bg
 
 最流行的 AI 抠图工具，上传图片几秒钟自动去除背景。效果在大多数场景下都不错，比 Photoshop 手动抠图快多了。
 

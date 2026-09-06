@@ -4,7 +4,7 @@ description: "阿里出品的国产编程助手，国内直连、中文友好、
 translationKey: "tongyi-lingma"
 category: "编程与开发"
 website: "https://tongyi.aliyun.com/lingma"
-price: "Free / 企业定制"
+price: "Free / 定制价格"
 priceCurrency: "CNY"
 faq:
   - q: "通义灵码需要翻墙吗？"
@@ -12,7 +12,6 @@ faq:
   - q: "能私有化部署吗？"
     a: "企业版支持私有化与专有模型接入，数据不出内网。"
 ---
-# 通义灵码
 
 阿里通义实验室推出的智能编码助手，深度适配中文开发习惯，支持主流 IDE。是国内编程 AI 里中文理解最好的之一，注释、需求、文档生成都针对中文做了优化。
 

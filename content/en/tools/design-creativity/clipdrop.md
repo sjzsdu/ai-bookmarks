@@ -4,7 +4,7 @@ description: "AI image toolkit for background removal, cleanup, upscaling, and g
 translationKey: "clipdrop"
 category: "Design & Creativity"
 website: "https://clipdrop.co"
-price: "Free / 9"
+price: "Free / $9"
 priceCurrency: "USD"
 faq:
   - q: "What features does Clipdrop have?"
@@ -12,7 +12,6 @@ faq:
   - q: "Does it work globally?"
     a: "Yes, accessible worldwide with free trials for each feature."
 ---
-# Clipdrop
 
 AI image toolkit — one stop for common image tasks: background removal, cleanup, upscaling, generation, text removal. Each feature is focused and reliable.
 

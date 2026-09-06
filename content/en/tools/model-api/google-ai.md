@@ -12,7 +12,6 @@ faq:
   - q: "How does Gemini compare to GPT-4?"
     a: "Strong multimodal and long-context; English and code are solid, Chinese is weaker."
 ---
-# Google AI
 
 Google's AI model platform — Gemini models for developers and Vertex AI for enterprise.
 

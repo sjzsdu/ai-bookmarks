@@ -4,7 +4,7 @@ description: "Google Gemini 内嵌的图像生成与编辑模型，擅长对话�
 translationKey: "gemini-image"
 category: "图像生成"
 website: "https://aistudio.google.com"
-price: "Free / 按量计费"
+price: "Free / 按量付费"
 priceCurrency: "USD"
 faq:
   - q: "Nano Banana 是独立产品吗？"
@@ -12,7 +12,6 @@ faq:
   - q: "它的特点是什么？"
     a: "支持多轮对话式编辑、参考图融合，并能较好保持主体和角色一致。"
 ---
-# Nano Banana（Gemini 图像）
 
 Nano Banana 是用户对 Gemini 图像生成与编辑能力的常用昵称。它把生图放进对话流程中，可以持续修改局部、组合参考图并保持画面主体的一致性。
 

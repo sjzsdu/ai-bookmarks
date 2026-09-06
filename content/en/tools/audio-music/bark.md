@@ -12,7 +12,6 @@ faq:
   - q: "How does it compare to commercial TTS?"
     a: "Good multi-language and emotional expression, but lower quality than commercial options."
 ---
-# Bark
 
 Suno's open-source TTS model supporting multi-language speech, laughter, sighs, and other emotional expressions. Fully open-source, deployable locally.
 

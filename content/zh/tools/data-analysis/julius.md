@@ -4,7 +4,7 @@ description: "用自然语言做数据分析和可视化的工具"
 translationKey: "julius"
 category: "数据分析"
 website: "https://julius.ai"
-price: "Free / 20 USD"
+price: "Free / $20"
 priceCurrency: "USD"
 faq:
   - q: "Julius AI 需要会编程吗？"
@@ -13,7 +13,6 @@ faq:
     a: "支持 CSV、Excel、JSON、数据库连接等常见格式。"
 ---
 
-# Julius AI
 
 不会编程也能做数据分析。上传数据后，用自然语言告诉它你想分析什么，它会自动写 Python 代码并生成图表。适合需要快速分析数据但不会写代码的人。
 

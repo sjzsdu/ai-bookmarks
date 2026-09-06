@@ -4,7 +4,7 @@ description: "VS Code 开源 AI 扩展，免费且可自选模型，隐私控制
 translationKey: "cline"
 category: "编程与开发"
 website: "https://github.com/cline/cline"
-price: "Free (开源)"
+price: "Free"
 priceCurrency: "USD"
 faq:
   - q: "Cline 真的完全免费吗？"
@@ -12,7 +12,6 @@ faq:
   - q: "和 Copilot 比有什么优势？"
     a: "完全开源、可自选模型、代码不经过第三方服务器，隐私控制更强。"
 ---
-# Cline
 
 开源的 VS Code AI 扩展，你可以用自己的 API Key 调用任何模型（GPT-4、Claude、本地模型等）。代码直接在本地处理，不经过第三方服务器，隐私控制完全在自己手里。
 

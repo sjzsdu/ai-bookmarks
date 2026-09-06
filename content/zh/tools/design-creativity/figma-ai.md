@@ -4,7 +4,7 @@ description: "Figma 内置的 AI 功能，辅助 UI 设计、自动生成布局�
 translationKey: "figma-ai"
 category: "设计与创意"
 website: "https://figma.com"
-price: "Free / 15"
+price: "Free / $15"
 priceCurrency: "USD"
 faq:
   - q: "Figma AI 是独立工具吗？"
@@ -12,7 +12,6 @@ faq:
   - q: "国内能用吗？"
     a: "Figma 国内可访问（偶尔需要科学上网），AI 功能走海外服务器。"
 ---
-# Figma AI
 
 Figma 内置的 AI 功能，能自动建议布局、生成组件变体、重命名图层。是 UI 设计师的效率工具，不用离开 Figma 就能用 AI 辅助设计。
 

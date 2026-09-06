@@ -4,7 +4,7 @@ description: "全球最大的在线课程平台，和名校合作，AI课程很�
 translationKey: "coursera"
 category: "学习与教育"
 website: "https://coursera.org"
-price: "Free / 49 USD"
+price: "Free / $49"
 priceCurrency: "USD"
 faq:
   - q: "课程能免费看吗？"
@@ -12,7 +12,6 @@ faq:
   - q: "国内能用吗？"
     a: "能用，但视频加载可能需要VPN加速。"
 ---
-# Coursera
 
 全球最大的MOOC平台，和斯坦福、Google等名校名企合作，AI相关课程质量很高。
 

@@ -4,7 +4,7 @@ description: "Enterprise AI translation and localization platform"
 translationKey: "smartcat"
 category: "Translation"
 website: "https://smartcat.com"
-price: "Free / 99 USD"
+price: "Free / $99"
 priceCurrency: "USD"
 faq:
   - q: "What is Smartcat?"
@@ -13,7 +13,6 @@ faq:
     a: "Free tier works for small projects. Enterprise starts at $99/month."
 ---
 
-# Smartcat
 
 Enterprise-grade translation and localization platform that blends AI and human translation workflows. Includes translation memory, glossary management, and quality checks. Built for serious, large-scale translation projects.
 

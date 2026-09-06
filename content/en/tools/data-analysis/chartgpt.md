@@ -4,7 +4,7 @@ description: "Generate data visualizations from natural language"
 translationKey: "chartgpt"
 category: "Data Analysis"
 website: "https://chartgpt.co"
-price: "Free / 10 USD"
+price: "Free / $10"
 priceCurrency: "USD"
 faq:
   - q: "What does ChartGPT do?"
@@ -13,7 +13,6 @@ faq:
     a: "You can upload data or describe it in text."
 ---
 
-# ChartGPT
 
 Skip the Excel chart formatting hassle. Describe what data you want to show and ChartGPT automatically picks the right chart type and generates it. Great for quick visualizations when you need something presentable fast.
 

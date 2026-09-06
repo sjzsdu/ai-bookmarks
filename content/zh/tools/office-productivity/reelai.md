@@ -4,7 +4,7 @@ description: "AI 电子表格助手，用自然语言操作表格数据，不用
 translationKey: "reelai"
 category: "办公与效率"
 website: "https://reelai.com"
-price: "Free / 10"
+price: "Free / $10"
 priceCurrency: "USD"
 faq:
   - q: "Reelai 能做什么？"
@@ -12,7 +12,6 @@ faq:
   - q: "支持中文吗？"
     a: "支持中文指令，但界面主要是英文。"
 ---
-# Reelai
 
 AI 电子表格工具，用自然语言操作表格数据——说「帮我按月份统计销售额」，它自动写公式、做图表。不用记 Excel 公式，对数据处理新手很友好。
 

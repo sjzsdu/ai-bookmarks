@@ -4,7 +4,7 @@ description: "快手出品的视频生成模型，国内直连、长视频与人
 translationKey: "kling"
 category: "视频生成"
 website: "https://klingai.kuaishou.com"
-price: "Free / 按量 CNY"
+price: "Free / 按量付费"
 priceCurrency: "CNY"
 faq:
   - q: "可灵需要翻墙吗？"
@@ -12,7 +12,6 @@ faq:
   - q: "强项是什么？"
     a: "长时长、人物与运动一致性较好，中文提示词友好。"
 ---
-# 可灵（Kling）
 
 快手推出的视频生成大模型，在国内 AI 视频里口碑靠前。擅长人物动作与较长镜头，中文提示词理解好。
 

@@ -4,7 +4,7 @@ description: "轻快好玩的 AI 视频工具，适合快速做短视频素材�
 translationKey: "pika"
 category: "视频生成"
 website: "https://pika.art"
-price: "Free / 8+ USD"
+price: "Free / $8+"
 priceCurrency: "USD"
 faq:
   - q: "Pika 在国内能用吗？"
@@ -12,7 +12,6 @@ faq:
   - q: "和 Runway 比？"
     a: "更轻、更快、更易上手，适合玩梗与短视频；专业控制弱一些。"
 ---
-# Pika
 
 以"好玩、快、易上手"出圈的 AI 视频工具，适合把创意快速变成动态短片。上手门槛低，出片速度快。
 

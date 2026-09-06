@@ -12,7 +12,6 @@ faq:
   - q: "What is it strong at?"
     a: "Natural Chinese conversation, integrated with Douyin for content creation."
 ---
-# Doubao
 
 ByteDance's AI chat assistant, free and direct-access in China. Well-integrated with Douyin, Feishu, and other ByteDance products.
 

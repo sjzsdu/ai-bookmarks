@@ -13,7 +13,6 @@ faq:
     a: "Very accurate for Chinese, supports various accents and dialects."
 ---
 
-# Tongyi Tingwu
 
 Alibaba DAMO Academy's meeting analysis tool. Upload a recording and it auto-transcribes to text, generates meeting minutes, and extracts action items. Excellent Chinese transcription accuracy, completely free.
 

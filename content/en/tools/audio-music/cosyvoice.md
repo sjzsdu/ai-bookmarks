@@ -12,7 +12,6 @@ faq:
   - q: "Can it run locally?"
     a: "Yes, open-source model runs locally on GPU."
 ---
-# CosyVoice
 
 Alibaba's open-source TTS from the FunAudioLLM team — strong multi-language support with natural voice quality. Supports voice cloning and cross-lingual synthesis.
 

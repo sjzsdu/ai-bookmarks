@@ -13,7 +13,6 @@ faq:
     a: "Yes, the mobile app lets you download language packs for offline use."
 ---
 
-# Google Translate
 
 The widest coverage of any translation service. Supports 130+ languages — if you need to translate something in Burmese or Swahili, this is your only real option. Not the most accurate for major languages, but it's free and fast.
 

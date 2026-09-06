@@ -12,7 +12,6 @@ faq:
   - q: "Can developers use it in applications?"
     a: "Yes, through OpenAI's image APIs. Current models and rates are listed in the developer documentation."
 ---
-# GPT Image
 
 GPT Image is OpenAI's flagship image generation and editing capability. It follows detailed instructions, renders text inside images, and supports iterative changes through natural-language feedback.
 

@@ -4,7 +4,7 @@ description: "用手机扫描现实物体生成 3D 模型"
 translationKey: "luma-ai"
 category: "3D 与素材"
 website: "https://lumalabs.ai"
-price: "Free / 10 USD"
+price: "Free / $10"
 priceCurrency: "USD"
 faq:
   - q: "Luma AI 怎么用？"
@@ -13,7 +13,6 @@ faq:
     a: "对简单物体效果很好，复杂物体可能需要多次扫描。"
 ---
 
-# Luma AI
 
 手机扫描现实物体生成 3D 模型。用手机围绕物体拍一圈视频，Luma AI 会自动重建出高质量的 3D 模型。适合想把现实物品数字化但不会建模的人。
 

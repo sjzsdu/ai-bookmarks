@@ -4,7 +4,7 @@ description: "Quora's AI aggregator — one subscription for multiple AI models.
 translationKey: "poe"
 category: "AI Chat"
 website: "https://poe.com"
-price: "Free / 20 USD"
+price: "Free / $20"
 priceCurrency: "USD"
 faq:
   - q: "What models are available?"
@@ -12,7 +12,6 @@ faq:
   - q: "Is there a free tier?"
     a: "Limited free credits; subscription (~20 USD/month) unlocks more usage."
 ---
-# Poe
 
 Quora's AI aggregator — one platform for multiple AI models (GPT-4, Claude, Gemini, Llama, etc.). Switch between models seamlessly.
 

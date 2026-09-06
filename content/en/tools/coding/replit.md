@@ -4,7 +4,7 @@ description: "Online IDE with AI coding agent, write, run, and deploy in the bro
 translationKey: "replit"
 category: "Coding & Development"
 website: "https://replit.com"
-price: "Free / 25"
+price: "Free / $25"
 priceCurrency: "USD"
 faq:
   - q: "Can I deploy apps on Replit?"
@@ -12,7 +12,6 @@ faq:
   - q: "Does it work globally?"
     a: "Yes, accessible worldwide. Some AI features may be faster with better connectivity."
 ---
-# Replit
 
 Online IDE that bundles code editing, AI assistance, runtime, and deployment. The AI Agent automatically writes, debugs, and deploys code from descriptions. Great for rapid prototyping.
 

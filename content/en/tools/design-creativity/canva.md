@@ -4,7 +4,7 @@ description: "AI-powered design tool with massive templates, non-designers can m
 translationKey: "canva"
 category: "Design & Creativity"
 website: "https://canva.com"
-price: "Free / 13"
+price: "Free / $13"
 priceCurrency: "USD"
 faq:
   - q: "Does Canva work globally?"
@@ -12,7 +12,6 @@ faq:
   - q: "Is the free tier enough?"
     a: "Most templates and features are free. AI features and premium assets need Pro."
 ---
-# Canva
 
 The most popular online design tool with a template library that dwarfs competitors. AI features include image generation, background removal, copywriting, and video. Non-designers can create social media graphics, posters, and PPTs.
 

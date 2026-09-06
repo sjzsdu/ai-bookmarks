@@ -4,7 +4,7 @@ description: "AI music generator — one sentence to a full song with vocals and
 translationKey: "suno"
 category: "Audio & Music"
 website: "https://suno.com"
-price: "Free / 8+ USD"
+price: "Free / $8+"
 priceCurrency: "USD"
 faq:
   - q: "Can I use Suno songs commercially?"
@@ -12,7 +12,6 @@ faq:
   - q: "Is it accessible globally?"
     a: "Web app directly in most regions; subscription for more generations."
 ---
-# Suno
 
 Generate a full song (melody + vocals + arrangement) from a sentence — one of the two dominant AI music tools alongside Udio.
 

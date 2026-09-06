@@ -4,7 +4,7 @@ description: "可定制的AI搜索，支持切换模型，隐私模式可选。"
 translationKey: "you"
 category: "搜索与浏览器"
 website: "https://you.com"
-price: "Free / 15 USD"
+price: "Free / $15"
 priceCurrency: "USD"
 faq:
   - q: "和Perplexity比怎么样？"
@@ -12,7 +12,6 @@ faq:
   - q: "国内能用吗？"
     a: "需要VPN。"
 ---
-# You.com
 
 AI搜索引擎里比较注重隐私的一个，可以自己选模型，搜索历史不会被追踪。
 

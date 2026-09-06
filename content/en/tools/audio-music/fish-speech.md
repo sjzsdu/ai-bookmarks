@@ -12,7 +12,6 @@ faq:
   - q: "Is it available globally?"
     a: "Yes, accessible directly in most regions with free credits."
 ---
-# Fish Audio
 
 TTS and voice cloning platform with natural voice quality. Strong Chinese support among similar tools. Clone a voice with just a few seconds of sample audio.
 

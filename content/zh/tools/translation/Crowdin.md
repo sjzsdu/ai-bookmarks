@@ -4,7 +4,7 @@ description: "本地化项目的协作管理平台"
 translationKey: "crowdin"
 category: "翻译"
 website: "https://crowdin.com"
-price: "Free / 40 USD"
+price: "Free / $40"
 priceCurrency: "USD"
 faq:
   - q: "Crowdin 是翻译工具吗？"
@@ -13,7 +13,6 @@ faq:
     a: "免费版支持一个项目，开源项目可以免费使用企业版功能。"
 ---
 
-# Crowdin
 
 做本地化项目必备的协作平台。可以接入 GitHub、GitLab 等代码仓库，自动生成翻译任务，多人协作翻译、审核、发布。适合 App、游戏、网站的多语言本地化。
 

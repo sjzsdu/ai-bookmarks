@@ -4,7 +4,7 @@ description: "GitHub 官方的 AI 开发环境，从 issue 到 PR 全流程辅�
 translationKey: "copilot-workspace"
 category: "编程与开发"
 website: "https://github.com/features/copilot"
-price: "Free / 10"
+price: "Free / $10"
 priceCurrency: "USD"
 faq:
   - q: "Copilot Workspace 和普通 Copilot 有什么区别？"
@@ -12,7 +12,6 @@ faq:
   - q: "国内能用吗？"
     a: "需要访问 GitHub，国内可直连但订阅需要外币卡。"
 ---
-# GitHub Copilot Workspace
 
 GitHub 官方推出的 AI 开发环境，能从一个 issue 出发，自动分析代码库、制定计划、编写代码、运行测试，最终生成 PR。是目前从问题到代码最完整的 AI 工作流。
 

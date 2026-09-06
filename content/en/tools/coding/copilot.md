@@ -4,7 +4,7 @@ description: "Microsoft/OpenAI coding assistant with the largest install base, s
 translationKey: "copilot"
 category: "Coding & Development"
 website: "https://github.com/features/copilot"
-price: "Free / 10"
+price: "Free / $10"
 priceCurrency: "USD"
 faq:
   - q: "Is there a free tier?"
@@ -12,7 +12,6 @@ faq:
   - q: "Which editors does Copilot support?"
     a: "VS Code, JetBrains IDEs, Neovim, Visual Studio and more."
 ---
-# GitHub Copilot
 
 Microsoft's AI code-completion tool built on OpenAI models, deeply integrated with mainstream IDEs. The most widely installed "AI pair programmer" with top-tier completion accuracy.
 

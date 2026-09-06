@@ -4,7 +4,7 @@ description: "Figma AI 插件，自动生成图标、图片和设计建议。"
 translationKey: "magician"
 category: "设计与创意"
 website: "https://magician.design"
-price: "Free / 8"
+price: "Free / $8"
 priceCurrency: "USD"
 faq:
   - q: "Magician 需要 Figma 付费版吗？"
@@ -12,7 +12,6 @@ faq:
   - q: "生成的素材能商用吗？"
     a: "可以商用，但建议检查生成内容是否符合你的品牌需求。"
 ---
-# Magician for Figma
 
 Figma 的 AI 插件，在 Figma 里直接用 AI 生成图标、图片、文案。不用切换工具，在设计稿里就能调用 AI 辅助创作。
 

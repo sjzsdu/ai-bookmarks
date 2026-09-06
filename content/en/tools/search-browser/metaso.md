@@ -12,7 +12,6 @@ faq:
   - q: "Is it really free?"
     a: "Yes, completely free with no usage limits."
 ---
-# Metaso
 
 One of the best Chinese AI search engines — high-quality answers in Chinese, clean formatting.
 

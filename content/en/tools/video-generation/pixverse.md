@@ -4,7 +4,7 @@ description: "Fast, fun AI video generator with diverse style templates for quic
 translationKey: "pixverse"
 category: "Video Generation"
 website: "https://pixverse.ai"
-price: "Free / 8 USD"
+price: "Free / $8"
 priceCurrency: "USD"
 faq:
   - q: "How does PixVerse compare to Pika?"
@@ -12,7 +12,6 @@ faq:
   - q: "Is it accessible globally?"
     a: "Web app directly in most regions; subscription for more credits."
 ---
-# PixVerse
 
 Fast and fun AI video generation with plenty of style templates — anime, realistic, 3D — making short clips from text or images effortless.
 

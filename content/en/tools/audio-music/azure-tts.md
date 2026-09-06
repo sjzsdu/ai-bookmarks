@@ -12,7 +12,6 @@ faq:
   - q: "What scenarios fit it?"
     a: "Large-scale, low-latency, SLA-backed production voice needs."
 ---
-# Microsoft Azure TTS
 
 Microsoft's speech synthesis service: multilingual neural voices, enterprise-stable, customizable. Available in China via 21Vianet for compliance.
 

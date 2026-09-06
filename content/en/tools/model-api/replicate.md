@@ -12,7 +12,6 @@ faq:
   - q: "What models are available?"
     a: "Most popular open-source models for text, image, video, and audio."
 ---
-# Replicate
 
 Turn open-source models into APIs — no GPU buying, no environment setup.
 

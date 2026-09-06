@@ -12,7 +12,6 @@ faq:
   - q: "How does it compare to Kling?"
     a: "Similar quality; Kling is stronger on longer videos and character consistency."
 ---
-# Hailuo AI
 
 MiniMax's AI video generator — top-tier quality among Chinese tools. Text-to-video and image-to-video with natural motion and varied camera language.
 

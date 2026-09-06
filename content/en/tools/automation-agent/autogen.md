@@ -4,7 +4,7 @@ description: "Microsoft's open-source multi-agent framework for conversational A
 translationKey: "autogen"
 category: "Automation & Agent"
 website: "https://github.com/microsoft/autogen"
-price: "Free (open source)"
+price: "Free"
 priceCurrency: "USD"
 faq:
   - q: "Is it production-ready?"
@@ -12,7 +12,6 @@ faq:
   - q: "License?"
     a: "MIT — fully permissive for commercial use."
 ---
-# AutoGen
 
 Microsoft's open-source framework where multiple AI agents chat and collaborate to solve tasks.
 

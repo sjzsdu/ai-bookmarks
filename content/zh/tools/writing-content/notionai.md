@@ -4,7 +4,7 @@ description: "Notion 内置的 AI 写作助手，在笔记软件里直接用 AI 
 translationKey: "notionai"
 category: "写作与内容"
 website: "https://notion.so/product/ai"
-price: "Free / 10"
+price: "Free / $10"
 priceCurrency: "USD"
 faq:
   - q: "Notion AI 需要单独付费吗？"
@@ -12,7 +12,6 @@ faq:
   - q: "国内能用吗？"
     a: "Notion 国内可访问（有时需要科学上网），AI 功能走海外服务器。"
 ---
-# Notion AI
 
 Notion 内置的 AI 功能，不用切换工具，在笔记、文档、知识库里直接调用 AI 辅助写作、总结、翻译、整理信息。和 Notion 的数据库、模板系统结合得很好。
 

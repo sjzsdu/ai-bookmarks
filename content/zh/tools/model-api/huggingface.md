@@ -4,7 +4,7 @@ description: "最大的开源模型库，下载和部署 AI 模型都在这个�
 translationKey: "huggingface"
 category: "模型与 API"
 website: "https://huggingface.co"
-price: "Free / Pay-as-you-go"
+price: "Free / 按量付费"
 priceCurrency: "USD"
 faq:
   - q: "能直接调用模型吗？"
@@ -12,7 +12,6 @@ faq:
   - q: "国内能用吗？"
     a: "基本能用，但下载大模型可能需要VPN加速。"
 ---
-# Hugging Face
 
 AI界的GitHub，最大的开源模型库，几乎所有开源模型都能在这找到。
 

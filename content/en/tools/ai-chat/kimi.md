@@ -12,7 +12,6 @@ faq:
   - q: "Is it free?"
     a: "Yes, free with phone registration, direct access in China."
 ---
-# Kimi
 
 Moonshot AI's chat model, built around ultra-long context (200K+ characters). Ideal for processing long documents, summaries, and analysis.
 

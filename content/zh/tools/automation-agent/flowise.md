@@ -4,7 +4,7 @@ description: "可视化拖拽搭建LangChain工作流，不用写代码。"
 translationKey: "flowise"
 category: "自动化与 Agent"
 website: "https://flowiseai.com"
-price: "Free / 9 USD"
+price: "Free / $9"
 priceCurrency: "USD"
 faq:
   - q: "和LangChain什么关系？"
@@ -12,7 +12,6 @@ faq:
   - q: "能自己部署吗？"
     a: "可以，npm install就能跑，也支持Docker。"
 ---
-# Flowise
 
 LangChain的可视化版本，拖拽节点就能搭AI工作流，不用写一行代码。
 

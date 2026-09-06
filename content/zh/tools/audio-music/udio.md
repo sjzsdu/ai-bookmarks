@@ -4,7 +4,7 @@ description: "AI 音乐生成工具，音质好、风格多样，与 Suno 是当
 translationKey: "udio"
 category: "音频与音乐"
 website: "https://udio.com"
-price: "Free / 10 USD"
+price: "Free / $10"
 priceCurrency: "USD"
 faq:
   - q: "Udio 在国内能用吗？"
@@ -12,7 +12,6 @@ faq:
   - q: "和 Suno 比怎么样？"
     a: "音质和编曲细节更好，Suno 在人声自然度上略优。各有千秋。"
 ---
-# Udio
 
 当前 AI 音乐生成的两大主流之一（另一个是 Suno），音质和编曲细节被认为略优于 Suno。
 

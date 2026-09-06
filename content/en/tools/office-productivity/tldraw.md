@@ -12,7 +12,6 @@ faq:
   - q: "Do I need to install anything?"
     a: "No, it's browser-based. You can also self-host."
 ---
-# tldraw
 
 Open-source online whiteboard with AI features — draw a sketch, AI beautifies it into formal diagrams, wireframes, or generates frontend code. Free and open source, self-hostable.
 

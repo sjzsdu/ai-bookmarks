@@ -12,7 +12,6 @@ faq:
   - q: "Is there a free tier?"
     a: "New accounts get $5 in free credits that expire after 3 months."
 ---
-# OpenAI API
 
 The official API for GPT models — most widely adopted LLM API with the best documentation.
 

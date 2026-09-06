@@ -12,7 +12,6 @@ faq:
   - q: "Does it work well with Chinese prompts?"
     a: "Yes. Seedream is designed with strong support for Chinese prompts and local creative use cases."
 ---
-# Jimeng Image
 
 Jimeng Image is ByteDance's AI image creation service. Seedream models turn Chinese descriptions, reference images, and editing instructions into visual assets that can also feed into Jimeng's video workflow.
 

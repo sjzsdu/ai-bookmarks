@@ -4,7 +4,7 @@ description: "AI logo generator, describe your brand and get logo options instan
 translationKey: "looka"
 category: "Design & Creativity"
 website: "https://looka.com"
-price: "One-time from $20"
+price: "From $20"
 priceCurrency: "USD"
 faq:
   - q: "Can I use Looka logos commercially?"
@@ -12,7 +12,6 @@ faq:
   - q: "Does it work globally?"
     a: "Accessible worldwide but requires international payment."
 ---
-# Looka
 
 AI logo generator — enter your brand name and industry, pick styles you like, and AI generates dozens of logo options. Much cheaper than hiring a designer, good for early-stage companies.
 

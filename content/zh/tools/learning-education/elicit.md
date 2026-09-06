@@ -4,7 +4,7 @@ description: "AI学术研究助手，帮你搜论文、总结、做文献综述�
 translationKey: "elicit"
 category: "学习与教育"
 website: "https://elicit.com"
-price: "Free / 10 USD"
+price: "Free / $10"
 priceCurrency: "USD"
 faq:
   - q: "和Google Scholar有什么区别？"
@@ -12,7 +12,6 @@ faq:
   - q: "国内能用吗？"
     a: "需要VPN。"
 ---
-# Elicit
 
 学术研究者的AI助手，搜论文时自动帮你总结方法、结论、样本量等关键信息。
 

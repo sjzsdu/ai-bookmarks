@@ -4,7 +4,7 @@ description: "OpenAI's video model with leading quality and physics consistency.
 translationKey: "sora"
 category: "Video Generation"
 website: "https://sora.com"
-price: "Free / 20 USD"
+price: "Free / $20"
 priceCurrency: "USD"
 faq:
   - q: "What makes Sora different?"
@@ -12,7 +12,6 @@ faq:
   - q: "Is it available globally?"
     a: "Accessible in most regions; subscription required (ChatGPT Plus or Pro)."
 ---
-# Sora
 
 OpenAI's video generation model, known for fine detail and physics simulation. Lighting, materials, and motion trajectories look more realistic than most competitors.
 

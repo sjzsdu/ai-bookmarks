@@ -12,7 +12,6 @@ faq:
   - q: "Is it free?"
     a: "Model downloads are free. Inference API has a free tier, then pay-as-you-go."
 ---
-# Hugging Face
 
 The GitHub of AI — largest open-source model hub where almost every open model lives.
 

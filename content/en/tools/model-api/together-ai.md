@@ -12,7 +12,6 @@ faq:
   - q: "How fast is it?"
     a: "Optimized inference — typically faster than running on your own GPU."
 ---
-# Together AI
 
 Inference platform for open-source models — fast, cheap, and developer-friendly.
 

@@ -4,7 +4,7 @@ description: "AI paraphrasing and academic writing assistant with grammar, summa
 translationKey: "quillbot"
 category: "Writing & Content"
 website: "https://quillbot.com"
-price: "Free / 20 USD"
+price: "Free / $20"
 priceCurrency: "USD"
 faq:
   - q: "What is QuillBot best at?"
@@ -12,7 +12,6 @@ faq:
   - q: "Can I submit its output as academic work?"
     a: "Follow your institution's AI rules and independently verify facts, citations, and originality."
 ---
-# QuillBot
 
 QuillBot specializes in paraphrasing and academic writing support. It can adjust fluency, formality, and length while bringing grammar checking, summarization, and citation tools into one workflow.
 

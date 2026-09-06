@@ -4,7 +4,7 @@ description: "Kuaishou's video model; strong on long videos, character consisten
 translationKey: "kling"
 category: "Video Generation"
 website: "https://klingai.kuaishou.com"
-price: "Free / Pay-as-you-go CNY"
+price: "Free / Pay-as-you-go"
 priceCurrency: "CNY"
 faq:
   - q: "Does Kling need a VPN?"
@@ -12,7 +12,6 @@ faq:
   - q: "What is it strong at?"
     a: "Long duration, character/motion consistency, and Chinese prompt understanding."
 ---
-# Kling
 
 Kuaishou's video generation model, top-rated among Chinese AI video tools. Excels at character motion and longer shots with accurate Chinese prompt understanding.
 

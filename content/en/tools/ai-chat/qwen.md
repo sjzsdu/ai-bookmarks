@@ -12,7 +12,6 @@ faq:
   - q: "How does it compare to DeepSeek?"
     a: "Stronger multimodal (image/doc understanding); DeepSeek better at pure text reasoning."
 ---
-# Qwen
 
 Alibaba's AI chat model, free and direct-access in China. Strong multimodal capabilities — understands images and documents. Integrated with the Alibaba Cloud ecosystem.
 

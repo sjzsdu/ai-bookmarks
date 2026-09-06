@@ -4,7 +4,7 @@ description: "生数科技出品的视频生成模型，多主体与长视频表
 translationKey: "vidu"
 category: "视频生成"
 website: "https://vidu.studio"
-price: "Free / 按量 CNY"
+price: "Free / 按量付费"
 priceCurrency: "CNY"
 faq:
   - q: "Vidu 在国内能用吗？"
@@ -12,7 +12,6 @@ faq:
   - q: "强项是什么？"
     a: "多主体一致性好，长视频连贯性强，中文提示词友好。"
 ---
-# Vidu
 
 生数科技推出的 AI 视频生成模型，主打多主体一致性和长视频连贯性，在国内视频模型里属于实力派。
 

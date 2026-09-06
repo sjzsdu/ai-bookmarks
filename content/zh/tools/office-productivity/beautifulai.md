@@ -4,7 +4,7 @@ description: "AI 演示文稿工具，自动排版让 PPT 好看，设计感强�
 translationKey: "beautifulai"
 category: "办公与效率"
 website: "https://beautiful.ai"
-price: "Free / 12"
+price: "Free / $12"
 priceCurrency: "USD"
 faq:
   - q: "Beautiful.ai 和 Gamma 有什么区别？"
@@ -12,7 +12,6 @@ faq:
   - q: "中文支持好吗？"
     a: "界面支持中文，但 AI 生成内容英文为主，中文内容需要自己调整。"
 ---
-# Beautiful.ai
 
 演示文稿工具，主打「自动排版」——你只管放内容，它自动帮你排好看。设计模板质量很高，做出来的 PPT 视觉效果比大多数工具强。
 

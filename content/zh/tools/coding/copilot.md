@@ -4,7 +4,7 @@ description: "微软与 OpenAI 联合推出的编程助手，国内开发者关�
 translationKey: "copilot"
 category: "编程与开发"
 website: "https://github.com/features/copilot"
-price: "Free / 10"
+price: "Free / $10"
 priceCurrency: "USD"
 faq:
   - q: "Copilot 在国内能用吗？"
@@ -12,7 +12,6 @@ faq:
   - q: "支持哪些编辑器？"
     a: "VS Code、JetBrains 全家桶、Neovim、Visual Studio 等。"
 ---
-# GitHub Copilot
 
 微软出品的 AI 编程补全工具，基于 OpenAI 模型，深度集成主流 IDE。是目前装机量最大的「AI 结对程序员」，补全准确率在同类产品里算第一梯队。
 

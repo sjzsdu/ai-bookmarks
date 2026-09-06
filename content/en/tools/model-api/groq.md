@@ -12,7 +12,6 @@ faq:
   - q: "Is there a free tier?"
     a: "Yes, generous free tier for testing and light usage."
 ---
-# Groq
 
 Custom-chip AI inference — several times faster than GPU, with a generous free tier.
 

@@ -12,7 +12,6 @@ faq:
   - q: "What is it best suited for?"
     a: "It is especially useful for enterprise knowledge Q&A, customer support, and retrieval-enabled agents."
 ---
-# FastGPT
 
 FastGPT is an open-source AI application platform from China. It combines knowledge retrieval, chat, and workflow orchestration in a visual interface and can be self-hosted.
 

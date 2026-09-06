@@ -4,7 +4,7 @@ description: "AI marketing copy generator focused on brand content with team col
 translationKey: "jasper"
 category: "Writing & Content"
 website: "https://jasper.ai"
-price: "Free / 49"
+price: "Free / $49"
 priceCurrency: "USD"
 faq:
   - q: "Does Jasper work for Chinese content?"
@@ -12,7 +12,6 @@ faq:
   - q: "How is it different from ChatGPT for copywriting?"
     a: "Jasper has pre-built marketing templates and Brand Voice for consistent brand messaging at scale."
 ---
-# Jasper
 
 AI writing tool focused on marketing copy with dozens of pre-built templates for ads, emails, social media, and more. Brand Voice learns your company's style for consistent content.
 

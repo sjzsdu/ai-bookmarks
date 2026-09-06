@@ -4,7 +4,7 @@ description: "Open-source LLM app platform; self-hostable with RAG, agents, and 
 translationKey: "dify"
 category: "Automation & Agent"
 website: "https://dify.ai"
-price: "Free / Cloud USD"
+price: "Free / Paid plans"
 priceCurrency: "USD"
 faq:
   - q: "Can Dify be self-hosted?"
@@ -14,7 +14,6 @@ faq:
   - q: "Which models are supported?"
     a: "OpenAI, Anthropic, Tongyi, Zhipu, DeepSeek, and more."
 ---
-# Dify
 
 Open-source LLM app platform combining RAG, Agents, workflows, and model routing in a visual UI.
 

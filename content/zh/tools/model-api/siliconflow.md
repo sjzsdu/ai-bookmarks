@@ -4,7 +4,7 @@ description: "国内直连的AI推理平台，支持多种开源模型，按量�
 translationKey: "siliconflow"
 category: "模型与 API"
 website: "https://siliconflow.cn"
-price: "Free / Pay-as-you-go CNY"
+price: "Free / 按量付费"
 priceCurrency: "CNY"
 faq:
   - q: "需要翻墙吗？"
@@ -12,7 +12,6 @@ faq:
   - q: "支持哪些模型？"
     a: "LLaMA、Mistral、通义、智谱等主流模型都有。"
 ---
-# 硅基流动
 
 国内做得比较好的AI推理平台，开源模型调用方便，按量人民币付费。
 

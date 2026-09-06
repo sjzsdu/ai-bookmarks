@@ -4,7 +4,7 @@ description: "翻译质量天花板，特别适合欧洲语言对之间的互译
 translationKey: "deepl"
 category: "翻译"
 website: "https://deepl.com"
-price: "Free / 9 USD"
+price: "Free / $9"
 priceCurrency: "USD"
 faq:
   - q: "DeepL 在国内能用吗？"
@@ -13,7 +13,6 @@ faq:
     a: "欧洲语言翻译质量明显更好，但中文翻译两者差距不大。"
 ---
 
-# DeepL Translator
 
 翻译圈的口碑之选。DeepL 由德国团队开发，用神经网络做翻译，欧洲语言（英德法西）的翻译质量确实比 Google Translate 自然一档。免费版每月 50 万字符，够日常使用。
 

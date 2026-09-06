@@ -4,7 +4,7 @@ description: "AI 图片工具集，抠图、清理、放大、生成全都能做
 translationKey: "clipdrop"
 category: "设计与创意"
 website: "https://clipdrop.co"
-price: "Free / 9"
+price: "Free / $9"
 priceCurrency: "USD"
 faq:
   - q: "Clipdrop 有哪些功能？"
@@ -12,7 +12,6 @@ faq:
   - q: "国内能用吗？"
     a: "可以访问，部分功能免费，高级功能需要订阅。"
 ---
-# Clipdrop
 
 AI 图片工具集合，常见图片处理需求都能在这里解决——抠图、清理杂物、放大图片、AI 生成、移除文字等。每个功能都做得比较专注，效果稳定。
 

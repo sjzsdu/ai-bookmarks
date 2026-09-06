@@ -12,7 +12,6 @@ faq:
   - q: "Who is the service primarily designed for?"
     a: "Jimeng primarily serves creators in China through its web and client products."
 ---
-# Jimeng (Seedance)
 
 Jimeng is ByteDance's AI creation platform. Its video workflow uses Seedance models and connects with Seedream image generation, making it easy to turn visual concepts into motion content.
 

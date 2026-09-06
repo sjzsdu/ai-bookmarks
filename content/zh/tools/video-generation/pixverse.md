@@ -4,7 +4,7 @@ description: "AI 视频生成工具，上手快、风格多样，适合短视频
 translationKey: "pixverse"
 category: "视频生成"
 website: "https://pixverse.ai"
-price: "Free / 8 USD"
+price: "Free / $8"
 priceCurrency: "USD"
 faq:
   - q: "PixVerse 在国内能用吗？"
@@ -12,7 +12,6 @@ faq:
   - q: "和 Pika 比怎么样？"
     a: "风格更多样，上手也快；Pika 在局部动画上更灵活。"
 ---
-# PixVerse
 
 主打"快、好玩"的 AI 视频生成工具，风格模板多，从文字或图片生成短视频很顺手。
 

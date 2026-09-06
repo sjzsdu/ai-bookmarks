@@ -12,7 +12,6 @@ faq:
   - q: "How do beginners start?"
     a: "Use ComfyUI or a ready-made pack to lower the learning curve."
 ---
-# Stable Diffusion
 
 Fully open-source text-to-image family (SD1.5, SDXL, community fine-tunes). Biggest advantage: local deployment, no data leaves your machine, no subscription fees.
 

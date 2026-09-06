@@ -4,7 +4,7 @@ description: "支持 100+ 语言的翻译 API 服务"
 translationKey: "lingvanex"
 category: "翻译"
 website: "https://lingvanex.com"
-price: "Free / 10 USD"
+price: "Free / $10"
 priceCurrency: "USD"
 faq:
   - q: "Lingvanex 有中文版吗？"
@@ -13,7 +13,6 @@ faq:
     a: "价格更便宜，但文档和生态没有 Google 好。"
 ---
 
-# Lingvanex
 
 小众但功能全面的翻译 API 服务。支持 100+ 语言，有云端和本地部署两种方式。适合需要批量翻译、不想依赖大厂 API 的开发者。
 

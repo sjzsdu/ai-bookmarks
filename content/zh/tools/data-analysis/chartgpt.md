@@ -4,7 +4,7 @@ description: "用自然语言生成数据可视化图表"
 translationKey: "chartgpt"
 category: "数据分析"
 website: "https://chartgpt.co"
-price: "Free / 10 USD"
+price: "Free / $10"
 priceCurrency: "USD"
 faq:
   - q: "ChartGPT 能做什么？"
@@ -13,7 +13,6 @@ faq:
     a: "可以上传数据，也可以直接用文字描述数据。"
 ---
 
-# ChartGPT
 
 不想折腾 Excel 图表？ChartGPT 让你用文字描述就能生成漂亮的图表。描述你想展示什么数据，它会自动选择合适的图表类型并生成。适合需要快速做图的场景。
 

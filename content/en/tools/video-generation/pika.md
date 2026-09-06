@@ -4,7 +4,7 @@ description: "Lightweight, fun AI video tool for quick short-form content."
 translationKey: "pika"
 category: "Video Generation"
 website: "https://pika.art"
-price: "Free / 8+ USD"
+price: "Free / $8+"
 priceCurrency: "USD"
 faq:
   - q: "How does Pika compare to Runway?"
@@ -12,7 +12,6 @@ faq:
   - q: "Is it accessible globally?"
     a: "Web app directly in most regions; subscription for more credits."
 ---
-# Pika
 
 Went viral for being fun, fast, and easy — turning ideas into short clips quickly. Low barrier to entry, fast output.
 

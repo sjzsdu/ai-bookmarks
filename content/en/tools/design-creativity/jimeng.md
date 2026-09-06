@@ -12,7 +12,6 @@ faq:
   - q: "How is it different from Jimeng Image?"
     a: "The underlying capabilities overlap; this page focuses on commercial design and broader creative workflows."
 ---
-# Jimeng Design
 
 Jimeng Design applies Seedream image models to commercial creative workflows. Designers can start from Chinese prompts or references, explore visual directions, and refine usable assets through editing and style controls.
 

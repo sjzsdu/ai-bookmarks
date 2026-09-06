@@ -4,7 +4,7 @@ description: "GitHub's official AI dev environment, full workflow from issue to 
 translationKey: "copilot-workspace"
 category: "Coding & Development"
 website: "https://github.com/features/copilot"
-price: "Free / 10"
+price: "Free / $10"
 priceCurrency: "USD"
 faq:
   - q: "How is Copilot Workspace different from regular Copilot?"
@@ -12,7 +12,6 @@ faq:
   - q: "Is there a free tier?"
     a: "Included with Copilot subscription, which has free tiers for students and OSS contributors."
 ---
-# GitHub Copilot Workspace
 
 GitHub's official AI development environment. Starts from an issue, analyzes your codebase, creates a plan, writes code, runs tests, and generates a PR. The most complete AI workflow from problem to code.
 

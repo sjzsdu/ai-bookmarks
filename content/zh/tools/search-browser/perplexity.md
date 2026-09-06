@@ -4,7 +4,7 @@ description: "AI搜索引擎，直接给答案而不是链接列表，每个回�
 translationKey: "perplexity"
 category: "搜索与浏览器"
 website: "https://perplexity.ai"
-price: "Free / 20 USD"
+price: "Free / $20"
 priceCurrency: "USD"
 faq:
   - q: "国内能用吗？"
@@ -12,7 +12,6 @@ faq:
   - q: "免费版够用吗？"
     a: "日常搜索够用，Pro版每天5次Pro搜索，用完会降级到基础模式。"
 ---
-# Perplexity AI
 
 搜索界面上最像"问真人"的AI搜索工具，你问一个问题，它直接给答案并标注来源。
 

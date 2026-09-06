@@ -13,7 +13,6 @@ faq:
     a: "For Chinese-English translation, it's competitive. For other language pairs, Google is better."
 ---
 
-# Sogou Translate
 
 Sogou's free translation service, extremely popular in China. Supports major language pairs including Chinese-English, Japanese, and Korean. Not well known internationally, but solid for Chinese-centric translation needs.
 

@@ -4,7 +4,7 @@ description: "MiniMax 出品的视频生成工具，国内直连，视频质量�
 translationKey: "hailuo"
 category: "视频生成"
 website: "https://hailuoai.video"
-price: "Free / 按量"
+price: "Free / 按量付费"
 priceCurrency: "USD"
 faq:
   - q: "Hailuo 在国内能用吗？"
@@ -12,7 +12,6 @@ faq:
   - q: "和可灵比怎么样？"
     a: "视频质量接近，运动自然度好；可灵在长视频和人物一致性上更稳。"
 ---
-# Hailuo AI
 
 MiniMax 推出的 AI 视频生成工具，生成质量在国内属于第一梯队。支持文生视频和图生视频，动作自然度不错。
 

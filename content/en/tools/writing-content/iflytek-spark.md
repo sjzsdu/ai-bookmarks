@@ -12,7 +12,6 @@ faq:
   - q: "How is the Chinese writing quality?"
     a: "Among the best domestic models for Chinese understanding and generation."
 ---
-# iFlytek Spark
 
 iFlytek's AI platform with strong writing capabilities. Chinese understanding and generation quality is top-tier among domestic models, with generous free quotas and direct access without VPN.
 

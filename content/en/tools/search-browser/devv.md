@@ -4,7 +4,7 @@ description: "AI search engine built for developers — faster than Google for t
 translationKey: "devv"
 category: "Search & Browser"
 website: "https://devv.ai"
-price: "Free / 20 USD"
+price: "Free / $20"
 priceCurrency: "USD"
 faq:
   - q: "How does it compare to Phind?"
@@ -12,7 +12,6 @@ faq:
   - q: "Can I filter by tech stack?"
     a: "Yes, you can specify your preferred technologies to narrow results."
 ---
-# Devv
 
 Developer-focused AI search that finds code answers faster than traditional search.
 

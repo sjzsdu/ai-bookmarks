@@ -12,7 +12,6 @@ faq:
   - q: "Does it work with familiar SDK patterns?"
     a: "It offers APIs similar to common model services, but developers should verify current model parameters before migrating."
 ---
-# Moonshot AI
 
 Moonshot's developer platform powers the Kimi assistant and exposes models for chat, long-document processing, and reasoning. It is a practical option for building Chinese-language AI applications.
 

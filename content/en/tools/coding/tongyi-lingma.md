@@ -4,7 +4,7 @@ description: "Alibaba's coding assistant, best Chinese support, free for individ
 translationKey: "tongyi-lingma"
 category: "Coding & Development"
 website: "https://tongyi.aliyun.com/lingma"
-price: "Free / Enterprise"
+price: "Free / Custom pricing"
 priceCurrency: "CNY"
 faq:
   - q: "Does Tongyi Lingma need a VPN?"
@@ -12,7 +12,6 @@ faq:
   - q: "Can it be self-hosted?"
     a: "Enterprise editions support private deployment and proprietary model connections."
 ---
-# Tongyi Lingma
 
 Alibaba's intelligent coding assistant, tuned for Chinese development habits. One of the best at understanding Chinese comments, requirements, and documentation among domestic coding AIs.
 

@@ -4,7 +4,7 @@ description: "Established automation platform with AI features, connects 5000+ a
 translationKey: "zapier-ai"
 category: "Automation & Agent"
 website: "https://zapier.com"
-price: "Free / 20 USD"
+price: "Free / $20"
 priceCurrency: "USD"
 faq:
   - q: "What are the AI features?"
@@ -12,7 +12,6 @@ faq:
   - q: "Is there a free tier?"
     a: "Yes, 100 tasks per month on the free plan."
 ---
-# Zapier AI
 
 The automation OG that added AI — connect your SaaS stack and let GPT handle the data in between.
 

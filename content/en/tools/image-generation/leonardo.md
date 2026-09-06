@@ -4,7 +4,7 @@ description: "AI art platform with model fine-tuning and style consistency for b
 translationKey: "leonardo"
 category: "Image Generation"
 website: "https://leonardo.ai"
-price: "Free / 12 USD"
+price: "Free / $12"
 priceCurrency: "USD"
 faq:
   - q: "Can I train my own model?"
@@ -12,7 +12,6 @@ faq:
   - q: "How does it compare to Midjourney?"
     a: "Stronger on customization and batch workflows; slightly lower raw image quality."
 ---
-# Leonardo.ai
 
 Full-featured AI art platform with model training (LoRA fine-tuning), a model marketplace, and asset management — built for teams needing consistent, batch-generated visuals.
 

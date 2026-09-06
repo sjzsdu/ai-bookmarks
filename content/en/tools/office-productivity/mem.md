@@ -4,7 +4,7 @@ description: "AI note-taking that auto-organizes and connects your notes, so you
 translationKey: "mem"
 category: "Office & Productivity"
 website: "https://mem.ai"
-price: "Free / 15"
+price: "Free / $15"
 priceCurrency: "USD"
 faq:
   - q: "How is Mem different from Notion?"
@@ -12,7 +12,6 @@ faq:
   - q: "Does it support Chinese?"
     a: "Primarily English-focused with limited Chinese support."
 ---
-# Mem
 
 AI note-taking tool that auto-tags, links, and summarizes your notes without manual organization. Find information by asking natural language questions instead of browsing folders.
 

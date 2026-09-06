@@ -12,7 +12,6 @@ faq:
   - q: "How is the course quality?"
     a: "Jeremy Howard's courses are highly regarded in the ML community."
 ---
-# fast.ai
 
 Jeremy Howard's free deep learning course — practical-first, you'll train models from lesson one.
 

@@ -4,7 +4,7 @@ description: "OpenAI 出品的视频生成模型，画质与物理一致性领�
 translationKey: "sora"
 category: "视频生成"
 website: "https://sora.com"
-price: "Free / 20 USD"
+price: "Free / $20"
 priceCurrency: "USD"
 faq:
   - q: "Sora 在国内能用吗？"
@@ -12,7 +12,6 @@ faq:
   - q: "视频质量如何？"
     a: "画质和物理一致性目前领先，但生成速度较慢，时长有限制。"
 ---
-# Sora
 
 OpenAI 推出的视频生成模型，以画质精细和物理世界模拟见长。生成的视频在光影、材质、运动轨迹上比多数竞品更真实。
 

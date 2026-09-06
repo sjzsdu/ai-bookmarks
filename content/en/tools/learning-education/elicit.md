@@ -4,7 +4,7 @@ description: "AI research assistant that summarizes papers, extracts findings, a
 translationKey: "elicit"
 category: "Learning & Education"
 website: "https://elicit.com"
-price: "Free / 10 USD"
+price: "Free / $10"
 priceCurrency: "USD"
 faq:
   - q: "How is it different from Google Scholar?"
@@ -12,7 +12,6 @@ faq:
   - q: "Can it do full literature reviews?"
     a: "It can synthesize findings across papers, but you still need to review and edit."
 ---
-# Elicit
 
 AI research assistant that does the tedious part of literature review — extract, compare, and summarize.
 

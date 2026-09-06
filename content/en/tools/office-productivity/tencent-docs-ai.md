@@ -12,7 +12,6 @@ faq:
   - q: "Does it need a VPN?"
     a: "No, direct access in China. Login with WeChat/QQ."
 ---
-# Tencent Docs AI
 
 AI features built into Tencent Docs — use AI in documents, spreadsheets, and presentations. Good Chinese support, direct access without VPN, WeChat/QQ login for minimal friction.
 

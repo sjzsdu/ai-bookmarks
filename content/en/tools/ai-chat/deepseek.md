@@ -12,7 +12,6 @@ faq:
   - q: "How does it compare to ChatGPT?"
     a: "Comparable Chinese ability, free to use; slightly behind on complex reasoning and English ecosystem."
 ---
-# DeepSeek
 
 DeepSeek's AI chat model, known for being free and capable. Strong Chinese, supports deep thinking mode, top-tier reasoning among Chinese models.
 

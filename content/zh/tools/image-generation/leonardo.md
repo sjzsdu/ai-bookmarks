@@ -4,7 +4,7 @@ description: "AI 艺术创作平台，支持模型微调与风格定制，适合
 translationKey: "leonardo"
 category: "图像生成"
 website: "https://leonardo.ai"
-price: "Free / 12 USD"
+price: "Free / $12"
 priceCurrency: "USD"
 faq:
   - q: "Leonardo.ai 在国内能用吗？"
@@ -12,7 +12,6 @@ faq:
   - q: "和 Midjourney 比如何？"
     a: "自定义模型与批量生成更强，出图质感略逊但可控性更好。"
 ---
-# Leonardo.ai
 
 综合性 AI 艺术平台，除了文生图还提供自己的模型训练（微调 LoRA）和素材库管理，适合需要批量、风格一致出图的团队。
 

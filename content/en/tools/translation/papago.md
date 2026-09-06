@@ -13,7 +13,6 @@ faq:
     a: "Yes, it supports English, Japanese, Chinese, and Korean translations."
 ---
 
-# Naver Papago
 
 Built by Naver (Korea's biggest search engine), Papago crushes Korean translation in a way no competitor matches. Supports English, Japanese, Chinese, and Korean. If you deal with Korean content regularly, this is the tool to use.
 

@@ -4,7 +4,7 @@ description: "OpenAI 旗舰图像生成与编辑模型，支持文字渲染和�
 translationKey: "gpt-image"
 category: "图像生成"
 website: "https://openai.com"
-price: "Free / 按量计费"
+price: "Free / 按量付费"
 priceCurrency: "USD"
 faq:
   - q: "GPT Image 和 DALL·E 有什么关系？"
@@ -12,7 +12,6 @@ faq:
   - q: "可以在应用中调用吗？"
     a: "可以通过 OpenAI 的图像 API 接入，具体模型和价格以开发者文档为准。"
 ---
-# GPT Image
 
 GPT Image 是 OpenAI 的旗舰图像生成与编辑能力，可理解复杂指令、在画面中渲染文字，并在对话中根据反馈持续修改图片。
 

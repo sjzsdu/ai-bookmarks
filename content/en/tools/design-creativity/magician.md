@@ -4,7 +4,7 @@ description: "Figma AI plugin for generating icons, images, and design suggestio
 translationKey: "magician"
 category: "Design & Creativity"
 website: "https://magician.design"
-price: "Free / 8"
+price: "Free / $8"
 priceCurrency: "USD"
 faq:
   - q: "Does Magician require paid Figma?"
@@ -12,7 +12,6 @@ faq:
   - q: "Can I use generated assets commercially?"
     a: "Yes, but review generated content for brand fit."
 ---
-# Magician for Figma
 
 Figma plugin that uses AI to generate icons, images, and copy directly in your design files. No context switching — call AI right in your design workflow.
 

@@ -12,7 +12,6 @@ faq:
   - q: "What makes it useful?"
     a: "It supports multi-turn editing, reference-image composition, and strong subject consistency."
 ---
-# Nano Banana (Gemini Image)
 
 Nano Banana is the popular nickname for Gemini's image generation and editing capabilities. It places image creation inside a conversation, supporting iterative edits, reference composition, and consistent subjects.
 

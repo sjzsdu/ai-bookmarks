@@ -12,7 +12,6 @@ faq:
   - q: "Is it Chromium-based?"
     a: "Yes, it's built on Chromium so extensions still work."
 ---
-# Stoqa
 
 Browser with AI baked in — summarize pages, search, and translate without installing anything.
 

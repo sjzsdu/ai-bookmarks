@@ -12,7 +12,6 @@ faq:
   - q: "Can it be used commercially?"
     a: "Open-source license allows commercial use; check the repository for specific terms."
 ---
-# ChatTTS
 
 Open-source TTS model with outstanding Chinese naturalness among similar projects. Fine-grained prosody control with a conversational feel.
 

@@ -4,7 +4,7 @@ description: "AI 音乐生成工具，一句话生成完整歌曲，降低音乐
 translationKey: "suno"
 category: "音频与音乐"
 website: "https://suno.com"
-price: "Free / 8+ USD"
+price: "Free / $8+"
 priceCurrency: "USD"
 faq:
   - q: "Suno 在国内能用吗？"
@@ -12,7 +12,6 @@ faq:
   - q: "生成的歌能商用吗？"
     a: "付费档通常含商用授权，但具体条款需看订阅等级。"
 ---
-# Suno
 
 用一句话生成完整歌曲（旋律+人声+编曲）的 AI 音乐工具，是当前 AI 音乐生成的标杆之一。
 

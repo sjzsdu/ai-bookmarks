@@ -12,7 +12,6 @@ faq:
   - q: "Can non-Chinese speakers use it?"
     a: "It's primarily designed for Chinese language queries."
 ---
-# TianGong AI Search
 
 Free AI search by Kunlun Tech — smooth Chinese search experience with no usage limits.
 

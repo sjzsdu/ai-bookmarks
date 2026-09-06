@@ -4,7 +4,7 @@ description: "xAI 出品的 AI 对话模型，实时信息获取能力强，风�
 translationKey: "grok"
 category: "AI 对话"
 website: "https://grok.x.ai"
-price: "Free / 16 USD"
+price: "Free / $16"
 priceCurrency: "USD"
 faq:
   - q: "Grok 在国内能用吗？"
@@ -12,7 +12,6 @@ faq:
   - q: "和 ChatGPT 比？"
     a: "实时信息获取强（整合 X/Twitter 数据），风格更直接；功能生态弱一些。"
 ---
-# Grok
 
 xAI 出品的 AI 对话模型，与 X/Twitter 平台深度整合，实时信息获取能力强。回答风格直接，有时带点幽默。
 

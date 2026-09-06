@@ -4,7 +4,7 @@ description: "面向业务团队的无代码预测分析平台，可用自然语
 translationKey: "akkio"
 category: "数据分析"
 website: "https://www.akkio.com"
-price: "Free trial / Custom"
+price: "定制价格"
 priceCurrency: "USD"
 faq:
   - q: "Akkio 需要机器学习经验吗？"
@@ -12,7 +12,6 @@ faq:
   - q: "适合什么数据？"
     a: "适合营销、销售和运营等场景的表格型业务数据。"
 ---
-# Akkio
 
 Akkio 是面向业务用户的无代码 AI 数据平台。团队可以上传或连接数据，用自然语言探索指标、建立预测模型，并把结果整理为可分享的报告。
 

@@ -4,7 +4,7 @@ description: "AI 英文写作工具，语法检查、风格建议、改写润色
 translationKey: "grammarly"
 category: "写作与内容"
 website: "https://grammarly.com"
-price: "Free / 12"
+price: "Free / $12"
 priceCurrency: "USD"
 faq:
   - q: "Grammarly 支持中文吗？"
@@ -12,7 +12,6 @@ faq:
   - q: "免费版够用吗？"
     a: "基础语法和拼写检查免费版够用，高级风格建议和改写需要付费。"
 ---
-# Grammarly
 
 英文写作必备的 AI 工具，语法、拼写、标点检查是基本功，高级版还能建议句式优化、语气调整、避免重复用词。浏览器插件、桌面应用、手机键盘都有。
 

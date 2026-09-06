@@ -4,7 +4,7 @@ description: "超快的AI推理服务，用定制芯片实现极速响应。"
 translationKey: "groq"
 category: "模型与 API"
 website: "https://groq.com"
-price: "Free / Pay-as-you-go"
+price: "Free / 按量付费"
 priceCurrency: "USD"
 faq:
   - q: "为什么这么快？"
@@ -12,7 +12,6 @@ faq:
   - q: "国内能用吗？"
     a: "需要VPN。"
 ---
-# Groq
 
 用定制芯片跑AI模型，速度是普通GPU的几倍，免费额度也很慷慨。
 

@@ -4,7 +4,7 @@ description: "AI-powered language learning app with gamified design that makes d
 translationKey: "duolingo"
 category: "Learning & Education"
 website: "https://duolingo.com"
-price: "Free / 7 USD"
+price: "Free / $7"
 priceCurrency: "USD"
 faq:
   - q: "Is the free tier enough?"
@@ -12,7 +12,6 @@ faq:
   - q: "How many languages?"
     a: "40+ languages including Spanish, French, Japanese, Korean, and more."
 ---
-# Duolingo
 
 The most popular language learning app — gamified AI that makes daily practice stick.
 

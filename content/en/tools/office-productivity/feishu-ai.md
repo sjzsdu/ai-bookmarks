@@ -12,7 +12,6 @@ faq:
   - q: "How does it compare to Notion AI?"
     a: "Feishu AI has better direct access in China and stronger collaboration; Notion has richer ecosystem and templates."
 ---
-# Feishu AI
 
 ByteDance's Feishu (Lark) with built-in AI — use AI in docs, spreadsheets, meetings, and messages. Direct access in China without VPN, deeply integrated with Feishu's office collaboration.
 

@@ -4,7 +4,7 @@ description: "China-based AI inference platform; direct access, supports open-so
 translationKey: "siliconflow"
 category: "Model & API Platforms"
 website: "https://siliconflow.cn"
-price: "Free / Pay-as-you-go CNY"
+price: "Free / Pay-as-you-go"
 priceCurrency: "CNY"
 faq:
   - q: "Can non-Chinese users access it?"
@@ -12,7 +12,6 @@ faq:
   - q: "Which models are supported?"
     a: "LLaMA, Mistral, Tongyi, Zhipu, and other popular models."
 ---
-# SiliconFlow
 
 China-based inference platform — easy access to open-source models with CNY billing.
 

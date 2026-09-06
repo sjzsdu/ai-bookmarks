@@ -4,7 +4,7 @@ description: "AI coding assistant focused on deep codebase understanding for ent
 translationKey: "augment"
 category: "Coding & Development"
 website: "https://augmentcode.com"
-price: "Free / 30"
+price: "Free / $30"
 priceCurrency: "USD"
 faq:
   - q: "How is Augment different from Copilot?"
@@ -12,7 +12,6 @@ faq:
   - q: "Is there a free tier?"
     a: "Yes, with limited usage. Pro at $30/month for full access."
 ---
-# Augment Code
 
 AI coding assistant that claims to understand your entire project's architecture and dependencies, not just the current file. Interesting positioning for developers maintaining large legacy codebases.
 

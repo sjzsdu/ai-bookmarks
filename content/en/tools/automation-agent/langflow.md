@@ -4,7 +4,7 @@ description: "Visual drag-and-drop platform for building LLM applications, agent
 translationKey: "langflow"
 category: "Automation & Agent"
 website: "https://www.langflow.org"
-price: "Free / Cloud"
+price: "Free / Paid plans"
 priceCurrency: "USD"
 faq:
   - q: "Does Langflow require coding?"
@@ -12,7 +12,6 @@ faq:
   - q: "Can it be self-hosted?"
     a: "Yes. Langflow is open source and also offers hosted services."
 ---
-# Langflow
 
 Langflow represents LLM application logic as connected visual nodes. Developers can inspect how models, prompts, retrievers, memory, and tools exchange data while rapidly testing agent or RAG prototypes.
 

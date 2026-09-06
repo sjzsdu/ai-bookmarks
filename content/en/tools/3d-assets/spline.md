@@ -4,7 +4,7 @@ description: "3D design tool that runs in your browser"
 translationKey: "spline"
 category: "3D & Assets"
 website: "https://spline.design"
-price: "Free / 7 USD"
+price: "Free / $7"
 priceCurrency: "USD"
 faq:
   - q: "Do I need to install software?"
@@ -13,7 +13,6 @@ faq:
     a: "Web 3D elements, product showcases, simple animations."
 ---
 
-# Spline
 
 3D design tool that runs right in your browser — no installation needed. Great for web 3D elements, product showcases, and simple animations. AI-assisted features help you generate 3D scenes quickly. Much lower learning curve than Blender.
 

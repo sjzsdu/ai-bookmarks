@@ -12,7 +12,6 @@ faq:
   - q: "How does it compare to Stable Diffusion?"
     a: "Noticeably better quality and prompt adherence, but larger models need more VRAM."
 ---
-# Flux
 
 Open-source text-to-image from Black Forest Labs (FLUX.1 family) — among the best quality you can get from open weights, with excellent prompt following.
 

@@ -12,7 +12,6 @@ faq:
   - q: "Does it cite the source document?"
     a: "Yes. ChatDOC links answers to relevant passages so users can verify them."
 ---
-# ChatDOC
 
 ChatDOC is an AI assistant for document reading. Upload a PDF or office file to ask questions, extract tables, summarize sections, and jump back to cited passages for verification.
 

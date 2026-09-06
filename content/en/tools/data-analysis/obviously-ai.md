@@ -4,7 +4,7 @@ description: "No-code machine learning predictions platform"
 translationKey: "obviously-ai"
 category: "Data Analysis"
 website: "https://obviously.ai"
-price: "Free / 75 USD"
+price: "Free / $75"
 priceCurrency: "USD"
 faq:
   - q: "What can Obviously AI do?"
@@ -13,7 +13,6 @@ faq:
     a: "No. The interface is designed for business users with zero ML experience."
 ---
 
-# Obviously AI
 
 Want ML predictions without writing code? Upload data, select your target variable, and Obviously AI automatically picks the right model and trains it. Great for business users who want to validate data hypotheses quickly.
 

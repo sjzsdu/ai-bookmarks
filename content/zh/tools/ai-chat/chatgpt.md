@@ -4,7 +4,7 @@ description: "OpenAI 出品的对话式 AI，全球认知度最高的 AI 入口�
 translationKey: "chatgpt"
 category: "AI 对话"
 website: "https://chat.openai.com"
-price: "Free / 20 USD"
+price: "Free / $20"
 priceCurrency: "USD"
 faq:
   - q: "ChatGPT 在国内能直接访问吗？"
@@ -12,7 +12,6 @@ faq:
   - q: "国内怎么订阅 Plus？"
     a: "需要境外信用卡或虚拟卡，支付宝微信不能直接支付。"
 ---
-# ChatGPT
 
 OpenAI 发布的对话式大模型，全球认知度最高的 AI 入口。擅长写作、编程、翻译与头脑风暴，功能生态最完整。
 

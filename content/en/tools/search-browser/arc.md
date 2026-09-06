@@ -12,7 +12,6 @@ faq:
   - q: "Can I import my Chrome data?"
     a: "Yes, one-click import of bookmarks, history, and extensions."
 ---
-# Arc Browser
 
 A browser that reinvented tabs, bookmarks, and search — with AI built into the command bar.
 

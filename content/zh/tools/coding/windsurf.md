@@ -4,7 +4,7 @@ description: "Codeium 出品的 AI IDE，编辑器内置 AI 对话和代码生�
 translationKey: "windsurf"
 category: "编程与开发"
 website: "https://codeium.com/windsurf"
-price: "Free / 15"
+price: "Free / $15"
 priceCurrency: "USD"
 faq:
   - q: "Windsurf 国内能用吗？"
@@ -12,7 +12,6 @@ faq:
   - q: "和 Cursor 有什么区别？"
     a: "Windsurf 定位更轻量，免费额度更高，适合预算有限但想体验 AI IDE 的人。"
 ---
-# Windsurf
 
 Codeium 推出的 AI IDE，基于 VS Code 架构，把 AI 对话、代码补全、多文件编辑揉进一个编辑器里。免费版给的 token 额度比同类产品多不少。
 

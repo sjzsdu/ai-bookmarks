@@ -12,7 +12,6 @@ faq:
   - q: "Does it work globally?"
     a: "Yes, accessible worldwide. Chinese language support is particularly good."
 ---
-# Trae
 
 ByteDance's AI IDE, built on VS Code with completely free AI features. Well-optimized for Chinese developers with good support for Chinese comments, requirements, and documentation.
 
