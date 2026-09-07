@@ -5,6 +5,28 @@ translationKey: "chatgpt"
 category: "AI Chat"
 website: "https://chat.openai.com"
 price: "Free / $20"
+priceCurrency: "USD"
+logo: ""
+access: "需代理"
+platforms: ["Web", "iOS", "Android", "API"]
+highlights:
+  - "The world's most recognized entry point to AI"
+  - "GPT-4o multimodality across images, voice, and video understanding"
+  - "A Custom GPTs ecosystem with over a million tailored assistants"
+  - "Web search, code execution, and data analysis in one place"
+usecases:
+  - title: "Everyday questions and writing"
+    desc: "Draft emails, reports, and creative copy from a single instruction"
+  - title: "Programming assistance"
+    desc: "Generate, debug, and refactor code across Python, JavaScript, Go, and more"
+  - title: "Data analysis"
+    desc: "Upload CSV or Excel files to create charts and findings through conversation"
+forwho:
+  - "Students, operators, developers, and researchers"
+  - "Anyone who needs to produce writing, code, or analysis quickly"
+notforwho:
+  - "Users in China without reliable proxy access"
+  - "Enterprise scenarios with strict data-privacy requirements"
 faq:
   - q: "Is ChatGPT free?"
     a: "Yes, a free tier exists; Plus costs ~20 USD/month for higher limits and GPT-4o."

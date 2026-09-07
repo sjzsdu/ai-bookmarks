@@ -5,6 +5,24 @@ translationKey: "midjourney"
 category: "图像生成"
 website: "https://www.midjourney.com"
 price: "$10 起"
+priceCurrency: "USD"
+access: "需代理"
+platforms: ["Web", "Discord"]
+highlights:
+  - "业界公认审美天花板"
+  - "V6.1 照片级真实感"
+  - "丰富的风格参数和社区灵感"
+usecases:
+  - title: "品牌视觉设计"
+    desc: "Logo、海报、产品图的高质量生成"
+  - title: "概念艺术与插画"
+    desc: "游戏、影视、出版行业的视觉概念"
+forwho:
+  - "设计师和创意工作者"
+  - "需要高质量视觉素材的团队"
+notforwho:
+  - "需要精确控制文字渲染的场景"
+  - "对价格敏感的轻度用户"
 faq:
   - q: "Midjourney 在国内怎么用？"
     a: "通过 Discord 或官网，需代理；订阅走境外支付。"

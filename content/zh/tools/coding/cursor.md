@@ -5,6 +5,25 @@ translationKey: "cursor"
 category: "编程与开发"
 website: "https://cursor.com"
 price: "Free / $20"
+priceCurrency: "USD"
+access: "直连"
+platforms: ["macOS", "Windows", "Linux"]
+highlights:
+  - "Composer：多文件同时编辑和重构"
+  - "AI Chat 引用整个代码库上下文"
+  - "代码库语义搜索，自然语言找代码"
+  - "一键应用 AI 生成的改动"
+usecases:
+  - title: "大型代码库重构"
+    desc: "跨文件改动，AI 理解项目上下文"
+  - title: "代码审查与 Bug 修复"
+    desc: "描述问题，AI 定位并修复"
+forwho:
+  - "中高级开发者"
+  - "需要频繁重构代码库的团队"
+notforwho:
+  - "完全不会编程的初学者"
+  - "对 IDE 有强烈偏好的 Vim/Emacs 用户"
 faq:
   - q: "Cursor 在国内能用吗？"
     a: "可直连，但模型调用走境外服务，订阅需虚拟卡或境外信用卡。"

@@ -5,6 +5,24 @@ translationKey: "deepseek"
 category: "AI 对话"
 website: "https://chat.deepseek.com"
 price: "Free"
+priceCurrency: "CNY"
+access: "直连"
+platforms: ["Web", "iOS", "Android", "API"]
+highlights:
+  - "完全免费，无订阅门槛"
+  - "推理能力强，数学/编程表现优异"
+  - "中文理解一流，本土化体验好"
+  - "开源模型，支持本地部署"
+usecases:
+  - title: "学术研究与论文写作"
+    desc: "免费使用强推理模型辅助文献分析"
+  - title: "编程问答"
+    desc: "代码生成、Debug、算法解释"
+forwho:
+  - "学生和研究者"
+  - "预算有限但需要高质量 AI 的用户"
+notforwho:
+  - "需要 GPT-4 级别多模态能力的用户"
 faq:
   - q: "DeepSeek 需要翻墙吗？"
     a: "不需要，国内直连，手机号注册即可。"

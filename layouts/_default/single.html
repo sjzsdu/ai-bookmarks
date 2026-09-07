@@ -2,6 +2,16 @@
 {{ $category := .Params.category }}
 {{ $categorySlug := "" }}
 {{ $related := slice }}
+{{ $website := .Params.website }}
+{{ $logoURL := .Params.logo }}
+
+{{/* Prefer an explicit logo and fall back to Google's favicon service. */}}
+{{ if and (not $logoURL) $website }}
+  {{ $websiteURL := urls.Parse $website }}
+  {{ with $websiteURL.Host }}
+    {{ $logoURL = printf "https://www.google.com/s2/favicons?sz=128&domain=%s" . }}
+  {{ end }}
+{{ end }}
 
 {{/* Find the category section and related tools */}}
 {{ with .Site.GetPage "tools" }}
@@ -17,45 +27,143 @@
   {{ end }}
 {{ end }}
 
-<article data-pagefind-body>
+<article class="tool-detail" data-pagefind-body>
   {{ with $categorySlug }}
     <a class="back-link" href="{{ . }}">← {{ $category }}</a>
   {{ end }}
 
-  {{ with $category }}
-    <span class="category-badge">{{ . }}</span>
+  <section class="tool-hero" aria-labelledby="tool-title">
+    <div class="tool-hero-heading">
+      {{ with $logoURL }}
+        <div class="tool-logo-wrap">
+          <span class="tool-logo-fallback" aria-hidden="true">✦</span>
+          <img class="tool-logo" src="{{ . }}" alt="{{ $.Title }} logo" width="72" height="72" referrerpolicy="no-referrer" onerror="this.hidden=true">
+        </div>
+      {{ end }}
+      <div class="tool-hero-copy">
+        {{ with $category }}<span class="category-badge">{{ . }}</span>{{ end }}
+        <h1 id="tool-title">{{ .Title }}</h1>
+        {{ with .Description }}<p class="description">{{ . }}</p>{{ end }}
+      </div>
+    </div>
+
+    <div class="meta-tags" aria-label="{{ if eq .Lang "zh" }}工具信息{{ else }}Tool information{{ end }}">
+      {{ with .Params.price }}
+        {{ $pc := $.Params.priceCurrency }}
+        <span class="meta-tag price-tag"><span aria-hidden="true">◈</span>{{ if and $pc (not (strings.Contains . $pc)) }}{{ $pc }} {{ end }}{{ . }}</span>
+      {{ end }}
+      {{ range .Params.platforms }}
+        <span class="meta-tag platform-tag"><span aria-hidden="true">▣</span>{{ . }}</span>
+      {{ end }}
+      {{ with .Params.access }}
+        <span class="meta-tag access-tag">
+          <span aria-hidden="true">{{ if eq . "直连" }}●{{ else if eq . "需代理" }}▲{{ else }}◆{{ end }}</span>
+          {{ if eq $.Lang "zh" }}{{ if eq . "直连" }}国内可直连{{ else if eq . "需代理" }}国内需代理{{ else }}{{ . }}{{ end }}{{ else }}{{ if eq . "直连" }}Direct in China{{ else if eq . "需代理" }}Proxy required in China{{ else }}{{ . }}{{ end }}{{ end }}
+        </span>
+      {{ end }}
+    </div>
+
+    <div class="action-bar">
+      {{ with $website }}
+        <a class="visit-btn" rel="nofollow noopener" target="_blank" href="{{ . }}">
+          {{ if eq $.Lang "zh" }}访问官网{{ else }}Visit Website{{ end }} <span aria-hidden="true">↗</span>
+        </a>
+      {{ end }}
+      <button class="fav-btn" data-tool="{{ .RelPermalink }}" data-title="{{ .Title }}" data-category="{{ .Params.category }}" data-price="{{ .Params.price }}" data-access="{{ .Params.access }}" type="button">{{ if eq $.Lang "zh" }}☆ 收藏{{ else }}☆ Save{{ end }}</button>
+      <button class="compare-btn" data-tool="{{ .RelPermalink }}" data-title="{{ .Title }}" data-category="{{ .Params.category }}" data-price="{{ .Params.price }}" data-access="{{ .Params.access }}" type="button">{{ if eq $.Lang "zh" }}＋ 对比{{ else }}＋ Compare{{ end }}</button>
+    </div>
+  </section>
+
+  {{ with .Params.highlights }}
+    <section class="highlights-section" aria-labelledby="highlights-title">
+      <div class="detail-section-heading">
+        <span class="section-kicker">{{ if eq $.Lang "zh" }}WHY IT STANDS OUT{{ else }}WHY IT STANDS OUT{{ end }}</span>
+        <h2 id="highlights-title">{{ if eq $.Lang "zh" }}核心亮点{{ else }}Highlights{{ end }}</h2>
+      </div>
+      <div class="highlights-grid">
+        {{ range $index, $highlight := . }}
+          <div class="highlight-card">
+            <span class="highlight-number" aria-hidden="true">{{ printf "%02d" (add $index 1) }}</span>
+            <p>{{ $highlight }}</p>
+          </div>
+        {{ end }}
+      </div>
+    </section>
   {{ end }}
 
-  <h1>{{ .Title }}</h1>
-  {{ with .Description }}<p class="description">{{ . }}</p>{{ end }}
+  {{ with .Params.screenshots }}
+    <section class="screenshots-section" aria-labelledby="screenshots-title">
+      <div class="detail-section-heading">
+        <span class="section-kicker">{{ if eq $.Lang "zh" }}PRODUCT TOUR{{ else }}PRODUCT TOUR{{ end }}</span>
+        <h2 id="screenshots-title">{{ if eq $.Lang "zh" }}界面预览{{ else }}Product Preview{{ end }}</h2>
+      </div>
+      <div class="screenshots-row">
+        {{ range $index, $screenshot := . }}
+          <a class="screenshot-card" href="{{ $screenshot }}" target="_blank" rel="noopener">
+            <img src="{{ $screenshot }}" alt="{{ $.Title }} {{ if eq $.Lang "zh" }}界面预览{{ else }}interface preview{{ end }} {{ add $index 1 }}" loading="lazy">
+          </a>
+        {{ end }}
+      </div>
+    </section>
+  {{ end }}
 
-  <div class="tool-meta">
-    {{ with .Params.price }}<span class="tag">{{ . }}</span>{{ end }}
-    {{ with .Params.website }}
-      <a class="visit-btn" rel="nofollow noopener" target="_blank" href="{{ . }}">
-        {{ if eq $.Lang "zh" }}访问官网{{ else }}Visit Website{{ end }} ↗
-      </a>
-    {{ end }}
-    <button class="fav-btn" data-tool="{{ .RelPermalink }}" data-title="{{ .Title }}" data-category="{{ .Params.category }}" data-price="{{ .Params.price }}" data-access="{{ .Params.access }}" type="button">{{ if eq $.Lang "zh" }}☆ 收藏{{ else }}☆ Save{{ end }}</button>
-    <button class="compare-btn" data-tool="{{ .RelPermalink }}" data-title="{{ .Title }}" data-category="{{ .Params.category }}" data-price="{{ .Params.price }}" data-access="{{ .Params.access }}" type="button">{{ if eq $.Lang "zh" }}＋ 对比{{ else }}＋ Compare{{ end }}</button>
+  <div class="tool-content">
+    {{ .Content }}
   </div>
 
-  {{ with .Params.access }}
-    <p class="access-note">{{ if eq $.Lang "zh" }}{{ if eq . "直连" }}✅ 国内可直连{{ else if eq . "需代理" }}⚠️ 国内需代理{{ else }}{{ . }}{{ end }}{{ else }}{{ . }}{{ end }}</p>
+  {{ with .Params.usecases }}
+    <section class="usecases-section" aria-labelledby="usecases-title">
+      <div class="detail-section-heading">
+        <span class="section-kicker">{{ if eq $.Lang "zh" }}WORKFLOWS{{ else }}WORKFLOWS{{ end }}</span>
+        <h2 id="usecases-title">{{ if eq $.Lang "zh" }}使用场景{{ else }}Use Cases{{ end }}</h2>
+      </div>
+      <div class="usecases-grid">
+        {{ range . }}
+          <div class="usecase-card">
+            <h3>{{ .title }}</h3>
+            {{ with .desc }}<p>{{ . }}</p>{{ end }}
+          </div>
+        {{ end }}
+      </div>
+    </section>
   {{ end }}
 
-  {{ .Content }}
+  {{ if or .Params.forwho .Params.notforwho }}
+    <section class="forwho-section" aria-labelledby="forwho-title">
+      <div class="detail-section-heading">
+        <span class="section-kicker">{{ if eq .Lang "zh" }}FIT CHECK{{ else }}FIT CHECK{{ end }}</span>
+        <h2 id="forwho-title">{{ if eq .Lang "zh" }}适合你吗？{{ else }}Is It Right for You?{{ end }}</h2>
+      </div>
+      <div class="audience-grid">
+        {{ with .Params.forwho }}
+          <div class="audience-panel forwho-list">
+            <h3><span aria-hidden="true">✓</span>{{ if eq $.Lang "zh" }}适合谁{{ else }}Best For{{ end }}</h3>
+            <ul>{{ range . }}<li>{{ . }}</li>{{ end }}</ul>
+          </div>
+        {{ end }}
+        {{ with .Params.notforwho }}
+          <div class="audience-panel notforwho-list">
+            <h3><span aria-hidden="true">×</span>{{ if eq $.Lang "zh" }}不适合谁{{ else }}Not Ideal For{{ end }}</h3>
+            <ul>{{ range . }}<li>{{ . }}</li>{{ end }}</ul>
+          </div>
+        {{ end }}
+      </div>
+    </section>
+  {{ end }}
 
   {{ with .Params.faq }}
-    <div class="faq-section">
-      <h2>{{ if eq $.Lang "zh" }}常见问题{{ else }}FAQ{{ end }}</h2>
+    <section class="faq-section" aria-labelledby="faq-title">
+      <div class="detail-section-heading">
+        <span class="section-kicker">FAQ</span>
+        <h2 id="faq-title">{{ if eq $.Lang "zh" }}常见问题{{ else }}Frequently Asked Questions{{ end }}</h2>
+      </div>
       {{ range . }}
         <details class="faq-item">
           <summary>{{ .q }}</summary>
           <div class="faq-answer">{{ .a }}</div>
         </details>
       {{ end }}
-    </div>
+    </section>
   {{ end }}
 </article>
 

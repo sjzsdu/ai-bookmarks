@@ -5,6 +5,25 @@ translationKey: "cursor"
 category: "Coding & Development"
 website: "https://cursor.com"
 price: "Free / $20"
+priceCurrency: "USD"
+access: "直连"
+platforms: ["macOS", "Windows", "Linux"]
+highlights:
+  - "Composer edits and refactors multiple files at once"
+  - "AI Chat references the entire codebase context"
+  - "Semantic codebase search finds code in natural language"
+  - "Apply AI-generated changes with one click"
+usecases:
+  - title: "Large codebase refactoring"
+    desc: "Make cross-file changes with AI that understands project context"
+  - title: "Code review and bug fixes"
+    desc: "Describe a problem and let AI locate and repair it"
+forwho:
+  - "Intermediate and advanced developers"
+  - "Teams that frequently refactor large codebases"
+notforwho:
+  - "Complete beginners with no programming knowledge"
+  - "Vim or Emacs users with a strong IDE preference"
 faq:
   - q: "How is Cursor different from Copilot?"
     a: "It's a full editor that refactors across files via chat, not just inline completion."
