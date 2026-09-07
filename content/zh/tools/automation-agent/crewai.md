@@ -5,7 +5,6 @@ translationKey: "crewai"
 category: "自动化与 Agent"
 website: "https://crewai.com"
 price: "Free / $50"
-priceCurrency: "USD"
 faq:
   - q: "和AutoGen有什么区别？"
     a: "CrewAI更注重角色分工和任务编排，AutoGen更偏对话式多Agent。"

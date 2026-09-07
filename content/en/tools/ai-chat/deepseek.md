@@ -5,7 +5,6 @@ translationKey: "deepseek"
 category: "AI Chat"
 website: "https://chat.deepseek.com"
 price: "Free"
-priceCurrency: "CNY"
 faq:
   - q: "Is DeepSeek free?"
     a: "Yes, completely free with no usage limits. API is also cheap."

@@ -5,7 +5,6 @@ translationKey: "qwen"
 category: "AI 对话"
 website: "https://tongyi.aliyun.com"
 price: "Free"
-priceCurrency: "CNY"
 faq:
   - q: "通义千问需要翻墙吗？"
     a: "不需要，国内直连，阿里云账号登录即用。"

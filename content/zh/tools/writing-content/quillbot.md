@@ -5,7 +5,6 @@ translationKey: "quillbot"
 category: "写作与内容"
 website: "https://quillbot.com"
 price: "Free / $20"
-priceCurrency: "USD"
 faq:
   - q: "QuillBot 最擅长什么？"
     a: "它擅长在保留原意的前提下调整句式、语气和用词，英文支持最成熟。"

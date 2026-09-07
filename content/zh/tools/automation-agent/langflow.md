@@ -4,8 +4,7 @@ description: "可视化拖拽式 LLM 应用编排平台，可快速搭建 Agent 
 translationKey: "langflow"
 category: "自动化与 Agent"
 website: "https://www.langflow.org"
-price: "Free / 付费方案"
-priceCurrency: "USD"
+price: "Free（开源）"
 faq:
   - q: "Langflow 需要编程吗？"
     a: "基础流程可通过拖拽组件完成，复杂逻辑仍可使用 Python 和自定义组件扩展。"

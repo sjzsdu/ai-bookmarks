@@ -5,7 +5,6 @@ translationKey: "julius"
 category: "Data Analysis"
 website: "https://julius.ai"
 price: "Free / $20"
-priceCurrency: "USD"
 faq:
   - q: "Do I need to know programming?"
     a: "No. Just describe what you want to analyze in plain English and it writes the code for you."

@@ -5,7 +5,6 @@ translationKey: "reelai"
 category: "办公与效率"
 website: "https://reelai.com"
 price: "Free / $10"
-priceCurrency: "USD"
 faq:
   - q: "Reelai 能做什么？"
     a: "用自然语言描述你想对表格做什么（筛选、统计、合并、生成图表），AI 自动完成。"

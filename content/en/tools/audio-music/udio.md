@@ -5,7 +5,6 @@ translationKey: "udio"
 category: "Audio & Music"
 website: "https://udio.com"
 price: "Free / $10"
-priceCurrency: "USD"
 faq:
   - q: "How does Udio compare to Suno?"
     a: "Better arrangement detail and audio quality; Suno has slightly more natural vocals."

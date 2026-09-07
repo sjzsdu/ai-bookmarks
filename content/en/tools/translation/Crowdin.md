@@ -5,7 +5,6 @@ translationKey: "crowdin"
 category: "Translation"
 website: "https://crowdin.com"
 price: "Free / $40"
-priceCurrency: "USD"
 faq:
   - q: "Is Crowdin just a translation tool?"
     a: "No, it's a localization project management platform. It connects to your code repo and manages the whole translation workflow."

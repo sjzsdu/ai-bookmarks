@@ -5,7 +5,6 @@ translationKey: "ideogram"
 category: "Image Generation"
 website: "https://ideogram.ai"
 price: "Free / $20"
-priceCurrency: "USD"
 faq:
   - q: "How good is the text rendering?"
     a: "Best-in-class for putting readable text into images — logos, posters, signage."

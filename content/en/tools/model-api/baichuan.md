@@ -4,8 +4,7 @@ description: "Baichuan's model API platform for developers and enterprises build
 translationKey: "baichuan-api"
 category: "Model & API Platforms"
 website: "https://www.baichuan-ai.com"
-price: "Pay-as-you-go"
-priceCurrency: "CNY"
+price: "¥9 / 1M tokens"
 faq:
   - q: "Who is Baichuan AI designed for?"
     a: "It serves developers and enterprises that need Chinese model APIs or industry solutions."

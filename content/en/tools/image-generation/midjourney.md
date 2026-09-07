@@ -5,7 +5,6 @@ translationKey: "midjourney"
 category: "Image Generation"
 website: "https://www.midjourney.com"
 price: "From $10"
-priceCurrency: "USD"
 faq:
   - q: "Is there a free tier?"
     a: "No free tier; starts at ~10 USD/month."

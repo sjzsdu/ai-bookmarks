@@ -5,7 +5,6 @@ translationKey: "grok"
 category: "AI 对话"
 website: "https://grok.x.ai"
 price: "Free / $16"
-priceCurrency: "USD"
 faq:
   - q: "Grok 在国内能用吗？"
     a: "需代理访问，国内无法直连。"

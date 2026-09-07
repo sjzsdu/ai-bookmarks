@@ -5,7 +5,6 @@ translationKey: "windsurf"
 category: "编程与开发"
 website: "https://codeium.com/windsurf"
 price: "Free / $15"
-priceCurrency: "USD"
 faq:
   - q: "Windsurf 国内能用吗？"
     a: "可以访问，但 AI 功能走海外服务器，国内直连偶尔不稳定，订阅需要外币卡。"

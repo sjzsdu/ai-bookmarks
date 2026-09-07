@@ -4,8 +4,7 @@ description: "百川大模型 API 开放平台，为开发者和企业提供中�
 translationKey: "baichuan-api"
 category: "模型与 API"
 website: "https://www.baichuan-ai.com"
-price: "按量付费"
-priceCurrency: "CNY"
+price: "¥9 / 百万 tokens"
 faq:
   - q: "百川智能主要面向谁？"
     a: "主要面向需要接入国产大模型 API 或行业解决方案的开发者与企业。"

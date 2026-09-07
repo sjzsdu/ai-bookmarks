@@ -5,7 +5,6 @@ translationKey: "zapier-ai"
 category: "自动化与 Agent"
 website: "https://zapier.com"
 price: "Free / $20"
-priceCurrency: "USD"
 faq:
   - q: "国内能用吗？"
     a: "能用但部分应用（如Google Sheets）需要VPN，飞书等国内应用支持有限。"

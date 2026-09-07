@@ -5,7 +5,6 @@ translationKey: "bark"
 category: "Audio & Music"
 website: "https://github.com/suno-ai/bark"
 price: "Free"
-priceCurrency: "USD"
 faq:
   - q: "Can Bark run locally?"
     a: "Yes, open-source model runs locally on GPU, no internet needed."

@@ -5,7 +5,6 @@ translationKey: "recraft"
 category: "图像生成"
 website: "https://www.recraft.ai"
 price: "Free / $12"
-priceCurrency: "USD"
 faq:
   - q: "Recraft 能生成矢量图吗？"
     a: "可以，它支持矢量风格生成与 SVG 导出，适合图标和品牌素材。"

@@ -5,7 +5,6 @@ translationKey: "tongyi-tingwu"
 category: "Data Analysis"
 website: "https://tingwu.aliyun.com"
 price: "Free"
-priceCurrency: "CNY"
 faq:
   - q: "Is Tongyi Tingwu free?"
     a: "Yes, completely free for Chinese and English transcription and analysis."

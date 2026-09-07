@@ -5,7 +5,6 @@ translationKey: "phind"
 category: "Search & Browser"
 website: "https://phind.com"
 price: "Free / $15"
-priceCurrency: "USD"
 faq:
   - q: "How does it differ from Perplexity?"
     a: "Phind is focused on programming and technical questions, with code examples and GitHub links."

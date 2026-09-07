@@ -5,7 +5,6 @@ translationKey: "poe"
 category: "AI Chat"
 website: "https://poe.com"
 price: "Free / $20"
-priceCurrency: "USD"
 faq:
   - q: "What models are available?"
     a: "GPT-4, Claude, Gemini, Llama, and more — one subscription with credits for each."

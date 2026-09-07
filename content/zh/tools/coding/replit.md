@@ -5,7 +5,6 @@ translationKey: "replit"
 category: "编程与开发"
 website: "https://replit.com"
 price: "Free / $25"
-priceCurrency: "USD"
 faq:
   - q: "Replit 国内能用吗？"
     a: "可以访问，但部分功能（如 AI Agent）走海外服务器，速度可能受影响。"

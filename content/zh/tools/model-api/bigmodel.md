@@ -4,8 +4,7 @@ description: "智谱清言背后的国产大模型开放平台，提供 GLM 系�
 translationKey: "bigmodel"
 category: "模型与 API"
 website: "https://open.bigmodel.cn"
-price: "Free / 按量付费"
-priceCurrency: "CNY"
+price: "Free"
 faq:
   - q: "BigModel 提供哪些能力？"
     a: "平台提供 GLM 系列语言和多模态模型，以及向量、图像等开发接口。"

@@ -5,7 +5,6 @@ translationKey: "qwen"
 category: "AI Chat"
 website: "https://tongyi.aliyun.com"
 price: "Free"
-priceCurrency: "CNY"
 faq:
   - q: "Is Qwen free?"
     a: "Yes, free to use with Alibaba Cloud account, direct access in China."

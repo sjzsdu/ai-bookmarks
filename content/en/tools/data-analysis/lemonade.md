@@ -5,7 +5,6 @@ translationKey: "lemonade"
 category: "Data Analysis"
 website: "https://lemonade.io"
 price: "Free / $10"
-priceCurrency: "USD"
 faq:
   - q: "What is Lemonade?"
     a: "A tool that lets you explore and analyze data through chat conversations instead of writing SQL."

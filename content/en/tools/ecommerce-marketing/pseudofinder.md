@@ -5,7 +5,6 @@ translationKey: "pseudofinder"
 category: "E-commerce & Marketing"
 website: "https://pseudofinder.com"
 price: "From $9"
-priceCurrency: "USD"
 faq:
   - q: "What does Pseudofinder do?"
     a: "Upload product photos and it generates different scenes, models, and contexts for product display."

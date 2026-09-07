@@ -5,7 +5,6 @@ translationKey: "fast-ai"
 category: "Learning & Education"
 website: "https://course.fast.ai"
 price: "Free"
-priceCurrency: "USD"
 faq:
   - q: "What prerequisites do I need?"
     a: "Just Python basics — no math background required. The course starts with practice."

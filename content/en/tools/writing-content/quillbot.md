@@ -5,7 +5,6 @@ translationKey: "quillbot"
 category: "Writing & Content"
 website: "https://quillbot.com"
 price: "Free / $20"
-priceCurrency: "USD"
 faq:
   - q: "What is QuillBot best at?"
     a: "It rewrites wording, sentence structure, and tone while preserving the original meaning."

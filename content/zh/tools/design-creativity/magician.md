@@ -5,7 +5,6 @@ translationKey: "magician"
 category: "设计与创意"
 website: "https://magician.design"
 price: "Free / $8"
-priceCurrency: "USD"
 faq:
   - q: "Magician 需要 Figma 付费版吗？"
     a: "不需要，Figma 免费版就能用这个插件。"

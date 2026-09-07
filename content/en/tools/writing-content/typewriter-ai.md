@@ -5,7 +5,6 @@ translationKey: "typewriter-ai"
 category: "Writing & Content"
 website: "https://typewriterai.com"
 price: "Free / $19"
-priceCurrency: "USD"
 faq:
   - q: "How is Typewriter AI different from ChatGPT?"
     a: "Typewriter is optimized for writing scenarios with templates and style presets, more focused than general chat tools."

@@ -5,7 +5,6 @@ translationKey: "papago"
 category: "Translation"
 website: "https://papago.naver.com"
 price: "Free"
-priceCurrency: "USD"
 faq:
   - q: "Is Papago better than Google Translate for Korean?"
     a: "Significantly. Naver is a Korean company and their translation models are trained on much more Korean data."

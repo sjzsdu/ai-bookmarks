@@ -5,7 +5,6 @@ translationKey: "immersive-translate"
 category: "Translation"
 website: "https://immersivetranslate.com"
 price: "Free / $10"
-priceCurrency: "USD"
 faq:
   - q: "How does it work?"
     a: "It adds translated text below each paragraph while keeping the original, creating a bilingual view."

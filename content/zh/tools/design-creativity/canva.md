@@ -5,7 +5,6 @@ translationKey: "canva"
 category: "设计与创意"
 website: "https://canva.com"
 price: "Free / $13"
-priceCurrency: "USD"
 faq:
   - q: "Canva 国内能用吗？"
     a: "可以访问，国内有中文版，部分 AI 功能可能需要科学上网。"

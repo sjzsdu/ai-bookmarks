@@ -5,7 +5,6 @@ translationKey: "luma"
 category: "Video Generation"
 website: "https://lumalabs.ai"
 price: "Free / $9.99"
-priceCurrency: "USD"
 faq:
   - q: "What is Luma strong at?"
     a: "Natural camera movement and 3D consistency — great for product and space videos."

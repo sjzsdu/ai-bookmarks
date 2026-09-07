@@ -5,7 +5,6 @@ translationKey: "udio"
 category: "音频与音乐"
 website: "https://udio.com"
 price: "Free / $10"
-priceCurrency: "USD"
 faq:
   - q: "Udio 在国内能用吗？"
     a: "网页版可直连，订阅需境外支付。"

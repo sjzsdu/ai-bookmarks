@@ -5,7 +5,6 @@ translationKey: "lovable"
 category: "编程与开发"
 website: "https://lovable.dev"
 price: "Free / $20"
-priceCurrency: "USD"
 faq:
   - q: "Lovable 适合不会编程的人吗？"
     a: "适合。用户可以用自然语言描述产品，并在可视化预览中继续调整。"

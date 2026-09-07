@@ -4,8 +4,7 @@ description: "TTS and voice cloning platform with natural voice quality and good
 translationKey: "fish-speech"
 category: "Audio & Music"
 website: "https://fish.audio"
-price: "Free / Pay-as-you-go"
-priceCurrency: "USD"
+price: "Free"
 faq:
   - q: "How much audio do I need for cloning?"
     a: "A few seconds to a dozen seconds of sample audio is enough."

@@ -5,7 +5,6 @@ translationKey: "tripo3d"
 category: "3D & Assets"
 website: "https://tripo3d.ai"
 price: "Free / $10"
-priceCurrency: "USD"
 faq:
   - q: "How does Tripo3D compare to Meshy?"
     a: "Cheaper and faster, but model precision may be slightly lower."

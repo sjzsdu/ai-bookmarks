@@ -5,7 +5,6 @@ translationKey: "zapier-ai"
 category: "Automation & Agent"
 website: "https://zapier.com"
 price: "Free / $20"
-priceCurrency: "USD"
 faq:
   - q: "What are the AI features?"
     a: "AI nodes let you call GPT to process text, classify data, and extract info within workflows."

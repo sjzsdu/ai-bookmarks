@@ -5,7 +5,6 @@ translationKey: "taskade"
 category: "办公与效率"
 website: "https://taskade.com"
 price: "Free / $8"
-priceCurrency: "USD"
 faq:
   - q: "Taskade 和 Notion 有什么区别？"
     a: "Taskade 更轻量，AI 功能内置更深，价格也更便宜，但生态没有 Notion 丰富。"

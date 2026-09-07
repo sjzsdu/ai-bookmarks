@@ -5,7 +5,6 @@ translationKey: "stable-diffusion"
 category: "Image Generation"
 website: "https://stability.ai"
 price: "Free"
-priceCurrency: "USD"
 faq:
   - q: "Can it run locally?"
     a: "Yes, open weights run on local GPUs offline with no subscription."

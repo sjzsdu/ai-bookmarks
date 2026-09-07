@@ -5,7 +5,6 @@ translationKey: "copilot-workspace"
 category: "编程与开发"
 website: "https://github.com/features/copilot"
 price: "Free / $10"
-priceCurrency: "USD"
 faq:
   - q: "Copilot Workspace 和普通 Copilot 有什么区别？"
     a: "Workspace 是完整的开发环境，能从 issue 出发自动规划、编码、测试、提 PR，比纯补全高级很多。"

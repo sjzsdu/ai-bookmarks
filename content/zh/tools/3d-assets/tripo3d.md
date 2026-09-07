@@ -5,7 +5,6 @@ translationKey: "tripo3d"
 category: "3D 与素材"
 website: "https://tripo3d.ai"
 price: "Free / $10"
-priceCurrency: "USD"
 faq:
   - q: "Tripo3D 和 Meshy 比怎么样？"
     a: "价格更便宜，生成速度更快，但模型精度可能稍差一些。"

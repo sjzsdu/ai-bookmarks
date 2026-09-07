@@ -5,7 +5,6 @@ translationKey: "devv"
 category: "搜索与浏览器"
 website: "https://devv.ai"
 price: "Free / $20"
-priceCurrency: "USD"
 faq:
   - q: "和Phind有什么区别？"
     a: "Devv对中文技术支持更好，Phind英文资源更多。"

@@ -5,7 +5,6 @@ translationKey: "ideogram"
 category: "图像生成"
 website: "https://ideogram.ai"
 price: "Free / $20"
-priceCurrency: "USD"
 faq:
   - q: "Ideogram 在国内能用吗？"
     a: "网页版可直连，订阅需境外支付。"

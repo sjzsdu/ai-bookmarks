@@ -5,7 +5,6 @@ translationKey: "tianqu"
 category: "Search & Browser"
 website: "https://www.tiangong.cn"
 price: "Free"
-priceCurrency: "CNY"
 faq:
   - q: "How does it compare to Metaso?"
     a: "Similar features, TianGong has a cleaner interface but slightly less search depth."

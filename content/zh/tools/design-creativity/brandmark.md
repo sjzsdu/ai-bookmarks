@@ -5,7 +5,6 @@ translationKey: "brandmark"
 category: "设计与创意"
 website: "https://brandmark.io"
 price: "$25 起"
-priceCurrency: "USD"
 faq:
   - q: "Brandmark 和 Looka 哪个好？"
     a: "Brandmark 设计质量更高，生成的 Logo 更有设计感；Looka 方案更多，上手更快。"

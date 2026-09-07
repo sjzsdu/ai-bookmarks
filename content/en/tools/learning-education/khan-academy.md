@@ -5,7 +5,6 @@ translationKey: "khan-academy"
 category: "Learning & Education"
 website: "https://khanacademy.org"
 price: "Free / $44"
-priceCurrency: "USD"
 faq:
   - q: "Is Khan Academy really free?"
     a: "Yes, all course content is free forever. Khanmigo AI tutor is $44/year."

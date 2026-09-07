@@ -5,7 +5,6 @@ translationKey: "lingvanex"
 category: "Translation"
 website: "https://lingvanex.com"
 price: "Free / $10"
-priceCurrency: "USD"
 faq:
   - q: "Does Lingvanex support Chinese?"
     a: "Yes, it supports Chinese along with 100+ other languages."

@@ -5,7 +5,6 @@ translationKey: "uizard"
 category: "设计与创意"
 website: "https://uizard.io"
 price: "Free / $12"
-priceCurrency: "USD"
 faq:
   - q: "Uizard 生成的原型能导出代码吗？"
     a: "可以导出为开发规格，但不能直接导出可用代码，更多是设计到开发的交接。"

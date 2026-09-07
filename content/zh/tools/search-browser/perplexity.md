@@ -5,7 +5,6 @@ translationKey: "perplexity"
 category: "搜索与浏览器"
 website: "https://perplexity.ai"
 price: "Free / $20"
-priceCurrency: "USD"
 faq:
   - q: "国内能用吗？"
     a: "需要VPN，没有国内镜像站。"

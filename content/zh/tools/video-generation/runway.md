@@ -5,7 +5,6 @@ translationKey: "runway"
 category: "视频生成"
 website: "https://runwayml.com"
 price: "Free / $12+"
-priceCurrency: "USD"
 faq:
   - q: "Runway 在国内能用吗？"
     a: "网页版通常可直连，订阅需境外信用卡。"

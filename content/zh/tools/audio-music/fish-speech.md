@@ -4,8 +4,7 @@ description: "语音合成与声音克隆平台，音色自然、中文效果好
 translationKey: "fish-speech"
 category: "音频与音乐"
 website: "https://fish.audio"
-price: "Free / 按量付费"
-priceCurrency: "USD"
+price: "Free"
 faq:
   - q: "Fish Audio 在国内能用吗？"
     a: "可以，国内直连，有免费额度。"

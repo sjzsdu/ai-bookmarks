@@ -5,7 +5,6 @@ translationKey: "magician"
 category: "Design & Creativity"
 website: "https://magician.design"
 price: "Free / $8"
-priceCurrency: "USD"
 faq:
   - q: "Does Magician require paid Figma?"
     a: "No, works with Figma's free tier."

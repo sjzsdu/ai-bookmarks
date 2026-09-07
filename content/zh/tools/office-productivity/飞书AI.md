@@ -5,7 +5,6 @@ translationKey: "feishu-ai"
 category: "办公与效率"
 website: "https://feishu.cn"
 price: "Free"
-priceCurrency: "CNY"
 faq:
   - q: "飞书 AI 要钱吗？"
     a: "基础 AI 功能免费，企业版有更多 AI 额度和高级功能。"

@@ -5,7 +5,6 @@ translationKey: "metaso"
 category: "搜索与浏览器"
 website: "https://metaso.cn"
 price: "Free"
-priceCurrency: "CNY"
 faq:
   - q: "需要翻墙吗？"
     a: "不需要，国内直连，手机号注册。"

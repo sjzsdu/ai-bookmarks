@@ -5,7 +5,6 @@ translationKey: "bolt"
 category: "Coding & Development"
 website: "https://bolt.new"
 price: "Free / $20"
-priceCurrency: "USD"
 faq:
   - q: "What kind of apps can Bolt build?"
     a: "React, Vue, Next.js and other frameworks. Full-stack apps with frontend and backend."

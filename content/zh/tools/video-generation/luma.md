@@ -5,7 +5,6 @@ translationKey: "luma"
 category: "视频生成"
 website: "https://lumalabs.ai"
 price: "Free / $9.99"
-priceCurrency: "USD"
 faq:
   - q: "Luma 在国内能用吗？"
     a: "网页版可直连，订阅需境外支付。"

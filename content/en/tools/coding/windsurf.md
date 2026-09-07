@@ -5,7 +5,6 @@ translationKey: "windsurf"
 category: "Coding & Development"
 website: "https://codeium.com/windsurf"
 price: "Free / $15"
-priceCurrency: "USD"
 faq:
   - q: "How does Windsurf compare to Cursor?"
     a: "Windsurf is lighter, has a more generous free tier, and is better for budget-conscious developers."

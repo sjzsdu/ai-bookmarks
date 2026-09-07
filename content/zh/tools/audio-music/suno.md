@@ -5,7 +5,6 @@ translationKey: "suno"
 category: "音频与音乐"
 website: "https://suno.com"
 price: "Free / $8+"
-priceCurrency: "USD"
 faq:
   - q: "Suno 在国内能用吗？"
     a: "网页版一般可直连，付费需境外卡。"

@@ -5,7 +5,6 @@ translationKey: "brandmark"
 category: "Design & Creativity"
 website: "https://brandmark.io"
 price: "From $25"
-priceCurrency: "USD"
 faq:
   - q: "Brandmark vs Looka — which is better?"
     a: "Brandmark produces higher design quality and uniqueness; Looka has more options and faster onboarding."

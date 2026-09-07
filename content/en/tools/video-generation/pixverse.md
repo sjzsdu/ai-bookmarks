@@ -5,7 +5,6 @@ translationKey: "pixverse"
 category: "Video Generation"
 website: "https://pixverse.ai"
 price: "Free / $8"
-priceCurrency: "USD"
 faq:
   - q: "How does PixVerse compare to Pika?"
     a: "More style templates; Pika is more flexible for local animation."

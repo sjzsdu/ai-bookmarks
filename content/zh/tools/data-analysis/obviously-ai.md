@@ -5,7 +5,6 @@ translationKey: "obviously-ai"
 category: "数据分析"
 website: "https://obviously.ai"
 price: "Free / $75"
-priceCurrency: "USD"
 faq:
   - q: "Obviously AI 能做什么？"
     a: "上传数据后，它会自动选择合适的机器学习模型，帮你做预测和分类。"

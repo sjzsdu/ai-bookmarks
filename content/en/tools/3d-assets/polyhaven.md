@@ -5,7 +5,6 @@ translationKey: "polyhaven"
 category: "3D & Assets"
 website: "https://polyhaven.com"
 price: "Free"
-priceCurrency: "USD"
 faq:
   - q: "Is Poly Haven really free?"
     a: "Yes. All assets are CC0 license — free for commercial use, no attribution required."

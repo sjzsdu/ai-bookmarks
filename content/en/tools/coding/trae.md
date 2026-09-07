@@ -5,7 +5,6 @@ translationKey: "trae"
 category: "Coding & Development"
 website: "https://trae.ai"
 price: "Free"
-priceCurrency: "USD"
 faq:
   - q: "Is Trae really free?"
     a: "Yes, currently all AI features are free during the promotion period."

@@ -5,7 +5,6 @@ translationKey: "arc"
 category: "Search & Browser"
 website: "https://arc.net"
 price: "Free"
-priceCurrency: "USD"
 faq:
   - q: "Is it stable enough for daily use?"
     a: "Yes, it's been stable for over a year. Some features are Mac-first."

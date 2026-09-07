@@ -4,8 +4,7 @@ description: "Fast inference platform for open-source models — cheaper than Op
 translationKey: "together-ai"
 category: "Model & API Platforms"
 website: "https://together.ai"
-price: "Pay-as-you-go"
-priceCurrency: "USD"
+price: "$0.03 / 1M tokens"
 faq:
   - q: "Which models are available?"
     a: "Most popular open-source models: LLaMA 3, Mistral, Mixtral, etc."

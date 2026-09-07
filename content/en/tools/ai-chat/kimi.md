@@ -5,7 +5,6 @@ translationKey: "kimi"
 category: "AI Chat"
 website: "https://kimi.moonshot.cn"
 price: "Free"
-priceCurrency: "CNY"
 faq:
   - q: "What is Kimi strong at?"
     a: "Ultra-long context — can process 200K+ characters, great for document analysis."

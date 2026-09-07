@@ -4,8 +4,7 @@ description: "The multimodal API platform behind Hailuo, spanning text, speech, 
 translationKey: "minimax-api"
 category: "Model & API Platforms"
 website: "https://platform.minimaxi.com"
-price: "Pay-as-you-go"
-priceCurrency: "CNY"
+price: "¥2.1 / 1M tokens"
 faq:
   - q: "Does MiniMax API only provide text models?"
     a: "No. The platform also offers speech, music, and video generation capabilities."

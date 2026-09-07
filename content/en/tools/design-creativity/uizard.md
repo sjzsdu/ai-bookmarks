@@ -5,7 +5,6 @@ translationKey: "uizard"
 category: "Design & Creativity"
 website: "https://uizard.io"
 price: "Free / $12"
-priceCurrency: "USD"
 faq:
   - q: "Can Uizard export code?"
     a: "It exports development specs but not production-ready code — more design-to-dev handoff."

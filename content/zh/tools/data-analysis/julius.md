@@ -5,7 +5,6 @@ translationKey: "julius"
 category: "数据分析"
 website: "https://julius.ai"
 price: "Free / $20"
-priceCurrency: "USD"
 faq:
   - q: "Julius AI 需要会编程吗？"
     a: "完全不需要，直接用自然语言描述你想分析什么，它会自动写代码并执行。"

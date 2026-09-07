@@ -4,8 +4,7 @@ description: "OpenAI's flagship image generation and editing model with strong t
 translationKey: "gpt-image"
 category: "Image Generation"
 website: "https://openai.com"
-price: "Free / Pay-as-you-go"
-priceCurrency: "USD"
+price: "Free"
 faq:
   - q: "How is GPT Image related to DALL-E?"
     a: "Both belong to OpenAI's image product line; GPT Image is its newer natively multimodal image capability."

@@ -5,7 +5,6 @@ translationKey: "google-translate"
 category: "翻译"
 website: "https://translate.google.com"
 price: "Free"
-priceCurrency: "USD"
 faq:
   - q: "Google Translate 在国内能用吗？"
     a: "不能直接访问，需要翻墙。移动端 App 可以离线翻译。"

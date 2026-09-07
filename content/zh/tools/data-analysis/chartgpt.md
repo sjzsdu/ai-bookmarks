@@ -5,7 +5,6 @@ translationKey: "chartgpt"
 category: "数据分析"
 website: "https://chartgpt.co"
 price: "Free / $10"
-priceCurrency: "USD"
 faq:
   - q: "ChartGPT 能做什么？"
     a: "输入文字描述，它会自动生成对应的图表，支持柱状图、折线图、饼图等。"

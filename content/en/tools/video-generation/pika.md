@@ -5,7 +5,6 @@ translationKey: "pika"
 category: "Video Generation"
 website: "https://pika.art"
 price: "Free / $8+"
-priceCurrency: "USD"
 faq:
   - q: "How does Pika compare to Runway?"
     a: "Lighter, faster, easier; great for memes and shorts, less pro control."

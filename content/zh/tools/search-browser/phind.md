@@ -5,7 +5,6 @@ translationKey: "phind"
 category: "搜索与浏览器"
 website: "https://phind.com"
 price: "Free / $15"
-priceCurrency: "USD"
 faq:
   - q: "和Perplexity有什么区别？"
     a: "Phind专注编程和技术问题，搜索结果带代码示例和GitHub链接。"

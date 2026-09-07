@@ -5,7 +5,6 @@ translationKey: "figma-ai"
 category: "设计与创意"
 website: "https://figma.com"
 price: "Free / $15"
-priceCurrency: "USD"
 faq:
   - q: "Figma AI 是独立工具吗？"
     a: "不是，是 Figma 内置的 AI 功能，需要先用 Figma。"

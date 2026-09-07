@@ -5,7 +5,6 @@ translationKey: "spline"
 category: "3D 与素材"
 website: "https://spline.design"
 price: "Free / $7"
-priceCurrency: "USD"
 faq:
   - q: "Spline 需要下载软件吗？"
     a: "不需要，直接在浏览器里使用，也有桌面版。"

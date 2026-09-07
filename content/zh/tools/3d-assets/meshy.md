@@ -5,7 +5,6 @@ translationKey: "meshy"
 category: "3D 与素材"
 website: "https://meshy.ai"
 price: "Free / $20"
-priceCurrency: "USD"
 faq:
   - q: "Meshy 能生成什么？"
     a: "输入文字描述或图片，自动生成 3D 模型，支持纹理贴图。"

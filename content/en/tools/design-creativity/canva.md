@@ -5,7 +5,6 @@ translationKey: "canva"
 category: "Design & Creativity"
 website: "https://canva.com"
 price: "Free / $13"
-priceCurrency: "USD"
 faq:
   - q: "Does Canva work globally?"
     a: "Yes, accessible worldwide with Chinese version available."

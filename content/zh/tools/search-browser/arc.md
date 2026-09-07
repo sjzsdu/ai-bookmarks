@@ -5,7 +5,6 @@ translationKey: "arc"
 category: "搜索与浏览器"
 website: "https://arc.net"
 price: "Free"
-priceCurrency: "USD"
 faq:
   - q: "国内能用吗？"
     a: "可以下载，但AI功能可能需要VPN。标签管理等基础功能正常。"

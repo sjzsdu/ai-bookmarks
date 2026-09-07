@@ -5,7 +5,6 @@ translationKey: "merlin"
 category: "电商与营销"
 website: "https://getmerlin.com"
 price: "Free / $19"
-priceCurrency: "USD"
 faq:
   - q: "Merlin 能做什么？"
     a: "帮你写广告文案、社交媒体帖子、邮件营销内容，支持多种营销场景。"

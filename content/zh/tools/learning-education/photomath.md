@@ -5,7 +5,6 @@ translationKey: "photomath"
 category: "学习与教育"
 website: "https://photomath.com"
 price: "Free / $10"
-priceCurrency: "USD"
 faq:
   - q: "能解多难的题？"
     a: "基础到高中数学没问题，微积分也能解一部分。大学高难度题目有限。"

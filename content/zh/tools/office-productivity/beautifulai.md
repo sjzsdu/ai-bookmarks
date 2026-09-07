@@ -5,7 +5,6 @@ translationKey: "beautifulai"
 category: "办公与效率"
 website: "https://beautiful.ai"
 price: "Free / $12"
-priceCurrency: "USD"
 faq:
   - q: "Beautiful.ai 和 Gamma 有什么区别？"
     a: "Beautiful.ai 更注重自动排版和设计规范，Gamma 更注重 AI 生成内容。"

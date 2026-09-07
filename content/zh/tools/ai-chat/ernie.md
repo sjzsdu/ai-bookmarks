@@ -5,7 +5,6 @@ translationKey: "ernie"
 category: "AI 对话"
 website: "https://yiyan.baidu.com"
 price: "Free"
-priceCurrency: "CNY"
 faq:
   - q: "文心一言需要翻墙吗？"
     a: "不需要，国内直连，手机号注册即可。"

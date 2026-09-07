@@ -5,7 +5,6 @@ translationKey: "adcreative"
 category: "E-commerce & Marketing"
 website: "https://adcreative.ai"
 price: "From $29"
-priceCurrency: "USD"
 faq:
   - q: "What can AdCreative.ai generate?"
     a: "Auto-generates ad images, video assets, and copy for Facebook, Google, TikTok, and more."

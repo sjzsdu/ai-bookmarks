@@ -4,8 +4,7 @@ description: "Google Gemini 内嵌的图像生成与编辑模型，擅长对话�
 translationKey: "gemini-image"
 category: "图像生成"
 website: "https://aistudio.google.com"
-price: "Free / 按量付费"
-priceCurrency: "USD"
+price: "Free"
 faq:
   - q: "Nano Banana 是独立产品吗？"
     a: "它是 Gemini 图像能力的流行昵称，可通过 Gemini 产品或 Google AI Studio 使用。"

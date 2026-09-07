@@ -4,8 +4,7 @@ description: "Obsidian 笔记软件的 AI 插件，在知识库里直接用 AI �
 translationKey: "obsidian-copilot"
 category: "写作与内容"
 website: "https://github.com/logancyang/obsidian-copilot"
-price: "Free"
-priceCurrency: "USD"
+price: "Free（开源）"
 faq:
   - q: "Obsidian Copilot 需要付费吗？"
     a: "插件免费开源，但 AI 模型调用需要自己的 API Key（如 OpenAI）。"

@@ -5,7 +5,6 @@ translationKey: "klaviyo"
 category: "E-commerce & Marketing"
 website: "https://klaviyo.com"
 price: "Free / $20"
-priceCurrency: "USD"
 faq:
   - q: "Is Klaviyo good for non-US markets?"
     a: "It works globally, but it's most popular with Shopify stores targeting Western markets."

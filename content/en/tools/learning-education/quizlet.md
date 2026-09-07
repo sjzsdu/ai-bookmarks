@@ -5,7 +5,6 @@ translationKey: "quizlet"
 category: "Learning & Education"
 website: "https://quizlet.com"
 price: "Free / $8"
-priceCurrency: "USD"
 faq:
   - q: "How is it different from Anki?"
     a: "Quizlet is simpler and more user-friendly; Anki is more customizable but harder to learn."

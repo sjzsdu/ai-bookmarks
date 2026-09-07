@@ -5,7 +5,6 @@ translationKey: "cursor"
 category: "编程与开发"
 website: "https://cursor.com"
 price: "Free / $20"
-priceCurrency: "USD"
 faq:
   - q: "Cursor 在国内能用吗？"
     a: "可直连，但模型调用走境外服务，订阅需虚拟卡或境外信用卡。"

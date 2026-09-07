@@ -5,7 +5,6 @@ translationKey: "typewriter-ai"
 category: "写作与内容"
 website: "https://typewriterai.com"
 price: "Free / $19"
-priceCurrency: "USD"
 faq:
   - q: "Typewriter AI 和 ChatGPT 有什么区别？"
     a: "Typewriter 针对写作场景做了优化，有模板和风格预设，比通用聊天工具更专注。"

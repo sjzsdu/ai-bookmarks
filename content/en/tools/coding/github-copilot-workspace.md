@@ -5,7 +5,6 @@ translationKey: "copilot-workspace"
 category: "Coding & Development"
 website: "https://github.com/features/copilot"
 price: "Free / $10"
-priceCurrency: "USD"
 faq:
   - q: "How is Copilot Workspace different from regular Copilot?"
     a: "Workspace is a complete dev environment that plans, codes, tests, and creates PRs from issues."

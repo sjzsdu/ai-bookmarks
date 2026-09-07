@@ -5,7 +5,6 @@ translationKey: "perplexity"
 category: "Search & Browser"
 website: "https://perplexity.ai"
 price: "Free / $20"
-priceCurrency: "USD"
 faq:
   - q: "Is there a free tier?"
     a: "Yes, 200 Pro searches per day on the free plan."

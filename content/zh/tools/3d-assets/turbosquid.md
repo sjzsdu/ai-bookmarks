@@ -5,7 +5,6 @@ translationKey: "turbosquid"
 category: "3D 与素材"
 website: "https://turbosquid.com"
 price: "Free / $9"
-priceCurrency: "USD"
 faq:
   - q: "TurboSquid 上的模型质量怎么样？"
     a: "质量参差不齐，但有很多专业级的高质量模型。"

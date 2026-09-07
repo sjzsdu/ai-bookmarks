@@ -5,7 +5,6 @@ translationKey: "you"
 category: "Search & Browser"
 website: "https://you.com"
 price: "Free / $15"
-priceCurrency: "USD"
 faq:
   - q: "How does it compare to Perplexity?"
     a: "Similar features, but You.com emphasizes privacy with a no-tracking mode."

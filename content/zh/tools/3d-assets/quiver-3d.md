@@ -5,7 +5,6 @@ translationKey: "quiver-3d"
 category: "3D 与素材"
 website: "https://quiver3d.com"
 price: "Free / $15"
-priceCurrency: "USD"
 faq:
   - q: "Quiver 3D 和其他 AI 3D 工具比有什么不同？"
     a: "专注于高质量模型生成，纹理和材质效果更好。"

@@ -5,7 +5,6 @@ translationKey: "notionai"
 category: "Writing & Content"
 website: "https://notion.so/product/ai"
 price: "Free / $10"
-priceCurrency: "USD"
 faq:
   - q: "Does Notion AI require separate payment?"
     a: "Yes, $10/month on top of Notion subscription. Free tier has limited uses."

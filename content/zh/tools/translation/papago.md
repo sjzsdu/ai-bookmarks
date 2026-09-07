@@ -5,7 +5,6 @@ translationKey: "papago"
 category: "翻译"
 website: "https://papago.naver.com"
 price: "Free"
-priceCurrency: "USD"
 faq:
   - q: "Papago 和 Google Translate 韩语翻译哪个好？"
     a: "韩语翻译 Papago 明显更准确，毕竟是韩国本土公司做的。"

@@ -5,7 +5,6 @@ translationKey: "cursor"
 category: "Coding & Development"
 website: "https://cursor.com"
 price: "Free / $20"
-priceCurrency: "USD"
 faq:
   - q: "How is Cursor different from Copilot?"
     a: "It's a full editor that refactors across files via chat, not just inline completion."

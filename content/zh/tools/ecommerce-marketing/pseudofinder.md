@@ -5,7 +5,6 @@ translationKey: "pseudofinder"
 category: "电商与营销"
 website: "https://pseudofinder.com"
 price: "$9 起"
-priceCurrency: "USD"
 faq:
   - q: "Pseudofinder 能做什么？"
     a: "用 AI 生成产品图、模特图、场景图，适合电商产品展示。"

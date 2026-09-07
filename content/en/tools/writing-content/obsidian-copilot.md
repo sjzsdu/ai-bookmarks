@@ -4,8 +4,7 @@ description: "Open-source AI plugin for Obsidian, use AI in your knowledge base 
 translationKey: "obsidian-copilot"
 category: "Writing & Content"
 website: "https://github.com/logancyang/obsidian-copilot"
-price: "Free"
-priceCurrency: "USD"
+price: "Free (open source)"
 faq:
   - q: "Is Obsidian Copilot free?"
     a: "The plugin is free and open source, but AI model calls require your own API key."

@@ -5,7 +5,6 @@ translationKey: "reelai"
 category: "Office & Productivity"
 website: "https://reelai.com"
 price: "Free / $10"
-priceCurrency: "USD"
 faq:
   - q: "What can Reelai do?"
     a: "Describe what you want to do with your spreadsheet (filter, aggregate, merge, chart) and AI does it automatically."

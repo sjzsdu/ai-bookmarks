@@ -4,8 +4,7 @@ description: "字节跳动 AI 图像创作平台，基于 Seedream 模型生成�
 translationKey: "jimeng-image"
 category: "图像生成"
 website: "https://jimeng.jianying.com"
-price: "Free / 付费方案"
-priceCurrency: "CNY"
+price: "Free"
 faq:
   - q: "即梦图像能做什么？"
     a: "可以根据文字或参考图生成图片，并完成局部重绘、扩图和风格探索。"

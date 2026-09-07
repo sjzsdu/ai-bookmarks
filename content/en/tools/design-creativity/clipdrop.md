@@ -5,7 +5,6 @@ translationKey: "clipdrop"
 category: "Design & Creativity"
 website: "https://clipdrop.co"
 price: "Free / $9"
-priceCurrency: "USD"
 faq:
   - q: "What features does Clipdrop have?"
     a: "Background removal, image cleanup, upscaling, AI generation, text removal, and more."

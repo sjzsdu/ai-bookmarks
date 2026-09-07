@@ -5,7 +5,6 @@ translationKey: "mode"
 category: "Data Analysis"
 website: "https://mode.com"
 price: "Free / $25"
-priceCurrency: "USD"
 faq:
   - q: "Who is Mode for?"
     a: "Data analysts and business analysts who write SQL for their daily work."

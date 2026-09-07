@@ -5,7 +5,6 @@ translationKey: "ernie"
 category: "AI Chat"
 website: "https://yiyan.baidu.com"
 price: "Free"
-priceCurrency: "CNY"
 faq:
   - q: "Is ERNIE Bot available outside China?"
     a: "Primarily China-focused; global users typically use ChatGPT, Claude, or Gemini."

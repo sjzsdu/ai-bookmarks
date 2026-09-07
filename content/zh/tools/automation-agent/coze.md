@@ -5,7 +5,6 @@ translationKey: "coze"
 category: "自动化与 Agent"
 website: "https://www.coze.cn"
 price: "Free"
-priceCurrency: "CNY"
 faq:
   - q: "扣子需要翻墙吗？"
     a: "不需要，国内版 coze.cn 直连，手机号注册。"

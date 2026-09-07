@@ -4,8 +4,7 @@ description: "MiniMax's AI video generator with strong quality, direct access in
 translationKey: "hailuo"
 category: "Video Generation"
 website: "https://hailuoai.video"
-price: "Free / Pay-as-you-go"
-priceCurrency: "USD"
+price: "Free"
 faq:
   - q: "Is Hailuo available globally?"
     a: "Yes, accessible in most regions; MiniMax also offers direct access in China."

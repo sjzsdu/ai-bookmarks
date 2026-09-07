@@ -5,7 +5,6 @@ translationKey: "copilot"
 category: "Coding & Development"
 website: "https://github.com/features/copilot"
 price: "Free / $10"
-priceCurrency: "USD"
 faq:
   - q: "Is there a free tier?"
     a: "Free for students and some open-source contributors; paid plans otherwise."

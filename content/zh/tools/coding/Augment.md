@@ -5,7 +5,6 @@ translationKey: "augment"
 category: "编程与开发"
 website: "https://augmentcode.com"
 price: "Free / $30"
-priceCurrency: "USD"
 faq:
   - q: "Augment 和 Copilot 有什么不同？"
     a: "Augment 主打对整个代码库的深度理解，不只是当前文件，更适合大型项目。"

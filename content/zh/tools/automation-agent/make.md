@@ -5,7 +5,6 @@ translationKey: "make"
 category: "自动化与 Agent"
 website: "https://make.com"
 price: "Free / $9"
-priceCurrency: "USD"
 faq:
   - q: "和Zapier比怎么样？"
     a: "Make更灵活，可视化流程图，复杂工作流做得更好，价格也便宜。"

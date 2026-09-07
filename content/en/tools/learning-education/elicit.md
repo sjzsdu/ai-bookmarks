@@ -5,7 +5,6 @@ translationKey: "elicit"
 category: "Learning & Education"
 website: "https://elicit.com"
 price: "Free / $10"
-priceCurrency: "USD"
 faq:
   - q: "How is it different from Google Scholar?"
     a: "Elicit automatically extracts key findings, methods, and sample sizes — not just links."

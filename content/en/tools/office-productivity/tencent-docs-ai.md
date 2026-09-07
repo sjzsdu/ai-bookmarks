@@ -5,7 +5,6 @@ translationKey: "tencent-docs-ai"
 category: "Office & Productivity"
 website: "https://docs.qq.com"
 price: "Free"
-priceCurrency: "CNY"
 faq:
   - q: "Is Tencent Docs AI free?"
     a: "Basic AI features are free, some advanced features require membership."

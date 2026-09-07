@@ -5,7 +5,6 @@ translationKey: "luma-ai"
 category: "3D 与素材"
 website: "https://lumalabs.ai"
 price: "Free / $10"
-priceCurrency: "USD"
 faq:
   - q: "Luma AI 怎么用？"
     a: "用手机 App 围着物体拍一圈视频，它会自动重建出 3D 模型。"

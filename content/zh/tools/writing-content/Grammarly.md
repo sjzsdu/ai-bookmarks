@@ -5,7 +5,6 @@ translationKey: "grammarly"
 category: "写作与内容"
 website: "https://grammarly.com"
 price: "Free / $12"
-priceCurrency: "USD"
 faq:
   - q: "Grammarly 支持中文吗？"
     a: "不支持，只针对英文写作。中文写作建议用其他工具。"

@@ -5,7 +5,6 @@ translationKey: "smartcat"
 category: "翻译"
 website: "https://smartcat.com"
 price: "Free / $99"
-priceCurrency: "USD"
 faq:
   - q: "Smartcat 是什么？"
     a: "它是一个集 AI 翻译和人工翻译于一体的本地化平台，适合大型翻译项目。"

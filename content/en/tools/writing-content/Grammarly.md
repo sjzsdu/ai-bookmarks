@@ -5,7 +5,6 @@ translationKey: "grammarly"
 category: "Writing & Content"
 website: "https://grammarly.com"
 price: "Free / $12"
-priceCurrency: "USD"
 faq:
   - q: "Does Grammarly support Chinese?"
     a: "No, English only. For Chinese writing, use other tools."

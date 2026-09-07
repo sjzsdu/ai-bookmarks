@@ -5,7 +5,6 @@ translationKey: "duolingo"
 category: "Learning & Education"
 website: "https://duolingo.com"
 price: "Free / $7"
-priceCurrency: "USD"
 faq:
   - q: "Is the free tier enough?"
     a: "Yes, but there are ads and daily limits. Super removes both."

@@ -5,7 +5,6 @@ translationKey: "notionai"
 category: "写作与内容"
 website: "https://notion.so/product/ai"
 price: "Free / $10"
-priceCurrency: "USD"
 faq:
   - q: "Notion AI 需要单独付费吗？"
     a: "需要，在 Notion 订阅基础上额外 10 美元/月，或者免费版有有限次数。"

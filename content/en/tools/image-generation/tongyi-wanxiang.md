@@ -4,8 +4,7 @@ description: "Alibaba's Chinese image generation tool; direct access in China wi
 translationKey: "tongyi-wanxiang"
 category: "Image Generation"
 website: "https://tongyi.aliyun.com/wanxiang"
-price: "Free / Pay-as-you-go"
-priceCurrency: "CNY"
+price: "Free"
 faq:
   - q: "Does it need a VPN?"
     a: "No, direct access in China via Alibaba Cloud login."

@@ -5,7 +5,6 @@ translationKey: "trae"
 category: "编程与开发"
 website: "https://trae.ai"
 price: "Free"
-priceCurrency: "USD"
 faq:
   - q: "Trae 真的完全免费吗？"
     a: "目前阶段完全免费，AI 功能不限量，字节在推广期烧钱获客。"

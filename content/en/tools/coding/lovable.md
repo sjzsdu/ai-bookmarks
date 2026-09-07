@@ -5,7 +5,6 @@ translationKey: "lovable"
 category: "Coding & Development"
 website: "https://lovable.dev"
 price: "Free / $20"
-priceCurrency: "USD"
 faq:
   - q: "Is Lovable suitable for non-programmers?"
     a: "Yes. Users can describe a product in natural language and refine it through a visual preview."

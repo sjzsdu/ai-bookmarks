@@ -4,8 +4,7 @@ description: "Alibaba's coding assistant, best Chinese support, free for individ
 translationKey: "tongyi-lingma"
 category: "Coding & Development"
 website: "https://tongyi.aliyun.com/lingma"
-price: "Free / Custom pricing"
-priceCurrency: "CNY"
+price: "Free"
 faq:
   - q: "Does Tongyi Lingma need a VPN?"
     a: "No, direct access in China via Alibaba Cloud account."

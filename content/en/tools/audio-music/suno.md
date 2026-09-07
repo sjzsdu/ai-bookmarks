@@ -5,7 +5,6 @@ translationKey: "suno"
 category: "Audio & Music"
 website: "https://suno.com"
 price: "Free / $8+"
-priceCurrency: "USD"
 faq:
   - q: "Can I use Suno songs commercially?"
     a: "Paid tiers usually include commercial rights; check your plan terms."

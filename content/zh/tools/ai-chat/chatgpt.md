@@ -5,7 +5,6 @@ translationKey: "chatgpt"
 category: "AI 对话"
 website: "https://chat.openai.com"
 price: "Free / $20"
-priceCurrency: "USD"
 faq:
   - q: "ChatGPT 在国内能直接访问吗？"
     a: "不稳定，常需代理或第三方镜像；企业可通过 Azure OpenAI 合规调用。"

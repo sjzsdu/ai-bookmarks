@@ -4,8 +4,7 @@ description: "VS Code 开源 AI 扩展，免费且可自选模型，隐私控制
 translationKey: "cline"
 category: "编程与开发"
 website: "https://github.com/cline/cline"
-price: "Free"
-priceCurrency: "USD"
+price: "Free（开源）"
 faq:
   - q: "Cline 真的完全免费吗？"
     a: "扩展本身免费开源，但 AI 模型调用需要你自己提供 API Key（如 OpenAI、Anthropic）。"

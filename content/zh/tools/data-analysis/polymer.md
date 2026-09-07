@@ -5,7 +5,6 @@ translationKey: "polymer"
 category: "数据分析"
 website: "https://polymer.com"
 price: "Free / $20"
-priceCurrency: "USD"
 faq:
   - q: "Polymer 适合谁用？"
     a: "适合需要做数据分析但不会写代码的业务人员，界面很直观。"

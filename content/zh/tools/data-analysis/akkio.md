@@ -4,8 +4,7 @@ description: "面向业务团队的无代码预测分析平台，可用自然语
 translationKey: "akkio"
 category: "数据分析"
 website: "https://www.akkio.com"
-price: "定制价格"
-priceCurrency: "USD"
+price: "联系定价"
 faq:
   - q: "Akkio 需要机器学习经验吗？"
     a: "不需要，平台用无代码流程完成数据准备、建模、预测和报告。"

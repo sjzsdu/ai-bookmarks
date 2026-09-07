@@ -4,8 +4,7 @@ description: "Open-source Chinese platform for knowledge-base Q&A and visual age
 translationKey: "fastgpt"
 category: "Automation & Agent"
 website: "https://fastgpt.cn"
-price: "Free / Paid plans"
-priceCurrency: "CNY"
+price: "Free (open source)"
 faq:
   - q: "Can FastGPT be self-hosted?"
     a: "Yes. Its open-source edition supports self-hosting for teams with data-boundary requirements."

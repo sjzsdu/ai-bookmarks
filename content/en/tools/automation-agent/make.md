@@ -5,7 +5,6 @@ translationKey: "make"
 category: "Automation & Agent"
 website: "https://make.com"
 price: "Free / $9"
-priceCurrency: "USD"
 faq:
   - q: "How does it compare to Zapier?"
     a: "Make uses a visual flowchart editor that handles complex logic better and costs less."

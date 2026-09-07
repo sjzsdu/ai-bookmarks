@@ -5,7 +5,6 @@ translationKey: "flux"
 category: "Image Generation"
 website: "https://blackforestlabs.ai"
 price: "Free"
-priceCurrency: "USD"
 faq:
   - q: "Can Flux run locally?"
     a: "Yes, open weights run on local GPUs; ComfyUI packs make setup easier."

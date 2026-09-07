@@ -4,8 +4,7 @@ description: "生数科技出品的视频生成模型，多主体与长视频表
 translationKey: "vidu"
 category: "视频生成"
 website: "https://vidu.studio"
-price: "Free / 按量付费"
-priceCurrency: "CNY"
+price: "Free"
 faq:
   - q: "Vidu 在国内能用吗？"
     a: "可以，国内直连，有免费额度可体验。"

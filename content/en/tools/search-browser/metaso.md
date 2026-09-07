@@ -5,7 +5,6 @@ translationKey: "metaso"
 category: "Search & Browser"
 website: "https://metaso.cn"
 price: "Free"
-priceCurrency: "CNY"
 faq:
   - q: "Can I use it outside China?"
     a: "Yes, though it's optimized for Chinese language queries."

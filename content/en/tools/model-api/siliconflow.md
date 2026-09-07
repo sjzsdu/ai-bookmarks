@@ -4,8 +4,7 @@ description: "China-based AI inference platform; direct access, supports open-so
 translationKey: "siliconflow"
 category: "Model & API Platforms"
 website: "https://siliconflow.cn"
-price: "Free / Pay-as-you-go"
-priceCurrency: "CNY"
+price: "Free"
 faq:
   - q: "Can non-Chinese users access it?"
     a: "Yes, but it's optimized for the Chinese market with CNY billing."

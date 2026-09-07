@@ -5,7 +5,6 @@ translationKey: "fast-ai"
 category: "学习与教育"
 website: "https://course.fast.ai"
 price: "Free"
-priceCurrency: "USD"
 faq:
   - q: "需要什么基础？"
     a: "有Python基础就行，不需要数学背景。课程从实践开始。"

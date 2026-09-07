@@ -5,7 +5,6 @@ translationKey: "flowise"
 category: "自动化与 Agent"
 website: "https://flowiseai.com"
 price: "Free / $9"
-priceCurrency: "USD"
 faq:
   - q: "和LangChain什么关系？"
     a: "Flowise底层用LangChain，但提供可视化界面，不用写代码。"

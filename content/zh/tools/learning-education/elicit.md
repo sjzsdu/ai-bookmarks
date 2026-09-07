@@ -5,7 +5,6 @@ translationKey: "elicit"
 category: "学习与教育"
 website: "https://elicit.com"
 price: "Free / $10"
-priceCurrency: "USD"
 faq:
   - q: "和Google Scholar有什么区别？"
     a: "Elicit能自动总结论文内容、提取关键信息，不只是给链接。"

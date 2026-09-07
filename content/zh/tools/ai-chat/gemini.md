@@ -5,7 +5,6 @@ translationKey: "gemini"
 category: "AI 对话"
 website: "https://gemini.google.com"
 price: "Free / $20"
-priceCurrency: "USD"
 faq:
   - q: "Gemini 在国内能用吗？"
     a: "需代理访问，国内无法直连。"

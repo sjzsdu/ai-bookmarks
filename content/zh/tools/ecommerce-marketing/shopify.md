@@ -5,7 +5,6 @@ translationKey: "shopify"
 category: "电商与营销"
 website: "https://shopify.com"
 price: "$39 起"
-priceCurrency: "USD"
 faq:
   - q: "Shopify 适合国内电商吗？"
     a: "主要面向海外电商，如果做跨境电商很合适。国内电商建议用淘宝/拼多多服务市场。"

@@ -5,7 +5,6 @@ translationKey: "replit"
 category: "Coding & Development"
 website: "https://replit.com"
 price: "Free / $25"
-priceCurrency: "USD"
 faq:
   - q: "Can I deploy apps on Replit?"
     a: "Yes, built-in deployment with custom domain support."

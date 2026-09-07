@@ -5,7 +5,6 @@ translationKey: "pika"
 category: "视频生成"
 website: "https://pika.art"
 price: "Free / $8+"
-priceCurrency: "USD"
 faq:
   - q: "Pika 在国内能用吗？"
     a: "网页版一般可直连，付费需境外卡。"

@@ -5,7 +5,6 @@ translationKey: "khan-academy"
 category: "学习与教育"
 website: "https://khanacademy.org"
 price: "Free / $44"
-priceCurrency: "USD"
 faq:
   - q: "课程真的免费吗？"
     a: "课程内容免费。Khanmigo AI家教需要付费，44美元/年。"

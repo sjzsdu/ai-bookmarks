@@ -5,7 +5,6 @@ translationKey: "copy-ai"
 category: "Writing & Content"
 website: "https://copy.ai"
 price: "Free / $49"
-priceCurrency: "USD"
 faq:
   - q: "Copy.ai vs Jasper — which is better?"
     a: "Copy.ai is lighter and easier for short copy; Jasper is more feature-rich for teams and brand management."

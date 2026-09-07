@@ -5,7 +5,6 @@ translationKey: "quizlet"
 category: "学习与教育"
 website: "https://quizlet.com"
 price: "Free / $8"
-priceCurrency: "USD"
 faq:
   - q: "和Anki比怎么样？"
     a: "Quizlet更简单易用，Anki自定义更强但学习曲线陡。"

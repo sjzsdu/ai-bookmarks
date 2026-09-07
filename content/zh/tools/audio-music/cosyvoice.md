@@ -5,7 +5,6 @@ translationKey: "cosyvoice"
 category: "音频与音乐"
 website: "https://github.com/FunAudioLLM/CosyVoice"
 price: "Free"
-priceCurrency: "USD"
 faq:
   - q: "CosyVoice 和 ChatTTS 比？"
     a: "多语种支持更好，中文自然度也很高；ChatTTS 在韵律控制上更灵活。"

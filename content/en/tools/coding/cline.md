@@ -4,8 +4,7 @@ description: "Open-source VS Code AI extension, free with your own API key, flex
 translationKey: "cline"
 category: "Coding & Development"
 website: "https://github.com/cline/cline"
-price: "Free"
-priceCurrency: "USD"
+price: "Free (open source)"
 faq:
   - q: "Is Cline really free?"
     a: "The extension is free and open source, but AI model calls require your own API key."

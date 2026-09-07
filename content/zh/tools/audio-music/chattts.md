@@ -5,7 +5,6 @@ translationKey: "chattts"
 category: "音频与音乐"
 website: "https://github.com/2noise/ChatTTS"
 price: "Free"
-priceCurrency: "USD"
 faq:
   - q: "ChatTTS 效果怎么样？"
     a: "中文自然度在开源 TTS 里算顶级，支持细粒度韵律控制。"

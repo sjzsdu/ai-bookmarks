@@ -5,7 +5,6 @@ translationKey: "luma-ai"
 category: "3D & Assets"
 website: "https://lumalabs.ai"
 price: "Free / $10"
-priceCurrency: "USD"
 faq:
   - q: "How do I use Luma AI?"
     a: "Use the phone app to shoot video around an object and it auto-reconstructs a 3D model."

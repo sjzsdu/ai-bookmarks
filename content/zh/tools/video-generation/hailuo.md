@@ -4,8 +4,7 @@ description: "MiniMax 出品的视频生成工具，国内直连，视频质量�
 translationKey: "hailuo"
 category: "视频生成"
 website: "https://hailuoai.video"
-price: "Free / 按量付费"
-priceCurrency: "USD"
+price: "Free"
 faq:
   - q: "Hailuo 在国内能用吗？"
     a: "可以，MiniMax 国内直连，手机号注册即可。"

@@ -4,8 +4,7 @@ description: "快手出品的视频生成模型，国内直连、长视频与人
 translationKey: "kling"
 category: "视频生成"
 website: "https://klingai.kuaishou.com"
-price: "Free / 按量付费"
-priceCurrency: "CNY"
+price: "Free"
 faq:
   - q: "可灵需要翻墙吗？"
     a: "不需要，国内直连，手机号注册即可。"

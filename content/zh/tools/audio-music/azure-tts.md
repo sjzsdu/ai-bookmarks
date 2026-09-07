@@ -4,8 +4,7 @@ description: "企业级语音合成，国内可通过世纪互联合规接入，
 translationKey: "azure-tts"
 category: "音频与音乐"
 website: "https://azure.microsoft.com/products/ai-services/text-to-speech"
-price: "按量付费"
-priceCurrency: "USD"
+price: "$4 / 百万字符起"
 faq:
   - q: "Azure TTS 在国内能用吗？"
     a: "可通过 Azure 中国（世纪互联）合规接入，人民币账单。"

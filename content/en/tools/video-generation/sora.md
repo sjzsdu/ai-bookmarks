@@ -5,7 +5,6 @@ translationKey: "sora"
 category: "Video Generation"
 website: "https://sora.com"
 price: "Free / $20"
-priceCurrency: "USD"
 faq:
   - q: "What makes Sora different?"
     a: "Best-in-class physics simulation — lighting, reflections, and motion look more real."

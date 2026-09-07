@@ -5,7 +5,6 @@ translationKey: "tldraw"
 category: "办公与效率"
 website: "https://tldraw.com"
 price: "Free"
-priceCurrency: "USD"
 faq:
   - q: "tldraw 的 AI 功能怎么用？"
     a: "画一个草图或线框，选中后让 AI 帮你美化、转成正式图表或生成代码。"

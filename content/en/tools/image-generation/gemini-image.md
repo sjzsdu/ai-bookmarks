@@ -4,8 +4,7 @@ description: "Gemini's built-in image model for conversational editing and consi
 translationKey: "gemini-image"
 category: "Image Generation"
 website: "https://aistudio.google.com"
-price: "Free / Pay-as-you-go"
-priceCurrency: "USD"
+price: "Free"
 faq:
   - q: "Is Nano Banana a standalone product?"
     a: "It is a popular nickname for Gemini's image capabilities, available through Gemini products and Google AI Studio."

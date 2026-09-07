@@ -5,7 +5,6 @@ translationKey: "kimi"
 category: "AI 对话"
 website: "https://kimi.moonshot.cn"
 price: "Free"
-priceCurrency: "CNY"
 faq:
   - q: "Kimi 需要翻墙吗？"
     a: "不需要，国内直连，手机号注册即可。"

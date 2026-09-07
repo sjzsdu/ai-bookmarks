@@ -5,7 +5,6 @@ translationKey: "elevenlabs"
 category: "Audio & Music"
 website: "https://elevenlabs.io"
 price: "Free / $5+"
-priceCurrency: "USD"
 faq:
   - q: "How good is the Chinese voice?"
     a: "Supports Chinese with high realism, though native models can feel more natural."

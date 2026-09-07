@@ -5,7 +5,6 @@ translationKey: "clipdrop"
 category: "设计与创意"
 website: "https://clipdrop.co"
 price: "Free / $9"
-priceCurrency: "USD"
 faq:
   - q: "Clipdrop 有哪些功能？"
     a: "抠图、清理图片杂物、图片放大、AI 生成、文字移除等十几个功能。"

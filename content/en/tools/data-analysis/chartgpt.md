@@ -5,7 +5,6 @@ translationKey: "chartgpt"
 category: "Data Analysis"
 website: "https://chartgpt.co"
 price: "Free / $10"
-priceCurrency: "USD"
 faq:
   - q: "What does ChartGPT do?"
     a: "Describe what you want to visualize in text, and it generates the corresponding chart automatically."

@@ -5,7 +5,6 @@ translationKey: "gamma"
 category: "办公与效率"
 website: "https://gamma.app"
 price: "Free / $10"
-priceCurrency: "USD"
 faq:
   - q: "Gamma 生成的 PPT 能导出吗？"
     a: "可以导出为 PDF、PPTX，也可以直接分享链接在线查看。"

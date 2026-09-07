@@ -4,8 +4,7 @@ description: "iFlytek's AI writing assistant, strong Chinese support, free with 
 translationKey: "iflytek-spark"
 category: "Writing & Content"
 website: "https://xinghuo.iflytek.com"
-price: "Free / Pay-as-you-go"
-priceCurrency: "CNY"
+price: "Free"
 faq:
   - q: "Does iFlytek Spark need a VPN?"
     a: "No, direct access in China. Register with phone number and start using."

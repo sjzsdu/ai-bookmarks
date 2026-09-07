@@ -4,8 +4,7 @@ description: "最大的开源模型库，下载和部署 AI 模型都在这个�
 translationKey: "huggingface"
 category: "模型与 API"
 website: "https://huggingface.co"
-price: "Free / 按量付费"
-priceCurrency: "USD"
+price: "Free"
 faq:
   - q: "能直接调用模型吗？"
     a: "可以，Inference API可以直接调用大部分开源模型。"

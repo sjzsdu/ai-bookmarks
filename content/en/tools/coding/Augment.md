@@ -5,7 +5,6 @@ translationKey: "augment"
 category: "Coding & Development"
 website: "https://augmentcode.com"
 price: "Free / $30"
-priceCurrency: "USD"
 faq:
   - q: "How is Augment different from Copilot?"
     a: "Augment focuses on understanding your entire codebase architecture, not just the current file."

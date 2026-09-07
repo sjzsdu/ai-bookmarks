@@ -4,8 +4,7 @@ description: "Kuaishou's video model; strong on long videos, character consisten
 translationKey: "kling"
 category: "Video Generation"
 website: "https://klingai.kuaishou.com"
-price: "Free / Pay-as-you-go"
-priceCurrency: "CNY"
+price: "Free"
 faq:
   - q: "Does Kling need a VPN?"
     a: "No, direct access in China with phone registration."

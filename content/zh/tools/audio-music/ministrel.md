@@ -4,8 +4,7 @@ description: "MiniMax 出品的音乐生成模型，中文歌曲生成效果好�
 translationKey: "ministrel"
 category: "音频与音乐"
 website: "https://minimaxi.com"
-price: "Free / 按量付费"
-priceCurrency: "USD"
+price: "Free"
 faq:
   - q: "MiniStrel 在国内能用吗？"
     a: "可以，MiniMax 国内直连，有免费额度。"

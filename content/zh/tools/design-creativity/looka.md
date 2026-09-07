@@ -5,7 +5,6 @@ translationKey: "looka"
 category: "设计与创意"
 website: "https://looka.com"
 price: "$20 起"
-priceCurrency: "USD"
 faq:
   - q: "Looka 生成的 Logo 能商用吗？"
     a: "购买后可以获得完整版权文件，可以商用。"

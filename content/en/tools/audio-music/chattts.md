@@ -5,7 +5,6 @@ translationKey: "chattts"
 category: "Audio & Music"
 website: "https://github.com/2noise/ChatTTS"
 price: "Free"
-priceCurrency: "USD"
 faq:
   - q: "How is the Chinese voice quality?"
     a: "Among the best open-source TTS for Chinese, with strong conversational feel."

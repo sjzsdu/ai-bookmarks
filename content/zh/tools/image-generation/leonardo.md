@@ -5,7 +5,6 @@ translationKey: "leonardo"
 category: "图像生成"
 website: "https://leonardo.ai"
 price: "Free / $12"
-priceCurrency: "USD"
 faq:
   - q: "Leonardo.ai 在国内能用吗？"
     a: "网页版可直连，订阅需境外支付。"

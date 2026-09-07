@@ -5,7 +5,6 @@ translationKey: "figma-ai"
 category: "Design & Creativity"
 website: "https://figma.com"
 price: "Free / $15"
-priceCurrency: "USD"
 faq:
   - q: "Is Figma AI a separate tool?"
     a: "No, it's built into Figma. You need to use Figma first."

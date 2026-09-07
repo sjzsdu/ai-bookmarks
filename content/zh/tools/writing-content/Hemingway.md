@@ -5,7 +5,6 @@ translationKey: "hemingway"
 category: "写作与内容"
 website: "https://hemingwayapp.com"
 price: "Free"
-priceCurrency: "USD"
 faq:
   - q: "Hemingway 是 AI 工具吗？"
     a: "更像写作辅助工具，用规则算法检查可读性，不是生成式 AI。"

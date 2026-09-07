@@ -5,7 +5,6 @@ translationKey: "removebg"
 category: "设计与创意"
 website: "https://removebg.com"
 price: "Free / $1.99"
-priceCurrency: "USD"
 faq:
   - q: "免费版有什么限制？"
     a: "免费版下载的是低分辨率，高清下载需要付费或用积分。"

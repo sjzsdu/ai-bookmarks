@@ -5,7 +5,6 @@ translationKey: "mem"
 category: "办公与效率"
 website: "https://mem.ai"
 price: "Free / $15"
-priceCurrency: "USD"
 faq:
   - q: "Mem 和 Notion 有什么区别？"
     a: "Mem 更轻量，主打 AI 自动整理和搜索，Notion 功能更全但需要自己组织。"

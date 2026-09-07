@@ -5,7 +5,6 @@ translationKey: "stable-diffusion"
 category: "图像生成"
 website: "https://stability.ai"
 price: "Free"
-priceCurrency: "USD"
 faq:
   - q: "Stable Diffusion 能在国内本地跑吗？"
     a: "可以，开源权重可下载到本地显卡运行，无需联网。"

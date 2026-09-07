@@ -4,8 +4,7 @@ description: "Chat with uploaded PDFs and office documents, with answers linked 
 translationKey: "chatdoc"
 category: "Office & Productivity"
 website: "https://chatdoc.com"
-price: "Free / Paid plans"
-priceCurrency: "USD"
+price: "Free"
 faq:
   - q: "What files does ChatDOC support?"
     a: "It focuses on PDFs and common office documents; current formats and size limits are listed in the product."

@@ -5,7 +5,6 @@ translationKey: "looka"
 category: "Design & Creativity"
 website: "https://looka.com"
 price: "From $20"
-priceCurrency: "USD"
 faq:
   - q: "Can I use Looka logos commercially?"
     a: "Yes, purchase includes full copyright files for commercial use."

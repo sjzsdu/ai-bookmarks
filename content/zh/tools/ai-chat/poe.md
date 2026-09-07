@@ -5,7 +5,6 @@ translationKey: "poe"
 category: "AI 对话"
 website: "https://poe.com"
 price: "Free / $20"
-priceCurrency: "USD"
 faq:
   - q: "Poe 在国内能用吗？"
     a: "需代理访问，国内无法直连。"

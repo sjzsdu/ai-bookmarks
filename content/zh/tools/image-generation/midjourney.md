@@ -5,7 +5,6 @@ translationKey: "midjourney"
 category: "图像生成"
 website: "https://www.midjourney.com"
 price: "$10 起"
-priceCurrency: "USD"
 faq:
   - q: "Midjourney 在国内怎么用？"
     a: "通过 Discord 或官网，需代理；订阅走境外支付。"

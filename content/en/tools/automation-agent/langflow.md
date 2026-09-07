@@ -4,8 +4,7 @@ description: "Visual drag-and-drop platform for building LLM applications, agent
 translationKey: "langflow"
 category: "Automation & Agent"
 website: "https://www.langflow.org"
-price: "Free / Paid plans"
-priceCurrency: "USD"
+price: "Free (open source)"
 faq:
   - q: "Does Langflow require coding?"
     a: "Basic flows use drag-and-drop components, while Python and custom components can extend complex logic."

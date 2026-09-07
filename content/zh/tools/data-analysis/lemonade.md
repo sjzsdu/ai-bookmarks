@@ -5,7 +5,6 @@ translationKey: "lemonade"
 category: "数据分析"
 website: "https://lemonade.io"
 price: "Free / $10"
-priceCurrency: "USD"
 faq:
   - q: "Lemonade 是什么？"
     a: "一个让你通过聊天对话来探索和分析数据的工具，不需要写 SQL 或代码。"

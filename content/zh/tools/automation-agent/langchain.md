@@ -4,8 +4,7 @@ description: "AI应用开发框架，用代码把大模型和各种工具串起�
 translationKey: "langchain"
 category: "自动化与 Agent"
 website: "https://langchain.com"
-price: "Free"
-priceCurrency: "USD"
+price: "Free（开源）"
 faq:
   - q: "能不写代码用吗？"
     a: "不能，LangChain是代码框架。想不写代码可以用Flowise或Dify。"

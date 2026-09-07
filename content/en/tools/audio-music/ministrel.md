@@ -4,8 +4,7 @@ description: "MiniMax's music generation model with strong Chinese song creation
 translationKey: "ministrel"
 category: "Audio & Music"
 website: "https://minimaxi.com"
-price: "Free / Pay-as-you-go"
-priceCurrency: "USD"
+price: "Free"
 faq:
   - q: "Is MiniStrel available in China?"
     a: "Yes, MiniMax is directly accessible in China with free credits."

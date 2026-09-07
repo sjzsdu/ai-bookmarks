@@ -4,8 +4,7 @@ description: "Shengshu AI's video model with strong multi-subject consistency an
 translationKey: "vidu"
 category: "Video Generation"
 website: "https://vidu.studio"
-price: "Free / Pay-as-you-go"
-priceCurrency: "CNY"
+price: "Free"
 faq:
   - q: "What is Vidu strong at?"
     a: "Multi-subject consistency and long-video coherence — characters stay stable."

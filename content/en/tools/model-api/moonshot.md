@@ -4,8 +4,7 @@ description: "The model API platform behind Kimi, offering long-context chat and
 translationKey: "moonshot"
 category: "Model & API Platforms"
 website: "https://platform.moonshot.cn"
-price: "Pay-as-you-go"
-priceCurrency: "CNY"
+price: "¥4 / 1M tokens"
 faq:
   - q: "How is Moonshot API related to Kimi?"
     a: "Both are provided by Moonshot AI; the platform exposes models to developers through APIs."

@@ -5,7 +5,6 @@ translationKey: "claude"
 category: "AI Chat"
 website: "https://claude.ai"
 price: "Free / $20"
-priceCurrency: "USD"
 faq:
   - q: "What is Claude best at?"
     a: "Long-document understanding, coding, and rigorous writing."

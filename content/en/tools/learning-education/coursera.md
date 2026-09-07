@@ -5,7 +5,6 @@ translationKey: "coursera"
 category: "Learning & Education"
 website: "https://coursera.org"
 price: "Free / $49"
-priceCurrency: "USD"
 faq:
   - q: "Can I audit courses for free?"
     a: "Yes, most courses can be audited for free. Certificates require payment."

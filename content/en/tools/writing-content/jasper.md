@@ -5,7 +5,6 @@ translationKey: "jasper"
 category: "Writing & Content"
 website: "https://jasper.ai"
 price: "Free / $49"
-priceCurrency: "USD"
 faq:
   - q: "Does Jasper work for Chinese content?"
     a: "English is its strength, Chinese support is limited. Consider domestic alternatives for Chinese."

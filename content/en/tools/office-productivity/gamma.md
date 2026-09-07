@@ -5,7 +5,6 @@ translationKey: "gamma"
 category: "Office & Productivity"
 website: "https://gamma.app"
 price: "Free / $10"
-priceCurrency: "USD"
 faq:
   - q: "Can I export Gamma presentations?"
     a: "Yes, export to PDF, PPTX, or share a live link."

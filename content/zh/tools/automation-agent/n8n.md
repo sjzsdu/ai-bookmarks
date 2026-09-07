@@ -4,8 +4,7 @@ description: "开源工作流自动化，可自托管，把AI接进业务系统�
 translationKey: "n8n"
 category: "自动化与 Agent"
 website: "https://n8n.io"
-price: "Free / 付费方案"
-priceCurrency: "EUR"
+price: "Free（开源）"
 faq:
   - q: "n8n能自己部署吗？"
     a: "可以，开源版可自托管，数据留在本机或自有服务器。"

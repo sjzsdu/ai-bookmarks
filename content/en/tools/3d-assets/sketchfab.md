@@ -5,7 +5,6 @@ translationKey: "sketchfab"
 category: "3D & Assets"
 website: "https://sketchfab.com"
 price: "Free / $12"
-priceCurrency: "USD"
 faq:
   - q: "Can I preview models online?"
     a: "Yes, Sketchfab has an online 3D viewer — rotate and inspect models without downloading anything."

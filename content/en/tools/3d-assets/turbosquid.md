@@ -5,7 +5,6 @@ translationKey: "turbosquid"
 category: "3D & Assets"
 website: "https://turbosquid.com"
 price: "Free / $9"
-priceCurrency: "USD"
 faq:
   - q: "How's the model quality on TurboSquid?"
     a: "Varies widely. Look for CheckMate certified models for quality guarantees."

@@ -5,7 +5,6 @@ translationKey: "tencent-docs-ai"
 category: "办公与效率"
 website: "https://docs.qq.com"
 price: "Free"
-priceCurrency: "CNY"
 faq:
   - q: "腾讯文档 AI 要钱吗？"
     a: "基础 AI 功能免费，部分高级功能需要会员。"

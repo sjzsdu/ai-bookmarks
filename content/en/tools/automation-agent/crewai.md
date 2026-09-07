@@ -5,7 +5,6 @@ translationKey: "crewai"
 category: "Automation & Agent"
 website: "https://crewai.com"
 price: "Free / $50"
-priceCurrency: "USD"
 faq:
   - q: "How is it different from AutoGen?"
     a: "CrewAI emphasizes role-based task orchestration; AutoGen is more conversational."

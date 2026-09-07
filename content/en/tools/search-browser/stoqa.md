@@ -5,7 +5,6 @@ translationKey: "stoqa"
 category: "Search & Browser"
 website: "https://stoqa.com"
 price: "Free"
-priceCurrency: "USD"
 faq:
   - q: "How is it different from regular browsers?"
     a: "AI features are built in — page summaries, search, and translation without extensions."

@@ -5,7 +5,6 @@ translationKey: "elevenlabs"
 category: "音频与音乐"
 website: "https://elevenlabs.io"
 price: "Free / $5+"
-priceCurrency: "USD"
 faq:
   - q: "ElevenLabs 在国内能用吗？"
     a: "网页版可直连，订阅需境外支付。"

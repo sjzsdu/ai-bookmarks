@@ -4,8 +4,7 @@ description: "快手可灵出品的 AI 图像生成，中文提示词理解好�
 translationKey: "kling-image"
 category: "图像生成"
 website: "https://klingai.com"
-price: "Free / 按量付费"
-priceCurrency: "CNY"
+price: "Free"
 faq:
   - q: "可灵图像和可灵视频是同一个吗？"
     a: "同一平台（klingai.com）提供图像和视频生成，账号通用。"

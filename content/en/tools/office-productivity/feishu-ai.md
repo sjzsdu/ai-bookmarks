@@ -5,7 +5,6 @@ translationKey: "feishu-ai"
 category: "Office & Productivity"
 website: "https://feishu.cn"
 price: "Free"
-priceCurrency: "CNY"
 faq:
   - q: "Is Feishu AI free?"
     a: "Basic AI features free, enterprise plans offer more AI quota and advanced features."

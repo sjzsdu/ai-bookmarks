@@ -5,7 +5,6 @@ translationKey: "mode"
 category: "数据分析"
 website: "https://mode.com"
 price: "Free / $25"
-priceCurrency: "USD"
 faq:
   - q: "Mode 适合什么人用？"
     a: "适合需要写 SQL 做分析的数据分析师和商业分析师。"

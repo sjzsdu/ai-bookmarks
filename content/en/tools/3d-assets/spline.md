@@ -5,7 +5,6 @@ translationKey: "spline"
 category: "3D & Assets"
 website: "https://spline.design"
 price: "Free / $7"
-priceCurrency: "USD"
 faq:
   - q: "Do I need to install software?"
     a: "No. It runs entirely in the browser. There's also a desktop version."

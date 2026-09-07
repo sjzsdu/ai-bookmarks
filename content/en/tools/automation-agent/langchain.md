@@ -4,8 +4,7 @@ description: "The go-to framework for building AI applications that connect LLMs
 translationKey: "langchain"
 category: "Automation & Agent"
 website: "https://langchain.com"
-price: "Free"
-priceCurrency: "USD"
+price: "Free (open source)"
 faq:
   - q: "Do I need to code?"
     a: "Yes, LangChain is a code framework. For no-code alternatives, try Flowise or Dify."

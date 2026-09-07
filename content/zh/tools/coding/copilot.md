@@ -5,7 +5,6 @@ translationKey: "copilot"
 category: "编程与开发"
 website: "https://github.com/features/copilot"
 price: "Free / $10"
-priceCurrency: "USD"
 faq:
   - q: "Copilot 在国内能用吗？"
     a: "GitHub 国内可访问，订阅需境外支付；企业可走 Visual Studio 企业授权。"

@@ -5,7 +5,6 @@ translationKey: "sora"
 category: "视频生成"
 website: "https://sora.com"
 price: "Free / $20"
-priceCurrency: "USD"
 faq:
   - q: "Sora 在国内能用吗？"
     a: "需代理访问，订阅需要境外支付。"

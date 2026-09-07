@@ -4,8 +4,7 @@ description: "Enterprise-grade speech synthesis, stable with SLA and custom voic
 translationKey: "azure-tts"
 category: "Audio & Music"
 website: "https://azure.microsoft.com/products/ai-services/text-to-speech"
-price: "Pay-as-you-go"
-priceCurrency: "USD"
+price: "$4 / 1M characters"
 faq:
   - q: "Is Azure TTS available in China?"
     a: "Yes, via Azure China (21Vianet) with RMB billing and compliance."

@@ -5,7 +5,6 @@ translationKey: "deepl"
 category: "Translation"
 website: "https://deepl.com"
 price: "Free / $9"
-priceCurrency: "USD"
 faq:
   - q: "Is DeepL better than Google Translate?"
     a: "For European languages, noticeably yes. The translations sound more natural. For Chinese, the difference is smaller."

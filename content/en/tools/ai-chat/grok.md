@@ -5,7 +5,6 @@ translationKey: "grok"
 category: "AI Chat"
 website: "https://grok.x.ai"
 price: "Free / $16"
-priceCurrency: "USD"
 faq:
   - q: "Is Grok free?"
     a: "Basic access available; full features require X Premium+ (~16 USD/month)."

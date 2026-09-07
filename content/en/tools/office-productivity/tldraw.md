@@ -5,7 +5,6 @@ translationKey: "tldraw"
 category: "Office & Productivity"
 website: "https://tldraw.com"
 price: "Free"
-priceCurrency: "USD"
 faq:
   - q: "How do I use tldraw's AI features?"
     a: "Draw a sketch or wireframe, select it, and let AI beautify it into a formal diagram or generate code."

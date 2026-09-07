@@ -5,7 +5,6 @@ translationKey: "meshy"
 category: "3D & Assets"
 website: "https://meshy.ai"
 price: "Free / $20"
-priceCurrency: "USD"
 faq:
   - q: "What can Meshy generate?"
     a: "Enter text descriptions or images and it auto-generates 3D models with textures."

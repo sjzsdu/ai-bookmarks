@@ -5,7 +5,6 @@ translationKey: "doubao"
 category: "AI Chat"
 website: "https://www.doubao.com"
 price: "Free"
-priceCurrency: "CNY"
 faq:
   - q: "Is Doubao free?"
     a: "Yes, free with phone registration, direct access in China."

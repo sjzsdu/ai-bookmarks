@@ -5,7 +5,6 @@ translationKey: "leonardo"
 category: "Image Generation"
 website: "https://leonardo.ai"
 price: "Free / $12"
-priceCurrency: "USD"
 faq:
   - q: "Can I train my own model?"
     a: "Yes, Leonardo supports LoRA fine-tuning for custom styles."

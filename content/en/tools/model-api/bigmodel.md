@@ -4,8 +4,7 @@ description: "The Chinese model platform behind ChatGLM, providing APIs for the 
 translationKey: "bigmodel"
 category: "Model & API Platforms"
 website: "https://open.bigmodel.cn"
-price: "Free / Pay-as-you-go"
-priceCurrency: "CNY"
+price: "Free"
 faq:
   - q: "What capabilities does BigModel provide?"
     a: "It offers GLM language and multimodal models plus embedding, image, and application APIs."

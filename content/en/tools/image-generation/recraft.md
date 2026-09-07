@@ -5,7 +5,6 @@ translationKey: "recraft"
 category: "Image Generation"
 website: "https://www.recraft.ai"
 price: "Free / $12"
-priceCurrency: "USD"
 faq:
   - q: "Can Recraft generate vector graphics?"
     a: "Yes. It supports vector-style generation and SVG export for icons and brand assets."

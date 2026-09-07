@@ -4,8 +4,7 @@ description: "ByteDance's AI creative design platform for Seedream-powered comme
 translationKey: "jimeng-design"
 category: "Design & Creativity"
 website: "https://jimeng.jianying.com"
-price: "Free / Paid plans"
-priceCurrency: "CNY"
+price: "Free"
 faq:
   - q: "What creative tasks suit Jimeng Design?"
     a: "It fits posters, ecommerce assets, social graphics, concept art, and pre-production for short videos."

@@ -5,7 +5,6 @@ translationKey: "seedance"
 category: "视频生成"
 website: "https://jimeng.jianying.com"
 price: "Free"
-priceCurrency: "CNY"
 faq:
   - q: "即梦支持哪些视频生成方式？"
     a: "支持文生视频、图生视频，以及围绕首尾帧、运镜和画面风格的创作。"

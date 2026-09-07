@@ -4,8 +4,7 @@ description: "上传 PDF 和办公文档后进行对话问答，并定位答案�
 translationKey: "chatdoc"
 category: "办公与效率"
 website: "https://chatdoc.com"
-price: "Free / 付费方案"
-priceCurrency: "USD"
+price: "Free"
 faq:
   - q: "ChatDOC 支持哪些文件？"
     a: "主要支持 PDF 和常见办公文档，具体格式与文件大小限制以产品页面为准。"

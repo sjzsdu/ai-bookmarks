@@ -5,7 +5,6 @@ translationKey: "bolt"
 category: "编程与开发"
 website: "https://bolt.new"
 price: "Free / $20"
-priceCurrency: "USD"
 faq:
   - q: "Bolt 能生成什么类型的应用？"
     a: "支持 React、Vue、Next.js 等主流框架，能生成前后端完整的全栈应用。"

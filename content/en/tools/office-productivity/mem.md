@@ -5,7 +5,6 @@ translationKey: "mem"
 category: "Office & Productivity"
 website: "https://mem.ai"
 price: "Free / $15"
-priceCurrency: "USD"
 faq:
   - q: "How is Mem different from Notion?"
     a: "Mem is lighter, focused on AI auto-organization and search. Notion is more feature-rich but requires manual organization."

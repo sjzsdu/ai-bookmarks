@@ -4,8 +4,7 @@ description: "Ultra-fast AI inference using custom LPU chips — free tier inclu
 translationKey: "groq"
 category: "Model & API Platforms"
 website: "https://groq.com"
-price: "Free / Pay-as-you-go"
-priceCurrency: "USD"
+price: "Free"
 faq:
   - q: "Why is it so fast?"
     a: "Groq uses custom LPU chips instead of GPUs, achieving extremely low inference latency."

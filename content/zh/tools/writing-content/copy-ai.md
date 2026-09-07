@@ -5,7 +5,6 @@ translationKey: "copy-ai"
 category: "写作与内容"
 website: "https://copy.ai"
 price: "Free / $49"
-priceCurrency: "USD"
 faq:
   - q: "Copy.ai 和 Jasper 哪个好？"
     a: "Copy.ai 更轻量易上手，适合短文案；Jasper 功能更全，适合团队和品牌管理。"

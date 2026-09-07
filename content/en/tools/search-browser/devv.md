@@ -5,7 +5,6 @@ translationKey: "devv"
 category: "Search & Browser"
 website: "https://devv.ai"
 price: "Free / $20"
-priceCurrency: "USD"
 faq:
   - q: "How does it compare to Phind?"
     a: "Devv has better Chinese technical content support; Phind has more English resources."

@@ -5,7 +5,6 @@ translationKey: "seedance"
 category: "Video Generation"
 website: "https://jimeng.jianying.com"
 price: "Free"
-priceCurrency: "CNY"
 faq:
   - q: "What video generation modes does Jimeng support?"
     a: "It supports text-to-video, image-to-video, and controls for key frames, camera movement, and style."

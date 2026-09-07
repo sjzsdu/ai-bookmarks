@@ -5,7 +5,6 @@ translationKey: "polyhaven"
 category: "3D 与素材"
 website: "https://polyhaven.com"
 price: "Free"
-priceCurrency: "USD"
 faq:
   - q: "Poly Haven 真的完全免费吗？"
     a: "是的，所有素材都是 CC0 协议，可以商用，不需要署名。"

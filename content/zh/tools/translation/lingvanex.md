@@ -5,7 +5,6 @@ translationKey: "lingvanex"
 category: "翻译"
 website: "https://lingvanex.com"
 price: "Free / $10"
-priceCurrency: "USD"
 faq:
   - q: "Lingvanex 有中文版吗？"
     a: "有，支持中文翻译，但主要面向海外市场。"

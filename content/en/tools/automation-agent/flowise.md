@@ -5,7 +5,6 @@ translationKey: "flowise"
 category: "Automation & Agent"
 website: "https://flowiseai.com"
 price: "Free / $9"
-priceCurrency: "USD"
 faq:
   - q: "What's the relationship to LangChain?"
     a: "Flowise uses LangChain under the hood but provides a visual interface so you don't write code."

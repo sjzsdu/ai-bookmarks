@@ -5,7 +5,6 @@ translationKey: "klaviyo"
 category: "电商与营销"
 website: "https://klaviyo.com"
 price: "Free / $20"
-priceCurrency: "USD"
 faq:
   - q: "Klaviyo 适合国内用吗？"
     a: "主要面向海外市场，如果做跨境电商很合适。国内电商用得少。"

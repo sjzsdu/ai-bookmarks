@@ -5,7 +5,6 @@ translationKey: "obviously-ai"
 category: "Data Analysis"
 website: "https://obviously.ai"
 price: "Free / $75"
-priceCurrency: "USD"
 faq:
   - q: "What can Obviously AI do?"
     a: "Upload data, pick what you want to predict, and it automatically trains a model and gives you results."

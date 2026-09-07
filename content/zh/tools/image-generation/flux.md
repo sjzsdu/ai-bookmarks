@@ -5,7 +5,6 @@ translationKey: "flux"
 category: "图像生成"
 website: "https://blackforestlabs.ai"
 price: "Free"
-priceCurrency: "USD"
 faq:
   - q: "Flux 能在国内本地跑吗？"
     a: "可以，开源权重可下载到本地显卡运行；也有 ComfyUI 等整合包降低门槛。"

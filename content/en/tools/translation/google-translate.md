@@ -5,7 +5,6 @@ translationKey: "google-translate"
 category: "Translation"
 website: "https://translate.google.com"
 price: "Free"
-priceCurrency: "USD"
 faq:
   - q: "Is Google Translate accurate enough for professional use?"
     a: "For quick understanding, yes. For formal documents, use DeepL or human translation."

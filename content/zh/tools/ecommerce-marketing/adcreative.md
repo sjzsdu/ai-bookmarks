@@ -5,7 +5,6 @@ translationKey: "adcreative"
 category: "电商与营销"
 website: "https://adcreative.ai"
 price: "$29 起"
-priceCurrency: "USD"
 faq:
   - q: "AdCreative.ai 能生成什么？"
     a: "自动生成广告图片、视频素材、文案，支持 Facebook、Google、TikTok 等平台。"

@@ -4,8 +4,7 @@ description: "阿里出品的国产编程助手，国内直连、中文友好、
 translationKey: "tongyi-lingma"
 category: "编程与开发"
 website: "https://tongyi.aliyun.com/lingma"
-price: "Free / 定制价格"
-priceCurrency: "CNY"
+price: "Free"
 faq:
   - q: "通义灵码需要翻墙吗？"
     a: "不需要，国内直连，阿里云账号登录即可。"

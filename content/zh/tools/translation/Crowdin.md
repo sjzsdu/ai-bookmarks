@@ -5,7 +5,6 @@ translationKey: "crowdin"
 category: "翻译"
 website: "https://crowdin.com"
 price: "Free / $40"
-priceCurrency: "USD"
 faq:
   - q: "Crowdin 是翻译工具吗？"
     a: "它是本地化项目管理平台，适合团队协作翻译，不是个人翻译工具。"

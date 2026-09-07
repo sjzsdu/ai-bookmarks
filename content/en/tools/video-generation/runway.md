@@ -5,7 +5,6 @@ translationKey: "runway"
 category: "Video Generation"
 website: "https://runwayml.com"
 price: "Free / $12+"
-priceCurrency: "USD"
 faq:
   - q: "What can Runway do?"
     a: "Text-to-video, image-to-video, object removal, frame interpolation, and 100+ AI effects."

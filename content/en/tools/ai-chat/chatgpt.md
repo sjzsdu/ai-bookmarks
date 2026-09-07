@@ -5,7 +5,6 @@ translationKey: "chatgpt"
 category: "AI Chat"
 website: "https://chat.openai.com"
 price: "Free / $20"
-priceCurrency: "USD"
 faq:
   - q: "Is ChatGPT free?"
     a: "Yes, a free tier exists; Plus costs ~20 USD/month for higher limits and GPT-4o."

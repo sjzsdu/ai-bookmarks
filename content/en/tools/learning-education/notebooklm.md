@@ -5,7 +5,6 @@ translationKey: "notebooklm"
 category: "Learning & Education"
 website: "https://notebooklm.google.com"
 price: "Free / $20"
-priceCurrency: "USD"
 faq:
   - q: "Does NotebookLM cite its sources?"
     a: "Yes. Answers link back to supporting passages in the sources you provide."

@@ -5,7 +5,6 @@ translationKey: "shopify"
 category: "E-commerce & Marketing"
 website: "https://shopify.com"
 price: "From $39"
-priceCurrency: "USD"
 faq:
   - q: "Is Shopify good for selling in China?"
     a: "Not really. Shopify is designed for international markets. Use Taobao/Pinduoduo ecosystem for domestic China."

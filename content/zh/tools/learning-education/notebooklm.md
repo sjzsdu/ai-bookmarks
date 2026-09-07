@@ -5,7 +5,6 @@ translationKey: "notebooklm"
 category: "学习与教育"
 website: "https://notebooklm.google.com"
 price: "Free / $20"
-priceCurrency: "USD"
 faq:
   - q: "NotebookLM 会引用资料来源吗？"
     a: "会，回答会关联到用户上传资料中的引用位置，便于回查。"

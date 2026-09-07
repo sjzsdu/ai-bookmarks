@@ -5,7 +5,6 @@ translationKey: "you"
 category: "搜索与浏览器"
 website: "https://you.com"
 price: "Free / $15"
-priceCurrency: "USD"
 faq:
   - q: "和Perplexity比怎么样？"
     a: "功能类似，但You.com更注重隐私，可以选不追踪搜索历史。"

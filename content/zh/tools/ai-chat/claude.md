@@ -5,7 +5,6 @@ translationKey: "claude"
 category: "AI 对话"
 website: "https://claude.ai"
 price: "Free / $20"
-priceCurrency: "USD"
 faq:
   - q: "Claude 在国内能用吗？"
     a: "官网同样依赖代理；合规调用可走 AWS Bedrock 或 Azure。"

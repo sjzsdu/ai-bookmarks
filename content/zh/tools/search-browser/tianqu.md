@@ -5,7 +5,6 @@ translationKey: "tianqu"
 category: "搜索与浏览器"
 website: "https://www.tiangong.cn"
 price: "Free"
-priceCurrency: "CNY"
 faq:
   - q: "和秘塔搜索比怎么样？"
     a: "功能类似，天工界面更简洁，但搜索深度略逊。"

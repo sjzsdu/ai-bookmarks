@@ -5,7 +5,6 @@ translationKey: "bark"
 category: "音频与音乐"
 website: "https://github.com/suno-ai/bark"
 price: "Free"
-priceCurrency: "USD"
 faq:
   - q: "Bark 能在国内本地跑吗？"
     a: "可以，开源模型下载到本地运行，无需联网。"

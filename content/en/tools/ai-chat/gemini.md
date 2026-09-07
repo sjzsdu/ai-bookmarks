@@ -5,7 +5,6 @@ translationKey: "gemini"
 category: "AI Chat"
 website: "https://gemini.google.com"
 price: "Free / $20"
-priceCurrency: "USD"
 faq:
   - q: "Is Gemini free?"
     a: "Yes, a free tier exists; Gemini Advanced costs ~20 USD/month."

@@ -5,7 +5,6 @@ translationKey: "duolingo"
 category: "学习与教育"
 website: "https://duolingo.com"
 price: "Free / $7"
-priceCurrency: "USD"
 faq:
   - q: "免费版够用吗？"
     a: "够用，但有广告且每天有次数限制。付费版体验更好。"

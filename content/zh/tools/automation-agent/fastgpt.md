@@ -4,8 +4,7 @@ description: "国产开源知识库问答与 Agent 编排平台，提供可视�
 translationKey: "fastgpt"
 category: "自动化与 Agent"
 website: "https://fastgpt.cn"
-price: "Free / 付费方案"
-priceCurrency: "CNY"
+price: "Free（开源）"
 faq:
   - q: "FastGPT 可以私有化部署吗？"
     a: "可以，开源版本支持自托管，适合对数据边界有要求的团队。"

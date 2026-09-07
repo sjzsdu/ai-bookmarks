@@ -5,7 +5,6 @@ translationKey: "jasper"
 category: "写作与内容"
 website: "https://jasper.ai"
 price: "Free / $49"
-priceCurrency: "USD"
 faq:
   - q: "Jasper 国内能用吗？"
     a: "可以访问，但 AI 调用走海外服务器，速度受影响，订阅需要外币卡。"

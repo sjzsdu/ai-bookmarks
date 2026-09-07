@@ -5,7 +5,6 @@ translationKey: "removebg"
 category: "Design & Creativity"
 website: "https://removebg.com"
 price: "Free / $1.99"
-priceCurrency: "USD"
 faq:
   - q: "What are the free tier limits?"
     a: "Free download is low-resolution, HD download requires payment or credits."

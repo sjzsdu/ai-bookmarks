@@ -4,8 +4,7 @@ description: "ByteDance's Seedream-powered platform for generating and editing v
 translationKey: "jimeng-image"
 category: "Image Generation"
 website: "https://jimeng.jianying.com"
-price: "Free / Paid plans"
-priceCurrency: "CNY"
+price: "Free"
 faq:
   - q: "What can Jimeng Image create?"
     a: "It generates images from text or references and supports inpainting, outpainting, and style exploration."

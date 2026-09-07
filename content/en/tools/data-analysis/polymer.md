@@ -5,7 +5,6 @@ translationKey: "polymer"
 category: "Data Analysis"
 website: "https://polymer.com"
 price: "Free / $20"
-priceCurrency: "USD"
 faq:
   - q: "Who is Polymer for?"
     a: "Business users who need data analysis but can't code. The interface is very intuitive."

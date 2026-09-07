@@ -5,7 +5,6 @@ translationKey: "quiver-3d"
 category: "3D & Assets"
 website: "https://quiver3d.com"
 price: "Free / $15"
-priceCurrency: "USD"
 faq:
   - q: "How does Quiver 3D differ from other AI 3D tools?"
     a: "Focuses on higher quality output — better textures and materials than competitors."

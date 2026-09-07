@@ -5,7 +5,6 @@ translationKey: "smartcat"
 category: "Translation"
 website: "https://smartcat.com"
 price: "Free / $99"
-priceCurrency: "USD"
 faq:
   - q: "What is Smartcat?"
     a: "An enterprise platform combining AI translation with human translation workflows for large-scale localization projects."

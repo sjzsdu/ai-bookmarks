@@ -5,7 +5,6 @@ translationKey: "hemingway"
 category: "Writing & Content"
 website: "https://hemingwayapp.com"
 price: "Free"
-priceCurrency: "USD"
 faq:
   - q: "Is Hemingway an AI tool?"
     a: "More of a writing assistant using rules-based algorithms for readability, not generative AI."

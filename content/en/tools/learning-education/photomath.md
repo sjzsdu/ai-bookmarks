@@ -5,7 +5,6 @@ translationKey: "photomath"
 category: "Learning & Education"
 website: "https://photomath.com"
 price: "Free / $10"
-priceCurrency: "USD"
 faq:
   - q: "How advanced can the math go?"
     a: "Handles basic through high school math well. Some calculus, but limited for advanced university math."

@@ -4,8 +4,7 @@ description: "No-code predictive analytics platform for exploring and forecastin
 translationKey: "akkio"
 category: "Data Analysis"
 website: "https://www.akkio.com"
-price: "Custom pricing"
-priceCurrency: "USD"
+price: "Contact for pricing"
 faq:
   - q: "Does Akkio require machine-learning experience?"
     a: "No. Its no-code workflow covers data preparation, modeling, prediction, and reporting."

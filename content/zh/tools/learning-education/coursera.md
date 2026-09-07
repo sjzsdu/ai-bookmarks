@@ -5,7 +5,6 @@ translationKey: "coursera"
 category: "学习与教育"
 website: "https://coursera.org"
 price: "Free / $49"
-priceCurrency: "USD"
 faq:
   - q: "课程能免费看吗？"
     a: "可以旁听，但要证书得付费。AI课程很多，斯坦福、DeepLearning.AI的课都不错。"

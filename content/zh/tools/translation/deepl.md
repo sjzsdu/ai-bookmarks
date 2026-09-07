@@ -5,7 +5,6 @@ translationKey: "deepl"
 category: "翻译"
 website: "https://deepl.com"
 price: "Free / $9"
-priceCurrency: "USD"
 faq:
   - q: "DeepL 在国内能用吗？"
     a: "可以直接访问，但偶尔会比较慢。建议使用免费版，付费版可以离线使用。"

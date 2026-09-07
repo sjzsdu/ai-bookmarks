@@ -5,7 +5,6 @@ translationKey: "merlin"
 category: "E-commerce & Marketing"
 website: "https://getmerlin.com"
 price: "Free / $19"
-priceCurrency: "USD"
 faq:
   - q: "What does Merlin do?"
     a: "Writes ad copy, social media posts, and email marketing content. Supports multiple marketing scenarios."

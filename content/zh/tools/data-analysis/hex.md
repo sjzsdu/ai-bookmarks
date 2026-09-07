@@ -5,7 +5,6 @@ translationKey: "hex"
 category: "数据分析"
 website: "https://hex.tech"
 price: "Free / $25"
-priceCurrency: "USD"
 faq:
   - q: "Hex 是什么？"
     a: "一个集 SQL、Python、可视化于一体的数据工作空间，支持 AI 辅助分析。"

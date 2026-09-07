@@ -4,8 +4,7 @@ description: "The GitHub of AI — largest open-source model hub with inference 
 translationKey: "huggingface"
 category: "Model & API Platforms"
 website: "https://huggingface.co"
-price: "Free / Pay-as-you-go"
-priceCurrency: "USD"
+price: "Free"
 faq:
   - q: "Can I run models directly?"
     a: "Yes, the Inference API lets you call most open-source models without hosting."

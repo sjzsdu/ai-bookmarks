@@ -5,7 +5,6 @@ translationKey: "sketchfab"
 category: "3D 与素材"
 website: "https://sketchfab.com"
 price: "Free / $12"
-priceCurrency: "USD"
 faq:
   - q: "Sketchfab 可以在线预览模型吗？"
     a: "可以，它有在线 3D 预览器，不需要下载就能看模型。"

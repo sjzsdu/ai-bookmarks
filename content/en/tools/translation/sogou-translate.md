@@ -5,7 +5,6 @@ translationKey: "sogou-translate"
 category: "Translation"
 website: "https://fanyi.sogou.com"
 price: "Free"
-priceCurrency: "CNY"
 faq:
   - q: "Is Sogou Translate available outside China?"
     a: "Yes, but it's mainly designed for Chinese users. The interface is in Chinese."
