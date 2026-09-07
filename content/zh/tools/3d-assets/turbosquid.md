@@ -4,8 +4,7 @@ description: "最大的 3D 模型交易市场"
 translationKey: "turbosquid"
 category: "3D 与素材"
 website: "https://turbosquid.com"
-price: "Free / From $9"
-priceCurrency: "USD"
+price: "Free / $9"
 faq:
   - q: "TurboSquid 上的模型质量怎么样？"
     a: "质量参差不齐，但有很多专业级的高质量模型。"
@@ -13,7 +12,6 @@ faq:
     a: "有，免费区有不少可用的模型。"
 ---
 
-# TurboSquid
 
 全球最大的 3D 模型市场。从免费到专业级都有，品类齐全。如果需要现成的 3D 模型，这里是首选。有 CheckMate 认证标记的模型质量有保障。
 

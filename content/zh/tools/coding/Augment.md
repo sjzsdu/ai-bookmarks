@@ -4,15 +4,13 @@ description: "AI 编程助手，主打对大型代码库的理解能力，能处
 translationKey: "augment"
 category: "编程与开发"
 website: "https://augmentcode.com"
-price: "Free / 30"
-priceCurrency: "USD"
+price: "Free / $30"
 faq:
   - q: "Augment 和 Copilot 有什么不同？"
     a: "Augment 主打对整个代码库的深度理解，不只是当前文件，更适合大型项目。"
   - q: "国内能用吗？"
     a: "可以访问但走海外服务器，订阅需要外币卡。"
 ---
-# Augment Code
 
 主打代码库理解的 AI 编程助手，号称能理解你整个项目的架构和依赖关系，而不只是当前打开的文件。对于维护大型老项目的开发者来说，这个定位有吸引力。
 

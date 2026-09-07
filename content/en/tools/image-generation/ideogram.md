@@ -4,15 +4,13 @@ description: "AI image generator known for accurate text rendering in images."
 translationKey: "ideogram"
 category: "Image Generation"
 website: "https://ideogram.ai"
-price: "Free / 20 USD"
-priceCurrency: "USD"
+price: "Free / $20"
 faq:
   - q: "How good is the text rendering?"
     a: "Best-in-class for putting readable text into images — logos, posters, signage."
   - q: "How does it compare to Midjourney?"
     a: "Better at text-in-image; slightly less stylization variety overall."
 ---
-# Ideogram
 
 Tackles the "garbled text" problem in AI images — text in generated pictures is accurate and readable, far better than most competitors.
 

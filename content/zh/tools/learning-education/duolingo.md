@@ -4,15 +4,13 @@ description: "AI驱动的语言学习App，游戏化设计让人上瘾。"
 translationKey: "duolingo"
 category: "学习与教育"
 website: "https://duolingo.com"
-price: "Free / 7 USD"
-priceCurrency: "USD"
+price: "Free / $7"
 faq:
   - q: "免费版够用吗？"
     a: "够用，但有广告且每天有次数限制。付费版体验更好。"
   - q: "能学中文吗？"
     a: "Duolingo有中文界面，但不教中文。支持英语、日语、韩语等几十种语言。"
 ---
-# Duolingo
 
 最流行的语言学习App，用游戏化的方式让你每天坚持学外语。
 

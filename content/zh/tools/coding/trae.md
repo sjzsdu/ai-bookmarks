@@ -5,14 +5,12 @@ translationKey: "trae"
 category: "编程与开发"
 website: "https://trae.ai"
 price: "Free"
-priceCurrency: "USD"
 faq:
   - q: "Trae 真的完全免费吗？"
     a: "目前阶段完全免费，AI 功能不限量，字节在推广期烧钱获客。"
   - q: "国内能用吗？"
     a: "国内直连，无需翻墙，阿里云/字节账号登录即可。"
 ---
-# Trae
 
 字节跳动推出的 AI IDE，基于 VS Code 架构，AI 功能完全免费。对中文开发者的支持比较用心，注释、需求理解、文档生成都针对中文做了优化。
 

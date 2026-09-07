@@ -4,15 +4,13 @@ description: "Google 学习研究助手，基于用户提供的资料回答问�
 translationKey: "notebooklm"
 category: "学习与教育"
 website: "https://notebooklm.google.com"
-price: "Free / 20 USD"
-priceCurrency: "USD"
+price: "Free / $20"
 faq:
   - q: "NotebookLM 会引用资料来源吗？"
     a: "会，回答会关联到用户上传资料中的引用位置，便于回查。"
   - q: "支持哪些资料？"
     a: "可导入常见文档、网页等来源，具体格式与数量限制以产品页面为准。"
 ---
-# NotebookLM
 
 NotebookLM 是 Google 的资料驱动型学习与研究助手。用户先添加自己的来源，它再围绕这些资料总结、回答问题、整理学习指南，并生成便于收听的音频概览。
 

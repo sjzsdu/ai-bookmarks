@@ -4,15 +4,13 @@ description: "xAI's chat model with strong real-time info from X/Twitter."
 translationKey: "grok"
 category: "AI Chat"
 website: "https://grok.x.ai"
-price: "Free / 16 USD"
-priceCurrency: "USD"
+price: "Free / $16"
 faq:
   - q: "Is Grok free?"
     a: "Basic access available; full features require X Premium+ (~16 USD/month)."
   - q: "How does it compare to ChatGPT?"
     a: "Stronger real-time info from X/Twitter; less mature feature ecosystem."
 ---
-# Grok
 
 xAI's chat model, deeply integrated with X/Twitter for strong real-time information. Direct, sometimes humorous response style.
 

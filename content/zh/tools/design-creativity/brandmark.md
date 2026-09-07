@@ -4,15 +4,13 @@ description: "AI Logo 生成器，设计质量高，生成的 Logo 更有设计�
 translationKey: "brandmark"
 category: "设计与创意"
 website: "https://brandmark.io"
-price: "从 $25 起"
-priceCurrency: "USD"
+price: "$25 起"
 faq:
   - q: "Brandmark 和 Looka 哪个好？"
     a: "Brandmark 设计质量更高，生成的 Logo 更有设计感；Looka 方案更多，上手更快。"
   - q: "支持中文品牌名吗？"
     a: "主要针对英文品牌，中文品牌名效果一般。"
 ---
-# Brandmark
 
 AI Logo 生成器，设计质量在同类工具里算比较高的。生成的 Logo 更有设计感和独特性，不是那种一看就是模板套出来的效果。
 

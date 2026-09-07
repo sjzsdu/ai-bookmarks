@@ -5,14 +5,12 @@ translationKey: "hemingway"
 category: "Writing & Content"
 website: "https://hemingwayapp.com"
 price: "Free"
-priceCurrency: "USD"
 faq:
   - q: "Is Hemingway an AI tool?"
     a: "More of a writing assistant using rules-based algorithms for readability, not generative AI."
   - q: "Does it support Chinese?"
     a: "No, English only."
 ---
-# Hemingway Editor
 
 Free English writing tool that uses color highlighting to help you write clearer, simpler text. Flags passive voice, long sentences, and excessive modifiers — makes your English read more naturally.
 

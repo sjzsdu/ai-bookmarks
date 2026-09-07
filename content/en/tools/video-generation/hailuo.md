@@ -4,15 +4,13 @@ description: "MiniMax's AI video generator with strong quality, direct access in
 translationKey: "hailuo"
 category: "Video Generation"
 website: "https://hailuoai.video"
-price: "Free / Pay-as-you-go"
-priceCurrency: "USD"
+price: "Free"
 faq:
   - q: "Is Hailuo available globally?"
     a: "Yes, accessible in most regions; MiniMax also offers direct access in China."
   - q: "How does it compare to Kling?"
     a: "Similar quality; Kling is stronger on longer videos and character consistency."
 ---
-# Hailuo AI
 
 MiniMax's AI video generator — top-tier quality among Chinese tools. Text-to-video and image-to-video with natural motion and varied camera language.
 

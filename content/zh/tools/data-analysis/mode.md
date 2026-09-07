@@ -4,8 +4,7 @@ description: "数据团队的分析和可视化平台"
 translationKey: "mode"
 category: "数据分析"
 website: "https://mode.com"
-price: "Free / 25 USD"
-priceCurrency: "USD"
+price: "Free / $25"
 faq:
   - q: "Mode 适合什么人用？"
     a: "适合需要写 SQL 做分析的数据分析师和商业分析师。"
@@ -13,7 +12,6 @@ faq:
     a: "有，免费版支持基础功能，适合个人使用。"
 ---
 
-# Mode
 
 数据分析老手的选择。Mode 让你写 SQL 查询，然后把结果可视化成图表和仪表板。比纯 SQL 工具多了可视化功能，比 BI 工具多了代码灵活性。适合数据分析师做日常分析。
 

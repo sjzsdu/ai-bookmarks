@@ -4,15 +4,13 @@ description: "Visual automation platform with flowchart-style workflows; more fl
 translationKey: "make"
 category: "Automation & Agent"
 website: "https://make.com"
-price: "Free / 9 USD"
-priceCurrency: "USD"
+price: "Free / $9"
 faq:
   - q: "How does it compare to Zapier?"
     a: "Make uses a visual flowchart editor that handles complex logic better and costs less."
   - q: "Is there a free tier?"
     a: "Yes, 1,000 operations per month."
 ---
-# Make
 
 Visual automation that uses flowcharts instead of linear steps — more flexible and often cheaper than Zapier.
 

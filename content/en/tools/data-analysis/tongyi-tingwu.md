@@ -5,7 +5,6 @@ translationKey: "tongyi-tingwu"
 category: "Data Analysis"
 website: "https://tingwu.aliyun.com"
 price: "Free"
-priceCurrency: "CNY"
 faq:
   - q: "Is Tongyi Tingwu free?"
     a: "Yes, completely free for Chinese and English transcription and analysis."
@@ -13,7 +12,6 @@ faq:
     a: "Very accurate for Chinese, supports various accents and dialects."
 ---
 
-# Tongyi Tingwu
 
 Alibaba DAMO Academy's meeting analysis tool. Upload a recording and it auto-transcribes to text, generates meeting minutes, and extracts action items. Excellent Chinese transcription accuracy, completely free.
 

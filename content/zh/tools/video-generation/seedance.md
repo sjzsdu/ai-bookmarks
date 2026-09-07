@@ -5,14 +5,12 @@ translationKey: "seedance"
 category: "视频生成"
 website: "https://jimeng.jianying.com"
 price: "Free"
-priceCurrency: "CNY"
 faq:
   - q: "即梦支持哪些视频生成方式？"
     a: "支持文生视频、图生视频，以及围绕首尾帧、运镜和画面风格的创作。"
   - q: "国内可以直接使用吗？"
     a: "可以，即梦面向中国用户提供网页和客户端服务，具体额度以平台为准。"
 ---
-# 即梦（Seedance）
 
 即梦是字节跳动旗下的 AI 创作平台，视频功能由 Seedance 等模型驱动，并与 Seedream 图像创作能力结合，适合从概念图快速延伸到动态内容。
 

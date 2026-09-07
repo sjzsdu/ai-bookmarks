@@ -5,14 +5,12 @@ translationKey: "doubao"
 category: "AI Chat"
 website: "https://www.doubao.com"
 price: "Free"
-priceCurrency: "CNY"
 faq:
   - q: "Is Doubao free?"
     a: "Yes, free with phone registration, direct access in China."
   - q: "What is it strong at?"
     a: "Natural Chinese conversation, integrated with Douyin for content creation."
 ---
-# Doubao
 
 ByteDance's AI chat assistant, free and direct-access in China. Well-integrated with Douyin, Feishu, and other ByteDance products.
 

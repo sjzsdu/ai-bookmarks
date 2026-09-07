@@ -5,14 +5,12 @@ translationKey: "ernie"
 category: "AI Chat"
 website: "https://yiyan.baidu.com"
 price: "Free"
-priceCurrency: "CNY"
 faq:
   - q: "Is ERNIE Bot available outside China?"
     a: "Primarily China-focused; global users typically use ChatGPT, Claude, or Gemini."
   - q: "How does it compare?"
     a: "Strong Chinese and local search integration; reasoning and English lag frontier models."
 ---
-# ERNIE Bot
 
 Baidu's Chinese large model (ERNIE), accessible in China without VPN, integrated with Baidu search, netdisk, and docs. Natural Chinese expression.
 

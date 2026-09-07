@@ -5,14 +5,12 @@ translationKey: "obsidian-copilot"
 category: "Writing & Content"
 website: "https://github.com/logancyang/obsidian-copilot"
 price: "Free (open source)"
-priceCurrency: "USD"
 faq:
   - q: "Is Obsidian Copilot free?"
     a: "The plugin is free and open source, but AI model calls require your own API key."
   - q: "Can it work offline?"
     a: "No, requires internet for AI calls, but can use local models like Ollama for offline use."
 ---
-# Obsidian Copilot
 
 Open-source AI plugin for Obsidian that lets you chat with AI in your knowledge base, reference current notes, search related docs, and generate content. Works well with Obsidian's linking and knowledge graph system.
 

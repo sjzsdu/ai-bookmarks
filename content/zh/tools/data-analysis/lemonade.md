@@ -4,8 +4,7 @@ description: "对话式数据探索和分析工具"
 translationKey: "lemonade"
 category: "数据分析"
 website: "https://lemonade.io"
-price: "Free / 10 USD"
-priceCurrency: "USD"
+price: "Free / $10"
 faq:
   - q: "Lemonade 是什么？"
     a: "一个让你通过聊天对话来探索和分析数据的工具，不需要写 SQL 或代码。"
@@ -13,7 +12,6 @@ faq:
     a: "支持 CSV、Excel、Google Sheets、数据库等。"
 ---
 
-# Lemonade
 
 像聊天一样探索数据。连接你的数据源后，用自然语言提问，Lemonade 会自动查询数据并给出可视化结果。比写 SQL 简单太多，适合数据分析师快速探索。
 

@@ -4,15 +4,13 @@ description: "OpenAI's flagship conversational AI; the most recognized AI entry 
 translationKey: "chatgpt"
 category: "AI Chat"
 website: "https://chat.openai.com"
-price: "Free / 20 USD"
-priceCurrency: "USD"
+price: "Free / $20"
 faq:
   - q: "Is ChatGPT free?"
     a: "Yes, a free tier exists; Plus costs ~20 USD/month for higher limits and GPT-4o."
   - q: "What are the main alternatives?"
     a: "Claude, Gemini, DeepSeek, and open-weight models like Llama."
 ---
-# ChatGPT
 
 OpenAI's conversational model — the most recognized AI entry point worldwide. Strong at writing, coding, translation, and brainstorming with the most complete feature ecosystem.
 

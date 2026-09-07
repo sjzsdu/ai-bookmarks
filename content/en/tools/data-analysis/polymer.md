@@ -4,8 +4,7 @@ description: "AI-powered data analysis and visualization platform"
 translationKey: "polymer"
 category: "Data Analysis"
 website: "https://polymer.com"
-price: "Free / 20 USD"
-priceCurrency: "USD"
+price: "Free / $20"
 faq:
   - q: "Who is Polymer for?"
     a: "Business users who need data analysis but can't code. The interface is very intuitive."
@@ -13,7 +12,6 @@ faq:
     a: "CSV, Excel, Google Sheets, Airtable, and more."
 ---
 
-# Polymer
 
 Turn your data into interactive dashboards. Upload your dataset and drag-and-drop your way to beautiful visualizations and dashboards. No coding required, no SQL needed — self-service analytics for business users.
 

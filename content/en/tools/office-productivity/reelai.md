@@ -4,15 +4,13 @@ description: "AI spreadsheet assistant, operate data with natural language inste
 translationKey: "reelai"
 category: "Office & Productivity"
 website: "https://reelai.com"
-price: "Free / 10"
-priceCurrency: "USD"
+price: "Free / $10"
 faq:
   - q: "What can Reelai do?"
     a: "Describe what you want to do with your spreadsheet (filter, aggregate, merge, chart) and AI does it automatically."
   - q: "Does it support Chinese?"
     a: "Supports Chinese commands, but interface is primarily English."
 ---
-# Reelai
 
 AI spreadsheet tool that lets you operate data with natural language — say "help me aggregate sales by month" and it auto-writes formulas and creates charts. No need to memorize Excel formulas.
 

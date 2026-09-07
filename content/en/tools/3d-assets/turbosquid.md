@@ -4,8 +4,7 @@ description: "Largest 3D model marketplace"
 translationKey: "turbosquid"
 category: "3D & Assets"
 website: "https://turbosquid.com"
-price: "Free / From $9"
-priceCurrency: "USD"
+price: "Free / $9"
 faq:
   - q: "How's the model quality on TurboSquid?"
     a: "Varies widely. Look for CheckMate certified models for quality guarantees."
@@ -13,7 +12,6 @@ faq:
     a: "Yes, there's a free section with decent options."
 ---
 
-# TurboSquid
 
 The world's largest 3D model marketplace. From free to professional-grade, covering every category. If you need ready-made 3D models, this is the first place to look. CheckMate certified models guarantee quality.
 

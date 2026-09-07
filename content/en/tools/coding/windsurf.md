@@ -4,15 +4,13 @@ description: "Codeium's AI IDE with generous free tier and built-in AI conversat
 translationKey: "windsurf"
 category: "Coding & Development"
 website: "https://codeium.com/windsurf"
-price: "Free / 15"
-priceCurrency: "USD"
+price: "Free / $15"
 faq:
   - q: "How does Windsurf compare to Cursor?"
     a: "Windsurf is lighter, has a more generous free tier, and is better for budget-conscious developers."
   - q: "Is there a free tier?"
     a: "Yes, the free tier includes a substantial amount of AI tokens each month."
 ---
-# Windsurf
 
 Codeium's AI IDE, built on VS Code architecture. Combines AI chat, code completion, and multi-file editing in one editor. The free tier gives you more tokens than most competitors.
 

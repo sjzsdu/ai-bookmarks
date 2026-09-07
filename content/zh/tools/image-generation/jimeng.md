@@ -4,15 +4,13 @@ description: "字节跳动 AI 图像创作平台，基于 Seedream 模型生成�
 translationKey: "jimeng-image"
 category: "图像生成"
 website: "https://jimeng.jianying.com"
-price: "Free / 付费方案"
-priceCurrency: "CNY"
+price: "Free"
 faq:
   - q: "即梦图像能做什么？"
     a: "可以根据文字或参考图生成图片，并完成局部重绘、扩图和风格探索。"
   - q: "是否适合中文创作？"
     a: "适合，Seedream 对中文提示词和本土视觉需求有较好的支持。"
 ---
-# 即梦图像
 
 即梦图像是字节跳动推出的 AI 图像创作服务，使用 Seedream 模型将中文描述、参考图和编辑指令转化为视觉素材，并可衔接即梦的视频生成流程。
 

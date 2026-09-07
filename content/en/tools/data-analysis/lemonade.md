@@ -4,8 +4,7 @@ description: "Conversational data exploration and analysis"
 translationKey: "lemonade"
 category: "Data Analysis"
 website: "https://lemonade.io"
-price: "Free / 10 USD"
-priceCurrency: "USD"
+price: "Free / $10"
 faq:
   - q: "What is Lemonade?"
     a: "A tool that lets you explore and analyze data through chat conversations instead of writing SQL."
@@ -13,7 +12,6 @@ faq:
     a: "CSV, Excel, Google Sheets, and databases."
 ---
 
-# Lemonade
 
 Explore data like you're chatting with someone. Connect your data source, ask questions in natural language, and Lemonade queries the data and shows visual results. Way easier than writing SQL for quick data exploration.
 

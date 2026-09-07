@@ -4,8 +4,7 @@ description: "High-quality AI 3D model generation"
 translationKey: "quiver-3d"
 category: "3D & Assets"
 website: "https://quiver3d.com"
-price: "Free / 15 USD"
-priceCurrency: "USD"
+price: "Free / $15"
 faq:
   - q: "How does Quiver 3D differ from other AI 3D tools?"
     a: "Focuses on higher quality output — better textures and materials than competitors."
@@ -13,7 +12,6 @@ faq:
     a: "Designers and developers who need quality 3D models without modeling skills."
 ---
 
-# Quiver 3D
 
 The quality-focused AI 3D generator. Models have better textures and materials than most competitors. Enter text descriptions or reference images to get solid 3D models without the hassle.
 

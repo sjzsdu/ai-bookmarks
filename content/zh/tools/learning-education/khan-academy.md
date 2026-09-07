@@ -4,15 +4,13 @@ description: "免费教育平台，Khanmigo AI家教能一对一辅导。"
 translationKey: "khan-academy"
 category: "学习与教育"
 website: "https://khanacademy.org"
-price: "Free / 44 USD"
-priceCurrency: "USD"
+price: "Free / $44"
 faq:
   - q: "课程真的免费吗？"
     a: "课程内容免费。Khanmigo AI家教需要付费，44美元/年。"
   - q: "适合什么年龄？"
     a: "从小学到大学都有，数学、科学、编程等科目。"
 ---
-# Khan Academy
 
 全世界最良心的教育平台，课程全免费，AI家教Khanmigo能一对一辅导。
 

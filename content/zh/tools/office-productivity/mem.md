@@ -4,15 +4,13 @@ description: "AI 笔记工具，自动整理和关联你的笔记，找信息不
 translationKey: "mem"
 category: "办公与效率"
 website: "https://mem.ai"
-price: "Free / 15"
-priceCurrency: "USD"
+price: "Free / $15"
 faq:
   - q: "Mem 和 Notion 有什么区别？"
     a: "Mem 更轻量，主打 AI 自动整理和搜索，Notion 功能更全但需要自己组织。"
   - q: "中文支持好吗？"
     a: "主要针对英文用户，中文支持有限。"
 ---
-# Mem
 
 AI 笔记工具，不需要你手动整理，AI 自动给笔记打标签、建立关联、生成摘要。找信息的时候用自然语言搜索就行，不用翻文件夹。
 

@@ -5,14 +5,12 @@ translationKey: "metaso"
 category: "搜索与浏览器"
 website: "https://metaso.cn"
 price: "Free"
-priceCurrency: "CNY"
 faq:
   - q: "需要翻墙吗？"
     a: "不需要，国内直连，手机号注册。"
   - q: "搜索质量怎么样？"
     a: "中文搜索比Perplexity强，英文搜索也还行。"
 ---
-# 秘塔搜索
 
 国内做得最好的AI搜索之一，中文问答质量高，搜索结果整合得很干净。
 

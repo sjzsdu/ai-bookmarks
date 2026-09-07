@@ -4,15 +4,13 @@ description: "Luma AI's video generator with natural camera movement and strong 
 translationKey: "luma"
 category: "Video Generation"
 website: "https://lumalabs.ai"
-price: "Free / 9.99 USD"
-priceCurrency: "USD"
+price: "Free / $9.99"
 faq:
   - q: "What is Luma strong at?"
     a: "Natural camera movement and 3D consistency — great for product and space videos."
   - q: "Is it accessible globally?"
     a: "Web app directly in most regions; subscription for more generations."
 ---
-# Luma Dream Machine
 
 Luma AI's video generator, excelling at natural camera movement and 3D consistency. Product showcases and spatial tours look better here than in most alternatives.
 

@@ -4,15 +4,13 @@ description: "AI 学术改写与同义改写工具，集成语法检查、摘要
 translationKey: "quillbot"
 category: "写作与内容"
 website: "https://quillbot.com"
-price: "Free / 20 USD"
-priceCurrency: "USD"
+price: "Free / $20"
 faq:
   - q: "QuillBot 最擅长什么？"
     a: "它擅长在保留原意的前提下调整句式、语气和用词，英文支持最成熟。"
   - q: "可以直接用于学术提交吗？"
     a: "应遵守学校或期刊的 AI 使用规则，并自行核对事实、引用和原创性。"
 ---
-# QuillBot
 
 QuillBot 以同义改写和学术写作辅助见长，可调整文本的流畅度、正式程度和篇幅，并把语法检查、摘要与引用工具集中在一个写作流程中。
 

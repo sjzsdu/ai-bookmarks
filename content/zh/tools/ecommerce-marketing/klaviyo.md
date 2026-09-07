@@ -4,8 +4,7 @@ description: "AI 驱动的邮件营销和用户运营平台"
 translationKey: "klaviyo"
 category: "电商与营销"
 website: "https://klaviyo.com"
-price: "Free / 20 USD"
-priceCurrency: "USD"
+price: "Free / $20"
 faq:
   - q: "Klaviyo 适合国内用吗？"
     a: "主要面向海外市场，如果做跨境电商很合适。国内电商用得少。"
@@ -13,7 +12,6 @@ faq:
     a: "智能发送时间、个性化推荐、流失预测、自动营销流程。"
 ---
 
-# Klaviyo
 
 跨境电商邮件营销的首选工具。用 AI 优化发送时间、个性化内容、预测用户行为。和 Shopify 集成很好，自动触发购物车 abandonment 邮件、欢迎流程等。
 

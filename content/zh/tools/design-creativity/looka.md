@@ -4,15 +4,13 @@ description: "AI Logo 生成器，描述品牌自动生成 Logo，一键出设�
 translationKey: "looka"
 category: "设计与创意"
 website: "https://looka.com"
-price: "一次性从 $20 起"
-priceCurrency: "USD"
+price: "$20 起"
 faq:
   - q: "Looka 生成的 Logo 能商用吗？"
     a: "购买后可以获得完整版权文件，可以商用。"
   - q: "国内能用吗？"
     a: "可以访问，但支付需要外币卡，生成走海外服务。"
 ---
-# Looka
 
 AI Logo 生成器，输入品牌名和行业，选几个喜欢的风格，AI 自动生成一堆 Logo 方案。比请设计师便宜很多，适合刚起步的公司。
 

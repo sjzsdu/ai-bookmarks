@@ -4,8 +4,7 @@ description: "AI 自动生成广告创意素材"
 translationKey: "adcreative"
 category: "电商与营销"
 website: "https://adcreative.ai"
-price: "From $29 USD"
-priceCurrency: "USD"
+price: "$29 起"
 faq:
   - q: "AdCreative.ai 能生成什么？"
     a: "自动生成广告图片、视频素材、文案，支持 Facebook、Google、TikTok 等平台。"
@@ -13,7 +12,6 @@ faq:
     a: "生成的素材质量中等偏上，适合快速测试，但精细设计还是需要人工。"
 ---
 
-# AdCreative.ai
 
 不想花钱请设计师？AdCreative.ai 用 AI 帮你生成广告图片和视频素材。输入产品信息，它会自动生成适合不同平台（Facebook、Google、TikTok）的广告素材。
 

@@ -4,15 +4,13 @@ description: "Official API for Claude models — strong safety and 200K context 
 translationKey: "anthropic-api"
 category: "Model & API Platforms"
 website: "https://console.anthropic.com"
-price: "Pay-as-you-go"
-priceCurrency: "USD"
+price: "$0.80 / 1M tokens"
 faq:
   - q: "How does it compare to OpenAI?"
     a: "Claude has stronger long-context handling and safety; OpenAI has a richer tooling ecosystem."
   - q: "Is there a free tier?"
     a: "No free tier, but pricing is competitive."
 ---
-# Anthropic API
 
 Official API for Claude — known for safety, long-context handling, and strong reasoning.
 

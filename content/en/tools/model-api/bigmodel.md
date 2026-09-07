@@ -4,15 +4,13 @@ description: "The Chinese model platform behind ChatGLM, providing APIs for the 
 translationKey: "bigmodel"
 category: "Model & API Platforms"
 website: "https://open.bigmodel.cn"
-price: "Free / Pay-as-you-go"
-priceCurrency: "CNY"
+price: "Free"
 faq:
   - q: "What capabilities does BigModel provide?"
     a: "It offers GLM language and multimodal models plus embedding, image, and application APIs."
   - q: "Can developers try it for free?"
     a: "Some models or new accounts may include trial credits; current limits are listed in the console."
 ---
-# Zhipu BigModel
 
 BigModel is Zhipu AI's developer and enterprise model platform and the model foundation behind its ChatGLM products. It covers text, multimodal, and common application-building APIs.
 

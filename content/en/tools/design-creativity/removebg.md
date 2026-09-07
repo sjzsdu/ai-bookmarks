@@ -4,15 +4,13 @@ description: "AI background removal tool, upload image and get clean cutout in s
 translationKey: "removebg"
 category: "Design & Creativity"
 website: "https://removebg.com"
-price: "Free / 1.99"
-priceCurrency: "USD"
+price: "Free / $1.99"
 faq:
   - q: "What are the free tier limits?"
     a: "Free download is low-resolution, HD download requires payment or credits."
   - q: "How is the quality?"
     a: "Good for most scenes, complex edges like hair may need manual adjustment."
 ---
-# Remove.bg
 
 The most popular AI background removal tool. Upload an image, get a clean cutout in seconds. Much faster than manual Photoshop work with decent quality for most use cases.
 

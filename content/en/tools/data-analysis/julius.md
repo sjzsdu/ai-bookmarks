@@ -4,8 +4,7 @@ description: "Data analysis and visualization using natural language"
 translationKey: "julius"
 category: "Data Analysis"
 website: "https://julius.ai"
-price: "Free / 20 USD"
-priceCurrency: "USD"
+price: "Free / $20"
 faq:
   - q: "Do I need to know programming?"
     a: "No. Just describe what you want to analyze in plain English and it writes the code for you."
@@ -13,7 +12,6 @@ faq:
     a: "CSV, Excel, JSON, and database connections."
 ---
 
-# Julius AI
 
 Analyze data without writing code. Upload your dataset, ask questions in plain English, and Julius writes Python code, runs the analysis, and generates charts. Perfect for quick data exploration when you don't code.
 

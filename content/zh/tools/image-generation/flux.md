@@ -5,14 +5,12 @@ translationKey: "flux"
 category: "图像生成"
 website: "https://blackforestlabs.ai"
 price: "Free"
-priceCurrency: "USD"
 faq:
   - q: "Flux 能在国内本地跑吗？"
     a: "可以，开源权重可下载到本地显卡运行；也有 ComfyUI 等整合包降低门槛。"
   - q: "和 Stable Diffusion 比？"
     a: "画质与提示词遵循度明显更好，但模型更大、对显存要求更高。"
 ---
-# Flux
 
 Black Forest Labs 推出的开源文生图模型（FLUX.1 系列），在开放权重模型里画质天花板级别，提示词还原非常准。
 

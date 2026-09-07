@@ -5,14 +5,12 @@ translationKey: "deepseek"
 category: "AI Chat"
 website: "https://chat.deepseek.com"
 price: "Free"
-priceCurrency: "CNY"
 faq:
   - q: "Is DeepSeek free?"
     a: "Yes, completely free with no usage limits. API is also cheap."
   - q: "How does it compare to ChatGPT?"
     a: "Comparable Chinese ability, free to use; slightly behind on complex reasoning and English ecosystem."
 ---
-# DeepSeek
 
 DeepSeek's AI chat model, known for being free and capable. Strong Chinese, supports deep thinking mode, top-tier reasoning among Chinese models.
 

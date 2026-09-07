@@ -5,14 +5,12 @@ translationKey: "kimi"
 category: "AI 对话"
 website: "https://kimi.moonshot.cn"
 price: "Free"
-priceCurrency: "CNY"
 faq:
   - q: "Kimi 需要翻墙吗？"
     a: "不需要，国内直连，手机号注册即可。"
   - q: "强项是什么？"
     a: "超长上下文，能处理 20 万字以上的文档，做文档总结和分析很强。"
 ---
-# Kimi
 
 月之暗面出品的 AI 对话模型，主打超长上下文（支持 20 万字以上输入）。适合需要处理长文档、做总结分析的场景。
 

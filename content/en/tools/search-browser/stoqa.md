@@ -5,14 +5,12 @@ translationKey: "stoqa"
 category: "Search & Browser"
 website: "https://stoqa.com"
 price: "Free"
-priceCurrency: "USD"
 faq:
   - q: "How is it different from regular browsers?"
     a: "AI features are built in — page summaries, search, and translation without extensions."
   - q: "Is it Chromium-based?"
     a: "Yes, it's built on Chromium so extensions still work."
 ---
-# Stoqa
 
 Browser with AI baked in — summarize pages, search, and translate without installing anything.
 

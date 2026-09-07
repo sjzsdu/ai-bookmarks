@@ -5,7 +5,6 @@ translationKey: "coze"
 category: "Automation & Agent"
 website: "https://www.coze.cn"
 price: "Free"
-priceCurrency: "CNY"
 faq:
   - q: "Does Coze need a VPN?"
     a: "No, the China edition coze.cn connects directly via phone registration."
@@ -14,7 +13,6 @@ faq:
   - q: "How does it compare to Dify?"
     a: "Coze is no-code and faster to start; Dify is better for self-hosting and data control."
 ---
-# Coze
 
 ByteDance's no-code AI agent platform — drag-and-drop bots published to many channels.
 

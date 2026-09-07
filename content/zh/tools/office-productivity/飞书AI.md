@@ -5,14 +5,12 @@ translationKey: "feishu-ai"
 category: "办公与效率"
 website: "https://feishu.cn"
 price: "Free"
-priceCurrency: "CNY"
 faq:
   - q: "飞书 AI 要钱吗？"
     a: "基础 AI 功能免费，企业版有更多 AI 额度和高级功能。"
   - q: "和 Notion AI 比怎么样？"
     a: "飞书 AI 国内直连更方便，协作功能更强；Notion 生态更丰富，模板更多。"
 ---
-# 飞书 AI
 
 飞书（字节跳动出品）内置的 AI 功能，在文档、表格、会议、消息里都能调用 AI。国内直连不需要翻墙，和飞书的办公协作深度集成，用起来很顺手。
 

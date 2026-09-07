@@ -4,15 +4,13 @@ description: "面向商业设计的 AI 生图工具，擅长插画、矢量图�
 translationKey: "recraft"
 category: "图像生成"
 website: "https://www.recraft.ai"
-price: "Free / 12 USD"
-priceCurrency: "USD"
+price: "Free / $12"
 faq:
   - q: "Recraft 能生成矢量图吗？"
     a: "可以，它支持矢量风格生成与 SVG 导出，适合图标和品牌素材。"
   - q: "它和通用生图工具有什么区别？"
     a: "Recraft 更强调可编辑的商业设计资产、统一风格和画布工作流。"
 ---
-# Recraft
 
 Recraft 是面向设计师的 AI 视觉平台，重点不是单张艺术图，而是可用于品牌、营销和产品界面的插画、矢量图、图标与版式素材。
 

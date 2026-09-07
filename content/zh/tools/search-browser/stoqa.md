@@ -5,14 +5,12 @@ translationKey: "stoqa"
 category: "搜索与浏览器"
 website: "https://stoqa.com"
 price: "Free"
-priceCurrency: "USD"
 faq:
   - q: "和普通浏览器有什么区别？"
     a: "内置AI功能，可以总结网页、搜索、翻译，不用装插件。"
   - q: "国内能用吗？"
     a: "基本可用，但部分AI功能可能需要VPN。"
 ---
-# Stoqa
 
 内置AI功能的浏览器，网页总结、搜索、翻译都集成在地址栏里。
 

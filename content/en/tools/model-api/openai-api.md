@@ -4,15 +4,13 @@ description: "Official API for GPT models — pay-as-you-go, most widely adopted
 translationKey: "openai-api"
 category: "Model & API Platforms"
 website: "https://platform.openai.com"
-price: "Pay-as-you-go"
-priceCurrency: "USD"
+price: "$0.20 / 1M tokens"
 faq:
   - q: "How is pricing calculated?"
     a: "Per token (input + output). GPT-4o is much cheaper than GPT-4."
   - q: "Is there a free tier?"
     a: "New accounts get $5 in free credits that expire after 3 months."
 ---
-# OpenAI API
 
 The official API for GPT models — most widely adopted LLM API with the best documentation.
 

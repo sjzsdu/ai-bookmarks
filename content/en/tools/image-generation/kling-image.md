@@ -4,15 +4,13 @@ description: "Kuaishou's Kling platform image generation; strong Chinese prompts
 translationKey: "kling-image"
 category: "Image Generation"
 website: "https://klingai.com"
-price: "Free / Pay-as-you-go CNY"
-priceCurrency: "CNY"
+price: "Free"
 faq:
   - q: "Is this the same as Kling video?"
     a: "Same platform (klingai.com), shared account, both image and video generation."
   - q: "Do I need a VPN?"
     a: "No, direct access in China with phone registration."
 ---
-# Kling Image
 
 Image generation from Kuaishou's Kling platform, sharing an account system with Kling video. Accurate Chinese prompt understanding, handles Chinese-style, realistic, and anime aesthetics.
 

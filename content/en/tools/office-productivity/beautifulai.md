@@ -4,15 +4,13 @@ description: "AI presentation tool with automatic formatting for visually polish
 translationKey: "beautifulai"
 category: "Office & Productivity"
 website: "https://beautiful.ai"
-price: "Free / 12"
-priceCurrency: "USD"
+price: "Free / $12"
 faq:
   - q: "How does Beautiful.ai differ from Gamma?"
     a: "Beautiful.ai focuses on auto-formatting and design standards; Gamma focuses on AI content generation."
   - q: "Does it support Chinese?"
     a: "Interface supports Chinese but AI-generated content is primarily English."
 ---
-# Beautiful.ai
 
 Presentation tool focused on auto-formatting — add content and it automatically arranges it beautifully. High-quality design templates produce better-looking PPTs than most tools.
 

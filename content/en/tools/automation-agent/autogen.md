@@ -5,14 +5,12 @@ translationKey: "autogen"
 category: "Automation & Agent"
 website: "https://github.com/microsoft/autogen"
 price: "Free (open source)"
-priceCurrency: "USD"
 faq:
   - q: "Is it production-ready?"
     a: "It's actively developed by Microsoft Research. Suitable for experimentation and increasingly for production."
   - q: "License?"
     a: "MIT — fully permissive for commercial use."
 ---
-# AutoGen
 
 Microsoft's open-source framework where multiple AI agents chat and collaborate to solve tasks.
 

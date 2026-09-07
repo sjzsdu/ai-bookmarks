@@ -4,15 +4,13 @@ description: "Benchmark AI video tool with comprehensive generation and editing 
 translationKey: "runway"
 category: "Video Generation"
 website: "https://runwayml.com"
-price: "Free / 12+ USD"
-priceCurrency: "USD"
+price: "Free / $12+"
 faq:
   - q: "What can Runway do?"
     a: "Text-to-video, image-to-video, object removal, frame interpolation, and 100+ AI effects."
   - q: "Is it accessible globally?"
     a: "Web app directly in most regions; subscription for heavy usage."
 ---
-# Runway
 
 The benchmark in AI video — its Gen models made text-to-video real. Comprehensive pipeline from generation to editing to effects.
 

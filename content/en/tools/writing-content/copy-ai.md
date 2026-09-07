@@ -4,15 +4,13 @@ description: "AI content generation tool great for short copy and marketing text
 translationKey: "copy-ai"
 category: "Writing & Content"
 website: "https://copy.ai"
-price: "Free / 49"
-priceCurrency: "USD"
+price: "Free / $49"
 faq:
   - q: "Copy.ai vs Jasper — which is better?"
     a: "Copy.ai is lighter and easier for short copy; Jasper is more feature-rich for teams and brand management."
   - q: "How is the Chinese content quality?"
     a: "English is its strength, Chinese output is less polished. Pair with other tools for Chinese content."
 ---
-# Copy.ai
 
 AI content generation tool focused on marketing short copy — taglines, product descriptions, social media posts. Simple interface: pick a template, fill parameters, generate. Very low learning curve.
 

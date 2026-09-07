@@ -4,15 +4,13 @@ description: "AI search engine built for developers — get code solutions, not 
 translationKey: "phind"
 category: "Search & Browser"
 website: "https://phind.com"
-price: "Free / 15 USD"
-priceCurrency: "USD"
+price: "Free / $15"
 faq:
   - q: "How does it differ from Perplexity?"
     a: "Phind is focused on programming and technical questions, with code examples and GitHub links."
   - q: "Can I use it for non-coding searches?"
     a: "You can, but it's optimized for technical queries."
 ---
-# Phind
 
 Developer-focused AI search that finds code solutions faster than Googling stack traces.
 

@@ -5,7 +5,6 @@ translationKey: "coze"
 category: "自动化与 Agent"
 website: "https://www.coze.cn"
 price: "Free"
-priceCurrency: "CNY"
 faq:
   - q: "扣子需要翻墙吗？"
     a: "不需要，国内版 coze.cn 直连，手机号注册。"
@@ -14,7 +13,6 @@ faq:
   - q: "和Dify比怎么选？"
     a: "零代码快速搭建选扣子，要私有化部署选Dify。"
 ---
-# 扣子（Coze）
 
 字节推出的零代码AI智能体平台，拖拽即可搭建Bot并发布到多个渠道。
 

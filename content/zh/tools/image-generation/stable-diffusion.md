@@ -5,14 +5,12 @@ translationKey: "stable-diffusion"
 category: "图像生成"
 website: "https://stability.ai"
 price: "Free"
-priceCurrency: "USD"
 faq:
   - q: "Stable Diffusion 能在国内本地跑吗？"
     a: "可以，开源权重可下载到本地显卡运行，无需联网。"
   - q: "新手怎么上手？"
     a: "用 ComfyUI 或秋叶整合包降低门槛。"
 ---
-# Stable Diffusion
 
 完全开源的文生图模型体系（SD1.5、SDXL、各种微调），最大优势是本地部署、数据不出本机、无订阅费。
 

@@ -5,14 +5,12 @@ translationKey: "ernie"
 category: "AI 对话"
 website: "https://yiyan.baidu.com"
 price: "Free"
-priceCurrency: "CNY"
 faq:
   - q: "文心一言需要翻墙吗？"
     a: "不需要，国内直连，手机号注册即可。"
   - q: "和 ChatGPT 比如何？"
     a: "中文与本地化更好，深度整合百度搜索；复杂推理与英文能力略逊。"
 ---
-# 文心一言
 
 百度推出的中文大模型（ERNIE），国内免代理、免费使用。深度整合百度搜索、网盘与文库，中文表达自然。
 

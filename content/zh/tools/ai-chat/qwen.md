@@ -5,14 +5,12 @@ translationKey: "qwen"
 category: "AI 对话"
 website: "https://tongyi.aliyun.com"
 price: "Free"
-priceCurrency: "CNY"
 faq:
   - q: "通义千问需要翻墙吗？"
     a: "不需要，国内直连，阿里云账号登录即用。"
   - q: "和 DeepSeek 比？"
     a: "多模态（图片/文档理解）更强，DeepSeek 在纯文本推理上更优。"
 ---
-# 通义千问
 
 阿里巴巴出品的 AI 对话模型，国内直连、免费使用。多模态能力强，能理解图片、文档，与阿里云生态整合好。
 

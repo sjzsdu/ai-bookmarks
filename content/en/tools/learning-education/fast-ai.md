@@ -5,14 +5,12 @@ translationKey: "fast-ai"
 category: "Learning & Education"
 website: "https://course.fast.ai"
 price: "Free"
-priceCurrency: "USD"
 faq:
   - q: "What prerequisites do I need?"
     a: "Just Python basics — no math background required. The course starts with practice."
   - q: "How is the course quality?"
     a: "Jeremy Howard's courses are highly regarded in the ML community."
 ---
-# fast.ai
 
 Jeremy Howard's free deep learning course — practical-first, you'll train models from lesson one.
 

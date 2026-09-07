@@ -4,15 +4,13 @@ description: "可视化自动化平台，比Zapier更灵活，流程图式操作
 translationKey: "make"
 category: "自动化与 Agent"
 website: "https://make.com"
-price: "Free / 9 USD"
-priceCurrency: "USD"
+price: "Free / $9"
 faq:
   - q: "和Zapier比怎么样？"
     a: "Make更灵活，可视化流程图，复杂工作流做得更好，价格也便宜。"
   - q: "国内能用吗？"
     a: "能用，但连接国内应用要自己写HTTP模块。"
 ---
-# Make
 
 可视化自动化平台，用流程图的方式搭工作流，比Zapier灵活很多。
 

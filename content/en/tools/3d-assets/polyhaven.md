@@ -5,7 +5,6 @@ translationKey: "polyhaven"
 category: "3D & Assets"
 website: "https://polyhaven.com"
 price: "Free"
-priceCurrency: "USD"
 faq:
   - q: "Is Poly Haven really free?"
     a: "Yes. All assets are CC0 license — free for commercial use, no attribution required."
@@ -13,7 +12,6 @@ faq:
     a: "Very high. Many are photorealistic HDR environment maps and PBR materials."
 ---
 
-# Poly Haven
 
 The free paradise of the 3D world. All assets are CC0 licensed — use them commercially however you want. High-quality HDR environment maps, PBR materials, and 3D models. An essential resource for anyone doing 3D rendering.
 

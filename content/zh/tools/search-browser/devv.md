@@ -4,15 +4,13 @@ description: "开发者专属AI搜索，搜技术问题比Google快。"
 translationKey: "devv"
 category: "搜索与浏览器"
 website: "https://devv.ai"
-price: "Free / 20 USD"
-priceCurrency: "USD"
+price: "Free / $20"
 faq:
   - q: "和Phind有什么区别？"
     a: "Devv对中文技术支持更好，Phind英文资源更多。"
   - q: "国内能用吗？"
     a: "需要VPN，但可以搜中文技术内容。"
 ---
-# Devv
 
 面向程序员的AI搜索，搜报错、API文档、技术方案时效率很高。
 

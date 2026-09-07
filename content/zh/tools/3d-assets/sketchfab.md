@@ -4,8 +4,7 @@ description: "在线 3D 模型展示和交易平台"
 translationKey: "sketchfab"
 category: "3D 与素材"
 website: "https://sketchfab.com"
-price: "Free / 12 USD"
-priceCurrency: "USD"
+price: "Free / $12"
 faq:
   - q: "Sketchfab 可以在线预览模型吗？"
     a: "可以，它有在线 3D 预览器，不需要下载就能看模型。"
@@ -13,7 +12,6 @@ faq:
     a: "有，很多模型可以免费下载，部分需要付费。"
 ---
 
-# Sketchfab
 
 在线展示和交易 3D 模型的平台。最大的特色是在线 3D 预览器，不用下载软件就能旋转查看模型。有大量免费和付费模型，也可以上传出售自己的作品。
 

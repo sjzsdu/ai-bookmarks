@@ -4,8 +4,7 @@ description: "AI marketing assistant for ad copy and social media content"
 translationKey: "merlin"
 category: "E-commerce & Marketing"
 website: "https://getmerlin.com"
-price: "Free / 19 USD"
-priceCurrency: "USD"
+price: "Free / $19"
 faq:
   - q: "What does Merlin do?"
     a: "Writes ad copy, social media posts, and email marketing content. Supports multiple marketing scenarios."
@@ -13,7 +12,6 @@ faq:
     a: "Yes, but it works better for English content. Mainly useful for English marketing."
 ---
 
-# Merlin
 
 Your AI marketing assistant. Generates ad copy, social media posts, and email content quickly. Great for small teams that need lots of marketing copy without a big budget. Free tier gives plenty of credits to try it out.
 

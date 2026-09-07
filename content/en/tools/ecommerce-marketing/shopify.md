@@ -4,8 +4,7 @@ description: "E-commerce platform with built-in AI for store building and operat
 translationKey: "shopify"
 category: "E-commerce & Marketing"
 website: "https://shopify.com"
-price: "From $39 USD"
-priceCurrency: "USD"
+price: "From $39"
 faq:
   - q: "Is Shopify good for selling in China?"
     a: "Not really. Shopify is designed for international markets. Use Taobao/Pinduoduo ecosystem for domestic China."
@@ -13,7 +12,6 @@ faq:
     a: "Auto-generates product descriptions, optimizes images, smart customer service chatbots, sales forecasting."
 ---
 
-# Shopify
 
 The go-to platform for cross-border e-commerce. Beyond store building, Shopify has built-in AI tools for product descriptions, image optimization, and customer service chatbots. Great for sellers targeting international markets without building from scratch.
 

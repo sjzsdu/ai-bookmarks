@@ -5,14 +5,12 @@ translationKey: "doubao"
 category: "AI 对话"
 website: "https://www.doubao.com"
 price: "Free"
-priceCurrency: "CNY"
 faq:
   - q: "豆包需要翻墙吗？"
     a: "不需要，国内直连，手机号注册即可。"
   - q: "强项是什么？"
     a: "与抖音生态整合好，中文对话自然，做内容创作和日常问答很顺手。"
 ---
-# 豆包
 
 字节跳动出品的 AI 对话助手，国内直连、免费使用。与抖音、飞书等字节生态整合好，中文对话自然流畅。
 

@@ -4,8 +4,7 @@ description: "Online 3D model showcase and marketplace"
 translationKey: "sketchfab"
 category: "3D & Assets"
 website: "https://sketchfab.com"
-price: "Free / 12 USD"
-priceCurrency: "USD"
+price: "Free / $12"
 faq:
   - q: "Can I preview models online?"
     a: "Yes, Sketchfab has an online 3D viewer — rotate and inspect models without downloading anything."
@@ -13,7 +12,6 @@ faq:
     a: "Yes, many models are free to download. Some require payment."
 ---
 
-# Sketchfab
 
 Online platform for showcasing and trading 3D models. The killer feature is the online 3D viewer — inspect models in your browser without downloading anything. Lots of free and paid models, and you can upload your own work to sell.
 

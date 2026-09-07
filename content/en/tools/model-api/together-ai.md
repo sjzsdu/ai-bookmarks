@@ -4,15 +4,13 @@ description: "Fast inference platform for open-source models — cheaper than Op
 translationKey: "together-ai"
 category: "Model & API Platforms"
 website: "https://together.ai"
-price: "Pay-as-you-go"
-priceCurrency: "USD"
+price: "$0.03 / 1M tokens"
 faq:
   - q: "Which models are available?"
     a: "Most popular open-source models: LLaMA 3, Mistral, Mixtral, etc."
   - q: "How fast is it?"
     a: "Optimized inference — typically faster than running on your own GPU."
 ---
-# Together AI
 
 Inference platform for open-source models — fast, cheap, and developer-friendly.
 

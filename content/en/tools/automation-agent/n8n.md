@@ -4,15 +4,13 @@ description: "Open-source workflow automation; self-hostable to wire AI into bus
 translationKey: "n8n"
 category: "Automation & Agent"
 website: "https://n8n.io"
-price: "Free / Cloud EUR"
-priceCurrency: "EUR"
+price: "Free (open source)"
 faq:
   - q: "Can n8n be self-hosted?"
     a: "Yes, the open-source edition runs on your own server; data stays local."
   - q: "How does it differ from Dify?"
     a: "n8n is general automation (any API/DB); Dify is LLM-app focused; they pair well."
 ---
-# n8n
 
 Open-source workflow automation that connects systems with nodes — and can drop LLMs into the flow.
 

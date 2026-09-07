@@ -5,14 +5,12 @@ translationKey: "hemingway"
 category: "写作与内容"
 website: "https://hemingwayapp.com"
 price: "Free"
-priceCurrency: "USD"
 faq:
   - q: "Hemingway 是 AI 工具吗？"
     a: "更像写作辅助工具，用规则算法检查可读性，不是生成式 AI。"
   - q: "支持中文吗？"
     a: "不支持，只针对英文写作。"
 ---
-# Hememingway Editor
 
 免费的英文写作工具，用颜色标注帮你写出更简洁清晰的文字。被动语态、长难句、过度修饰统统标出来，让你的英文更像「人话」。
 

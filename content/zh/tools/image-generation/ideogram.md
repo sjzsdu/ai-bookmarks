@@ -4,15 +4,13 @@ description: "以文字渲染见长的 AI 图像生成工具，图片里放文�
 translationKey: "ideogram"
 category: "图像生成"
 website: "https://ideogram.ai"
-price: "Free / 20 USD"
-priceCurrency: "USD"
+price: "Free / $20"
 faq:
   - q: "Ideogram 在国内能用吗？"
     a: "网页版可直连，订阅需境外支付。"
   - q: "和 Midjourney 比怎么样？"
     a: "文字渲染（图内排版）明显更强，整体画质接近但风格化略少。"
 ---
-# Ideogram
 
 专注解决 AI 图像"文字乱码"问题的工具，生成海报、Logo、带文字的插图时文字准确率远超同类。
 

@@ -4,8 +4,7 @@ description: "AI 驱动的数据分析和可视化平台"
 translationKey: "polymer"
 category: "数据分析"
 website: "https://polymer.com"
-price: "Free / 20 USD"
-priceCurrency: "USD"
+price: "Free / $20"
 faq:
   - q: "Polymer 适合谁用？"
     a: "适合需要做数据分析但不会写代码的业务人员，界面很直观。"
@@ -13,7 +12,6 @@ faq:
     a: "支持 CSV、Excel、Google Sheets、Airtable 等。"
 ---
 
-# Polymer
 
 把你的数据变成交互式仪表板。Polymer 让你上传数据后，用拖拽的方式创建漂亮的可视化和仪表板。不需要写代码，也不需要懂 SQL，适合业务人员自助分析。
 

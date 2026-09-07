@@ -4,15 +4,13 @@ description: "Google research assistant that answers from your sources and creat
 translationKey: "notebooklm"
 category: "Learning & Education"
 website: "https://notebooklm.google.com"
-price: "Free / 20 USD"
-priceCurrency: "USD"
+price: "Free / $20"
 faq:
   - q: "Does NotebookLM cite its sources?"
     a: "Yes. Answers link back to supporting passages in the sources you provide."
   - q: "What sources can it use?"
     a: "It accepts common documents and web sources; supported formats and limits are listed in the product."
 ---
-# NotebookLM
 
 NotebookLM is Google's source-grounded learning and research assistant. Add your own material, then ask questions, create summaries and study guides, or turn the sources into an Audio Overview.
 

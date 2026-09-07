@@ -4,15 +4,13 @@ description: "阿里出品的中文图像生成工具，国内直连、人民币
 translationKey: "tongyi-wanxiang"
 category: "图像生成"
 website: "https://tongyi.aliyun.com/wanxiang"
-price: "Free / 按量 CNY"
-priceCurrency: "CNY"
+price: "Free"
 faq:
   - q: "通义万相需要翻墙吗？"
     a: "不需要，国内直连，阿里云账号登录即用。"
   - q: "适合商用吗？"
     a: "提供商用授权方案，合规上比境外工具省心。"
 ---
-# 通义万相
 
 阿里通义推出的 AI 绘画工具，中文提示词理解好，集成在通义生态内。国内直连、人民币付费，适合不想折腾代理的用户。
 

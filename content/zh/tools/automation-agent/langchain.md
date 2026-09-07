@@ -4,15 +4,13 @@ description: "AI应用开发框架，用代码把大模型和各种工具串起�
 translationKey: "langchain"
 category: "自动化与 Agent"
 website: "https://langchain.com"
-price: "Free (open source)"
-priceCurrency: "USD"
+price: "Free（开源）"
 faq:
   - q: "能不写代码用吗？"
     a: "不能，LangChain是代码框架。想不写代码可以用Flowise或Dify。"
   - q: "难学吗？"
     a: "有Python和JavaScript基础的话，1-2周能上手。"
 ---
-# LangChain
 
 AI应用开发的标准框架，把LLM、数据库、API串在一起构建复杂应用。
 

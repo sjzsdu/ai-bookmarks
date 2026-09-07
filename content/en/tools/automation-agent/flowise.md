@@ -4,15 +4,13 @@ description: "Visual drag-and-drop builder for LangChain workflows — no code r
 translationKey: "flowise"
 category: "Automation & Agent"
 website: "https://flowiseai.com"
-price: "Free / 9 USD"
-priceCurrency: "USD"
+price: "Free / $9"
 faq:
   - q: "What's the relationship to LangChain?"
     a: "Flowise uses LangChain under the hood but provides a visual interface so you don't write code."
   - q: "Can I self-host it?"
     a: "Yes, just npm install or use Docker."
 ---
-# Flowise
 
 LangChain without the code — drag and drop nodes to build AI workflows.
 

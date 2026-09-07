@@ -5,14 +5,12 @@ translationKey: "langchain"
 category: "Automation & Agent"
 website: "https://langchain.com"
 price: "Free (open source)"
-priceCurrency: "USD"
 faq:
   - q: "Do I need to code?"
     a: "Yes, LangChain is a code framework. For no-code alternatives, try Flowise or Dify."
   - q: "How long to learn?"
     a: "With Python or JS experience, expect 1-2 weeks to get comfortable."
 ---
-# LangChain
 
 The standard framework for building AI apps that chain LLMs with databases, APIs, and tools.
 

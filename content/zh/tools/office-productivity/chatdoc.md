@@ -4,15 +4,13 @@ description: "上传 PDF 和办公文档后进行对话问答，并定位答案�
 translationKey: "chatdoc"
 category: "办公与效率"
 website: "https://chatdoc.com"
-price: "Free / 付费方案"
-priceCurrency: "USD"
+price: "Free"
 faq:
   - q: "ChatDOC 支持哪些文件？"
     a: "主要支持 PDF 和常见办公文档，具体格式与文件大小限制以产品页面为准。"
   - q: "回答会标注出处吗？"
     a: "会，ChatDOC 可引用并定位到文档中的相关段落，方便核验。"
 ---
-# ChatDOC
 
 ChatDOC 是面向文档阅读的 AI 助手。上传 PDF 或办公文件后，可以直接提问、提取表格、总结章节，并通过引用跳回原文核对答案。
 

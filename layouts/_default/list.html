@@ -1,9 +1,30 @@
 {{ define "main" }}
 {{ $isToolsSection := eq .Section "tools" }}
+{{ $categoryIcons := dict
+  "image-generation" "🎨"
+  "video-generation" "🎬"
+  "audio-music" "🎵"
+  "ai-chat" "💬"
+  "coding" "💻"
+  "writing-content" "✍️"
+  "office-productivity" "📊"
+  "design-creativity" "🎯"
+  "search-browser" "🔍"
+  "automation-agent" "⚙️"
+  "model-api" "🧩"
+  "learning-education" "📚"
+  "translation" "🌐"
+  "data-analysis" "📈"
+  "ecommerce-marketing" "🛒"
+  "3d-assets" "🧊"
+}}
 
 {{ if $isToolsSection }}
   {{/* Tools section: show category groups */}}
   <h1>{{ if eq .Lang "zh" }}全部工具{{ else }}All Tools{{ end }}</h1>
+  {{ $toolCount := len .Pages }}
+  {{ if .Sections }}{{ $toolCount = len .RegularPagesRecursive }}{{ end }}
+  <p class="tool-count">{{ if eq .Lang "zh" }}共 {{ $toolCount }} 个工具{{ else }}{{ $toolCount }} tools total{{ end }}</p>
   {{ with .Content }}<div>{{ . }}</div>{{ end }}
 
   {{/* Check if we're at the tools root or a specific category */}}
@@ -11,12 +32,12 @@
     {{/* At tools root: show category cards */}}
     <div class="category-grid">
       {{ range .Sections }}
-        <a class="card" href="{{ .RelPermalink }}">
+        {{ $slug := path.Base (strings.TrimSuffix "/" .File.Dir) }}
+        <a class="category-card cat-{{ $slug }}" href="{{ .RelPermalink }}">
+          {{ with index $categoryIcons $slug }}<span class="cat-icon">{{ . }}</span>{{ end }}
           <h3>{{ .Title }}</h3>
           {{ with .Description }}<p>{{ . }}</p>{{ end }}
-          <div class="card-meta">
-            <span>{{ len .Pages }} {{ if eq $.Lang "zh" }}个工具{{ else }}tools{{ end }}</span>
-          </div>
+          <span class="cat-count">{{ len .Pages }} {{ if eq $.Lang "zh" }}个工具{{ else }}tools{{ end }}</span>
         </a>
       {{ end }}
     </div>
@@ -33,7 +54,7 @@
               <h3>{{ .Title }}</h3>
               {{ with .Description }}<p>{{ . }}</p>{{ end }}
               <div class="card-meta">
-                {{ $pc := .Params.priceCurrency }}{{ with .Params.price }}<span class="card-price">{{ if and $pc (not (strings.Contains . $pc)) }}{{ $pc }} {{ end }}{{ . }}</span>{{ end }}
+                {{ with .Params.price }}<span class="card-price">{{ . }}</span>{{ end }}
               </div>
             </a>
           {{ end }}
@@ -49,7 +70,7 @@
           <h3>{{ .Title }}</h3>
           {{ with .Description }}<p>{{ . }}</p>{{ end }}
           <div class="card-meta">
-            {{ $pc := .Params.priceCurrency }}{{ with .Params.price }}<span class="card-price">{{ if and $pc (not (strings.Contains . $pc)) }}{{ $pc }} {{ end }}{{ . }}</span>{{ end }}
+            {{ with .Params.price }}<span class="card-price">{{ . }}</span>{{ end }}
           </div>
         </a>
       {{ end }}

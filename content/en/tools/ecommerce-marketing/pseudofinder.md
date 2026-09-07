@@ -5,7 +5,6 @@ translationKey: "pseudofinder"
 category: "E-commerce & Marketing"
 website: "https://pseudofinder.com"
 price: "From $9"
-priceCurrency: "USD"
 faq:
   - q: "What does Pseudofinder do?"
     a: "Upload product photos and it generates different scenes, models, and contexts for product display."
@@ -13,7 +12,6 @@ faq:
     a: "Pretty good for most products. Complex scenes still need real photography."
 ---
 
-# Pseudofinder
 
 AI alternative to expensive product photography. Upload product photos and it generates different scenes, models, and display contexts. Way cheaper than hiring photographers and models — great for sellers needing lots of product images.
 

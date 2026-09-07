@@ -4,15 +4,13 @@ description: "Obsidian 笔记软件的 AI 插件，在知识库里直接用 AI �
 translationKey: "obsidian-copilot"
 category: "写作与内容"
 website: "https://github.com/logancyang/obsidian-copilot"
-price: "Free (开源)"
-priceCurrency: "USD"
+price: "Free（开源）"
 faq:
   - q: "Obsidian Copilot 需要付费吗？"
     a: "插件免费开源，但 AI 模型调用需要自己的 API Key（如 OpenAI）。"
   - q: "能离线用吗？"
     a: "不行，需要联网调用 AI 模型，但可以用本地模型（如 Ollama）实现离线。"
 ---
-# Obsidian Copilot
 
 Obsidian 笔记软件的开源 AI 插件，让你在知识库里直接和 AI 对话，可以引用当前笔记、搜索相关文档、生成内容。和 Obsidian 的双链、知识图谱系统配合得很好。
 

@@ -5,14 +5,12 @@ translationKey: "fast-ai"
 category: "学习与教育"
 website: "https://course.fast.ai"
 price: "Free"
-priceCurrency: "USD"
 faq:
   - q: "需要什么基础？"
     a: "有Python基础就行，不需要数学背景。课程从实践开始。"
   - q: "课程质量怎么样？"
     a: "Jeremy Howard的课在ML社区口碑很好，Practical Deep Learning那门课评价很高。"
 ---
-# fast.ai
 
 Jeremy Howard的免费深度学习课程，强调实战，从第一节课就开始训模型。
 

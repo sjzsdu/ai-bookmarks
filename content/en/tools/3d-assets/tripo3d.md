@@ -4,8 +4,7 @@ description: "One-click AI 3D model generation"
 translationKey: "tripo3d"
 category: "3D & Assets"
 website: "https://tripo3d.ai"
-price: "Free / 10 USD"
-priceCurrency: "USD"
+price: "Free / $10"
 faq:
   - q: "How does Tripo3D compare to Meshy?"
     a: "Cheaper and faster, but model precision may be slightly lower."
@@ -13,7 +12,6 @@ faq:
     a: "Supports FBX, OBJ, GLTF and other common formats."
 ---
 
-# Tripo3D
 
 The budget-friendly AI 3D generator. Enter text descriptions and get 3D models fast. Cheaper than Meshy with faster generation — good for devs who need lots of 3D assets without breaking the bank.
 

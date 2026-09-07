@@ -4,15 +4,13 @@ description: "专为开发者设计的AI搜索引擎，搜代码问题直接给�
 translationKey: "phind"
 category: "搜索与浏览器"
 website: "https://phind.com"
-price: "Free / 15 USD"
-priceCurrency: "USD"
+price: "Free / $15"
 faq:
   - q: "和Perplexity有什么区别？"
     a: "Phind专注编程和技术问题，搜索结果带代码示例和GitHub链接。"
   - q: "国内能用吗？"
     a: "需要VPN，没有国内镜像。"
 ---
-# Phind
 
 给程序员用的AI搜索，搜报错信息、技术方案时比Google快得多。
 

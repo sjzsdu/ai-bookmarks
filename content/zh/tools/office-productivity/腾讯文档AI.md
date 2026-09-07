@@ -5,14 +5,12 @@ translationKey: "tencent-docs-ai"
 category: "办公与效率"
 website: "https://docs.qq.com"
 price: "Free"
-priceCurrency: "CNY"
 faq:
   - q: "腾讯文档 AI 要钱吗？"
     a: "基础 AI 功能免费，部分高级功能需要会员。"
   - q: "需要翻墙吗？"
     a: "不需要，国内直连，微信/QQ 登录即可。"
 ---
-# 腾讯文档 AI
 
 腾讯文档内置的 AI 功能，支持文档、表格、幻灯片里直接调用 AI。中文支持好，国内直连不需要翻墙，微信/QQ 登录就能用，上手门槛很低。
 

@@ -5,14 +5,12 @@ translationKey: "cosyvoice"
 category: "Audio & Music"
 website: "https://github.com/FunAudioLLM/CosyVoice"
 price: "Free"
-priceCurrency: "USD"
 faq:
   - q: "How does CosyVoice compare to ChatTTS?"
     a: "Better multi-language support; ChatTTS has more flexible prosody control."
   - q: "Can it run locally?"
     a: "Yes, open-source model runs locally on GPU."
 ---
-# CosyVoice
 
 Alibaba's open-source TTS from the FunAudioLLM team — strong multi-language support with natural voice quality. Supports voice cloning and cross-lingual synthesis.
 

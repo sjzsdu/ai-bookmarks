@@ -4,15 +4,13 @@ description: "AI-native editor forked from VS Code, great for multi-file refacto
 translationKey: "cursor"
 category: "Coding & Development"
 website: "https://cursor.com"
-price: "Free / 20"
-priceCurrency: "USD"
+price: "Free / $20"
 faq:
   - q: "How is Cursor different from Copilot?"
     a: "It's a full editor that refactors across files via chat, not just inline completion."
   - q: "Can it use my own models?"
     a: "Supports several models and routes to different providers depending on plan."
 ---
-# Cursor
 
 "AI-first" code editor forked from VS Code, embedding models directly into editing, search, and refactoring. Composer can modify multiple files at once — useful for large refactors.
 

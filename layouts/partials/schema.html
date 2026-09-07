@@ -19,7 +19,7 @@
   "name": "{{ .Title }}",
   "url": "{{ .Permalink }}",
   {{ with .Description }}"description": "{{ . }}",{{ end }}
-  {{ with .Params.price }}"offers": { "@type": "Offer", "price": "{{ . }}", "priceCurrency": "{{ $.Params.priceCurrency | default "USD" }}" },{{ end }}
+  {{ with .Params.price }}{{ $currency := cond (strings.Contains . "¥") "CNY" "USD" }}"offers": { "@type": "Offer", "price": "{{ . }}", "priceCurrency": "{{ $currency }}" },{{ end }}
   "applicationCategory": "{{ .Params.category | default "AI Tool" }}"
 }
 </script>

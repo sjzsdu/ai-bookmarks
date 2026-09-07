@@ -4,8 +4,7 @@ description: "浏览器里的 3D 设计工具"
 translationKey: "spline"
 category: "3D 与素材"
 website: "https://spline.design"
-price: "Free / 7 USD"
-priceCurrency: "USD"
+price: "Free / $7"
 faq:
   - q: "Spline 需要下载软件吗？"
     a: "不需要，直接在浏览器里使用，也有桌面版。"
@@ -13,7 +12,6 @@ faq:
     a: "适合做网页 3D 元素、产品展示、简单动画。"
 ---
 
-# Spline
 
 浏览器里的 3D 设计工具，不需要安装软件就能用。适合做网页 3D 元素、产品展示、简单动画。有 AI 辅助功能，可以快速生成 3D 场景。学习曲线比 Blender 低很多。
 

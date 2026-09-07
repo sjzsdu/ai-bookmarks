@@ -4,15 +4,13 @@ description: "Customizable AI search with model choice and privacy-first options
 translationKey: "you"
 category: "Search & Browser"
 website: "https://you.com"
-price: "Free / 15 USD"
-priceCurrency: "USD"
+price: "Free / $15"
 faq:
   - q: "How does it compare to Perplexity?"
     a: "Similar features, but You.com emphasizes privacy with a no-tracking mode."
   - q: "Can I choose which AI model to use?"
     a: "Yes, you can switch between GPT-4, Claude, and other models."
 ---
-# You.com
 
 Privacy-conscious AI search that lets you pick your model and opt out of tracking.
 

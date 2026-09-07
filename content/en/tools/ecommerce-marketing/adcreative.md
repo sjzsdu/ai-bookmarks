@@ -4,8 +4,7 @@ description: "AI-generated ad creative assets for e-commerce"
 translationKey: "adcreative"
 category: "E-commerce & Marketing"
 website: "https://adcreative.ai"
-price: "From $29 USD"
-priceCurrency: "USD"
+price: "From $29"
 faq:
   - q: "What can AdCreative.ai generate?"
     a: "Auto-generates ad images, video assets, and copy for Facebook, Google, TikTok, and more."
@@ -13,7 +12,6 @@ faq:
     a: "Decent for quick testing. For polished creative, you'll still need a designer."
 ---
 
-# AdCreative.ai
 
 Skip the designer for ad creatives. AI generates ad images and video assets from your product info. Supports Facebook, Google, TikTok and other platforms. Good enough for testing, but final polish still needs a human touch.
 

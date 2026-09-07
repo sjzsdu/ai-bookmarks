@@ -4,8 +4,7 @@ description: "AI 生成 3D 模型和纹理"
 translationKey: "meshy"
 category: "3D 与素材"
 website: "https://meshy.ai"
-price: "Free / 20 USD"
-priceCurrency: "USD"
+price: "Free / $20"
 faq:
   - q: "Meshy 能生成什么？"
     a: "输入文字描述或图片，自动生成 3D 模型，支持纹理贴图。"
@@ -13,7 +12,6 @@ faq:
     a: "适合游戏原型和概念设计，精细建模还是需要专业工具。"
 ---
 
-# Meshy
 
 文字/图片转 3D 模型的 AI 工具。输入描述或上传参考图，它会自动生成带纹理的 3D 模型。适合游戏开发者快速做原型，或者设计师找灵感。
 

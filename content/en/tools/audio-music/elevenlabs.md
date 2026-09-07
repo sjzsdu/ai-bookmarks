@@ -4,15 +4,13 @@ description: "Leading TTS platform with lifelike voice quality and voice cloning
 translationKey: "elevenlabs"
 category: "Audio & Music"
 website: "https://elevenlabs.io"
-price: "Free / 5+ USD"
-priceCurrency: "USD"
+price: "Free / $5+"
 faq:
   - q: "How good is the Chinese voice?"
     a: "Supports Chinese with high realism, though native models can feel more natural."
   - q: "Can I clone a voice?"
     a: "Yes, with consent; commercial use requires proper licensing."
 ---
-# ElevenLabs
 
 The benchmark in speech synthesis — lifelike, emotional, multilingual with voice cloning. Strong at audiobook batch generation.
 

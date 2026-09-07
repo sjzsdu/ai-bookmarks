@@ -4,15 +4,13 @@ description: "AI UI 设计工具，手绘草图自动生成可交互的界面原
 translationKey: "uizard"
 category: "设计与创意"
 website: "https://uizard.io"
-price: "Free / 12"
-priceCurrency: "USD"
+price: "Free / $12"
 faq:
   - q: "Uizard 生成的原型能导出代码吗？"
     a: "可以导出为开发规格，但不能直接导出可用代码，更多是设计到开发的交接。"
   - q: "中文支持好吗？"
     a: "界面支持中文，AI 识别主要针对英文手写，中文手写效果一般。"
 ---
-# Uizard
 
 AI UI 设计工具，画个手绘草图或截图，AI 自动转成可交互的界面原型。对非设计师来说是做 UI 原型的捷径，不需要学 Figma。
 

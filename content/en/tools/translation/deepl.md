@@ -4,8 +4,7 @@ description: "The gold standard for natural-sounding machine translation"
 translationKey: "deepl"
 category: "Translation"
 website: "https://deepl.com"
-price: "Free / 9 USD"
-priceCurrency: "USD"
+price: "Free / $9"
 faq:
   - q: "Is DeepL better than Google Translate?"
     a: "For European languages, noticeably yes. The translations sound more natural. For Chinese, the difference is smaller."
@@ -13,7 +12,6 @@ faq:
     a: "Yes, the API is available on the Pro plan. Free tier is web/app only."
 ---
 
-# DeepL Translator
 
 The translation quality benchmark. Built by a German team using neural networks, DeepL consistently outperforms Google Translate for European language pairs (English-German-French-Spanish). Free tier gives you 500K characters per month.
 

@@ -4,15 +4,13 @@ description: "Luma AI 的视频生成工具，运镜自然、3D 一致性好。"
 translationKey: "luma"
 category: "视频生成"
 website: "https://lumalabs.ai"
-price: "Free / 9.99 USD"
-priceCurrency: "USD"
+price: "Free / $9.99"
 faq:
   - q: "Luma 在国内能用吗？"
     a: "网页版可直连，订阅需境外支付。"
   - q: "强项是什么？"
     a: "运镜自然、3D 一致性好，做产品展示和空间类视频很合适。"
 ---
-# Luma Dream Machine
 
 Luma AI 出品的视频生成工具，以运镜自然和 3D 一致性见长。做产品展示、空间漫游类视频效果比多数竞品好。
 

@@ -4,15 +4,13 @@ description: "Google's AI platform — Gemini models and Vertex AI for enterpris
 translationKey: "google-ai"
 category: "Model & API Platforms"
 website: "https://ai.google.dev"
-price: "Pay-as-you-go"
-priceCurrency: "USD"
+price: "Free"
 faq:
   - q: "Is there a free tier?"
     a: "Yes, generous free tier for Gemini models."
   - q: "How does Gemini compare to GPT-4?"
     a: "Strong multimodal and long-context; English and code are solid, Chinese is weaker."
 ---
-# Google AI
 
 Google's AI model platform — Gemini models for developers and Vertex AI for enterprise.
 

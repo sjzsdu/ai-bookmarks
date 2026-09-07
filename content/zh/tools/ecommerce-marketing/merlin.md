@@ -4,8 +4,7 @@ description: "AI 营销助手，帮你写广告文案和社交媒体内容"
 translationKey: "merlin"
 category: "电商与营销"
 website: "https://getmerlin.com"
-price: "Free / 19 USD"
-priceCurrency: "USD"
+price: "Free / $19"
 faq:
   - q: "Merlin 能做什么？"
     a: "帮你写广告文案、社交媒体帖子、邮件营销内容，支持多种营销场景。"
@@ -13,7 +12,6 @@ faq:
     a: "有，但中文效果不如英文，更适合做英文营销内容。"
 ---
 
-# Merlin
 
 营销人员的 AI 助手。帮你快速生成广告文案、社交媒体帖子、邮件内容。特别适合需要大量营销文案但预算有限的小团队。免费版每月有不少额度可以试用。
 

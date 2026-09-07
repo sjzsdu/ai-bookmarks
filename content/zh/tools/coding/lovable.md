@@ -4,15 +4,13 @@ description: "2025 年现象级对话式全栈 Web 应用生成平台，可从�
 translationKey: "lovable"
 category: "编程与开发"
 website: "https://lovable.dev"
-price: "Free / 20 USD"
-priceCurrency: "USD"
+price: "Free / $20"
 faq:
   - q: "Lovable 适合不会编程的人吗？"
     a: "适合。用户可以用自然语言描述产品，并在可视化预览中继续调整。"
   - q: "生成的项目可以继续开发吗？"
     a: "可以，项目可连接 GitHub，便于开发者接手代码并持续迭代。"
 ---
-# Lovable
 
 Lovable 是 2025 年快速走红的对话式全栈 Web 应用生成平台。输入产品需求后，它可以生成界面、业务逻辑与数据连接，并通过持续对话完成修改，适合快速验证产品想法。
 

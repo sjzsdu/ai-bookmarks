@@ -5,7 +5,6 @@ translationKey: "polyhaven"
 category: "3D 与素材"
 website: "https://polyhaven.com"
 price: "Free"
-priceCurrency: "USD"
 faq:
   - q: "Poly Haven 真的完全免费吗？"
     a: "是的，所有素材都是 CC0 协议，可以商用，不需要署名。"
@@ -13,7 +12,6 @@ faq:
     a: "质量很高，很多是照片级真实的 HDR 环境贴图和 PBR 材质。"
 ---
 
-# Poly Haven
 
 3D 界的免费天堂。所有素材都是 CC0 协议，可以随意商用。提供高质量的 HDR 环境贴图、PBR 材质和 3D 模型。做 3D 渲染的人必备的资源站。
 

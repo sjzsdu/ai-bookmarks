@@ -4,15 +4,13 @@ description: "AI search engine that gives direct answers with citations instead 
 translationKey: "perplexity"
 category: "Search & Browser"
 website: "https://perplexity.ai"
-price: "Free / 20 USD"
-priceCurrency: "USD"
+price: "Free / $20"
 faq:
   - q: "Is there a free tier?"
     a: "Yes, 200 Pro searches per day on the free plan."
   - q: "How does it compare to Google?"
     a: "It synthesizes answers from multiple sources with citations — saves you from clicking through 10 blue links."
 ---
-# Perplexity AI
 
 The closest thing to asking a knowledgeable friend a question and getting a sourced answer back.
 

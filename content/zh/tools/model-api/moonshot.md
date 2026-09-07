@@ -4,15 +4,13 @@ description: "Kimi 背后的国产大模型开放平台，提供长上下文对�
 translationKey: "moonshot"
 category: "模型与 API"
 website: "https://platform.moonshot.cn"
-price: "按量计费"
-priceCurrency: "CNY"
+price: "¥4 / 百万 tokens 起"
 faq:
   - q: "Moonshot API 和 Kimi 有什么关系？"
     a: "两者均由月之暗面提供；开放平台面向开发者提供模型 API。"
   - q: "是否兼容常见 SDK？"
     a: "平台提供与主流调用方式相近的接口和官方文档，迁移前应核对当前模型参数。"
 ---
-# 月之暗面 Moonshot
 
 Moonshot 开放平台是 Kimi 背后的开发者服务，提供面向对话、长文本处理和推理场景的大模型 API，适合构建中文 AI 应用。
 

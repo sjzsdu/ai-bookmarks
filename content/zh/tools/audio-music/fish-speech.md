@@ -4,15 +4,13 @@ description: "语音合成与声音克隆平台，音色自然、中文效果好
 translationKey: "fish-speech"
 category: "音频与音乐"
 website: "https://fish.audio"
-price: "Free / 按量"
-priceCurrency: "USD"
+price: "Free"
 faq:
   - q: "Fish Audio 在国内能用吗？"
     a: "可以，国内直连，有免费额度。"
   - q: "声音克隆需要多少音频？"
     a: "几秒到十几秒的样本就能克隆，效果因音色而异。"
 ---
-# Fish Audio
 
 语音合成与声音克隆平台，音色自然度好，中文效果在同类工具里算上游。支持用短音频样本克隆音色。
 

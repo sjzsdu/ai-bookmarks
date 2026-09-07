@@ -4,15 +4,13 @@ description: "Claude系列模型的API，安全性和长文本处理强。"
 translationKey: "anthropic-api"
 category: "模型与 API"
 website: "https://console.anthropic.com"
-price: "Pay-as-you-go"
-priceCurrency: "USD"
+price: "$0.80 / 百万 tokens 起"
 faq:
   - q: "和OpenAI API比怎么样？"
     a: "Claude长文本处理更强，安全策略更好，但生态和工具链不如OpenAI丰富。"
   - q: "国内能用吗？"
     a: "需要VPN，没有国内镜像。"
 ---
-# Anthropic API
 
 Claude系列模型的官方API，以安全性和200K上下文窗口著称。
 

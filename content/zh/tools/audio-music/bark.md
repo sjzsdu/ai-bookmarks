@@ -5,14 +5,12 @@ translationKey: "bark"
 category: "音频与音乐"
 website: "https://github.com/suno-ai/bark"
 price: "Free"
-priceCurrency: "USD"
 faq:
   - q: "Bark 能在国内本地跑吗？"
     a: "可以，开源模型下载到本地运行，无需联网。"
   - q: "效果怎么样？"
     a: "多语种和情感表达不错，但音质和自然度不如商业 TTS 工具。"
 ---
-# Bark
 
 Suno 开源的 TTS 模型，支持多语种语音生成、笑声、叹气等情感表达。完全开源免费，可本地部署。
 

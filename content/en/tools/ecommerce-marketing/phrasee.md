@@ -4,8 +4,7 @@ description: "Enterprise AI marketing copy optimization platform"
 translationKey: "phrasee"
 category: "E-commerce & Marketing"
 website: "https://phrasee.co"
-price: "Custom pricing"
-priceCurrency: "USD"
+price: "Contact for pricing"
 faq:
   - q: "Is Phrasee suitable for small businesses?"
     a: "Not really. It's enterprise-focused with custom pricing — you'll need to contact sales."
@@ -13,7 +12,6 @@ faq:
     a: "Email subject lines, push notifications, and ad copy for better click-through rates."
 ---
 
-# Phrasee
 
 Enterprise-grade marketing copy optimization. Uses AI to write email subject lines, push notifications, and ad copy, then predicts which version performs best. Focused on large e-commerce, retail, and travel companies.
 

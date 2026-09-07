@@ -4,8 +4,7 @@ description: "Browser extension for side-by-side bilingual reading"
 translationKey: "immersive-translate"
 category: "Translation"
 website: "https://immersivetranslate.com"
-price: "Free / 10 USD"
-priceCurrency: "USD"
+price: "Free / $10"
 faq:
   - q: "How does it work?"
     a: "It adds translated text below each paragraph while keeping the original, creating a bilingual view."
@@ -13,7 +12,6 @@ faq:
     a: "Yes, it supports web pages, PDFs, and EPUB ebooks."
 ---
 
-# Immersive Translate
 
 The bilingual reader's best friend. Instead of replacing text, it shows translations alongside originals paragraph by paragraph. Great for reading English articles, technical docs, and academic papers while improving your language skills.
 

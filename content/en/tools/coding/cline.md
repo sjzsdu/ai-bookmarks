@@ -5,14 +5,12 @@ translationKey: "cline"
 category: "Coding & Development"
 website: "https://github.com/cline/cline"
 price: "Free (open source)"
-priceCurrency: "USD"
 faq:
   - q: "Is Cline really free?"
     a: "The extension is free and open source, but AI model calls require your own API key."
   - q: "How does it compare to Copilot?"
     a: "Fully open source, choose your own models, code stays local for better privacy."
 ---
-# Cline
 
 Open-source VS Code AI extension that uses your own API keys to call any model (GPT-4, Claude, local Ollama, etc.). Code processes locally, never passes through third parties. Full privacy control.
 

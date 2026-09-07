@@ -4,15 +4,13 @@ description: "微软开源的多Agent框架，让多个AI对话协作解决问�
 translationKey: "autogen"
 category: "自动化与 Agent"
 website: "https://github.com/microsoft/autogen"
-price: "Free (open source)"
-priceCurrency: "USD"
+price: "Free（开源）"
 faq:
   - q: "和CrewAI比哪个好？"
     a: "AutoGen更灵活但更底层，CrewAI开箱即用但定制性差一些。"
   - q: "能商用吗？"
     a: "MIT协议，可以商用。"
 ---
-# AutoGen
 
 微软开源的多Agent对话框架，让多个AI代理通过对话协作完成任务。
 

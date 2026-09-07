@@ -5,14 +5,12 @@ translationKey: "chattts"
 category: "音频与音乐"
 website: "https://github.com/2noise/ChatTTS"
 price: "Free"
-priceCurrency: "USD"
 faq:
   - q: "ChatTTS 效果怎么样？"
     a: "中文自然度在开源 TTS 里算顶级，支持细粒度韵律控制。"
   - q: "能商用吗？"
     a: "开源协议允许商用，但具体条款需查看仓库说明。"
 ---
-# ChatTTS
 
 开源语音合成模型，中文自然度在同类开源项目里表现突出。支持细粒度韵律控制，对话感强。
 

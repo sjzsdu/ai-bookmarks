@@ -4,8 +4,7 @@ description: "JD.com's AI marketing and customer service platform"
 translationKey: "jingdong-yanxi"
 category: "E-commerce & Marketing"
 website: "https://yanxi.jd.com"
-price: "Custom"
-priceCurrency: "CNY"
+price: "Contact for pricing"
 faq:
   - q: "What is JD Yanxi?"
     a: "JD.com's AI platform offering smart customer service, auto-generated marketing copy, and digital avatars for livestreaming."
@@ -13,7 +12,6 @@ faq:
     a: "Yes, but it's primarily designed for JD's e-commerce ecosystem."
 ---
 
-# JD Yanxi
 
 JD.com's own AI tools platform. Offers smart customer service, auto-generated marketing copy, and livestream digital avatars. If you sell on JD.com, these tools integrate tightly with the platform.
 

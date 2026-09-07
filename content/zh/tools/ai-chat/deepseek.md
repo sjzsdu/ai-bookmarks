@@ -5,14 +5,12 @@ translationKey: "deepseek"
 category: "AI 对话"
 website: "https://chat.deepseek.com"
 price: "Free"
-priceCurrency: "CNY"
 faq:
   - q: "DeepSeek 需要翻墙吗？"
     a: "不需要，国内直连，手机号注册即可。"
   - q: "和 ChatGPT 比？"
     a: "中文能力持平甚至更好，免费可用；复杂推理与英文生态略逊。"
 ---
-# DeepSeek
 
 深度求索出品的 AI 对话模型，以免费好用著称。中文能力强，支持深度思考模式，推理能力在国内模型里算顶级。
 

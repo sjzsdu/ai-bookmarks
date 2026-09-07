@@ -4,8 +4,7 @@ description: "电商平台内置 AI 功能，帮你建站和运营"
 translationKey: "shopify"
 category: "电商与营销"
 website: "https://shopify.com"
-price: "From $39 USD"
-priceCurrency: "USD"
+price: "$39 起"
 faq:
   - q: "Shopify 适合国内电商吗？"
     a: "主要面向海外电商，如果做跨境电商很合适。国内电商建议用淘宝/拼多多服务市场。"
@@ -13,7 +12,6 @@ faq:
     a: "自动生成产品描述、图片优化、智能客服、销售预测等。"
 ---
 
-# Shopify
 
 跨境电商的首选平台。除了建站功能，Shopify 内置了不少 AI 工具：自动生成产品描述、优化产品图片、智能客服机器人。适合做海外市场但不想从零开发的卖家。
 

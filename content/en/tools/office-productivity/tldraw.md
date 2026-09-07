@@ -5,14 +5,12 @@ translationKey: "tldraw"
 category: "Office & Productivity"
 website: "https://tldraw.com"
 price: "Free"
-priceCurrency: "USD"
 faq:
   - q: "How do I use tldraw's AI features?"
     a: "Draw a sketch or wireframe, select it, and let AI beautify it into a formal diagram or generate code."
   - q: "Do I need to install anything?"
     a: "No, it's browser-based. You can also self-host."
 ---
-# tldraw
 
 Open-source online whiteboard with AI features — draw a sketch, AI beautifies it into formal diagrams, wireframes, or generates frontend code. Free and open source, self-hostable.
 

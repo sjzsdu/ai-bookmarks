@@ -4,15 +4,13 @@ description: "字节跳动 AI 创意设计平台，用 Seedream 模型生成和�
 translationKey: "jimeng-design"
 category: "设计与创意"
 website: "https://jimeng.jianying.com"
-price: "Free / 付费方案"
-priceCurrency: "CNY"
+price: "Free"
 faq:
   - q: "即梦设计适合哪些创意任务？"
     a: "适合海报、电商素材、社交配图、概念图和短视频前期视觉探索。"
   - q: "和即梦图像有什么区别？"
     a: "底层能力相通，本页面更关注其在商业设计和完整创意工作流中的用途。"
 ---
-# 即梦设计
 
 即梦设计把 Seedream 图像模型用于商业创意流程。设计者可以从中文描述或参考图出发，快速探索视觉方向，再通过重绘、扩图和风格调整制作可用素材。
 

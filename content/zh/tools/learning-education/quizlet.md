@@ -4,15 +4,13 @@ description: "AI增强的记忆卡片工具，背单词、复习知识点效率�
 translationKey: "quizlet"
 category: "学习与教育"
 website: "https://quizlet.com"
-price: "Free / 8 USD"
-priceCurrency: "USD"
+price: "Free / $8"
 faq:
   - q: "和Anki比怎么样？"
     a: "Quizlet更简单易用，Anki自定义更强但学习曲线陡。"
   - q: "国内能用吗？"
     a: "能用，但加载速度可能需要VPN加速。"
 ---
-# Quizlet
 
 记忆卡片工具的鼻祖，加了AI功能后更智能，背东西效率翻倍。
 

@@ -4,15 +4,13 @@ description: "AI-enhanced flashcard tool for efficient memorization and study."
 translationKey: "quizlet"
 category: "Learning & Education"
 website: "https://quizlet.com"
-price: "Free / 8 USD"
-priceCurrency: "USD"
+price: "Free / $8"
 faq:
   - q: "How is it different from Anki?"
     a: "Quizlet is simpler and more user-friendly; Anki is more customizable but harder to learn."
   - q: "Can I find existing study sets?"
     a: "Yes, 200M+ study sets covering most textbooks and exams."
 ---
-# Quizlet
 
 The OG flashcard tool — now with AI that generates study plans and practice questions.
 

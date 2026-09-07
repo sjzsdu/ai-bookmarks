@@ -280,6 +280,12 @@ li { margin: 6px 0; color: var(--text-secondary); }
   font-weight: 500;
 }
 
+.tool-count {
+  margin: -12px 0 20px;
+  color: var(--muted);
+  font-size: 14px;
+}
+
 /* ── Tool meta / tags ── */
 .tool-meta {
   display: flex;
@@ -584,7 +590,7 @@ article ul li::before {
   h1 { font-size: 26px; }
   main { padding: 20px 16px 60px; }
   .card-grid { grid-template-columns: 1fr; }
-  .category-grid { grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); }
+  .category-grid { grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); }
   header { padding: 0 16px; }
   .hero { padding: 32px 16px 24px; }
 }

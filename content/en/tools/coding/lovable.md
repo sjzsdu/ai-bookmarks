@@ -4,15 +4,13 @@ description: "Breakout 2025 conversational full-stack web app builder that turns
 translationKey: "lovable"
 category: "Coding & Development"
 website: "https://lovable.dev"
-price: "Free / 20 USD"
-priceCurrency: "USD"
+price: "Free / $20"
 faq:
   - q: "Is Lovable suitable for non-programmers?"
     a: "Yes. Users can describe a product in natural language and refine it through a visual preview."
   - q: "Can developers continue working on the generated project?"
     a: "Yes. Projects can connect to GitHub so developers can own and extend the code."
 ---
-# Lovable
 
 Lovable became a breakout conversational full-stack web app builder in 2025. Describe a product and it generates the interface, application logic, and common data integrations, then lets you refine everything through chat.
 

@@ -4,15 +4,13 @@ description: "AI 营销文案生成器，专注品牌营销内容，支持团队
 translationKey: "jasper"
 category: "写作与内容"
 website: "https://jasper.ai"
-price: "Free / 49"
-priceCurrency: "USD"
+price: "Free / $49"
 faq:
   - q: "Jasper 国内能用吗？"
     a: "可以访问，但 AI 调用走海外服务器，速度受影响，订阅需要外币卡。"
   - q: "和 ChatGPT 写文案有什么区别？"
     a: "Jasper 预设了大量营销场景模板，品牌语调一致性更好，适合团队批量生产内容。"
 ---
-# Jasper
 
 专注营销文案的 AI 写作工具，预设了广告、邮件、社交媒体等几十种营销场景模板。品牌语调功能可以学习你公司的风格，让生成的内容保持一致的品牌声音。
 

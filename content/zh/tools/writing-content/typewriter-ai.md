@@ -4,15 +4,13 @@ description: "AI 写作助手，专注长文生成和内容优化，支持多种
 translationKey: "typewriter-ai"
 category: "写作与内容"
 website: "https://typewriterai.com"
-price: "Free / 19"
-priceCurrency: "USD"
+price: "Free / $19"
 faq:
   - q: "Typewriter AI 和 ChatGPT 有什么区别？"
     a: "Typewriter 针对写作场景做了优化，有模板和风格预设，比通用聊天工具更专注。"
   - q: "中文效果如何？"
     a: "英文为主，中文支持有限，国内用不太方便。"
 ---
-# Typewriter AI
 
 专注内容生成的 AI 写作工具，提供博客文章、产品描述、社交媒体等多种模板。比通用 AI 更针对性地解决写作场景，输出质量比较稳定。
 

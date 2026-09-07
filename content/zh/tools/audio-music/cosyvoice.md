@@ -5,14 +5,12 @@ translationKey: "cosyvoice"
 category: "音频与音乐"
 website: "https://github.com/FunAudioLLM/CosyVoice"
 price: "Free"
-priceCurrency: "USD"
 faq:
   - q: "CosyVoice 和 ChatTTS 比？"
     a: "多语种支持更好，中文自然度也很高；ChatTTS 在韵律控制上更灵活。"
   - q: "能本地跑吗？"
     a: "可以，开源模型下载到本地运行。"
 ---
-# CosyVoice
 
 阿里通义 FunAudioLLM 团队开源的 TTS 模型，多语种支持好，音色自然度高。支持声音克隆和跨语种合成。
 

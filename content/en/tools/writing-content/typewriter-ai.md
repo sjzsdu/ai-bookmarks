@@ -4,15 +4,13 @@ description: "AI writing assistant for long-form content and content optimizatio
 translationKey: "typewriter-ai"
 category: "Writing & Content"
 website: "https://typewriterai.com"
-price: "Free / 19"
-priceCurrency: "USD"
+price: "Free / $19"
 faq:
   - q: "How is Typewriter AI different from ChatGPT?"
     a: "Typewriter is optimized for writing scenarios with templates and style presets, more focused than general chat tools."
   - q: "How is the Chinese content quality?"
     a: "Primarily English-focused with limited Chinese support."
 ---
-# Typewriter AI
 
 AI writing tool focused on content generation with templates for blog posts, product descriptions, social media, and more. More targeted than general AI for writing scenarios with consistent output quality.
 

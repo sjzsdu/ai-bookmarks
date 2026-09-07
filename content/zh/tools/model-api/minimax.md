@@ -4,15 +4,13 @@ description: "海螺 AI 背后的国产多模态 API，覆盖文本、语音、�
 translationKey: "minimax-api"
 category: "模型与 API"
 website: "https://platform.minimaxi.com"
-price: "按量计费"
-priceCurrency: "CNY"
+price: "¥2.1 / 百万 tokens 起"
 faq:
   - q: "MiniMax API 只提供文本模型吗？"
     a: "不是，平台还提供语音、音乐和视频等多模态生成能力。"
   - q: "适合哪些产品接入？"
     a: "适合对话助手、配音、有声内容、音乐和视频创作类产品。"
 ---
-# MiniMax 开放平台
 
 MiniMax 开放平台提供海螺 AI 背后的多模态模型能力。开发者可以在同一平台接入文本、语音、音乐和视频接口，减少组合多家供应商的成本。
 

@@ -4,15 +4,13 @@ description: "StackBlitz's AI full-stack builder, generate complete apps in the 
 translationKey: "bolt"
 category: "Coding & Development"
 website: "https://bolt.new"
-price: "Free / 20"
-priceCurrency: "USD"
+price: "Free / $20"
 faq:
   - q: "What kind of apps can Bolt build?"
     a: "React, Vue, Next.js and other frameworks. Full-stack apps with frontend and backend."
   - q: "Does it work globally?"
     a: "Yes, browser-based and accessible worldwide."
 ---
-# Bolt
 
 StackBlitz's AI full-stack builder. Describe your app in the browser, get a runnable full-stack application. Built on WebContainer technology, no local setup needed for preview and editing.
 

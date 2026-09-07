@@ -4,15 +4,13 @@ description: "AI English writing tool for grammar, style suggestions, and rewrit
 translationKey: "grammarly"
 category: "Writing & Content"
 website: "https://grammarly.com"
-price: "Free / 12"
-priceCurrency: "USD"
+price: "Free / $12"
 faq:
   - q: "Does Grammarly support Chinese?"
     a: "No, English only. For Chinese writing, use other tools."
   - q: "Is the free tier enough?"
     a: "Free tier covers basic grammar and spelling. Premium needed for style suggestions and rewriting."
 ---
-# Grammarly
 
 Essential AI tool for English writing. Grammar, spelling, and punctuation checking are just the basics — Premium suggests sentence optimization, tone adjustment, and repetition elimination. Available as browser plugin, desktop app, and mobile keyboard.
 

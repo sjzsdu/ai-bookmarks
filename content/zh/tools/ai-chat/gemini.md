@@ -4,15 +4,13 @@ description: "Google 的 AI 对话模型，多模态能力强，与 Google 搜�
 translationKey: "gemini"
 category: "AI 对话"
 website: "https://gemini.google.com"
-price: "Free / 20 USD"
-priceCurrency: "USD"
+price: "Free / $20"
 faq:
   - q: "Gemini 在国内能用吗？"
     a: "需代理访问，国内无法直连。"
   - q: "和 ChatGPT 比？"
     a: "多模态（图片/视频理解）更强，搜索整合好；中文生态略逊。"
 ---
-# Gemini
 
 Google 推出的 AI 对话模型，原生多模态，能直接理解图片、视频和音频。与 Google 搜索深度整合，实时信息获取能力强。
 

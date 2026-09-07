@@ -4,15 +4,13 @@ description: "AI UI design tool, turn hand-drawn sketches into interactive proto
 translationKey: "uizard"
 category: "Design & Creativity"
 website: "https://uizard.io"
-price: "Free / 12"
-priceCurrency: "USD"
+price: "Free / $12"
 faq:
   - q: "Can Uizard export code?"
     a: "It exports development specs but not production-ready code — more design-to-dev handoff."
   - q: "Does it support Chinese?"
     a: "Interface supports Chinese, but AI recognition is primarily English-focused."
 ---
-# Uizard
 
 AI UI design tool that turns hand-drawn sketches or screenshots into interactive prototypes. A shortcut for non-designers to create UI prototypes without learning Figma.
 

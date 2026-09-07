@@ -4,15 +4,13 @@ description: "Alibaba's Chinese image generation tool; direct access in China wi
 translationKey: "tongyi-wanxiang"
 category: "Image Generation"
 website: "https://tongyi.aliyun.com/wanxiang"
-price: "Free / Pay-as-you-go CNY"
-priceCurrency: "CNY"
+price: "Free"
 faq:
   - q: "Does it need a VPN?"
     a: "No, direct access in China via Alibaba Cloud login."
   - q: "Is it commercial-ready?"
     a: "Offers commercial licensing, clearer than many overseas tools for China use."
 ---
-# Tongyi Wanxiang
 
 Alibaba Tongyi's AI painting tool with strong Chinese prompt understanding, integrated into the Tongyi ecosystem. Direct access in China, RMB billing — no VPN hassle.
 

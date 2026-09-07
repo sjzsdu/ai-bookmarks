@@ -4,8 +4,7 @@ description: "企业级 AI 营销文案优化平台"
 translationKey: "phrasee"
 category: "电商与营销"
 website: "https://phrasee.co"
-price: "Custom pricing"
-priceCurrency: "USD"
+price: "联系定价"
 faq:
   - q: "Phrasee 适合小公司吗？"
     a: "不太适合，它是面向大企业的，价格比较贵，需要联系销售。"
@@ -13,7 +12,6 @@ faq:
     a: "优化邮件标题、推送通知、广告文案的点击率。"
 ---
 
-# Phrasee
 
 大企业的营销文案优化工具。用 AI 帮你写邮件标题、推送通知、广告文案，并预测哪个版本效果更好。主要面向电商、零售、旅游等行业的大型企业。
 

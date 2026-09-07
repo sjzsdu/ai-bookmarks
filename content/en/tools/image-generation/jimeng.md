@@ -4,15 +4,13 @@ description: "ByteDance's Seedream-powered platform for generating and editing v
 translationKey: "jimeng-image"
 category: "Image Generation"
 website: "https://jimeng.jianying.com"
-price: "Free / Paid plans"
-priceCurrency: "CNY"
+price: "Free"
 faq:
   - q: "What can Jimeng Image create?"
     a: "It generates images from text or references and supports inpainting, outpainting, and style exploration."
   - q: "Does it work well with Chinese prompts?"
     a: "Yes. Seedream is designed with strong support for Chinese prompts and local creative use cases."
 ---
-# Jimeng Image
 
 Jimeng Image is ByteDance's AI image creation service. Seedream models turn Chinese descriptions, reference images, and editing instructions into visual assets that can also feed into Jimeng's video workflow.
 

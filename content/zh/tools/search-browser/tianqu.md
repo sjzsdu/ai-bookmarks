@@ -5,14 +5,12 @@ translationKey: "tianqu"
 category: "搜索与浏览器"
 website: "https://www.tiangong.cn"
 price: "Free"
-priceCurrency: "CNY"
 faq:
   - q: "和秘塔搜索比怎么样？"
     a: "功能类似，天工界面更简洁，但搜索深度略逊。"
   - q: "需要翻墙吗？"
     a: "不需要，国内直连。"
 ---
-# 天工AI搜索
 
 昆仑万维做的AI搜索产品，免费不限次，中文搜索体验流畅。
 

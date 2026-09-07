@@ -4,15 +4,13 @@ description: "Largest online course platform with university partnerships; stron
 translationKey: "coursera"
 category: "Learning & Education"
 website: "https://coursera.org"
-price: "Free / 49 USD"
-priceCurrency: "USD"
+price: "Free / $49"
 faq:
   - q: "Can I audit courses for free?"
     a: "Yes, most courses can be audited for free. Certificates require payment."
   - q: "Are the certificates worth it?"
     a: "Recognized by employers, especially Google, IBM, and Stanford certificates."
 ---
-# Coursera
 
 The largest MOOC platform — university-quality AI courses from Stanford, DeepLearning.AI, and Google.
 

@@ -4,15 +4,13 @@ description: "Chat with uploaded PDFs and office documents, with answers linked 
 translationKey: "chatdoc"
 category: "Office & Productivity"
 website: "https://chatdoc.com"
-price: "Free / Paid plans"
-priceCurrency: "USD"
+price: "Free"
 faq:
   - q: "What files does ChatDOC support?"
     a: "It focuses on PDFs and common office documents; current formats and size limits are listed in the product."
   - q: "Does it cite the source document?"
     a: "Yes. ChatDOC links answers to relevant passages so users can verify them."
 ---
-# ChatDOC
 
 ChatDOC is an AI assistant for document reading. Upload a PDF or office file to ask questions, extract tables, summarize sections, and jump back to cited passages for verification.
 

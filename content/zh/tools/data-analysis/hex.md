@@ -4,8 +4,7 @@ description: "AI 驱动的数据工作空间"
 translationKey: "hex"
 category: "数据分析"
 website: "https://hex.tech"
-price: "Free / 25 USD"
-priceCurrency: "USD"
+price: "Free / $25"
 faq:
   - q: "Hex 是什么？"
     a: "一个集 SQL、Python、可视化于一体的数据工作空间，支持 AI 辅助分析。"
@@ -13,7 +12,6 @@ faq:
     a: "适合，免费版功能够个人使用。主要面向数据团队。"
 ---
 
-# Hex
 
 数据团队的协作工作空间。把 SQL 查询、Python 代码、可视化图表整合在一个地方，还支持 AI 帮你写代码和分析数据。适合需要写复杂查询但又想要可视化界面的数据分析师。
 

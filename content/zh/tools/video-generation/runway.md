@@ -4,15 +4,13 @@ description: "AI 视频生成与编辑标杆，Gen 系列模型功能全面但�
 translationKey: "runway"
 category: "视频生成"
 website: "https://runwayml.com"
-price: "Free / 12+ USD"
-priceCurrency: "USD"
+price: "Free / $12+"
 faq:
   - q: "Runway 在国内能用吗？"
     a: "网页版通常可直连，订阅需境外信用卡。"
   - q: "主要能做什么？"
     a: "文生视频、图生视频、视频擦除/扩帧等百余种 AI 特效。"
 ---
-# Runway
 
 AI 视频赛道的标杆工具，Gen 系列模型让"文字生成视频"成为现实。功能全面，从生成到编辑到特效全都覆盖。
 

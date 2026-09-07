@@ -4,15 +4,13 @@ description: "AI productivity platform combining notes, tasks, databases, and AI
 translationKey: "taskade"
 category: "Office & Productivity"
 website: "https://taskade.com"
-price: "Free / 8"
-priceCurrency: "USD"
+price: "Free / $8"
 faq:
   - q: "How is Taskade different from Notion?"
     a: "Taskade is lighter with deeper AI integration and lower price, but smaller ecosystem."
   - q: "Does it work globally?"
     a: "Accessible worldwide, AI features call external APIs."
 ---
-# Taskade
 
 A productivity tool combining notes, task management, databases, and AI. AI is deeply integrated — use it anywhere to write, organize, and summarize content.
 

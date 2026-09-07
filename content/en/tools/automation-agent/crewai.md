@@ -4,15 +4,13 @@ description: "Multi-agent framework where AI roles collaborate like a team to co
 translationKey: "crewai"
 category: "Automation & Agent"
 website: "https://crewai.com"
-price: "Free / 50 USD"
-priceCurrency: "USD"
+price: "Free / $50"
 faq:
   - q: "How is it different from AutoGen?"
     a: "CrewAI emphasizes role-based task orchestration; AutoGen is more conversational."
   - q: "Is it production-ready?"
     a: "It's maturing quickly. Enterprise tier available for production use."
 ---
-# CrewAI
 
 Multi-agent framework that defines AI roles — researcher, writer, reviewer — and has them collaborate like a real team.
 

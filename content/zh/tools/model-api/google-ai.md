@@ -4,15 +4,13 @@ description: "Google的AI模型平台，Gemini系列和Vertex AI。"
 translationKey: "google-ai"
 category: "模型与 API"
 website: "https://ai.google.dev"
-price: "Pay-as-you-go"
-priceCurrency: "USD"
+price: "Free"
 faq:
   - q: "Gemini好用吗？"
     a: "多模态能力不错，但中文表现一般，英文和代码能力可以。"
   - q: "国内能用吗？"
     a: "需要VPN。"
 ---
-# Google AI
 
 Google的AI模型平台，Gemini系列模型和Vertex AI企业平台。
 

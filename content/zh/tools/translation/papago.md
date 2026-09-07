@@ -5,7 +5,6 @@ translationKey: "papago"
 category: "翻译"
 website: "https://papago.naver.com"
 price: "Free"
-priceCurrency: "USD"
 faq:
   - q: "Papago 和 Google Translate 韩语翻译哪个好？"
     a: "韩语翻译 Papago 明显更准确，毕竟是韩国本土公司做的。"
@@ -13,7 +12,6 @@ faq:
     a: "支持中英日韩互译，中文翻译质量不错。"
 ---
 
-# Naver Papago
 
 韩国 Naver 出品的翻译工具，韩语翻译准确度吊打其他翻译工具。支持中英日韩四种语言互译，还有图片翻译和网页翻译功能。如果经常和韩国打交道，这个工具必备。
 

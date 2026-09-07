@@ -4,15 +4,13 @@ description: "Commercial AI design tool specializing in illustration, vectors, i
 translationKey: "recraft"
 category: "Image Generation"
 website: "https://www.recraft.ai"
-price: "Free / 12 USD"
-priceCurrency: "USD"
+price: "Free / $12"
 faq:
   - q: "Can Recraft generate vector graphics?"
     a: "Yes. It supports vector-style generation and SVG export for icons and brand assets."
   - q: "How is it different from general image generators?"
     a: "Recraft focuses on editable commercial design assets, consistent styles, and a canvas workflow."
 ---
-# Recraft
 
 Recraft is an AI visual platform for designers. Rather than focusing only on standalone art, it produces illustrations, vectors, icons, and layout assets for brands, marketing, and product interfaces.
 

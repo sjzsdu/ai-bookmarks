@@ -4,15 +4,13 @@ description: "AI presentation builder, describe a topic and get a polished slide
 translationKey: "gamma"
 category: "Office & Productivity"
 website: "https://gamma.app"
-price: "Free / 10"
-priceCurrency: "USD"
+price: "Free / $10"
 faq:
   - q: "Can I export Gamma presentations?"
     a: "Yes, export to PDF, PPTX, or share a live link."
   - q: "Does it work globally?"
     a: "Accessible worldwide, AI generation calls external APIs."
 ---
-# Gamma
 
 AI presentation tool that generates complete decks from text descriptions. Much faster than traditional PPT software with decent design quality. Good for quick turnaround work.
 

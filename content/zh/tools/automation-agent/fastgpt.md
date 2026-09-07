@@ -4,15 +4,13 @@ description: "国产开源知识库问答与 Agent 编排平台，提供可视�
 translationKey: "fastgpt"
 category: "自动化与 Agent"
 website: "https://fastgpt.cn"
-price: "Free / 付费方案"
-priceCurrency: "CNY"
+price: "Free（开源）"
 faq:
   - q: "FastGPT 可以私有化部署吗？"
     a: "可以，开源版本支持自托管，适合对数据边界有要求的团队。"
   - q: "它最适合什么场景？"
     a: "它尤其适合企业知识库问答、智能客服和带检索能力的 Agent。"
 ---
-# FastGPT
 
 FastGPT 是国产开源的 AI 应用平台，将知识库检索、对话和工作流编排集中在可视化界面中，既能快速搭建原型，也支持自托管。
 

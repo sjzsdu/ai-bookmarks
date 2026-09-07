@@ -4,15 +4,13 @@ description: "AI 内容生成工具，擅长短文案和营销文本，上手简
 translationKey: "copy-ai"
 category: "写作与内容"
 website: "https://copy.ai"
-price: "Free / 49"
-priceCurrency: "USD"
+price: "Free / $49"
 faq:
   - q: "Copy.ai 和 Jasper 哪个好？"
     a: "Copy.ai 更轻量易上手，适合短文案；Jasper 功能更全，适合团队和品牌管理。"
   - q: "中文效果怎么样？"
     a: "英文是强项，中文也能用但质量不如英文，国内用建议搭配其他工具。"
 ---
-# Copy.ai
 
 AI 内容生成工具，主打营销短文案——广告语、产品描述、社交媒体帖子等。界面简单，选模板、填参数、一键生成，上手门槛很低。
 
