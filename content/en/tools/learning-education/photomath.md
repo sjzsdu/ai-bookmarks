@@ -10,21 +10,41 @@ faq:
     a: "Handles basic through high school math well. Some calculus, but limited for advanced university math."
   - q: "Does it show steps?"
     a: "Yes, detailed step-by-step solutions with multiple methods."
+highlights:
+  - "Use Photomath inside a real workflow, not as a novelty"
+  - "Review the output before you keep it"
+  - "Check free limits and sharing boundaries early"
+usecases:
+  - title: "Pre-delivery check"
+    desc: "Use Photomath for one deliberate final pass"
+  - title: "Repeatable work"
+    desc: "Turn a recurring cleanup step into a habit"
+  - title: "Team handoff"
+    desc: "Keep the conclusion tied to its source context"
+forwho:
+  - "People with a concrete job to finish"
+  - "Individuals or small teams willing to review AI output"
+notforwho:
+  - "Anyone expecting error-free output without review"
+  - "People seeking a one-click answer with no source material"
 ---
 
-Point your camera at a math problem — AI recognizes it and shows detailed solution steps.
+Photomath is most useful as a sharp helper inside a real job, not as a substitute for judgment. Try it for a week on work already in motion; a polished demo will not tell you whether it earns a permanent place.
 
-## Strengths
-- Camera recognition of handwritten and printed math
-- Multiple solution methods shown
-- Detailed step-by-step breakdowns
-- Covers algebra, geometry, calculus
+## Getting started
 
-## Pricing & access
-Basic solving is free. Plus at $10/month for detailed steps and video explanations. Works globally.
+Start with one small task that is genuinely blocking you. Compare its result with your source, keep the steps that feel natural, and skip the ones that add ceremony. It can make the first draft and final pass much faster, but the last call is still yours.
+
+## What you can do with it
+
+- Break a fuzzy topic into a ten-minute exercise instead of rereading an explanation.
+- Review for an exam or interview with mistakes, flashcards, or questions over your own material.
+- Ask about a confusing derivation, then redo it yourself.
+
+## Limits and gotchas
+
+A complete-looking answer is not automatically correct, formatted properly, or safe to share. Free plans often cap runs or exports. Test with non-sensitive material before connecting customer data or paying, and agree on who owns the final version when a team uses it.
 
 ## Alternatives
-Mathway (more advanced math), Symbolab (step-by-step).
 
-## Who it's for
-Students from middle school to college who need help with specific math problems.
+Coursera is better for structured courses, Quizlet for drills and cards, and Elicit for evidence from papers.

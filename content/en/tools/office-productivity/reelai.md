@@ -10,21 +10,41 @@ faq:
     a: "Describe what you want to do with your spreadsheet (filter, aggregate, merge, chart) and AI does it automatically."
   - q: "Does it support Chinese?"
     a: "Supports Chinese commands, but interface is primarily English."
+highlights:
+  - "Use Reelai inside a real workflow, not as a novelty"
+  - "Review the output before you keep it"
+  - "Check free limits and sharing boundaries early"
+usecases:
+  - title: "Pre-delivery check"
+    desc: "Use Reelai for one deliberate final pass"
+  - title: "Repeatable work"
+    desc: "Turn a recurring cleanup step into a habit"
+  - title: "Team handoff"
+    desc: "Keep the conclusion tied to its source context"
+forwho:
+  - "People with a concrete job to finish"
+  - "Individuals or small teams willing to review AI output"
+notforwho:
+  - "Anyone expecting error-free output without review"
+  - "People seeking a one-click answer with no source material"
 ---
 
-AI spreadsheet tool that lets you operate data with natural language — say "help me aggregate sales by month" and it auto-writes formulas and creates charts. No need to memorize Excel formulas.
+Reelai is most useful as a sharp helper inside a real job, not as a substitute for judgment. Try it for a week on work already in motion; a polished demo will not tell you whether it earns a permanent place.
 
-## Strengths
-- Natural language spreadsheet operations
-- Auto-generate formulas and charts
-- Data cleaning and merging
-- Import Excel/CSV support
+## Getting started
 
-## Pricing
-Free tier with basic features, Pro at $10/month. Accessible globally.
+Start with one small task that is genuinely blocking you. Compare its result with your source, keep the steps that feel natural, and skip the ones that add ceremony. It can make the first draft and final pass much faster, but the last call is still yours.
+
+## What you can do with it
+
+- Turn loose meeting notes into a page the team can actually keep using.
+- Make a clear outline, whiteboard, or presentation for a client meeting.
+- Keep tasks, source material, and discussion together instead of hunting across tabs.
+
+## Limits and gotchas
+
+A complete-looking answer is not automatically correct, formatted properly, or safe to share. Free plans often cap runs or exports. Test with non-sensitive material before connecting customer data or paying, and agree on who owns the final version when a team uses it.
 
 ## Alternatives
-WPS AI (Chinese office software with AI), Feishu Multitable AI.
 
-## Who it's for
-Anyone who forgets Excel formulas, data processing beginners, anyone needing quick spreadsheet analysis.
+Notion is stronger for deep docs, Canva for presentation design, and Asana or ClickUp for heavier process management.

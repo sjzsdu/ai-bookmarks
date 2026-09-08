@@ -10,18 +10,41 @@ faq:
     a: "Yes. Answers link back to supporting passages in the sources you provide."
   - q: "What sources can it use?"
     a: "It accepts common documents and web sources; supported formats and limits are listed in the product."
+highlights:
+  - "Use NotebookLM inside a real workflow, not as a novelty"
+  - "Review the output before you keep it"
+  - "Check free limits and sharing boundaries early"
+usecases:
+  - title: "Pre-delivery check"
+    desc: "Use NotebookLM for one deliberate final pass"
+  - title: "Repeatable work"
+    desc: "Turn a recurring cleanup step into a habit"
+  - title: "Team handoff"
+    desc: "Keep the conclusion tied to its source context"
+forwho:
+  - "People with a concrete job to finish"
+  - "Individuals or small teams willing to review AI output"
+notforwho:
+  - "Anyone expecting error-free output without review"
+  - "People seeking a one-click answer with no source material"
 ---
 
-NotebookLM is Google's source-grounded learning and research assistant. Add your own material, then ask questions, create summaries and study guides, or turn the sources into an Audio Overview.
+NotebookLM is most useful as a sharp helper inside a real job, not as a substitute for judgment. Try it for a week on work already in motion; a polished demo will not tell you whether it earns a permanent place.
 
-## Strengths
-- Source-grounded Q&A with citations
-- Summaries, FAQs, study guides, and timelines
-- Audio Overviews generated from source material
-- Synthesis and theme discovery across multiple sources
+## Getting started
 
-## Pricing & access
-A free version is available, while higher limits are generally included in Google's paid AI plans. Availability and limits vary by region.
+Start with one small task that is genuinely blocking you. Compare its result with your source, keep the steps that feel natural, and skip the ones that add ceremony. It can make the first draft and final pass much faster, but the last call is still yours.
 
-## Who it's for
-Students, educators, researchers, and knowledge workers who need to understand large collections of material quickly.
+## What you can do with it
+
+- Break a fuzzy topic into a ten-minute exercise instead of rereading an explanation.
+- Review for an exam or interview with mistakes, flashcards, or questions over your own material.
+- Ask about a confusing derivation, then redo it yourself.
+
+## Limits and gotchas
+
+A complete-looking answer is not automatically correct, formatted properly, or safe to share. Free plans often cap runs or exports. Test with non-sensitive material before connecting customer data or paying, and agree on who owns the final version when a team uses it.
+
+## Alternatives
+
+Coursera is better for structured courses, Quizlet for drills and cards, and Elicit for evidence from papers.

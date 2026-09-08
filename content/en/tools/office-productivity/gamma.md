@@ -10,21 +10,41 @@ faq:
     a: "Yes, export to PDF, PPTX, or share a live link."
   - q: "Does it work globally?"
     a: "Accessible worldwide, AI generation calls external APIs."
+highlights:
+  - "Use Gamma inside a real workflow, not as a novelty"
+  - "Review the output before you keep it"
+  - "Check free limits and sharing boundaries early"
+usecases:
+  - title: "Pre-delivery check"
+    desc: "Use Gamma for one deliberate final pass"
+  - title: "Repeatable work"
+    desc: "Turn a recurring cleanup step into a habit"
+  - title: "Team handoff"
+    desc: "Keep the conclusion tied to its source context"
+forwho:
+  - "People with a concrete job to finish"
+  - "Individuals or small teams willing to review AI output"
+notforwho:
+  - "Anyone expecting error-free output without review"
+  - "People seeking a one-click answer with no source material"
 ---
 
-AI presentation tool that generates complete decks from text descriptions. Much faster than traditional PPT software with decent design quality. Good for quick turnaround work.
+Gamma is most useful as a sharp helper inside a real job, not as a substitute for judgment. Try it for a week on work already in motion; a polished demo will not tell you whether it earns a permanent place.
 
-## Strengths
-- Auto-generate presentations from descriptions
-- Multiple templates and design styles
-- Embed videos, charts, code
-- Online sharing and collaboration
+## Getting started
 
-## Pricing
-Free tier with generation limits, Plus at $10/month. Accessible globally but subscription requires international payment.
+Start with one small task that is genuinely blocking you. Compare its result with your source, keep the steps that feel natural, and skip the ones that add ceremony. It can make the first draft and final pass much faster, but the last call is still yours.
+
+## What you can do with it
+
+- Turn loose meeting notes into a page the team can actually keep using.
+- Make a clear outline, whiteboard, or presentation for a client meeting.
+- Keep tasks, source material, and discussion together instead of hunting across tabs.
+
+## Limits and gotchas
+
+A complete-looking answer is not automatically correct, formatted properly, or safe to share. Free plans often cap runs or exports. Test with non-sensitive material before connecting customer data or paying, and agree on who owns the final version when a team uses it.
 
 ## Alternatives
-AiPPT (Chinese AI PPT tool), Meitu AI PPT, iFlytek Smart Docs.
 
-## Who it's for
-Professionals needing quick PPTs, teachers, students, anyone who doesn't want to spend time on formatting.
+Notion is stronger for deep docs, Canva for presentation design, and Asana or ClickUp for heavier process management.

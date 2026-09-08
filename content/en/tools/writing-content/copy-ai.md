@@ -10,21 +10,41 @@ faq:
     a: "Copy.ai is lighter and easier for short copy; Jasper is more feature-rich for teams and brand management."
   - q: "How is the Chinese content quality?"
     a: "English is its strength, Chinese output is less polished. Pair with other tools for Chinese content."
+highlights:
+  - "Use Copy.ai inside a real workflow, not as a novelty"
+  - "Review the output before you keep it"
+  - "Check free limits and sharing boundaries early"
+usecases:
+  - title: "Pre-delivery check"
+    desc: "Use Copy.ai for one deliberate final pass"
+  - title: "Repeatable work"
+    desc: "Turn a recurring cleanup step into a habit"
+  - title: "Team handoff"
+    desc: "Keep the conclusion tied to its source context"
+forwho:
+  - "People with a concrete job to finish"
+  - "Individuals or small teams willing to review AI output"
+notforwho:
+  - "Anyone expecting error-free output without review"
+  - "People seeking a one-click answer with no source material"
 ---
 
-AI content generation tool focused on marketing short copy — taglines, product descriptions, social media posts. Simple interface: pick a template, fill parameters, generate. Very low learning curve.
+Copy.ai is most useful as a sharp helper inside a real job, not as a substitute for judgment. Try it for a week on work already in motion; a polished demo will not tell you whether it earns a permanent place.
 
-## Strengths
-- Short copy generation: taglines, product descriptions, social posts
-- Workflow automation for batch content
-- Translation and localization
-- Team collaboration and brand voice
+## Getting started
 
-## Pricing
-Free tier with 2000 words/month, Pro at $49/month. Accessible globally with international payment.
+Start with one small task that is genuinely blocking you. Compare its result with your source, keep the steps that feel natural, and skip the ones that add ceremony. It can make the first draft and final pass much faster, but the last call is still yours.
+
+## What you can do with it
+
+- Finish a customer email, then accept only the suggestions that preserve your voice.
+- Run a resume, abstract, or landing page through a final pass for small but costly mistakes.
+- Compare tone rewrites beside the original instead of replacing a draft blindly.
+
+## Limits and gotchas
+
+A complete-looking answer is not automatically correct, formatted properly, or safe to share. Free plans often cap runs or exports. Test with non-sensitive material before connecting customer data or paying, and agree on who owns the final version when a team uses it.
 
 ## Alternatives
-iFlytek Spark (Chinese copy), Baidu Wenxin Yiyan, Alibaba Tongyi Qianwen.
 
-## Who it's for
-E-commerce operators, social media managers, anyone needing quick short-form copy.
+Hemingway is better for plain readability; QuillBot is more rewrite-oriented; Microsoft Editor is the convenient Word-native option.
