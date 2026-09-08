@@ -12,6 +12,8 @@ faq:
     a: "Stronger multimodal (image/video) and search integration; slightly weaker Chinese ecosystem."
 ---
 
+Gemini shines inside Google’s ecosystem, where it can work alongside Drive files, email, and media. Access and payment are real constraints in China; for Chinese-first work, compare it against local tools on your own material.
+
 Google's AI chat model with native multimodal understanding — can process text, images, video, and audio directly. Deep Google Search integration for real-time information.
 
 ## Strengths

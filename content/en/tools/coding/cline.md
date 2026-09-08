@@ -12,6 +12,8 @@ faq:
     a: "Fully open source, choose your own models, code stays local for better privacy."
 ---
 
+Cline suits developers who want control over models and costs: bring your own API and let it inspect files or run commands. That power requires care—start read-only and never let it touch production without reviewing commands.
+
 Open-source VS Code AI extension that uses your own API keys to call any model (GPT-4, Claude, local Ollama, etc.). Code processes locally, never passes through third parties. Full privacy control.
 
 ## Strengths

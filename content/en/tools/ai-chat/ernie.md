@@ -12,6 +12,8 @@ faq:
     a: "Strong Chinese and local search integration; reasoning and English lag frontier models."
 ---
 
+ERNIE is convenient if your work already lives in Baidu services: research, copy, presentations, and files stay closer together. Treat search summaries as leads, not proof—open primary sources for legal, medical, or numerical claims.
+
 Baidu's Chinese large model (ERNIE), accessible in China without VPN, integrated with Baidu search, netdisk, and docs. Natural Chinese expression.
 
 ## Strengths

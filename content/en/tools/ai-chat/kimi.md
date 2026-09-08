@@ -12,6 +12,8 @@ faq:
     a: "Yes, free with phone registration, direct access in China."
 ---
 
+Kimi is best used on long documents: ask where a conclusion appears and what contradicts it after uploading a report or transcript. A large context window is not perfect recall; verify important numbers against the page.
+
 Moonshot AI's chat model, built around ultra-long context (200K+ characters). Ideal for processing long documents, summaries, and analysis.
 
 ## Strengths

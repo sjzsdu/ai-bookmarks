@@ -12,6 +12,8 @@ faq:
     a: "Stronger real-time info from X/Twitter; less mature feature ecosystem."
 ---
 
+Grok is most useful for seeing what people are discussing on X and finding leads, not for producing a polished final answer. Trending posts amplify noise; never treat a viral post or its summary as confirmed news.
+
 xAI's chat model, deeply integrated with X/Twitter for strong real-time information. Direct, sometimes humorous response style.
 
 ## Strengths

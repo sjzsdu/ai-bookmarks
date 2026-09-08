@@ -12,6 +12,8 @@ faq:
     a: "Enterprise editions support private deployment and proprietary model connections."
 ---
 
+Tongyi Lingma fits Chinese-speaking teams that need straightforward local access: use it to draft comments, tests, and API docs, then finish the work. Confirm data handling before enterprise rollout; local does not automatically mean compliant.
+
 Alibaba's intelligent coding assistant, tuned for Chinese development habits. One of the best at understanding Chinese comments, requirements, and documentation among domestic coding AIs.
 
 ## Strengths

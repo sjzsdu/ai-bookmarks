@@ -12,6 +12,8 @@ faq:
     a: "Yes, browser-based and accessible worldwide."
 ---
 
+Bolt is fast for answering “can this flow run?”—describe it and get a working interface quickly. Do not confuse the demo with a product: auth, permissions, persistence, and failure paths are usually the real second half.
+
 StackBlitz's AI full-stack builder. Describe your app in the browser, get a runnable full-stack application. Built on WebContainer technology, no local setup needed for preview and editing.
 
 ## Strengths

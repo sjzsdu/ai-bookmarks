@@ -31,6 +31,8 @@ faq:
     a: "Supports several models and routes to different providers depending on plan."
 ---
 
+Cursor works best for developers who already debug: locate related code first, accept small batches of changes, and test as you go. “Refactor the whole project” usually just postpones the review cost.
+
 "AI-first" code editor forked from VS Code, embedding models directly into editing, search, and refactoring. Composer can modify multiple files at once — useful for large refactors.
 
 ## Strengths

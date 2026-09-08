@@ -12,6 +12,8 @@ faq:
     a: "Yes, accessible worldwide. Some AI features may be faster with better connectivity."
 ---
 
+Replit keeps environment, collaboration, and deployment in one browser tab, which is great for teaching, demos, and small launches. As projects grow, watch runtime quotas, costs, and code export before lock-in becomes painful.
+
 Online IDE that bundles code editing, AI assistance, runtime, and deployment. The AI Agent automatically writes, debugs, and deploys code from descriptions. Great for rapid prototyping.
 
 ## Strengths

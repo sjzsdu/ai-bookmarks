@@ -30,6 +30,8 @@ faq:
     a: "Comparable Chinese ability, free to use; slightly behind on complex reasoning and English ecosystem."
 ---
 
+DeepSeek is a practical first stop for Chinese questions, reasoning, and code without the usual access friction. Deep-thinking mode helps on hard problems, but expect busy periods and do not casually upload company material just because it is free.
+
 DeepSeek's AI chat model, known for being free and capable. Strong Chinese, supports deep thinking mode, top-tier reasoning among Chinese models.
 
 ## Strengths

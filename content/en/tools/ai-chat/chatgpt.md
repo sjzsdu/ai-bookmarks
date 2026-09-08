@@ -34,6 +34,8 @@ faq:
     a: "Claude, Gemini, DeepSeek, and open-weight models like Llama."
 ---
 
+ChatGPT earns its keep when you iterate: turn a rough idea into an email, outline, or code draft. It is great for everyday knowledge work; it is not a source of record, so check numbers, citations, and policy claims.
+
 OpenAI's conversational model — the most recognized AI entry point worldwide. Strong at writing, coding, translation, and brainstorming with the most complete feature ecosystem.
 
 ## Strengths

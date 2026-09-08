@@ -12,6 +12,8 @@ faq:
     a: "Yes, accessible worldwide. Chinese language support is particularly good."
 ---
 
+Trae lowers the barrier for trying an AI IDE in China: start with a non-critical project and one small feature. Its free tier and model policy can change, so do not build a critical workflow around it alone.
+
 ByteDance's AI IDE, built on VS Code with completely free AI features. Well-optimized for Chinese developers with good support for Chinese comments, requirements, and documentation.
 
 ## Strengths

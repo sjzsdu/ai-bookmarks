@@ -12,6 +12,8 @@ faq:
     a: "Yes, with limited usage. Pro at $30/month for full access."
 ---
 
+Augment is more useful in an unfamiliar large repository than for a tiny snippet. Map modules and call paths first, then request a narrow change. Long context can still misunderstand architecture, so review migrations and bulk edits normally.
+
 AI coding assistant that claims to understand your entire project's architecture and dependencies, not just the current file. Interesting positioning for developers maintaining large legacy codebases.
 
 ## Strengths

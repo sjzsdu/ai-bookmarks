@@ -12,6 +12,8 @@ faq:
     a: "Yes. Projects can connect to GitHub so developers can own and extend the code."
 ---
 
+Lovable is great for turning a real user flow into a clickable prototype—describe entry, action, and outcome, not “make a SaaS.” Hand off auth, payments, and complex data early when the prototype becomes serious.
+
 Lovable became a breakout conversational full-stack web app builder in 2025. Describe a product and it generates the interface, application logic, and common data integrations, then lets you refine everything through chat.
 
 ## Strengths

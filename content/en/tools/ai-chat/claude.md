@@ -12,6 +12,8 @@ faq:
     a: "Via AWS Bedrock or Azure for regional deployment and data controls."
 ---
 
+Claude is especially good as a patient editor for long notes, transcripts, and drafts. Ask it to map the material, then challenge the details. Fluent prose is not evidence—check contracts, financial claims, and source material.
+
 Anthropic's conversational model — safer, longer-context, more natural writing. Artifacts make interactive prototypes easy.
 
 ## Strengths
