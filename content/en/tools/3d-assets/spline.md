@@ -10,27 +10,40 @@ faq:
     a: "No. It runs entirely in the browser. There's also a desktop version."
   - q: "What's it good for?"
     a: "Web 3D elements, product showcases, simple animations."
+highlights:
+  - "Get a concrete first draft quickly"
+  - "Reduce repetitive setup work"
+  - "Keep human judgment in the real workflow"
+usecases:
+  - title: "First attempt"
+    desc: "Validate a direction with one narrow job before betting on a full project."
+  - title: "Iteration"
+    desc: "Keep a promising version and tighten the brief with real feedback."
+  - title: "Team discussion"
+    desc: "Bring a concrete draft so the conversation can focus on choices and trade-offs."
+forwho:
+  - "People validating a direction quickly"
+  - "Small teams willing to review an AI first pass"
+notforwho:
+  - "Anyone expecting unreviewed output to be publish-ready"
 ---
 
+I treat Spline as a way to accelerate a first draft, not as a button that makes the final call. Try it on one real, narrow task first; whether it saves the next step matters more than a polished demo.
 
-3D design tool that runs right in your browser — no installation needed. Great for web 3D elements, product showcases, and simple animations. AI-assisted features help you generate 3D scenes quickly. Much lower learning curve than Blender.
+## Getting started
 
-## Strengths
-- Browser-based 3D design
-- Real-time collaboration
-- Embeddable in web pages
-- AI-assisted generation
+State the goal, source material, or constraints clearly. Review one pass, then tighten the brief from actual feedback. Save the promising version—rarely is the first output the finished one.
 
-## Pricing & Access
-- Free: basic features
-- Pro: $7/month
-- Credit card accepted
-- Accessible from China
+## What you can actually do
+
+- **First attempt**: make a concrete starting point for a real discussion.
+- **Iteration**: try a few versions against the same brief.
+- **Team discussion**: turn vague preferences into choices people can evaluate.
+
+## Trade-offs and gotchas
+
+AI output is a candidate, not a fact source or final deliverable. Verify pricing, rights, detail, and time-sensitive claims; return to the source material for important work.
 
 ## Alternatives
-- Blender (open source, free)
-- Three.js (code-based)
-- Vectary
 
-## Who it's for
-Web designers, product managers, anyone needing simple 3D effects without learning Blender.
+Compare workflows rather than screenshots alone: some alternatives prioritize collaboration, some finer control, and others work better for a specific language, channel, or format.

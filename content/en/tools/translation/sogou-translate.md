@@ -10,26 +10,40 @@ faq:
     a: "Yes, but it's mainly designed for Chinese users. The interface is in Chinese."
   - q: "How does it compare to Google Translate?"
     a: "For Chinese-English translation, it's competitive. For other language pairs, Google is better."
+highlights:
+  - "Get a concrete first draft quickly"
+  - "Reduce repetitive setup work"
+  - "Keep human judgment in the workflow"
+usecases:
+  - title: "First attempt"
+    desc: "Validate a direction with one narrow, real task."
+  - title: "Iteration"
+    desc: "Keep a promising version and refine it with feedback."
+  - title: "Team discussion"
+    desc: "Give people a concrete draft to evaluate."
+forwho:
+  - "People validating a direction quickly"
+  - "Small teams willing to review an AI first pass"
+notforwho:
+  - "Anyone expecting unreviewed output to be publish-ready"
 ---
 
+I use Sogou Translate to accelerate a first draft, not as a button that makes the final call. Test it on one real, narrow task first; whether it saves the next step matters more than a polished demo.
 
-Sogou's free translation service, extremely popular in China. Supports major language pairs including Chinese-English, Japanese, and Korean. Not well known internationally, but solid for Chinese-centric translation needs.
+## Getting started
 
-## Strengths
-- Fast and reliable Chinese-English translation
-- Document translation (Word/PDF/PPT)
-- Image and voice translation
-- Browser extension
+State the goal, source material, or constraints clearly. Review one pass, then tighten the brief from actual feedback. Save the promising version—rarely is the first output the finished one.
 
-## Pricing & Access
-- Completely free
-- Fast access from China
-- No registration required
+## What you can actually do
+
+- **First attempt**: make a concrete starting point for a real discussion.
+- **Iteration**: try a few versions against the same brief.
+- **Team discussion**: turn vague preferences into choices people can evaluate.
+
+## Trade-offs and gotchas
+
+AI output is a candidate, not a fact source or final deliverable. Verify pricing, rights, detail, and time-sensitive claims; return to the source material for important work.
 
 ## Alternatives
-- Baidu Translate
-- Tencent Translate
-- Youdao Translate
 
-## Who it's for
-Users in China who need quick, free translations without VPN hassle.
+Compare workflows rather than screenshots alone: some alternatives prioritize collaboration, some finer control, and others work better for a specific language, channel, or format.
