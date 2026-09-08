@@ -12,11 +12,6 @@ faq:
     a: "Fully open source, choose your own models, code stays local for better privacy."
 ---
 
-In plain terms: try it on one small, real task before buying into the pitch.
-
-A useful caveat: it can save time, but it cannot take responsibility for facts, code, or privacy decisions.
-
-
 Open-source VS Code AI extension that uses your own API keys to call any model (GPT-4, Claude, local Ollama, etc.). Code processes locally, never passes through third parties. Full privacy control.
 
 ## Strengths

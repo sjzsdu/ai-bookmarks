@@ -12,11 +12,6 @@ faq:
     a: "Via AWS Bedrock or Azure for regional deployment and data controls."
 ---
 
-In plain terms: try it on one small, real task before buying into the pitch.
-
-A useful caveat: it can save time, but it cannot take responsibility for facts, code, or privacy decisions.
-
-
 Anthropic's conversational model — safer, longer-context, more natural writing. Artifacts make interactive prototypes easy.
 
 ## Strengths

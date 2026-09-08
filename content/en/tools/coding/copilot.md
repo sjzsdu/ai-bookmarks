@@ -12,11 +12,6 @@ faq:
     a: "VS Code, JetBrains IDEs, Neovim, Visual Studio and more."
 ---
 
-In plain terms: try it on one small, real task before buying into the pitch.
-
-A useful caveat: it can save time, but it cannot take responsibility for facts, code, or privacy decisions.
-
-
 Microsoft's AI code-completion tool built on OpenAI models, deeply integrated with mainstream IDEs. The most widely installed "AI pair programmer" with top-tier completion accuracy.
 
 ## Strengths

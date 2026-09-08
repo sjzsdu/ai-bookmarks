@@ -31,11 +31,6 @@ faq:
     a: "Supports several models and routes to different providers depending on plan."
 ---
 
-In plain terms: try it on one small, real task before buying into the pitch.
-
-A useful caveat: it can save time, but it cannot take responsibility for facts, code, or privacy decisions.
-
-
 "AI-first" code editor forked from VS Code, embedding models directly into editing, search, and refactoring. Composer can modify multiple files at once — useful for large refactors.
 
 ## Strengths

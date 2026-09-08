@@ -12,11 +12,6 @@ faq:
     a: "Yes, browser-based and accessible worldwide."
 ---
 
-In plain terms: try it on one small, real task before buying into the pitch.
-
-A useful caveat: it can save time, but it cannot take responsibility for facts, code, or privacy decisions.
-
-
 StackBlitz's AI full-stack builder. Describe your app in the browser, get a runnable full-stack application. Built on WebContainer technology, no local setup needed for preview and editing.
 
 ## Strengths

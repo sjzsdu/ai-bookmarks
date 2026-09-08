@@ -12,11 +12,6 @@ faq:
     a: "Stronger multimodal (image/video) and search integration; slightly weaker Chinese ecosystem."
 ---
 
-In plain terms: try it on one small, real task before buying into the pitch.
-
-A useful caveat: it can save time, but it cannot take responsibility for facts, code, or privacy decisions.
-
-
 Google's AI chat model with native multimodal understanding — can process text, images, video, and audio directly. Deep Google Search integration for real-time information.
 
 ## Strengths

@@ -12,11 +12,6 @@ faq:
     a: "Stronger real-time info from X/Twitter; less mature feature ecosystem."
 ---
 
-In plain terms: try it on one small, real task before buying into the pitch.
-
-A useful caveat: it can save time, but it cannot take responsibility for facts, code, or privacy decisions.
-
-
 xAI's chat model, deeply integrated with X/Twitter for strong real-time information. Direct, sometimes humorous response style.
 
 ## Strengths
