@@ -12,6 +12,8 @@ faq:
     a: "Included with Copilot subscription, which has free tiers for students and OSS contributors."
 ---
 
+Its useful role is turning an issue into a plan you can discuss: inspect scope, files, and tests before proceeding. Ambiguous requirements only make automation produce the wrong direction faster; a generated PR is not completion.
+
 GitHub's official AI development environment. Starts from an issue, analyzes your codebase, creates a plan, writes code, runs tests, and generates a PR. The most complete AI workflow from problem to code.
 
 ## Strengths

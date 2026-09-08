@@ -12,6 +12,8 @@ faq:
     a: "Natural Chinese conversation, integrated with Douyin for content creation."
 ---
 
+Doubao is handy for small everyday jobs—polishing copy, brainstorming short-video titles, or asking about an image. Its value is ease and Chinese fluency, not rigorous research; use primary sources when traceability matters.
+
 ByteDance's AI chat assistant, free and direct-access in China. Well-integrated with Douyin, Feishu, and other ByteDance products.
 
 ## Strengths

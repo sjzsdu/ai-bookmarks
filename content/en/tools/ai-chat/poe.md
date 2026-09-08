@@ -12,6 +12,8 @@ faq:
     a: "Limited free credits; subscription (~20 USD/month) unlocks more usage."
 ---
 
+Poe is useful before you commit to a model: ask several the same question and compare their behavior. It is an aggregator, not a stronger model, and free credits vanish quickly; direct subscriptions are often better once you choose.
+
 Quora's AI aggregator — one platform for multiple AI models (GPT-4, Claude, Gemini, Llama, etc.). Switch between models seamlessly.
 
 ## Strengths

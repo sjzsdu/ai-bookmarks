@@ -12,6 +12,8 @@ faq:
     a: "VS Code, JetBrains IDEs, Neovim, Visual Studio and more."
 ---
 
+Copilot is most valuable for reducing repetitive typing: function scaffolds, test boilerplate, and familiar-language completion. It is not automated code review; humans still own auth, encryption, billing, and business rules.
+
 Microsoft's AI code-completion tool built on OpenAI models, deeply integrated with mainstream IDEs. The most widely installed "AI pair programmer" with top-tier completion accuracy.
 
 ## Strengths

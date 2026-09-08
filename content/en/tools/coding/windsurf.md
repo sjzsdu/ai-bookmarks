@@ -12,6 +12,8 @@ faq:
     a: "Yes, the free tier includes a substantial amount of AI tokens each month."
 ---
 
+Windsurf is worth trying with free credits, especially Cascade, but begin with a well-bounded task. Like Cursor, it changes code quickly; review and regressions are the slow part, so keep each step reversible.
+
 Codeium's AI IDE, built on VS Code architecture. Combines AI chat, code completion, and multi-file editing in one editor. The free tier gives you more tokens than most competitors.
 
 ## Strengths

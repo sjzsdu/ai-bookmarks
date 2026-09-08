@@ -12,6 +12,8 @@ faq:
     a: "Stronger multimodal (image/doc understanding); DeepSeek better at pure text reasoning."
 ---
 
+Qwen is a practical choice for Chinese documents and images: use it to orient yourself before making decisions from the file. It fits Alibaba Cloud users well, but break complex reasoning into smaller checks instead of trusting one answer.
+
 Alibaba's AI chat model, free and direct-access in China. Strong multimodal capabilities — understands images and documents. Integrated with the Alibaba Cloud ecosystem.
 
 ## Strengths
