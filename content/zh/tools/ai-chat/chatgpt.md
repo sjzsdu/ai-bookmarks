@@ -5,6 +5,28 @@ translationKey: "chatgpt"
 category: "AI 对话"
 website: "https://chat.openai.com"
 price: "Free / $20"
+priceCurrency: "USD"
+logo: ""
+access: "需代理"
+platforms: ["Web", "iOS", "Android", "API"]
+highlights:
+  - "全球认知度最高的 AI 入口"
+  - "GPT-4o 多模态：图片、语音、视频理解"
+  - "Custom GPTs 生态，百万+定制助手"
+  - "联网搜索、代码执行、数据分析一体化"
+usecases:
+  - title: "日常问答与写作"
+    desc: "从邮件、报告到创意文案，一句话搞定"
+  - title: "编程辅助"
+    desc: "生成代码、调试、重构，支持 Python/JS/Go 等主流语言"
+  - title: "数据分析"
+    desc: "上传 CSV/Excel，对话式分析出图表和结论"
+forwho:
+  - "学生、运营、开发者、研究者"
+  - "需要快速产出文字/代码/分析的人"
+notforwho:
+  - "国内无法代理的用户"
+  - "对数据隐私有严格要求的企业场景"
 faq:
   - q: "ChatGPT 在国内能直接访问吗？"
     a: "不稳定，常需代理或第三方镜像；企业可通过 Azure OpenAI 合规调用。"

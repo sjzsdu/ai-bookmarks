@@ -5,6 +5,24 @@ translationKey: "deepseek"
 category: "AI Chat"
 website: "https://chat.deepseek.com"
 price: "Free"
+priceCurrency: "CNY"
+access: "直连"
+platforms: ["Web", "iOS", "Android", "API"]
+highlights:
+  - "Completely free with no subscription barrier"
+  - "Strong reasoning with excellent math and coding performance"
+  - "First-rate Chinese understanding and localization"
+  - "Open models that support local deployment"
+usecases:
+  - title: "Academic research and paper writing"
+    desc: "Use a strong reasoning model for literature analysis at no cost"
+  - title: "Programming questions"
+    desc: "Generate code, debug issues, and explain algorithms"
+forwho:
+  - "Students and researchers"
+  - "Budget-conscious users who still need high-quality AI"
+notforwho:
+  - "Users who need GPT-4-class multimodal capabilities"
 faq:
   - q: "Is DeepSeek free?"
     a: "Yes, completely free with no usage limits. API is also cheap."

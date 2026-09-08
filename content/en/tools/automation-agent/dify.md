@@ -5,6 +5,24 @@ translationKey: "dify"
 category: "Automation & Agent"
 website: "https://dify.ai"
 price: "Free (open source)"
+priceCurrency: "USD"
+access: "直连"
+platforms: ["Web", "APßI", "Self-hosted"]
+highlights:
+  - "Visually compose LLM workflows with drag and drop"
+  - "Supports RAG, agents, and tool calling"
+  - "Open source and deployable on private infrastructure"
+  - "Compatible with leading model APIs"
+usecases:
+  - title: "Enterprise knowledge Q&A"
+    desc: "Import documents and build an AI assistant grounded in private data"
+  - title: "Customer support automation"
+    desc: "Connect a knowledge base and tools for automated 24/7 responses"
+forwho:
+  - "Developers and teams building AI applications"
+  - "Organizations with strict data-security requirements"
+notforwho:
+  - "Casual users who only want a simple chat assistant"
 faq:
   - q: "Can Dify be self-hosted?"
     a: "Yes, the open-source edition self-hosts so data stays in your network."

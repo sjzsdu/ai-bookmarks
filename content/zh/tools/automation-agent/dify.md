@@ -4,7 +4,25 @@ description: "开源LLLM应用开发平台，RAG、Agent、工作流整合在可
 translationKey: "dify"
 category: "自动化与 Agent"
 website: "https://dify.ai"
-price: "Free（开源）"
+price: "Free / Cloud USD"
+priceCurrency: "USD"
+access: "直连"
+platforms: ["Web", "API", "自托管"]
+highlights:
+  - "可视化拖拽编排 LLM 工作流"
+  - "支持 RAG、Agent、工具调用"
+  - "开源可私有化部署"
+  - "兼容主流大模型 API"
+usecases:
+  - title: "企业知识库问答"
+    desc: "导入文档，搭建基于私有数据的 AI 助手"
+  - title: "客服自动化"
+    desc: "连接知识库 + 工具，实现 24/7 自动回复"
+forwho:
+  - "需要搭建 AI 应用的开发者和团队"
+  - "对数据安全有要求的企业"
+notforwho:
+  - "只想简单聊天的普通用户"
 faq:
   - q: "Dify能私有化部署吗？"
     a: "可以，开源版可自托管，数据不出内网。"
