@@ -10,21 +10,40 @@ faq:
     a: "Yes, open-source model runs locally on GPU, no internet needed."
   - q: "How does it compare to commercial TTS?"
     a: "Good multi-language and emotional expression, but lower quality than commercial options."
+highlights:
+  - "Get a concrete first draft quickly"
+  - "Reduce repetitive setup work"
+  - "Keep human judgment in the real workflow"
+usecases:
+  - title: "First attempt"
+    desc: "Validate a direction with one narrow job before betting on a full project."
+  - title: "Iteration"
+    desc: "Keep a promising version and tighten the brief with real feedback."
+  - title: "Team discussion"
+    desc: "Bring a concrete draft so the conversation can focus on choices and trade-offs."
+forwho:
+  - "People validating a direction quickly"
+  - "Small teams willing to review an AI first pass"
+notforwho:
+  - "Anyone expecting unreviewed output to be publish-ready"
 ---
 
-Suno's open-source TTS model supporting multi-language speech, laughter, sighs, and other emotional expressions. Fully open-source, deployable locally.
+I treat Bark as a way to accelerate a first draft, not as a button that makes the final call. Try it on one real, narrow task first; whether it saves the next step matters more than a polished demo.
 
-## Strengths
-- Multi-language TTS (Chinese, English, Japanese, etc.)
-- Emotional speech (laughter, sighs, singing)
-- Open-source and free, local deployment
-- Extensible via plugins
+## Getting started
 
-## Pricing & access
-Fully open-source and free. Local GPU required; also testable via HuggingFace Spaces.
+State the goal, source material, or constraints clearly. Review one pass, then tighten the brief from actual feedback. Save the promising version—rarely is the first output the finished one.
+
+## What you can actually do
+
+- **First attempt**: make a concrete starting point for a real discussion.
+- **Iteration**: try a few versions against the same brief.
+- **Team discussion**: turn vague preferences into choices people can evaluate.
+
+## Trade-offs and gotchas
+
+AI output is a candidate, not a fact source or final deliverable. Verify pricing, rights, detail, and time-sensitive claims; return to the source material for important work.
 
 ## Alternatives
-ChatTTS (open-source, strong Chinese), CosyVoice (Alibaba open-source), ElevenLabs (commercial, higher quality).
 
-## Who it's for
-Developers wanting local TTS, privacy-focused projects, researchers.
+Compare workflows rather than screenshots alone: some alternatives prioritize collaboration, some finer control, and others work better for a specific language, channel, or format.

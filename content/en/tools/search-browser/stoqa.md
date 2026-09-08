@@ -10,21 +10,40 @@ faq:
     a: "AI features are built in — page summaries, search, and translation without extensions."
   - q: "Is it Chromium-based?"
     a: "Yes, it's built on Chromium so extensions still work."
+highlights:
+  - "Get a concrete first draft quickly"
+  - "Reduce repetitive setup work"
+  - "Keep human judgment in the real workflow"
+usecases:
+  - title: "First attempt"
+    desc: "Validate a direction with one narrow job before betting on a full project."
+  - title: "Iteration"
+    desc: "Keep a promising version and tighten the brief with real feedback."
+  - title: "Team discussion"
+    desc: "Bring a concrete draft so the conversation can focus on choices and trade-offs."
+forwho:
+  - "People validating a direction quickly"
+  - "Small teams willing to review an AI first pass"
+notforwho:
+  - "Anyone expecting unreviewed output to be publish-ready"
 ---
 
-Browser with AI baked in — summarize pages, search, and translate without installing anything.
+I treat Stoqa as a way to accelerate a first draft, not as a button that makes the final call. Try it on one real, narrow task first; whether it saves the next step matters more than a polished demo.
 
-## Strengths
-- Automatic page summarization
-- Built-in AI search without new tabs
-- Sidebar translation and Q&A
-- No extensions needed for AI features
+## Getting started
 
-## Pricing & access
-Free. Some advanced AI features may require login.
+State the goal, source material, or constraints clearly. Review one pass, then tighten the brief from actual feedback. Save the promising version—rarely is the first output the finished one.
+
+## What you can actually do
+
+- **First attempt**: make a concrete starting point for a real discussion.
+- **Iteration**: try a few versions against the same brief.
+- **Team discussion**: turn vague preferences into choices people can evaluate.
+
+## Trade-offs and gotchas
+
+AI output is a candidate, not a fact source or final deliverable. Verify pricing, rights, detail, and time-sensitive claims; return to the source material for important work.
 
 ## Alternatives
-Arc Browser (more AI features), Microsoft Edge (Copilot built-in).
 
-## Who it's for
-People who read a lot of web content and want quick summaries without copy-pasting into ChatGPT.
+Compare workflows rather than screenshots alone: some alternatives prioritize collaboration, some finer control, and others work better for a specific language, channel, or format.

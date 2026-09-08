@@ -10,26 +10,40 @@ faq:
     a: "Alibaba's official ad platform for Taobao/Tmall with AI-powered campaign optimization and creative generation."
   - q: "Can non-Taobao sellers use it?"
     a: "No. It only serves merchants on Alibaba's e-commerce platforms."
+highlights:
+  - "Get a concrete first draft quickly"
+  - "Reduce repetitive setup work"
+  - "Keep human judgment in the workflow"
+usecases:
+  - title: "First attempt"
+    desc: "Validate a direction with one narrow, real task."
+  - title: "Iteration"
+    desc: "Keep a promising version and refine it with feedback."
+  - title: "Team discussion"
+    desc: "Give people a concrete draft to evaluate."
+forwho:
+  - "People validating a direction quickly"
+  - "Small teams willing to review an AI first pass"
+notforwho:
+  - "Anyone expecting unreviewed output to be publish-ready"
 ---
 
+I use Alimama to accelerate a first draft, not as a button that makes the final call. Test it on one real, narrow task first; whether it saves the next step matters more than a polished demo.
 
-Taobao/Tmall's official advertising platform. AI tools optimize ad campaigns, auto-generate creative, and handle smart bidding and audience targeting. If you sell on Taobao, this is the essential ad tool — integrated directly with platform data.
+## Getting started
 
-## Strengths
-- AI-powered ad campaign optimization
-- Auto-generated ad creative
-- Audience targeting and optimization
-- Real-time data dashboards
+State the goal, source material, or constraints clearly. Review one pass, then tighten the brief from actual feedback. Save the promising version—rarely is the first output the finished one.
 
-## Pricing & Access
-- Pay-per-performance model
-- Direct access from China
-- Requires Taobao/Tmall store
+## What you can actually do
+
+- **First attempt**: make a concrete starting point for a real discussion.
+- **Iteration**: try a few versions against the same brief.
+- **Team discussion**: turn vague preferences into choices people can evaluate.
+
+## Trade-offs and gotchas
+
+AI output is a candidate, not a fact source or final deliverable. Verify pricing, rights, detail, and time-sensitive claims; return to the source material for important work.
 
 ## Alternatives
-- JD.com ads
-- Pinduoduo promotion
-- Douyin Ocean Engine
 
-## Who it's for
-Taobao/Tmall sellers running in-platform advertising campaigns.
+Compare workflows rather than screenshots alone: some alternatives prioritize collaboration, some finer control, and others work better for a specific language, channel, or format.
