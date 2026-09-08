@@ -444,11 +444,15 @@ footer a:hover { color: var(--accent); }
   --bg: #f6f7fb;
   --surface: #ffffff;
   --surface-2: #eef0f6;
+  --surface-3: #e2e5ed;
   --border: #dfe3ec;
   --text: #1a1d24;
+  --text-secondary: #4a5060;
   --muted: #5b6472;
   --accent: #2f6bff;
   --accent-2: #11a87e;
+  --shadow: 0 2px 12px rgba(0,0,0,.08);
+  --shadow-lg: 0 8px 32px rgba(0,0,0,.12);
 }
 
 [data-theme="light"] header {
