@@ -451,6 +451,16 @@ footer a:hover { color: var(--accent); }
   --accent-2: #11a87e;
 }
 
+[data-theme="light"] header {
+  background: rgba(255, 255, 255, 0.88);
+}
+
+[data-theme="light"] .pagefind-ui__search-input {
+  background-color: var(--surface);
+  border-color: var(--border);
+  color: var(--text);
+}
+
 /* ===== Homepage extras ===== */
 .section-hint { color: var(--muted); font-size: 14px; margin: -6px 0 14px; }
 
