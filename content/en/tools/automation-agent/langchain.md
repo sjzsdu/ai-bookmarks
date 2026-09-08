@@ -5,26 +5,23 @@ translationKey: "langchain"
 category: "Automation & Agent"
 website: "https://langchain.com"
 price: "Free (open source)"
+highlights:
+  - "A practical choice for 用代码连接模型、检索与工具, not a magic AI layer."
+  - "Prove one repetitive workflow before rolling it out widely."
+  - "Budgeting, retries, and human handoff matter as much as the demo."
+usecases:
+  - title: "Validate one repetitive job"
+    desc: "Turn a copying, sorting, or research task into a small observable loop first."
+  - title: "Keep a human handoff"
+    desc: "Require review before external messages, database writes, or spend."
+forwho:
+  - "Product and operations teams willing to test with real workflows"
+  - "Developers who can maintain integrations and failure handling"
+notforwho:
+  - "Teams expecting zero setup and fully autonomous judgment"
 faq:
-  - q: "Do I need to code?"
-    a: "Yes, LangChain is a code framework. For no-code alternatives, try Flowise or Dify."
-  - q: "How long to learn?"
-    a: "With Python or JS experience, expect 1-2 weeks to get comfortable."
----
-
-The standard framework for building AI apps that chain LLMs with databases, APIs, and tools.
-
-## Strengths
-- Chain orchestration for complex LLM logic
-- Agents let LLMs decide which tools to call
-- RAG knowledge base integration
-- Python and JavaScript support
-
-## Pricing & access
-Open source and free. LangSmith (monitoring) has a free tier, then pay-as-you-go.
-
-## Alternatives
-Dify (visual LangChain), LlamaIndex (better for document processing).
-
-## Who it's for
-Developers building complex AI applications who are comfortable with code.
+  - q: "Where should I start?"
+    a: "Pick a low-risk workflow with human review, then track quality, time saved, and actual cost."
+  - q: "Is it ready for production?"
+    a: "Potentially, after you add access control, rate limits, logs, retries, and an escalation path."
+---\n\nLangChain is worth considering when you specifically need **code-level model, retrieval, and tool integration**. Start with one narrow, measurable workflow instead of treating it as a generic AI add-on.\n\n## Getting started\nUse realistic but redacted data in a read-only proof of concept. Check access, rate limits, failure notifications, and the cost of a normal week before connecting anything that writes or sends.\n\n## What you can actually do\n- Turn incoming documents, forms, or requests into a reviewable first draft.\n- Give support, sales, or research a first pass at retrieval, classification, and summarization.\n- Connect a bounded API action, such as looking up a record, creating a task, or routing an exception.\n- Compare prompts or model settings on a small sample before changing a live workflow.\n\n## Trade-offs and gotchas\nThe attractive demo is the easy part. Production needs explicit ownership for bad inputs, permissions, retries, occasional wrong output, and spend limits. Do not remove the human review step until you have measured real failures.\n\n## Alternatives\nChoose a lower-code alternative when speed of setup matters, a self-hosted option when data control matters, or a code-first framework when the workflow needs tests and fine-grained behavior. Those priorities usually pull in different directions.\n

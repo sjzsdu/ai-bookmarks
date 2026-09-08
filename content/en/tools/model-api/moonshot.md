@@ -2,26 +2,26 @@
 title: "Moonshot AI"
 description: "The model API platform behind Kimi, offering long-context chat and reasoning models."
 translationKey: "moonshot"
-category: "Model & API Platforms"
+category: "Model API"
 website: "https://platform.moonshot.cn"
 price: "¥4 / 1M tokens"
+highlights:
+  - "A practical choice for kimi 背后的中文长上下文 api, not a magic AI layer."
+  - "Prove one repetitive workflow before rolling it out widely."
+  - "Budgeting, retries, and human handoff matter as much as the demo."
+usecases:
+  - title: "Validate one repetitive job"
+    desc: "Turn a copying, sorting, or research task into a small observable loop first."
+  - title: "Keep a human handoff"
+    desc: "Require review before external messages, database writes, or spend."
+forwho:
+  - "Product and operations teams willing to test with real workflows"
+  - "Developers who can maintain integrations and failure handling"
+notforwho:
+  - "Teams expecting zero setup and fully autonomous judgment"
 faq:
-  - q: "How is Moonshot API related to Kimi?"
-    a: "Both are provided by Moonshot AI; the platform exposes models to developers through APIs."
-  - q: "Does it work with familiar SDK patterns?"
-    a: "It offers APIs similar to common model services, but developers should verify current model parameters before migrating."
----
-
-Moonshot's developer platform powers the Kimi assistant and exposes models for chat, long-document processing, and reasoning. It is a practical option for building Chinese-language AI applications.
-
-## Strengths
-- Long-context text understanding and generation
-- Chat, structured output, and tool-use capabilities
-- Developer console with API keys and usage management
-- Strong support for Chinese knowledge and workflows
-
-## Pricing & access
-Usage is generally billed by model and token volume in CNY. Check the platform for current models, context limits, and rates.
-
-## Who it's for
-Developers and companies building customer support, knowledge assistants, content processing, and agent applications for China.
+  - q: "Where should I start?"
+    a: "Pick a low-risk workflow with human review, then track quality, time saved, and actual cost."
+  - q: "Is it ready for production?"
+    a: "Potentially, after you add access control, rate limits, logs, retries, and an escalation path."
+---\n\nMoonshot AI is worth considering when you specifically need **Chinese long-context workloads**. Start with one narrow, measurable workflow instead of treating it as a generic AI add-on.\n\n## Getting started\nUse realistic but redacted data in a read-only proof of concept. Check access, rate limits, failure notifications, and the cost of a normal week before connecting anything that writes or sends.\n\n## What you can actually do\n- Turn incoming documents, forms, or requests into a reviewable first draft.\n- Give support, sales, or research a first pass at retrieval, classification, and summarization.\n- Connect a bounded API action, such as looking up a record, creating a task, or routing an exception.\n- Compare prompts or model settings on a small sample before changing a live workflow.\n\n## Trade-offs and gotchas\nThe attractive demo is the easy part. Production needs explicit ownership for bad inputs, permissions, retries, occasional wrong output, and spend limits. Do not remove the human review step until you have measured real failures.\n\n## Alternatives\nChoose a lower-code alternative when speed of setup matters, a self-hosted option when data control matters, or a code-first framework when the workflow needs tests and fine-grained behavior. Those priorities usually pull in different directions.\n

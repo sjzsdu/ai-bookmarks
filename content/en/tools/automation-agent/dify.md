@@ -5,46 +5,23 @@ translationKey: "dify"
 category: "Automation & Agent"
 website: "https://dify.ai"
 price: "Free (open source)"
-priceCurrency: "USD"
-access: "直连"
-platforms: ["Web", "APßI", "Self-hosted"]
 highlights:
-  - "Visually compose LLM workflows with drag and drop"
-  - "Supports RAG, agents, and tool calling"
-  - "Open source and deployable on private infrastructure"
-  - "Compatible with leading model APIs"
+  - "A practical choice for rag、工作流和可运营的 llm 应用, not a magic AI layer."
+  - "Prove one repetitive workflow before rolling it out widely."
+  - "Budgeting, retries, and human handoff matter as much as the demo."
 usecases:
-  - title: "Enterprise knowledge Q&A"
-    desc: "Import documents and build an AI assistant grounded in private data"
-  - title: "Customer support automation"
-    desc: "Connect a knowledge base and tools for automated 24/7 responses"
+  - title: "Validate one repetitive job"
+    desc: "Turn a copying, sorting, or research task into a small observable loop first."
+  - title: "Keep a human handoff"
+    desc: "Require review before external messages, database writes, or spend."
 forwho:
-  - "Developers and teams building AI applications"
-  - "Organizations with strict data-security requirements"
+  - "Product and operations teams willing to test with real workflows"
+  - "Developers who can maintain integrations and failure handling"
 notforwho:
-  - "Casual users who only want a simple chat assistant"
+  - "Teams expecting zero setup and fully autonomous judgment"
 faq:
-  - q: "Can Dify be self-hosted?"
-    a: "Yes, the open-source edition self-hosts so data stays in your network."
-  - q: "How does it compare to Coze?"
-    a: "Dify is self-hostable with data control; Coze is lighter and faster for no-code."
-  - q: "Which models are supported?"
-    a: "OpenAI, Anthropic, Tongyi, Zhipu, DeepSeek, and more."
----
-
-Open-source LLM app platform combining RAG, Agents, workflows, and model routing in a visual UI.
-
-## Strengths
-- Prompt orchestration, RAG knowledge base, Agents
-- Visual workflows from prototype to production
-- Model routing — one platform for multiple LLMs
-- Open source, self-hostable, data autonomous
-
-## Pricing & access
-Open source, free to self-host. Cloud version pay-as-you-go. Active Chinese docs and community.
-
-## Alternatives
-Coze (no-code, faster start), FastGPT (knowledge base focus).
-
-## Who it's for
-Companies and developers building their own AI apps and knowledge bases.
+  - q: "Where should I start?"
+    a: "Pick a low-risk workflow with human review, then track quality, time saved, and actual cost."
+  - q: "Is it ready for production?"
+    a: "Potentially, after you add access control, rate limits, logs, retries, and an escalation path."
+---\n\nDify is worth considering when you specifically need **operational RAG and LLM workflows**. Start with one narrow, measurable workflow instead of treating it as a generic AI add-on.\n\n## Getting started\nUse realistic but redacted data in a read-only proof of concept. Check access, rate limits, failure notifications, and the cost of a normal week before connecting anything that writes or sends.\n\n## What you can actually do\n- Turn incoming documents, forms, or requests into a reviewable first draft.\n- Give support, sales, or research a first pass at retrieval, classification, and summarization.\n- Connect a bounded API action, such as looking up a record, creating a task, or routing an exception.\n- Compare prompts or model settings on a small sample before changing a live workflow.\n\n## Trade-offs and gotchas\nThe attractive demo is the easy part. Production needs explicit ownership for bad inputs, permissions, retries, occasional wrong output, and spend limits. Do not remove the human review step until you have measured real failures.\n\n## Alternatives\nChoose a lower-code alternative when speed of setup matters, a self-hosted option when data control matters, or a code-first framework when the workflow needs tests and fine-grained behavior. Those priorities usually pull in different directions.\n

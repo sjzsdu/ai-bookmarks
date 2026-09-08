@@ -5,26 +5,23 @@ translationKey: "crewai"
 category: "Automation & Agent"
 website: "https://crewai.com"
 price: "Free / $50"
+highlights:
+  - "A practical choice for 按角色分工的 python agent 团队, not a magic AI layer."
+  - "Prove one repetitive workflow before rolling it out widely."
+  - "Budgeting, retries, and human handoff matter as much as the demo."
+usecases:
+  - title: "Validate one repetitive job"
+    desc: "Turn a copying, sorting, or research task into a small observable loop first."
+  - title: "Keep a human handoff"
+    desc: "Require review before external messages, database writes, or spend."
+forwho:
+  - "Product and operations teams willing to test with real workflows"
+  - "Developers who can maintain integrations and failure handling"
+notforwho:
+  - "Teams expecting zero setup and fully autonomous judgment"
 faq:
-  - q: "How is it different from AutoGen?"
-    a: "CrewAI emphasizes role-based task orchestration; AutoGen is more conversational."
-  - q: "Is it production-ready?"
-    a: "It's maturing quickly. Enterprise tier available for production use."
----
-
-Multi-agent framework that defines AI roles — researcher, writer, reviewer — and has them collaborate like a real team.
-
-## Strengths
-- Role-based agent definition (researcher, writer, reviewer, etc.)
-- Task assignment and dependency management
-- Agents can communicate and review each other's work
-- Custom tools and knowledge base support
-
-## Pricing & access
-Open source and free. CrewAI Enterprise starts at $50/month.
-
-## Alternatives
-AutoGen (Microsoft, open source), MetaGPT (multi-agent framework).
-
-## Who it's for
-Developers building AI workflows for content production, data analysis, or multi-step tasks.
+  - q: "Where should I start?"
+    a: "Pick a low-risk workflow with human review, then track quality, time saved, and actual cost."
+  - q: "Is it ready for production?"
+    a: "Potentially, after you add access control, rate limits, logs, retries, and an escalation path."
+---\n\nCrewAI is worth considering when you specifically need **role-based Python agent crews**. Start with one narrow, measurable workflow instead of treating it as a generic AI add-on.\n\n## Getting started\nUse realistic but redacted data in a read-only proof of concept. Check access, rate limits, failure notifications, and the cost of a normal week before connecting anything that writes or sends.\n\n## What you can actually do\n- Turn incoming documents, forms, or requests into a reviewable first draft.\n- Give support, sales, or research a first pass at retrieval, classification, and summarization.\n- Connect a bounded API action, such as looking up a record, creating a task, or routing an exception.\n- Compare prompts or model settings on a small sample before changing a live workflow.\n\n## Trade-offs and gotchas\nThe attractive demo is the easy part. Production needs explicit ownership for bad inputs, permissions, retries, occasional wrong output, and spend limits. Do not remove the human review step until you have measured real failures.\n\n## Alternatives\nChoose a lower-code alternative when speed of setup matters, a self-hosted option when data control matters, or a code-first framework when the workflow needs tests and fine-grained behavior. Those priorities usually pull in different directions.\n
