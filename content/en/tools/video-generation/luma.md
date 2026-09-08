@@ -5,6 +5,13 @@ translationKey: "luma"
 category: "Video Generation"
 website: "https://lumalabs.ai"
 price: "Free / $9.99"
+platforms: ["Web"]
+highlights: ["Camera moves and spatial feel are the main attraction", "Strong source imagery can become a convincing product or space reveal"]
+usecases:
+  - title: "A product movement study"
+    desc: "Start with a clean hero image and test a push-in or orbit before production."
+forwho: ["Product and spatial storytellers"]
+notforwho: ["Creators primarily making template-driven social clips"]
 faq:
   - q: "What is Luma strong at?"
     a: "Natural camera movement and 3D consistency — great for product and space videos."

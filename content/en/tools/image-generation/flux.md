@@ -5,6 +5,13 @@ translationKey: "flux"
 category: "Image Generation"
 website: "https://blackforestlabs.ai"
 price: "Free"
+platforms: ["Local", "Web", "API"]
+highlights: ["Run it on your own GPU and keep source material private", "A good fit once repeatable ComfyUI workflows matter"]
+usecases:
+  - title: "Batch product imagery"
+    desc: "Lock a workflow and reuse it instead of hoping for the same look each time."
+forwho: ["GPU owners who value control", "Teams with repeat visual work"]
+notforwho: ["People who only want a one-click web app"]
 faq:
   - q: "Can Flux run locally?"
     a: "Yes, open weights run on local GPUs; ComfyUI packs make setup easier."

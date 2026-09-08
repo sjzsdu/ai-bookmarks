@@ -5,6 +5,14 @@ translationKey: "kling"
 category: "Video Generation"
 website: "https://klingai.kuaishou.com"
 price: "Free"
+platforms: ["Web", "iOS", "Android"]
+access: "Direct"
+highlights: ["Character identity usually holds up better than in many quick tests", "A strong still can move straight into an image-to-video shot"]
+usecases:
+  - title: "A recurring-character story"
+    desc: "Test a few seconds of face, wardrobe, and action before producing a sequence of shots."
+forwho: ["China-based video and commerce teams"]
+notforwho: ["Projects needing editable frame-by-frame files"]
 faq:
   - q: "Does Kling need a VPN?"
     a: "No, direct access in China with phone registration."

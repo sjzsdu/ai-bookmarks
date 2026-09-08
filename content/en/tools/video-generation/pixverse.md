@@ -5,6 +5,13 @@ translationKey: "pixverse"
 category: "Video Generation"
 website: "https://pixverse.ai"
 price: "Free / $8"
+platforms: ["Web", "iOS", "Android"]
+highlights: ["Templates make it easy to begin with an existing visual", "A quick way to test several motion styles from the same key art"]
+usecases:
+  - title: "A moving campaign visual"
+    desc: "Try a few treatments of approved key art and place the selected clip in a social first screen."
+forwho: ["High-frequency social teams"]
+notforwho: ["Narratives needing stable recurring characters"]
 faq:
   - q: "How does PixVerse compare to Pika?"
     a: "More style templates; Pika is more flexible for local animation."

@@ -5,6 +5,14 @@ translationKey: "tongyi-wanxiang"
 category: "Image Generation"
 website: "https://tongyi.aliyun.com/wanxiang"
 price: "Free"
+platforms: ["Web", "API"]
+access: "Direct"
+highlights: ["Write the brief in Chinese and start immediately", "Domestic account, billing, and procurement reduce friction"]
+usecases:
+  - title: "E-commerce campaign images"
+    desc: "Describe product, scene, and intended negative space in Chinese, then select a draft."
+forwho: ["China-based commerce and content teams"]
+notforwho: ["People needing local fine-tuning"]
 faq:
   - q: "Does it need a VPN?"
     a: "No, direct access in China via Alibaba Cloud login."

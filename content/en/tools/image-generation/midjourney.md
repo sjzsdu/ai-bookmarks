@@ -9,20 +9,20 @@ priceCurrency: "USD"
 access: "需代理"
 platforms: ["Web", "Discord"]
 highlights:
-  - "An industry benchmark for visual aesthetics"
-  - "V6.1 delivers photorealistic results"
-  - "Rich style parameters and community inspiration"
+  - "Browse community prompts when the blank canvas is the real problem"
+  - "Light, material, and character mood often land quickly"
+  - "Start from a shared prompt instead of learning every parameter at once"
 usecases:
   - title: "Brand visual design"
-    desc: "Generate high-quality logos, posters, and product imagery"
+    desc: "Find the art direction first; finish brand marks and copy in a design tool."
   - title: "Concept art and illustration"
-    desc: "Develop visual concepts for games, film, and publishing"
+    desc: "Turn a loose world or scene into options a team can discuss."
 forwho:
-  - "Designers and creative professionals"
-  - "Teams that need high-quality visual assets"
+  - "Creative people looking for a visual direction"
+  - "Teams comfortable with subscription and access friction"
 notforwho:
-  - "Workflows requiring precise text rendering"
-  - "Light users who are highly price-sensitive"
+  - "Work requiring exact text or brand marks"
+  - "Occasional users who do not want a subscription"
 faq:
   - q: "Is there a free tier?"
     a: "No free tier; starts at ~10 USD/month."
