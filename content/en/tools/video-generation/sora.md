@@ -5,6 +5,13 @@ translationKey: "sora"
 category: "Video Generation"
 website: "https://sora.com"
 price: "Free / $20"
+platforms: ["Web"]
+highlights: ["A useful concept camera for the shot that is hard to explain in words", "Lighting, material, and atmosphere can make an early pitch tangible"]
+usecases:
+  - title: "A creative pitch film"
+    desc: "Use a few key shots to make a treatment discussable before full production."
+forwho: ["Creative teams developing high-concept work"]
+notforwho: ["Teams needing predictable high-volume delivery"]
 faq:
   - q: "What makes Sora different?"
     a: "Best-in-class physics simulation — lighting, reflections, and motion look more real."

@@ -5,6 +5,13 @@ translationKey: "pika"
 category: "Video Generation"
 website: "https://pika.art"
 price: "Free / $8+"
+platforms: ["Web", "Discord"]
+highlights: ["A low-stakes way to see a playful idea move", "Good for a memorable opening or transition rather than a whole edit"]
+usecases:
+  - title: "A meme-like social opener"
+    desc: "Animate an existing cover image, then use the best few seconds in the feed cut."
+forwho: ["Social creators and non-specialists"]
+notforwho: ["Teams producing tightly controlled commercial films"]
 faq:
   - q: "How does Pika compare to Runway?"
     a: "Lighter, faster, easier; great for memes and shorts, less pro control."

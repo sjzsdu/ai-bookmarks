@@ -5,6 +5,13 @@ translationKey: "ideogram"
 category: "Image Generation"
 website: "https://ideogram.ai"
 price: "Free / $20"
+platforms: ["Web"]
+highlights: ["A practical first stop when the image needs a readable headline", "Fast for testing poster and cover directions"]
+usecases:
+  - title: "Social cover drafts"
+    desc: "Specify the aspect ratio and the required short headline, then proofread before publishing."
+forwho: ["Marketers and designers making text-led visuals"]
+notforwho: ["Print work that needs error-free long copy"]
 faq:
   - q: "How good is the text rendering?"
     a: "Best-in-class for putting readable text into images — logos, posters, signage."

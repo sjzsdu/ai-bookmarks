@@ -5,6 +5,13 @@ translationKey: "recraft"
 category: "Image Generation"
 website: "https://www.recraft.ai"
 price: "Free / $12"
+platforms: ["Web", "SVG export"]
+highlights: ["Designed for usable assets, not only attractive single images", "Vector-friendly output helps keep a design handoff moving"]
+usecases:
+  - title: "A launch asset kit"
+    desc: "Build icons and illustrations around a fixed color system on one canvas."
+forwho: ["Brand and product designers"]
+notforwho: ["Creators focused only on cinematic art"]
 faq:
   - q: "Can Recraft generate vector graphics?"
     a: "Yes. It supports vector-style generation and SVG export for icons and brand assets."

@@ -5,6 +5,14 @@ translationKey: "kling-image"
 category: "Image Generation"
 website: "https://klingai.com"
 price: "Free"
+platforms: ["Web", "iOS", "Android"]
+access: "Direct"
+highlights: ["Chinese briefs work well without prompt gymnastics", "Still-to-video is a natural next step on the same platform"]
+usecases:
+  - title: "Keyframes for a product clip"
+    desc: "Choose the strongest still before spending credits on motion."
+forwho: ["China-based social and commerce teams"]
+notforwho: ["Offline-only workflows"]
 faq:
   - q: "Is this the same as Kling video?"
     a: "Same platform (klingai.com), shared account, both image and video generation."

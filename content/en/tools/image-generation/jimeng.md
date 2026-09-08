@@ -5,6 +5,14 @@ translationKey: "jimeng-image"
 category: "Image Generation"
 website: "https://jimeng.jianying.com"
 price: "Free"
+platforms: ["Web", "iOS", "Android"]
+access: "Direct"
+highlights: ["Use Chinese prompts without translating the brief", "Move a good still directly into a video workflow"]
+usecases:
+  - title: "Video storyboards"
+    desc: "Set the character and scene in a still before trying motion."
+forwho: ["Chinese-speaking creators", "Teams making both images and video"]
+notforwho: ["Designers who need vector deliverables"]
 faq:
   - q: "What can Jimeng Image create?"
     a: "It generates images from text or references and supports inpainting, outpainting, and style exploration."

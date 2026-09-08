@@ -5,6 +5,14 @@ translationKey: "seedance"
 category: "Video Generation"
 website: "https://jimeng.jianying.com"
 price: "Free"
+platforms: ["Web", "iOS", "Android"]
+access: "Direct"
+highlights: ["Build a moving storyboard from the stills you have already approved", "Chinese-first workflow helps teams discuss a visual direction early"]
+usecases:
+  - title: "A pre-shoot storyboard"
+    desc: "Turn keyframes into a motion test so a team can align on mood and camera movement."
+forwho: ["China-based content and commerce teams"]
+notforwho: ["Film crews needing precise shot controls"]
 faq:
   - q: "What video generation modes does Jimeng support?"
     a: "It supports text-to-video, image-to-video, and controls for key frames, camera movement, and style."

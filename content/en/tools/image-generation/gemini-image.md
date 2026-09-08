@@ -5,6 +5,13 @@ translationKey: "gemini-image"
 category: "Image Generation"
 website: "https://aistudio.google.com"
 price: "Free"
+platforms: ["Web", "API"]
+highlights: ["Keep editing in conversation instead of restarting a prompt", "Useful when a character or product must remain recognizable"]
+usecases:
+  - title: "Iterate a campaign visual"
+    desc: "Upload a draft and ask for concrete changes to the setting, crop, or mood."
+forwho: ["Creators who work through conversation", "Developers testing image features"]
+notforwho: ["Teams needing offline processing"]
 faq:
   - q: "Is Nano Banana a standalone product?"
     a: "It is a popular nickname for Gemini's image capabilities, available through Gemini products and Google AI Studio."

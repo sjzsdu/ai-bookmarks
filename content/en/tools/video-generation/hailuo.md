@@ -5,6 +5,14 @@ translationKey: "hailuo"
 category: "Video Generation"
 website: "https://hailuoai.video"
 price: "Free"
+platforms: ["Web", "iOS", "Android"]
+access: "Direct"
+highlights: ["Turn a rough Chinese storyboard into a short motion test quickly", "Useful for filling a social cut with an emotional B-roll shot"]
+usecases:
+  - title: "A social-video opener"
+    desc: "Generate a short mood shot, then cut it in front of real footage or a presenter."
+forwho: ["Creators and marketers needing quick short shots"]
+notforwho: ["Editors who need frame-accurate control"]
 faq:
   - q: "Is Hailuo available globally?"
     a: "Yes, accessible in most regions; MiniMax also offers direct access in China."

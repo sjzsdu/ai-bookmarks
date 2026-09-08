@@ -5,6 +5,13 @@ translationKey: "leonardo"
 category: "Image Generation"
 website: "https://leonardo.ai"
 price: "Free / $12"
+platforms: ["Web"]
+highlights: ["Better at repeatable style than one-off lucky generations", "Canvas and model controls suit batch asset work"]
+usecases:
+  - title: "A consistent asset set"
+    desc: "Fix a model and visual direction, then build characters, props, or store imagery around it."
+forwho: ["Game, commerce, and design teams"]
+notforwho: ["People after one quick image"]
 faq:
   - q: "Can I train my own model?"
     a: "Yes, Leonardo supports LoRA fine-tuning for custom styles."

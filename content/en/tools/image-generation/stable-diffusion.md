@@ -5,6 +5,13 @@ translationKey: "stable-diffusion"
 category: "Image Generation"
 website: "https://stability.ai"
 price: "Free"
+platforms: ["Local", "Windows", "macOS", "Linux"]
+highlights: ["Keep images and prompts under your own control", "ControlNet and LoRA can make repeatable composition possible"]
+usecases:
+  - title: "Private batch production"
+    desc: "Use a controlled workflow when source images should not leave your machine."
+forwho: ["Teams that value privacy and control"]
+notforwho: ["People unwilling to set up software or tune parameters"]
 faq:
   - q: "Can it run locally?"
     a: "Yes, open weights run on local GPUs offline with no subscription."

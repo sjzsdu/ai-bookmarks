@@ -5,6 +5,13 @@ translationKey: "gpt-image"
 category: "Image Generation"
 website: "https://openai.com"
 price: "Free"
+platforms: ["ChatGPT", "Web", "API"]
+highlights: ["Natural follow-up instructions make rough drafts quick", "Short text inside posters is less painful than with many generators"]
+usecases:
+  - title: "An event hero image"
+    desc: "Describe the subject, format, and short copy, then refine the draft in place."
+forwho: ["ChatGPT users making content", "Developers integrating image generation"]
+notforwho: ["Offline-only workflows"]
 faq:
   - q: "How is GPT Image related to DALL-E?"
     a: "Both belong to OpenAI's image product line; GPT Image is its newer natively multimodal image capability."

@@ -5,6 +5,14 @@ translationKey: "vidu"
 category: "Video Generation"
 website: "https://vidu.studio"
 price: "Free"
+platforms: ["Web"]
+access: "Direct"
+highlights: ["Worth testing when more than one subject must remain recognizable", "Narrative continuity matters more here than one isolated pretty frame"]
+usecases:
+  - title: "A short multi-character beat"
+    desc: "Test a brief interaction first, then build the story from separate usable shots."
+forwho: ["Narrative creators and short-drama teams"]
+notforwho: ["Projects requiring exact frame-by-frame compositing"]
 faq:
   - q: "What is Vidu strong at?"
     a: "Multi-subject consistency and long-video coherence — characters stay stable."
