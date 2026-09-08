@@ -12,6 +12,11 @@ faq:
     a: "Yes, accessible worldwide. Some AI features may be faster with better connectivity."
 ---
 
+In plain terms: try it on one small, real task before buying into the pitch.
+
+A useful caveat: it can save time, but it cannot take responsibility for facts, code, or privacy decisions.
+
+
 Online IDE that bundles code editing, AI assistance, runtime, and deployment. The AI Agent automatically writes, debugs, and deploys code from descriptions. Great for rapid prototyping.
 
 ## Strengths

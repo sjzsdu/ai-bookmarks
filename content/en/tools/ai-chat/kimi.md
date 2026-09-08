@@ -12,6 +12,11 @@ faq:
     a: "Yes, free with phone registration, direct access in China."
 ---
 
+In plain terms: try it on one small, real task before buying into the pitch.
+
+A useful caveat: it can save time, but it cannot take responsibility for facts, code, or privacy decisions.
+
+
 Moonshot AI's chat model, built around ultra-long context (200K+ characters). Ideal for processing long documents, summaries, and analysis.
 
 ## Strengths

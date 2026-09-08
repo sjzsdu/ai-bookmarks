@@ -12,6 +12,11 @@ faq:
     a: "Natural Chinese conversation, integrated with Douyin for content creation."
 ---
 
+In plain terms: try it on one small, real task before buying into the pitch.
+
+A useful caveat: it can save time, but it cannot take responsibility for facts, code, or privacy decisions.
+
+
 ByteDance's AI chat assistant, free and direct-access in China. Well-integrated with Douyin, Feishu, and other ByteDance products.
 
 ## Strengths

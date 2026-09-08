@@ -12,6 +12,11 @@ faq:
     a: "Included with Copilot subscription, which has free tiers for students and OSS contributors."
 ---
 
+In plain terms: try it on one small, real task before buying into the pitch.
+
+A useful caveat: it can save time, but it cannot take responsibility for facts, code, or privacy decisions.
+
+
 GitHub's official AI development environment. Starts from an issue, analyzes your codebase, creates a plan, writes code, runs tests, and generates a PR. The most complete AI workflow from problem to code.
 
 ## Strengths

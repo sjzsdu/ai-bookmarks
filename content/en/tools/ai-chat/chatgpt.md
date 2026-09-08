@@ -34,6 +34,11 @@ faq:
     a: "Claude, Gemini, DeepSeek, and open-weight models like Llama."
 ---
 
+In plain terms: try it on one small, real task before buying into the pitch.
+
+A useful caveat: it can save time, but it cannot take responsibility for facts, code, or privacy decisions.
+
+
 OpenAI's conversational model — the most recognized AI entry point worldwide. Strong at writing, coding, translation, and brainstorming with the most complete feature ecosystem.
 
 ## Strengths

@@ -12,6 +12,11 @@ faq:
     a: "Strong Chinese and local search integration; reasoning and English lag frontier models."
 ---
 
+In plain terms: try it on one small, real task before buying into the pitch.
+
+A useful caveat: it can save time, but it cannot take responsibility for facts, code, or privacy decisions.
+
+
 Baidu's Chinese large model (ERNIE), accessible in China without VPN, integrated with Baidu search, netdisk, and docs. Natural Chinese expression.
 
 ## Strengths

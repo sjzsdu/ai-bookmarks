@@ -12,6 +12,11 @@ faq:
     a: "Enterprise editions support private deployment and proprietary model connections."
 ---
 
+In plain terms: try it on one small, real task before buying into the pitch.
+
+A useful caveat: it can save time, but it cannot take responsibility for facts, code, or privacy decisions.
+
+
 Alibaba's intelligent coding assistant, tuned for Chinese development habits. One of the best at understanding Chinese comments, requirements, and documentation among domestic coding AIs.
 
 ## Strengths

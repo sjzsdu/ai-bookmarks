@@ -12,6 +12,11 @@ faq:
     a: "Yes. Projects can connect to GitHub so developers can own and extend the code."
 ---
 
+In plain terms: try it on one small, real task before buying into the pitch.
+
+A useful caveat: it can save time, but it cannot take responsibility for facts, code, or privacy decisions.
+
+
 Lovable became a breakout conversational full-stack web app builder in 2025. Describe a product and it generates the interface, application logic, and common data integrations, then lets you refine everything through chat.
 
 ## Strengths

@@ -12,6 +12,11 @@ faq:
     a: "Yes, with limited usage. Pro at $30/month for full access."
 ---
 
+In plain terms: try it on one small, real task before buying into the pitch.
+
+A useful caveat: it can save time, but it cannot take responsibility for facts, code, or privacy decisions.
+
+
 AI coding assistant that claims to understand your entire project's architecture and dependencies, not just the current file. Interesting positioning for developers maintaining large legacy codebases.
 
 ## Strengths

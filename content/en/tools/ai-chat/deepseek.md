@@ -30,6 +30,11 @@ faq:
     a: "Comparable Chinese ability, free to use; slightly behind on complex reasoning and English ecosystem."
 ---
 
+In plain terms: try it on one small, real task before buying into the pitch.
+
+A useful caveat: it can save time, but it cannot take responsibility for facts, code, or privacy decisions.
+
+
 DeepSeek's AI chat model, known for being free and capable. Strong Chinese, supports deep thinking mode, top-tier reasoning among Chinese models.
 
 ## Strengths

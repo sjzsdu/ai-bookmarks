@@ -12,6 +12,11 @@ faq:
     a: "Limited free credits; subscription (~20 USD/month) unlocks more usage."
 ---
 
+In plain terms: try it on one small, real task before buying into the pitch.
+
+A useful caveat: it can save time, but it cannot take responsibility for facts, code, or privacy decisions.
+
+
 Quora's AI aggregator — one platform for multiple AI models (GPT-4, Claude, Gemini, Llama, etc.). Switch between models seamlessly.
 
 ## Strengths

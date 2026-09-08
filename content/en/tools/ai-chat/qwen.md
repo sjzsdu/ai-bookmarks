@@ -12,6 +12,11 @@ faq:
     a: "Stronger multimodal (image/doc understanding); DeepSeek better at pure text reasoning."
 ---
 
+In plain terms: try it on one small, real task before buying into the pitch.
+
+A useful caveat: it can save time, but it cannot take responsibility for facts, code, or privacy decisions.
+
+
 Alibaba's AI chat model, free and direct-access in China. Strong multimodal capabilities — understands images and documents. Integrated with the Alibaba Cloud ecosystem.
 
 ## Strengths
