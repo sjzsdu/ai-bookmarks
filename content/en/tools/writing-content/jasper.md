@@ -10,21 +10,41 @@ faq:
     a: "English is its strength, Chinese support is limited. Consider domestic alternatives for Chinese."
   - q: "How is it different from ChatGPT for copywriting?"
     a: "Jasper has pre-built marketing templates and Brand Voice for consistent brand messaging at scale."
+highlights:
+  - "Use Jasper inside a real workflow, not as a novelty"
+  - "Review the output before you keep it"
+  - "Check free limits and sharing boundaries early"
+usecases:
+  - title: "Pre-delivery check"
+    desc: "Use Jasper for one deliberate final pass"
+  - title: "Repeatable work"
+    desc: "Turn a recurring cleanup step into a habit"
+  - title: "Team handoff"
+    desc: "Keep the conclusion tied to its source context"
+forwho:
+  - "People with a concrete job to finish"
+  - "Individuals or small teams willing to review AI output"
+notforwho:
+  - "Anyone expecting error-free output without review"
+  - "People seeking a one-click answer with no source material"
 ---
 
-AI writing tool focused on marketing copy with dozens of pre-built templates for ads, emails, social media, and more. Brand Voice learns your company's style for consistent content.
+Jasper is most useful as a sharp helper inside a real job, not as a substitute for judgment. Try it for a week on work already in motion; a polished demo will not tell you whether it earns a permanent place.
 
-## Strengths
-- Marketing templates: ads, emails, social posts, blogs
-- Brand Voice: maintain consistent brand tone
-- Team collaboration with shared templates
-- SEO optimization suggestions
+## Getting started
 
-## Pricing
-Free tier with basic usage, Creator at $49/month. Accessible globally but subscription requires international payment.
+Start with one small task that is genuinely blocking you. Compare its result with your source, keep the steps that feel natural, and skip the ones that add ceremony. It can make the first draft and final pass much faster, but the last call is still yours.
+
+## What you can do with it
+
+- Finish a customer email, then accept only the suggestions that preserve your voice.
+- Run a resume, abstract, or landing page through a final pass for small but costly mistakes.
+- Compare tone rewrites beside the original instead of replacing a draft blindly.
+
+## Limits and gotchas
+
+A complete-looking answer is not automatically correct, formatted properly, or safe to share. Free plans often cap runs or exports. Test with non-sensitive material before connecting customer data or paying, and agree on who owns the final version when a team uses it.
 
 ## Alternatives
-Copy.ai (similar features), Baidu Wenxin Yiyan, iFlytek Spark.
 
-## Who it's for
-Marketing teams, content managers, brand managers, anyone producing marketing copy at scale.
+Hemingway is better for plain readability; QuillBot is more rewrite-oriented; Microsoft Editor is the convenient Word-native option.
