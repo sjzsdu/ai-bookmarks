@@ -5,6 +5,21 @@ translationKey: "claude"
 category: "AI 对话"
 website: "https://claude.ai"
 price: "Free / $20"
+highlights:
+  - "超长上下文处理长文档和代码库极少失手"
+  - "写作逻辑严密，是公认的长文最佳模型之一"
+  - "Artifacts 可即时生成交互原型"
+usecases:
+  - title: "长文档研读"
+    desc: "整本报告塞进去理脉络，逐段追问细节。"
+  - title: "代码协作"
+    desc: "长上下文理解代码库，重构和排错靠谱。"
+forwho:
+  - "重度写作和研报场景的用户"
+  - "处理长代码库的开发者"
+notforwho:
+  - "需要实时联网搜索的问答"
+  - "国内直连优先的用户"
 faq:
   - q: "Claude 在国内能用吗？"
     a: "官网同样依赖代理；合规调用可走 AWS Bedrock 或 Azure。"

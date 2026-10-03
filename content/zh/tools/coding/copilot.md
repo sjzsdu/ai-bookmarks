@@ -5,6 +5,21 @@ translationKey: "copilot"
 category: "编程与开发"
 website: "https://github.com/features/copilot"
 price: "Free / $10"
+highlights:
+  - "补全赛道的事实标准，IDE 覆盖最广"
+  - "免费档已包含在 VS Code 中"
+  - "企业版有组织级策略和知识库"
+usecases:
+  - title: "日常补全"
+    desc: "行级/函数级补全加速编码。"
+  - title: "聊天与解释"
+    desc: "IDE 内问答、解释、修错。"
+forwho:
+  - "所有主流 IDE 的日常开发者"
+  - "企业统一采购"
+notforwho:
+  - "需要代理式重任务（Claude Code 更强）"
+  - "对 GitHub 生态抵触的团队"
 faq:
   - q: "Copilot 在国内能用吗？"
     a: "GitHub 国内可访问，订阅需境外支付；企业可走 Visual Studio 企业授权。"

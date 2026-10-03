@@ -5,6 +5,21 @@ translationKey: "bolt"
 category: "Coding & Development"
 website: "https://bolt.new"
 price: "Free / $20"
+highlights:
+  - "Prompt-to-full-stack-app right in the browser"
+  - "Live preview with one-click Netlify deploys"
+  - "Friendly to non-developers"
+usecases:
+  - title: "Rapid prototypes"
+    desc: "A running full-stack prototype from a few sentences."
+  - title: "Landing pages"
+    desc: "Self-serve sites for non-technical builders."
+forwho:
+  - "Founders and PMs prototyping"
+  - "Devs validating ideas fast"
+notforwho:
+  - "Large engineering (weak architectural control)"
+  - "Offline development"
 faq:
   - q: "What kind of apps can Bolt build?"
     a: "React, Vue, Next.js and other frameworks. Full-stack apps with frontend and backend."

@@ -5,6 +5,21 @@ translationKey: "copilot-workspace"
 category: "编程与开发"
 website: "https://github.com/features/copilot"
 price: "Free / $10"
+highlights:
+  - "从 issue 到 PR 的全流程 AI 协作"
+  - "直接在 GitHub 上规划、实现、评审"
+  - "与仓库 issue/PR 体系原生打通"
+usecases:
+  - title: "Issue 转实现"
+    desc: "从 issue 生成实现计划和代码变更。"
+  - title: "PR 评审辅助"
+    desc: "自动总结变更和潜在风险。"
+forwho:
+  - "GitHub 流程重度团队"
+  - "想加速代码评审的维护者"
+notforwho:
+  - "不用 GitHub 的团队"
+  - "本地优先工作流爱好者"
 faq:
   - q: "Copilot Workspace 和普通 Copilot 有什么区别？"
     a: "Workspace 是完整的开发环境，能从 issue 出发自动规划、编码、测试、提 PR，比纯补全高级很多。"

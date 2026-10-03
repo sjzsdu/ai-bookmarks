@@ -5,6 +5,21 @@ translationKey: "lovable"
 category: "编程与开发"
 website: "https://lovable.dev"
 price: "Free / $20"
+highlights:
+  - "对话式生成全栈 Web 应用并自动接入 Supabase"
+  - "生成即可见可用，支持导出代码"
+  - "非开发者做产品原型的捷径"
+usecases:
+  - title: "MVP 快速搭建"
+    desc: "对话迭代出带数据库的完整应用。"
+  - title: "内部工具"
+    desc: "快速做后台管理和数据面板。"
+forwho:
+  - "非技术创业者"
+  - "需要内部工具的运营团队"
+notforwho:
+  - "复杂业务逻辑（需接管代码）"
+  - "完全不想付订阅费的用户"
 faq:
   - q: "Lovable 适合不会编程的人吗？"
     a: "适合。用户可以用自然语言描述产品，并在可视化预览中继续调整。"

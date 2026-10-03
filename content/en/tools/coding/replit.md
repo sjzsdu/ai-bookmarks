@@ -5,6 +5,21 @@ translationKey: "replit"
 category: "Coding & Development"
 website: "https://replit.com"
 price: "Free / $25"
+highlights:
+  - "Cloud IDE plus AI agent — build and deploy in the browser"
+  - "Zero setup, coding from any device"
+  - "Agent handles database and auth integrations"
+usecases:
+  - title: "Full-stack fast"
+    desc: "Describe it, agent builds and deploys it."
+  - title: "Teaching & demos"
+    desc: "Code anywhere with just a browser."
+forwho:
+  - "Developers skipping DevOps"
+  - "Education and prototyping"
+notforwho:
+  - "Heavy local workflows"
+  - "Large production systems (cost/perf)"
 faq:
   - q: "Can I deploy apps on Replit?"
     a: "Yes, built-in deployment with custom domain support."

@@ -5,6 +5,21 @@ translationKey: "doubao"
 category: "AI 对话"
 website: "https://www.doubao.com"
 price: "Free"
+highlights:
+  - "免费好用，手机端体验打磨到位"
+  - "语音对话和图像理解能力全面"
+  - "字节生态：与飞书、剪映联动"
+usecases:
+  - title: "日常问答"
+    desc: "替代搜索引擎的日常 AI 入口。"
+  - title: "移动场景"
+    desc: "拍照识别、语音助手等手机侧任务。"
+forwho:
+  - "想要免费全能助手的普通用户"
+  - "移动端为主的用户"
+notforwho:
+  - "需要 API 深度开发的团队（用火山方舟）"
+  - "追求最强推理的重度任务"
 faq:
   - q: "豆包需要翻墙吗？"
     a: "不需要，国内直连，手机号注册即可。"

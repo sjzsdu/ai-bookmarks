@@ -5,6 +5,21 @@ translationKey: "windsurf"
 category: "Coding & Development"
 website: "https://codeium.com/windsurf"
 price: "Free / $15"
+highlights:
+  - "Codeium's agent-first IDE"
+  - "Cascade understands the project and executes multi-step work"
+  - "VS Code-like UI keeps migration cheap"
+usecases:
+  - title: "Agentic development"
+    desc: "Cascade plans and executes across files."
+  - title: "Smooth migration"
+    desc: "Familiar UI plus AI throughout."
+forwho:
+  - "Developers wanting an integrated agent IDE"
+  - "VS Code/Cursor migrants"
+notforwho:
+  - "Lightweight-completion users"
+  - "Teams wary of post-acquisition direction"
 faq:
   - q: "How does Windsurf compare to Cursor?"
     a: "Windsurf is lighter, has a more generous free tier, and is better for budget-conscious developers."

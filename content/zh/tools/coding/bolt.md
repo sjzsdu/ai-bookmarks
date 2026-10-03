@@ -5,6 +5,21 @@ translationKey: "bolt"
 category: "编程与开发"
 website: "https://bolt.new"
 price: "Free / $20"
+highlights:
+  - "浏览器里从提示词到全栈应用一步生成"
+  - "实时预览 + 一键部署到 Netlify"
+  - "对非开发者友好"
+usecases:
+  - title: "原型快速验证"
+    desc: "几句话生成可运行的全栈原型。"
+  - title: "落地页搭建"
+    desc: "非技术人员自助做站点。"
+forwho:
+  - "创业者和产品经理做原型"
+  - "想快速验证想法的开发者"
+notforwho:
+  - "大型工程（架构控制力不足）"
+  - "离线开发场景"
 faq:
   - q: "Bolt 能生成什么类型的应用？"
     a: "支持 React、Vue、Next.js 等主流框架，能生成前后端完整的全栈应用。"

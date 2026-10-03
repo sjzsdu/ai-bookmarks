@@ -5,6 +5,21 @@ translationKey: "augment"
 category: "Coding & Development"
 website: "https://augmentcode.com"
 price: "Free / $30"
+highlights:
+  - "Repo-scale context engine, fast on huge codebases"
+  - "Completions match your private code style"
+  - "Friendly to large legacy projects"
+usecases:
+  - title: "Monorepo work"
+    desc: "Locate and change code across millions of lines."
+  - title: "Legacy maintenance"
+    desc: "Learn implicit conventions before editing."
+forwho:
+  - "Teams maintaining large codebases"
+  - "Context-hungry developers"
+notforwho:
+  - "Small projects (weak value)"
+  - "Individuals wanting a free tier"
 faq:
   - q: "How is Augment different from Copilot?"
     a: "Augment focuses on understanding your entire codebase architecture, not just the current file."

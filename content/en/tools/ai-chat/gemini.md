@@ -5,6 +5,21 @@ translationKey: "gemini"
 category: "AI Chat"
 website: "https://gemini.google.com"
 price: "Free / $20"
+highlights:
+  - "Deep integration across Gmail, Docs, and Drive"
+  - "Strong multimodal understanding: video, images, audio"
+  - "Powerful models on the free tier"
+usecases:
+  - title: "Google Workspace boost"
+    desc: "Draft and summarize inside Gmail and Docs."
+  - title: "Multimodal analysis"
+    desc: "Upload video, screenshots, or audio for Q&A."
+forwho:
+  - "Google ecosystem users"
+  - "Creators needing multimodal input"
+notforwho:
+  - "Direct China access needs"
+  - "Microsoft-locked teams"
 faq:
   - q: "Is Gemini free?"
     a: "Yes, a free tier exists; Gemini Advanced costs ~20 USD/month."

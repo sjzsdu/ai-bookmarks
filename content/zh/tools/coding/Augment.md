@@ -5,6 +5,21 @@ translationKey: "augment"
 category: "编程与开发"
 website: "https://augmentcode.com"
 price: "Free / $30"
+highlights:
+  - "代码库级上下文引擎，大项目检索和理解快"
+  - "补全建议贴合项目私有代码风格"
+  - "对大型遗留项目友好"
+usecases:
+  - title: "大仓库开发"
+    desc: "在百万行级代码库里快速定位和修改。"
+  - title: "遗留代码维护"
+    desc: "理解老项目的隐含约定再动手。"
+forwho:
+  - "维护大型代码库的团队"
+  - "对上下文理解要求高的开发者"
+notforwho:
+  - "小型项目（性价比一般）"
+  - "想要免费方案的个人"
 faq:
   - q: "Augment 和 Copilot 有什么不同？"
     a: "Augment 主打对整个代码库的深度理解，不只是当前文件，更适合大型项目。"

@@ -5,6 +5,21 @@ translationKey: "cline"
 category: "编程与开发"
 website: "https://github.com/cline/cline"
 price: "Free（开源）"
+highlights:
+  - "开源 VS Code 插件，代理式编程的透明方案"
+  - "接任意模型 API，成本自控"
+  - "每一步操作可见、可批准"
+usecases:
+  - title: "VS Code 内代理编程"
+    desc: "在编辑器里让 AI 自主完成多步任务。"
+  - title: "低成本自动化"
+    desc: "接 DeepSeek 等便宜模型跑任务。"
+forwho:
+  - "VS Code 用户"
+  - "在意成本和数据透明的开发者"
+notforwho:
+  - "JetBrains 用户（用对应插件）"
+  - "不想配置 API key 的小白"
 faq:
   - q: "Cline 真的完全免费吗？"
     a: "扩展本身免费开源，但 AI 模型调用需要你自己提供 API Key（如 OpenAI、Anthropic）。"

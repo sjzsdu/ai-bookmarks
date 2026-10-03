@@ -5,6 +5,21 @@ translationKey: "trae"
 category: "Coding & Development"
 website: "https://trae.ai"
 price: "Free"
+highlights:
+  - "ByteDance's AI-native IDE, Cursor-class UI"
+  - "Free in China with direct access"
+  - "Builder mode generates projects from prompts"
+usecases:
+  - title: "AI-native coding"
+    desc: "An IDE designed around AI collaboration."
+  - title: "Greenfield projects"
+    desc: "Prompt to runnable project directly."
+forwho:
+  - "Chinese devs wanting a free Cursor alternative"
+  - "ByteDance ecosystem users"
+notforwho:
+  - "Deep VS Code extension dependencies"
+  - "Data-residency-sensitive global teams"
 faq:
   - q: "Is Trae really free?"
     a: "Yes, currently all AI features are free during the promotion period."

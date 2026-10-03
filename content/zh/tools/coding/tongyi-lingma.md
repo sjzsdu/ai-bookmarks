@@ -5,6 +5,21 @@ translationKey: "tongyi-lingma"
 category: "编程与开发"
 website: "https://tongyi.aliyun.com/lingma"
 price: "Free"
+highlights:
+  - "阿里出品，Qwen 模型驱动的国产编码助手"
+  - "国内直连免费，企业可私有化"
+  - "与阿里云开发套件集成"
+usecases:
+  - title: "日常补全与问答"
+    desc: "IDE 内补全、解释、单测生成。"
+  - title: "企业落地"
+    desc: "合规要求下的私有化 AI 编码。"
+forwho:
+  - "国内企业开发者"
+  - "预算敏感的个人"
+notforwho:
+  - "追求最强代理能力的用户"
+  - "海外团队协作场景"
 faq:
   - q: "通义灵码需要翻墙吗？"
     a: "不需要，国内直连，阿里云账号登录即可。"

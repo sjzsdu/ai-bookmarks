@@ -5,6 +5,21 @@ translationKey: "claude"
 category: "AI Chat"
 website: "https://claude.ai"
 price: "Free / $20"
+highlights:
+  - "200K+ context that rarely drops the ball on long documents"
+  - "Strict, reliable long-form writing"
+  - "Artifacts for instant interactive prototypes"
+usecases:
+  - title: "Long-document reading"
+    desc: "Feed a full report, ask questions section by section."
+  - title: "Code collaboration"
+    desc: "Repo-scale understanding for refactors and debugging."
+forwho:
+  - "Heavy writers and analysts"
+  - "Developers on large codebases"
+notforwho:
+  - "Real-time web search needs"
+  - "Users needing direct China access"
 faq:
   - q: "What is Claude best at?"
     a: "Long-document understanding, coding, and rigorous writing."

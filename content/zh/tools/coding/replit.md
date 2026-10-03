@@ -5,6 +5,21 @@ translationKey: "replit"
 category: "编程与开发"
 website: "https://replit.com"
 price: "Free / $25"
+highlights:
+  - "云端 IDE + AI Agent 一体，浏览器里完成开发部署"
+  - "零环境配置，移动端也能写代码"
+  - "Agent 可自主完成数据库、认证等集成"
+usecases:
+  - title: "全栈应用快速交付"
+    desc: "描述需求，Agent 搭好应用并部署上线。"
+  - title: "教学与演示"
+    desc: "随时随地打开浏览器写代码。"
+forwho:
+  - "想跳过运维的开发者"
+  - "教育和原型场景"
+notforwho:
+  - "重度本地工作流"
+  - "大规模生产系统（成本与性能）"
 faq:
   - q: "Replit 国内能用吗？"
     a: "可以访问，但部分功能（如 AI Agent）走海外服务器，速度可能受影响。"
