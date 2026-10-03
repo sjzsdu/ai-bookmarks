@@ -5,6 +5,21 @@ translationKey: "cline"
 category: "Coding & Development"
 website: "https://github.com/cline/cline"
 price: "Free (open source)"
+highlights:
+  - "Open-source VS Code agent, fully transparent"
+  - "Bring any model API, control your costs"
+  - "Every step visible and approvable"
+usecases:
+  - title: "Agentic VS Code"
+    desc: "Let AI complete multi-step tasks inside the editor."
+  - title: "Budget automation"
+    desc: "Wire cheap models like DeepSeek to run tasks."
+forwho:
+  - "VS Code users"
+  - "Cost- and transparency-minded developers"
+notforwho:
+  - "JetBrains users (use their plugins)"
+  - "Beginners avoiding API key setup"
 faq:
   - q: "Is Cline really free?"
     a: "The extension is free and open source, but AI model calls require your own API key."

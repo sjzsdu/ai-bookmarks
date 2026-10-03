@@ -6,22 +6,45 @@ category: "Model API"
 website: "https://replicate.com"
 price: "$0.09 / hour"
 highlights:
-  - "A practical choice for 按调用使用开源模型而不管理 gpu, not a magic AI layer."
-  - "Prove one repetitive workflow before rolling it out widely."
-  - "Budgeting, retries, and human handoff matter as much as the demo."
+  - "Run thousands of open models via one simple API"
+  - "Pay per second of compute — no infrastructure to manage"
+  - "Deploy custom models with Cog, infra-free"
 usecases:
-  - title: "Validate one repetitive job"
-    desc: "Turn a copying, sorting, or research task into a small observable loop first."
-  - title: "Keep a human handoff"
-    desc: "Require review before external messages, database writes, or spend."
+  - title: "Open models as APIs"
+    desc: "Thousands of community models on demand."
+  - title: "Custom deployment"
+    desc: "Package your own model with Cog."
+  - title: "Image generation apps"
+    desc: "Hosted SD/FLUX inference."
 forwho:
-  - "Product and operations teams willing to test with real workflows"
-  - "Developers who can maintain integrations and failure handling"
+  - "App developers avoiding GPU ops"
+  - "Image/audio/video generation products"
 notforwho:
-  - "Teams expecting zero setup and fully autonomous judgment"
+  - "Very high-volume inference (do the math)"
+  - "Ultra-low-latency real-time use"
 faq:
-  - q: "Where should I start?"
-    a: "Pick a low-risk workflow with human review, then track quality, time saved, and actual cost."
-  - q: "Is it ready for production?"
-    a: "Potentially, after you add access control, rate limits, logs, retries, and an escalation path."
----\n\nReplicate is worth considering when you specifically need **managed calls to open models**. Start with one narrow, measurable workflow instead of treating it as a generic AI add-on.\n\n## Getting started\nUse realistic but redacted data in a read-only proof of concept. Check access, rate limits, failure notifications, and the cost of a normal week before connecting anything that writes or sends.\n\n## What you can actually do\n- Turn incoming documents, forms, or requests into a reviewable first draft.\n- Give support, sales, or research a first pass at retrieval, classification, and summarization.\n- Connect a bounded API action, such as looking up a record, creating a task, or routing an exception.\n- Compare prompts or model settings on a small sample before changing a live workflow.\n\n## Trade-offs and gotchas\nThe attractive demo is the easy part. Production needs explicit ownership for bad inputs, permissions, retries, occasional wrong output, and spend limits. Do not remove the human review step until you have measured real failures.\n\n## Alternatives\nChoose a lower-code alternative when speed of setup matters, a self-hosted option when data control matters, or a code-first framework when the workflow needs tests and fine-grained behavior. Those priorities usually pull in different directions.\n
+  - q: "How does Replicate bill?"
+    a: "Per second of model runtime based on hardware pricing; idle time costs nothing."
+  - q: "Can I deploy my own?"
+    a: "Yes — package with Cog and push to get an API."
+---
+
+Replicate turns 'running open models' into a per-second API: thousands of versioned community models (image, video, audio, LLM) on demand, and your own models ship via Cog — no GPU touching required.
+
+## Getting started
+
+Play with models on the web first, then take an API token once quality is confirmed; hardware pricing varies a lot per model.
+
+## What you can actually do
+
+- Model marketplace with versioned, callable models
+- Cog deployments for your own weights
+- Per-second billing with zero idle cost
+
+## Trade-offs and gotchas
+
+Per-second pricing can beat monthly GPUs only sometimes — model your batch costs. Cold starts hurt real-time UX. Community quality varies; curate.
+
+## Alternatives
+
+Groq/Together for LLM inference, Ollama for local, OpenRouter for aggregation.

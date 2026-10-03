@@ -5,45 +5,46 @@ translationKey: "polyhaven"
 category: "3D & Assets"
 website: "https://polyhaven.com"
 price: "Free"
+highlights:
+  - "Everything is CC0 — commercial use without worry"
+  - "HDRIs, textures, models, and audio in one library"
+  - "Community-built with steadily growing quality"
+usecases:
+  - title: "Scene lighting"
+    desc: "HDRI environments provide realistic render lighting."
+  - title: "Material fills"
+    desc: "Ready-made PBR textures dress a scene fast."
+  - title: "Learning projects"
+    desc: "Zero-cost assets with zero license anxiety."
+forwho:
+  - "Indie developers and students"
+  - "Commercial projects sensitive to licensing"
+notforwho:
+  - "Projects needing exclusive rare assets"
+  - "Users wanting instant AI generation"
 faq:
   - q: "Is Poly Haven really free?"
     a: "Yes. All assets are CC0 license — free for commercial use, no attribution required."
   - q: "How's the quality?"
     a: "Very high. Many are photorealistic HDR environment maps and PBR materials."
-highlights:
-  - "Get a concrete first draft quickly"
-  - "Reduce repetitive setup work"
-  - "Keep human judgment in the real workflow"
-usecases:
-  - title: "First attempt"
-    desc: "Validate a direction with one narrow job before betting on a full project."
-  - title: "Iteration"
-    desc: "Keep a promising version and tighten the brief with real feedback."
-  - title: "Team discussion"
-    desc: "Bring a concrete draft so the conversation can focus on choices and trade-offs."
-forwho:
-  - "People validating a direction quickly"
-  - "Small teams willing to review an AI first pass"
-notforwho:
-  - "Anyone expecting unreviewed output to be publish-ready"
 ---
 
-I treat Poly Haven as a way to accelerate a first draft, not as a button that makes the final call. Try it on one real, narrow task first; whether it saves the next step matters more than a polished demo.
+Poly Haven is the good citizen of 3D asset libraries: every HDRI, texture, and model is CC0 — no attribution, commercial use, free to modify. Quality rivals paid libraries, built and shot by the community, a staple of the Blender ecosystem.
 
 ## Getting started
 
-State the goal, source material, or constraints clearly. Review one pass, then tighten the brief from actual feedback. Save the promising version—rarely is the first output the finished one.
+Pick HDRIs by purpose: match outdoor lighting to time-of-day and weather, and mind window brightness for interiors. Choose texture resolution as needed — 4K is usually plenty over 8K.
 
 ## What you can actually do
 
-- **First attempt**: make a concrete starting point for a real discussion.
-- **Iteration**: try a few versions against the same brief.
-- **Team discussion**: turn vague preferences into choices people can evaluate.
+- HDRIs: the workhorse for render lighting
+- PBR textures: wood, brick, and ground, ready to use
+- Models: common props and nature assets, free to download
 
 ## Trade-offs and gotchas
 
-AI output is a candidate, not a fact source or final deliverable. Verify pricing, rights, detail, and time-sensitive claims; return to the source material for important work.
+Coverage depends on community contributors, so niche subjects may be missing; large HDRIs are heavy on disk and load times.
 
 ## Alternatives
 
-Compare workflows rather than screenshots alone: some alternatives prioritize collaboration, some finer control, and others work better for a specific language, channel, or format.
+Quixel Megascans is the paid alternative (Epic ecosystem); for model marketplaces see Sketchfab and Turbosquid; AI texturing lives in Meshy.

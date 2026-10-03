@@ -5,45 +5,46 @@ translationKey: "tianqu"
 category: "Search & Browser"
 website: "https://www.tiangong.cn"
 price: "Free"
+highlights:
+  - "Free Chinese AI search with direct domestic access"
+  - "Powered by Tiangong models with aggregated sources"
+  - "Full product line: web, app, browser"
+usecases:
+  - title: "Daily Chinese search"
+    desc: "Results with AI summaries on top."
+  - title: "Trend tracking"
+    desc: "Quick synthesis of Chinese web topics."
+  - title: "Light research"
+    desc: "Entry-level structured overviews."
+forwho:
+  - "Users wanting free Chinese AI search"
+  - "Kunlun ecosystem users"
+notforwho:
+  - "Deep English research"
+  - "High-precision professional queries"
 faq:
   - q: "How does it compare to Metaso?"
     a: "Similar features, TianGong has a cleaner interface but slightly less search depth."
   - q: "Can non-Chinese speakers use it?"
     a: "It's primarily designed for Chinese language queries."
-highlights:
-  - "Get a concrete first draft quickly"
-  - "Reduce repetitive setup work"
-  - "Keep human judgment in the real workflow"
-usecases:
-  - title: "First attempt"
-    desc: "Validate a direction with one narrow job before betting on a full project."
-  - title: "Iteration"
-    desc: "Keep a promising version and tighten the brief with real feedback."
-  - title: "Team discussion"
-    desc: "Bring a concrete draft so the conversation can focus on choices and trade-offs."
-forwho:
-  - "People validating a direction quickly"
-  - "Small teams willing to review an AI first pass"
-notforwho:
-  - "Anyone expecting unreviewed output to be publish-ready"
 ---
 
-I treat TianGong AI Search as a way to accelerate a first draft, not as a button that makes the final call. Try it on one real, narrow task first; whether it saves the next step matters more than a polished demo.
+Tiangong AI Search, from Kunlun Tech, is an early Chinese AI search player: AI summaries over aggregated sources, solid on Chinese trends and news-flavored queries, free and directly accessible.
 
 ## Getting started
 
-State the goal, source material, or constraints clearly. Review one pass, then tighten the brief from actual feedback. Save the promising version—rarely is the first output the finished one.
+Ask directly for cited answers; switch to research mode for longer structured reports on deeper topics.
 
 ## What you can actually do
 
-- **First attempt**: make a concrete starting point for a real discussion.
-- **Iteration**: try a few versions against the same brief.
-- **Team discussion**: turn vague preferences into choices people can evaluate.
+- AI Q&A summarizing Chinese results
+- Research mode for report-style output
+- Web, app, and extension coverage
 
 ## Trade-offs and gotchas
 
-AI output is a candidate, not a fact source or final deliverable. Verify pricing, rights, detail, and time-sensitive claims; return to the source material for important work.
+Depth trails Metaso on specialized topics; answers sometimes lean on single sources — check a few. Mind the boundary between results and promoted content.
 
 ## Alternatives
 
-Compare workflows rather than screenshots alone: some alternatives prioritize collaboration, some finer control, and others work better for a specific language, channel, or format.
+Metaso for academic and report work, Nano AI for multi-model comparison, Perplexity for English research.

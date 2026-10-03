@@ -5,6 +5,21 @@ translationKey: "copilot-workspace"
 category: "Coding & Development"
 website: "https://github.com/features/copilot"
 price: "Free / $10"
+highlights:
+  - "AI across the issue-to-PR pipeline"
+  - "Plan, implement, and review inside GitHub"
+  - "Native to repo issues and PRs"
+usecases:
+  - title: "Issue to implementation"
+    desc: "Generate plans and changes from issues."
+  - title: "Review assist"
+    desc: "Auto-summarize diffs and risks."
+forwho:
+  - "GitHub-centric teams"
+  - "Maintainers speeding up reviews"
+notforwho:
+  - "Non-GitHub shops"
+  - "Local-first workflow fans"
 faq:
   - q: "How is Copilot Workspace different from regular Copilot?"
     a: "Workspace is a complete dev environment that plans, codes, tests, and creates PRs from issues."

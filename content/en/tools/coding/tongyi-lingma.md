@@ -5,6 +5,21 @@ translationKey: "tongyi-lingma"
 category: "Coding & Development"
 website: "https://tongyi.aliyun.com/lingma"
 price: "Free"
+highlights:
+  - "Alibaba's coding assistant powered by Qwen"
+  - "Free with direct China access; private deployment for enterprises"
+  - "Integrated with Alibaba Cloud dev tooling"
+usecases:
+  - title: "Daily completion"
+    desc: "In-IDE completion, explanation, test generation."
+  - title: "Enterprise rollout"
+    desc: "AI coding under compliance constraints."
+forwho:
+  - "Chinese enterprise developers"
+  - "Budget-sensitive individuals"
+notforwho:
+  - "Frontier agentic seekers"
+  - "Global team collaboration"
 faq:
   - q: "Does Tongyi Lingma need a VPN?"
     a: "No, direct access in China via Alibaba Cloud account."

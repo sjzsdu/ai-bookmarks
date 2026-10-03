@@ -5,6 +5,21 @@ translationKey: "doubao"
 category: "AI Chat"
 website: "https://www.doubao.com"
 price: "Free"
+highlights:
+  - "Free, polished, and mobile-first"
+  - "Full voice and vision capabilities"
+  - "ByteDance ecosystem ties"
+usecases:
+  - title: "Daily Q&A"
+    desc: "A free daily assistant replacing search."
+  - title: "On the go"
+    desc: "Photo recognition and voice tasks on mobile."
+forwho:
+  - "Everyday users wanting a free generalist"
+  - "Mobile-first users"
+notforwho:
+  - "API-heavy development (use Volcengine Ark)"
+  - "Frontier reasoning workloads"
 faq:
   - q: "Is Doubao free?"
     a: "Yes, free with phone registration, direct access in China."

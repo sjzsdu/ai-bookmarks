@@ -6,22 +6,45 @@ category: "Model API"
 website: "https://siliconflow.cn"
 price: "Free"
 highlights:
-  - "A practical choice for 国内可访问的开源模型推理 api, not a magic AI layer."
-  - "Prove one repetitive workflow before rolling it out widely."
-  - "Budgeting, retries, and human handoff matter as much as the demo."
+  - "Chinese aggregator hosting many open models under one API"
+  - "DeepSeek, Qwen, and GLM served at competitive rates"
+  - "OpenAI-compatible interface with domestic direct access"
 usecases:
-  - title: "Validate one repetitive job"
-    desc: "Turn a copying, sorting, or research task into a small observable loop first."
-  - title: "Keep a human handoff"
-    desc: "Require review before external messages, database writes, or spend."
+  - title: "Chinese open-model aggregation"
+    desc: "DeepSeek/Qwen/GLM behind one API."
+  - title: "Low-cost inference"
+    desc: "Open models priced under official platforms."
+  - title: "Domestic access"
+    desc: "Local network and payment friendly."
 forwho:
-  - "Product and operations teams willing to test with real workflows"
-  - "Developers who can maintain integrations and failure handling"
+  - "China-based teams needing many models"
+  - "Cost-sensitive open-model users"
 notforwho:
-  - "Teams expecting zero setup and fully autonomous judgment"
+  - "Closed flagship models"
+  - "Overseas compliance hosting"
 faq:
-  - q: "Where should I start?"
-    a: "Pick a low-risk workflow with human review, then track quality, time saved, and actual cost."
-  - q: "Is it ready for production?"
-    a: "Potentially, after you add access control, rate limits, logs, retries, and an escalation path."
----\n\nSiliconFlow is worth considering when you specifically need **China-accessible open-model inference**. Start with one narrow, measurable workflow instead of treating it as a generic AI add-on.\n\n## Getting started\nUse realistic but redacted data in a read-only proof of concept. Check access, rate limits, failure notifications, and the cost of a normal week before connecting anything that writes or sends.\n\n## What you can actually do\n- Turn incoming documents, forms, or requests into a reviewable first draft.\n- Give support, sales, or research a first pass at retrieval, classification, and summarization.\n- Connect a bounded API action, such as looking up a record, creating a task, or routing an exception.\n- Compare prompts or model settings on a small sample before changing a live workflow.\n\n## Trade-offs and gotchas\nThe attractive demo is the easy part. Production needs explicit ownership for bad inputs, permissions, retries, occasional wrong output, and spend limits. Do not remove the human review step until you have measured real failures.\n\n## Alternatives\nChoose a lower-code alternative when speed of setup matters, a self-hosted option when data control matters, or a code-first framework when the workflow needs tests and fine-grained behavior. Those priorities usually pull in different directions.\n
+  - q: "Free models?"
+    a: "Some small models are free; mainstream ones bill per token with frequent promos."
+  - q: "vs official APIs?"
+    a: "Third-party hosting may lag official releases; the win is many models from one account."
+---
+
+SiliconFlow is China's open-model inference aggregator: DeepSeek, Qwen, GLM and more behind one OpenAI-compatible API, often cheaper than official platforms — a common base for domestic developers.
+
+## Getting started
+
+Register and integrate via the OpenAI-compatible interface; validate the pipeline on a small model before switching to your main one.
+
+## What you can actually do
+
+- Many models from one account
+- OpenAI-compatible endpoints, low migration cost
+- Direct domestic access with RMB billing
+
+## Trade-offs and gotchas
+
+Hosted versions and quantizations may differ from official releases. Peak-hour throttling is noticeable. Keep a second provider as fallback.
+
+## Alternatives
+
+First-party APIs: DeepSeek, Bailian, Volcengine Ark; OpenRouter for global aggregation; Ollama for local.

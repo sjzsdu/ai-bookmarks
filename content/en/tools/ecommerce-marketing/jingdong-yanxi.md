@@ -5,45 +5,46 @@ translationKey: "jingdong-yanxi"
 category: "E-commerce & Marketing"
 website: "https://yanxi.jd.com"
 price: "Contact for pricing"
+highlights:
+  - "JD's official AI with deep e-commerce grounding"
+  - "Mature digital-human livestreaming"
+  - "Native hooks into JD's merchant backend"
+usecases:
+  - title: "Digital-human livestreams"
+    desc: "Long, low-cost product explanation sessions."
+  - title: "Product copy"
+    desc: "Selling points formatted for JD's rules."
+  - title: "Smart support"
+    desc: "Pre-sales Q&A grounded in store data."
+forwho:
+  - "JD marketplace merchants"
+  - "Store operators exploring virtual hosts"
+notforwho:
+  - "Merchants outside the JD ecosystem"
+  - "Users wanting general-purpose AI"
 faq:
   - q: "What is JD Yanxi?"
     a: "JD.com's AI platform offering smart customer service, auto-generated marketing copy, and digital avatars for livestreaming."
   - q: "Can non-JD sellers use it?"
     a: "Yes, but it's primarily designed for JD's e-commerce ecosystem."
-highlights:
-  - "Get a concrete first draft quickly"
-  - "Reduce repetitive setup work"
-  - "Keep human judgment in the workflow"
-usecases:
-  - title: "First attempt"
-    desc: "Validate a direction with one narrow, real task."
-  - title: "Iteration"
-    desc: "Keep a promising version and refine it with feedback."
-  - title: "Team discussion"
-    desc: "Give people a concrete draft to evaluate."
-forwho:
-  - "People validating a direction quickly"
-  - "Small teams willing to review an AI first pass"
-notforwho:
-  - "Anyone expecting unreviewed output to be publish-ready"
 ---
 
-I use JD Yanxi to accelerate a first draft, not as a button that makes the final call. Test it on one real, narrow task first; whether it saves the next step matters more than a polished demo.
+Yanxi is JD's externally-facing AI brand: digital-human livestreaming, product copy, and support bots built on JD's commerce data. For JD merchants the draw is native integration with the backend.
 
 ## Getting started
 
-State the goal, source material, or constraints clearly. Review one pass, then tighten the brief from actual feedback. Save the promising version—rarely is the first output the finished one.
+Enable the relevant capability by category in the merchant console; test digital-human streams as recorded explainers before extending duration and interactivity.
 
 ## What you can actually do
 
-- **First attempt**: make a concrete starting point for a real discussion.
-- **Iteration**: try a few versions against the same brief.
-- **Team discussion**: turn vague preferences into choices people can evaluate.
+- Digital humans for livestream and short video
+- Copy generation within platform guidelines
+- Support bots grounded in order data
 
 ## Trade-offs and gotchas
 
-AI output is a candidate, not a fact source or final deliverable. Verify pricing, rights, detail, and time-sensitive claims; return to the source material for important work.
+Capabilities tie to the JD merchant system — no cross-platform use. Mind platform rules on labeling AI-generated streams.
 
 ## Alternatives
 
-Compare workflows rather than screenshots alone: some alternatives prioritize collaboration, some finer control, and others work better for a specific language, channel, or format.
+Taobao sellers use Alimama's stack, Tencent Zhiying for generic digital humans, general writing tools for copy.

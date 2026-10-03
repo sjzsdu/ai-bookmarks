@@ -5,45 +5,46 @@ translationKey: "lingvanex"
 category: "Translation"
 website: "https://lingvanex.com"
 price: "Free / $10"
+highlights:
+  - "100+ language APIs plus apps in one bundle"
+  - "Self-hosted option keeps data inside your network"
+  - "Flexible usage pricing with clear docs"
+usecases:
+  - title: "Product integration"
+    desc: "Add translation to apps and websites."
+  - title: "Intranet deployment"
+    desc: "Compliant on-prem machine translation."
+  - title: "Multi-platform use"
+    desc: "Desktop, mobile, and browser extension."
+forwho:
+  - "Enterprises needing self-hostable translation"
+  - "Teams wanting translation across devices"
+notforwho:
+  - "Top-quality demands (DeepL leads)"
+  - "Light personal use (free tier is limited)"
 faq:
   - q: "Does Lingvanex support Chinese?"
     a: "Yes, it supports Chinese along with 100+ other languages."
   - q: "How does it compare to Google Translate API?"
     a: "Cheaper, but less documentation and ecosystem. Good alternative if you want to avoid big tech dependency."
-highlights:
-  - "Get a concrete first draft quickly"
-  - "Reduce repetitive setup work"
-  - "Keep human judgment in the real workflow"
-usecases:
-  - title: "First attempt"
-    desc: "Validate a direction with one narrow job before betting on a full project."
-  - title: "Iteration"
-    desc: "Keep a promising version and tighten the brief with real feedback."
-  - title: "Team discussion"
-    desc: "Bring a concrete draft so the conversation can focus on choices and trade-offs."
-forwho:
-  - "People validating a direction quickly"
-  - "Small teams willing to review an AI first pass"
-notforwho:
-  - "Anyone expecting unreviewed output to be publish-ready"
 ---
 
-I treat Lingvanex as a way to accelerate a first draft, not as a button that makes the final call. Try it on one real, narrow task first; whether it saves the next step matters more than a polished demo.
+Lingvanex positions as enterprise translation infrastructure: APIs for 100+ languages, desktop and mobile apps, browser extensions, and a rare self-hosted option for data that can't leave the network.
 
 ## Getting started
 
-State the goal, source material, or constraints clearly. Review one pass, then tighten the brief from actual feedback. Save the promising version—rarely is the first output the finished one.
+Test your language pairs in the online playground, then request an API key; self-hosting goes through sales scoping.
 
 ## What you can actually do
 
-- **First attempt**: make a concrete starting point for a real discussion.
-- **Iteration**: try a few versions against the same brief.
-- **Team discussion**: turn vague preferences into choices people can evaluate.
+- REST translation APIs for many languages
+- On-prem deployment of engines
+- Apps across Windows/macOS/mobile/extensions
 
 ## Trade-offs and gotchas
 
-AI output is a candidate, not a fact source or final deliverable. Verify pricing, rights, detail, and time-sensitive claims; return to the source material for important work.
+Quality is workmanlike, not top-tier — benchmark critical pairs. Self-hosting licenses are mid-budget. Docs occasionally lag releases.
 
 ## Alternatives
 
-Compare workflows rather than screenshots alone: some alternatives prioritize collaboration, some finer control, and others work better for a specific language, channel, or format.
+DeepL API for quality, Argos Translate as free open source, Google/Microsoft APIs for platform scale.

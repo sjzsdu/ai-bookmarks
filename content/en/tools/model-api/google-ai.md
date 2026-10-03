@@ -6,22 +6,45 @@ category: "Model API"
 website: "https://ai.google.dev"
 price: "Free"
 highlights:
-  - "A practical choice for gemini 的多模态与 google 开发入口, not a magic AI layer."
-  - "Prove one repetitive workflow before rolling it out widely."
-  - "Budgeting, retries, and human handoff matter as much as the demo."
+  - "One API surface for Gemini models across text and multimodal"
+  - "Very large context windows and native multimodal input"
+  - "Vertex AI path for enterprise-grade deployment"
 usecases:
-  - title: "Validate one repetitive job"
-    desc: "Turn a copying, sorting, or research task into a small observable loop first."
-  - title: "Keep a human handoff"
-    desc: "Require review before external messages, database writes, or spend."
+  - title: "Gemini access"
+    desc: "Multimodal chat over images, audio, video."
+  - title: "Huge context"
+    desc: "Million-token windows for large documents."
+  - title: "Enterprise path"
+    desc: "Vertex AI governance and compliance."
 forwho:
-  - "Product and operations teams willing to test with real workflows"
-  - "Developers who can maintain integrations and failure handling"
+  - "Google-ecosystem developers"
+  - "Multimodal and big-context needs"
 notforwho:
-  - "Teams expecting zero setup and fully autonomous judgment"
+  - "Direct China access"
+  - "Rock-bottom-cost batch jobs"
 faq:
-  - q: "Where should I start?"
-    a: "Pick a low-risk workflow with human review, then track quality, time saved, and actual cost."
-  - q: "Is it ready for production?"
-    a: "Potentially, after you add access control, rate limits, logs, retries, and an escalation path."
----\n\nGoogle AI is worth considering when you specifically need **Gemini multimodal development**. Start with one narrow, measurable workflow instead of treating it as a generic AI add-on.\n\n## Getting started\nUse realistic but redacted data in a read-only proof of concept. Check access, rate limits, failure notifications, and the cost of a normal week before connecting anything that writes or sends.\n\n## What you can actually do\n- Turn incoming documents, forms, or requests into a reviewable first draft.\n- Give support, sales, or research a first pass at retrieval, classification, and summarization.\n- Connect a bounded API action, such as looking up a record, creating a task, or routing an exception.\n- Compare prompts or model settings on a small sample before changing a live workflow.\n\n## Trade-offs and gotchas\nThe attractive demo is the easy part. Production needs explicit ownership for bad inputs, permissions, retries, occasional wrong output, and spend limits. Do not remove the human review step until you have measured real failures.\n\n## Alternatives\nChoose a lower-code alternative when speed of setup matters, a self-hosted option when data control matters, or a code-first framework when the workflow needs tests and fine-grained behavior. Those priorities usually pull in different directions.\n
+  - q: "AI Studio vs Vertex?"
+    a: "AI Studio is for individual fast development with free quota; Vertex AI is the enterprise platform with governance and deployment options."
+  - q: "Free tier limits?"
+    a: "Rate and usage caps apply; go paid for production."
+---
+
+Google's developer platform is the API home of Gemini: natively multimodal (images, audio, video in), million-token context windows, with AI Studio for individuals and Vertex AI for enterprises.
+
+## Getting started
+
+Get a key in AI Studio and call via the official or OpenAI-compatible SDK; test multimodal by passing files directly.
+
+## What you can actually do
+
+- Full Gemini lineup with Pro/Flash tiers
+- Native multimodal inputs
+- Structured output and function calling
+
+## Trade-offs and gotchas
+
+Proxy required in China. The free tier isn't for production. Model behavior shifts across versions — regression-test critical features.
+
+## Alternatives
+
+DeepSeek for cheap text, Together/Groq for open models, Bailian for domestic compliance.

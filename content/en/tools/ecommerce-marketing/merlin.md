@@ -5,45 +5,46 @@ translationKey: "merlin"
 category: "E-commerce & Marketing"
 website: "https://getmerlin.com"
 price: "Free / $19"
+highlights:
+  - "Browser-extension AI assistant, available everywhere"
+  - "Copy, summaries, and translation in one"
+  - "Friendly free tier for light users"
+usecases:
+  - title: "Quick queries"
+    desc: "Ask about any page or summarize it inline."
+  - title: "Social copy"
+    desc: "Draft posts and taglines on the spot."
+  - title: "Email triage"
+    desc: "Summarize threads and draft replies."
+forwho:
+  - "Users wanting an always-present AI helper"
+  - "Light users on the free tier"
+notforwho:
+  - "Professional marketing platforms"
+  - "Privacy-strict enterprise environments"
 faq:
   - q: "What does Merlin do?"
     a: "Writes ad copy, social media posts, and email marketing content. Supports multiple marketing scenarios."
   - q: "Does it work in Chinese?"
     a: "Yes, but it works better for English content. Mainly useful for English marketing."
-highlights:
-  - "Get a concrete first draft quickly"
-  - "Reduce repetitive setup work"
-  - "Keep human judgment in the real workflow"
-usecases:
-  - title: "First attempt"
-    desc: "Validate a direction with one narrow job before betting on a full project."
-  - title: "Iteration"
-    desc: "Keep a promising version and tighten the brief with real feedback."
-  - title: "Team discussion"
-    desc: "Bring a concrete draft so the conversation can focus on choices and trade-offs."
-forwho:
-  - "People validating a direction quickly"
-  - "Small teams willing to review an AI first pass"
-notforwho:
-  - "Anyone expecting unreviewed output to be publish-ready"
 ---
 
-I treat Merlin as a way to accelerate a first draft, not as a button that makes the final call. Try it on one real, narrow task first; whether it saves the next step matters more than a polished demo.
+Merlin plays the universal browser assistant: one extension for chat, summaries, and rewrites on any page, covering copy, email, and search chores. No single feature leads its category — the point is reach.
 
 ## Getting started
 
-State the goal, source material, or constraints clearly. Review one pass, then tighten the brief from actual feedback. Save the promising version—rarely is the first output the finished one.
+Set up shortcuts for your common prompts after installing; page summaries and reply drafts are the workhorses. The free quota covers light daily use.
 
 ## What you can actually do
 
-- **First attempt**: make a concrete starting point for a real discussion.
-- **Iteration**: try a few versions against the same brief.
-- **Team discussion**: turn vague preferences into choices people can evaluate.
+- Page summaries: long articles to key points
+- Copy drafting: social, email, ads
+- Model switching per task
 
 ## Trade-offs and gotchas
 
-AI output is a candidate, not a fact source or final deliverable. Verify pricing, rights, detail, and time-sensitive claims; return to the source material for important work.
+Extension behavior depends on page structure — some sites break it. Daily caps on the free tier; enterprise data compliance is on you to assess.
 
 ## Alternatives
 
-Compare workflows rather than screenshots alone: some alternatives prioritize collaboration, some finer control, and others work better for a specific language, channel, or format.
+Writesonic for dedicated copy platforms, Klaviyo for email marketing, Edge Copilot and Opera Aria for native browser AI.

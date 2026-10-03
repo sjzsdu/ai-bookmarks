@@ -5,45 +5,46 @@ translationKey: "clipdrop"
 category: "Design & Creativity"
 website: "https://clipdrop.co"
 price: "Free / $9"
+highlights:
+  - "A full retouching kit: cutout, cleanup, upscale, relight"
+  - "Solid per-image quality, usable free for light work"
+  - "Generation features riding the Stability ecosystem"
+usecases:
+  - title: "E-commerce cleanup"
+    desc: "Cut out, declutter, and normalize product shots."
+  - title: "Photo rescue"
+    desc: "Upscale and relight low-quality source material."
+  - title: "Quick variants"
+    desc: "Relight and generate alternate versions."
+forwho:
+  - "Sellers wanting one retouching toolbox"
+  - "Creators with moderate editing volume"
+notforwho:
+  - "High-volume automation (API billed separately)"
+  - "Retouchers needing fine manual control"
 faq:
   - q: "What features does Clipdrop have?"
     a: "Background removal, image cleanup, upscaling, AI generation, text removal, and more."
   - q: "Does it work globally?"
     a: "Yes, accessible worldwide with free trials for each feature."
-highlights:
-  - "Get a concrete first draft quickly"
-  - "Reduce repetitive setup work"
-  - "Keep human judgment in the real workflow"
-usecases:
-  - title: "First attempt"
-    desc: "Validate a direction with one narrow job before betting on a full project."
-  - title: "Iteration"
-    desc: "Keep a promising version and tighten the brief with real feedback."
-  - title: "Team discussion"
-    desc: "Bring a concrete draft so the conversation can focus on choices and trade-offs."
-forwho:
-  - "People validating a direction quickly"
-  - "Small teams willing to review an AI first pass"
-notforwho:
-  - "Anyone expecting unreviewed output to be publish-ready"
 ---
 
-I treat Clipdrop as a way to accelerate a first draft, not as a button that makes the final call. Try it on one real, narrow task first; whether it saves the next step matters more than a polished demo.
+Clipdrop is a retouching Swiss-army knife: cutout, object removal, upscaling, relighting, watermark removal — each tool solid, all in the browser. Backed by the Stability AI ecosystem, its generation features keep growing.
 
 ## Getting started
 
-State the goal, source material, or constraints clearly. Review one pass, then tighten the brief from actual feedback. Save the promising version—rarely is the first output the finished one.
+Pick the tool per task: Cleanup for clutter, Relight to move light sources, Upscale for resolution. Single images work free; batches and HD exports are paid.
 
 ## What you can actually do
 
-- **First attempt**: make a concrete starting point for a real discussion.
-- **Iteration**: try a few versions against the same brief.
-- **Team discussion**: turn vague preferences into choices people can evaluate.
+- Cutout/background removal with clean edges
+- Cleanup: erase clutter and bystanders
+- Relight/Upscale: re-light and raise resolution
 
 ## Trade-offs and gotchas
 
-AI output is a candidate, not a fact source or final deliverable. Verify pricing, rights, detail, and time-sensitive claims; return to the source material for important work.
+The per-tool pricing mix gets confusing — identify your two most-used tools first. Hair edges occasionally fray; zoom in on hero images.
 
 ## Alternatives
 
-Compare workflows rather than screenshots alone: some alternatives prioritize collaboration, some finer control, and others work better for a specific language, channel, or format.
+remove.bg for cutout-only, Photoroom for full product workflows, open-source rembg for a free local option.

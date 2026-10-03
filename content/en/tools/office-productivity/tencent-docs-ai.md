@@ -11,40 +11,40 @@ faq:
   - q: "Does it need a VPN?"
     a: "No, direct access in China. Login with WeChat/QQ."
 highlights:
-  - "Use Tencent Docs AI inside a real workflow, not as a novelty"
-  - "Review the output before you keep it"
-  - "Check free limits and sharing boundaries early"
+  - "AI inside Tencent Docs: summaries, writing, formulas"
+  - "Frictionless sharing through WeChat"
+  - "Smart sheets with AI data handling"
 usecases:
-  - title: "Pre-delivery check"
-    desc: "Use Tencent Docs AI for one deliberate final pass"
-  - title: "Repeatable work"
-    desc: "Turn a recurring cleanup step into a habit"
-  - title: "Team handoff"
-    desc: "Keep the conclusion tied to its source context"
+  - title: "Doc collaboration"
+    desc: "AI polish and summaries during co-editing."
+  - title: "Sheet work"
+    desc: "Natural-language formulas and sorting."
+  - title: "Chat-native sharing"
+    desc: "Open and edit right from a chat link."
 forwho:
-  - "People with a concrete job to finish"
-  - "Individuals or small teams willing to review AI output"
+  - "WeChat-ecosystem heavy users"
+  - "Small teams wanting light collaboration"
 notforwho:
-  - "Anyone expecting error-free output without review"
-  - "People seeking a one-click answer with no source material"
+  - "Full office-suite depth"
+  - "Strict data-residency reviews"
 ---
 
-Tencent Docs AI is most useful as a sharp helper inside a real job, not as a substitute for judgment. Try it for a week on work already in motion; a polished demo will not tell you whether it earns a permanent place.
+Tencent Docs' AI covers the high-frequency moves — summarize, continue, formula-generate — with the killer advantage of WeChat's sharing loop: a link becomes a collaborative doc.
 
 ## Getting started
 
-Start with one small task that is genuinely blocking you. Compare its result with your source, keep the steps that feel natural, and skip the ones that add ceremony. It can make the first draft and final pass much faster, but the last call is still yours.
+Select text in a doc to summon the AI menu (summarize/translate/rewrite); use natural language for formulas in smart sheets.
 
 ## What you can do with it
 
-- Turn loose meeting notes into a page the team can actually keep using.
-- Make a clear outline, whiteboard, or presentation for a client meeting.
-- Keep tasks, source material, and discussion together instead of hunting across tabs.
+- Drop a doc link in the group chat, co-edit live, and AI-polish the result.
+- Generate spreadsheet formulas from one sentence instead of a function manual.
+- Summarize long meeting notes into key points for absent teammates.
 
 ## Limits and gotchas
 
-A complete-looking answer is not automatically correct, formatted properly, or safe to share. Free plans often cap runs or exports. Test with non-sensitive material before connecting customer data or paying, and agree on who owns the final version when a team uses it.
+AI depth is average — complex work still needs pro tools. Free quotas apply. Permission granularity trails enterprise suites.
 
 ## Alternatives
 
-Notion is stronger for deep docs, Canva for presentation design, and Asana or ClickUp for heavier process management.
+Feishu or DingTalk for heavier suites, Notion AI for personal writing, WPS AI for deep spreadsheet work.

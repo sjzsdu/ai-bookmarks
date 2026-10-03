@@ -5,6 +5,21 @@ translationKey: "gemini"
 category: "AI 对话"
 website: "https://gemini.google.com"
 price: "Free / $20"
+highlights:
+  - "与 Google 全家桶（Gmail/Docs/Drive）深度整合"
+  - "多模态能力强：图像、视频、音频都能理解"
+  - "免费档即给到强模型"
+usecases:
+  - title: "Google 办公增效"
+    desc: "在 Gmail/Docs 里直接调用 AI 写作和总结。"
+  - title: "多模态分析"
+    desc: "上传视频、截图、音频进行理解和问答。"
+forwho:
+  - "Google 生态重度用户"
+  - "需要多模态能力的创作者"
+notforwho:
+  - "国内直连需求用户"
+  - "深度依赖微软生态的团队"
 faq:
   - q: "Gemini 在国内能用吗？"
     a: "需代理访问，国内无法直连。"

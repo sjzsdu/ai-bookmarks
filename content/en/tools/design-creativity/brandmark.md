@@ -5,45 +5,46 @@ translationKey: "brandmark"
 category: "Design & Creativity"
 website: "https://brandmark.io"
 price: "From $25"
+highlights:
+  - "Logo output with real design polish"
+  - "Full VI kit: fonts, colors, and applications"
+  - "One-time purchase instead of a subscription"
+usecases:
+  - title: "Startup launch"
+    desc: "Logo plus supporting VI to get moving fast."
+  - title: "Rebrand exploration"
+    desc: "Dozens of directions before hiring a designer."
+  - title: "Side projects"
+    desc: "Complete basics for a small project in minutes."
+forwho:
+  - "Budget-limited startups"
+  - "Indie developers needing quick VI"
+notforwho:
+  - "Mature brands seeking uniqueness (collisions happen)"
+  - "Complex deliverables needing source files"
 faq:
   - q: "Brandmark vs Looka — which is better?"
     a: "Brandmark produces higher design quality and uniqueness; Looka has more options and faster onboarding."
   - q: "Does it support Chinese brand names?"
     a: "Primarily English-focused, Chinese brand name results may be limited."
-highlights:
-  - "Get a concrete first draft quickly"
-  - "Reduce repetitive setup work"
-  - "Keep human judgment in the real workflow"
-usecases:
-  - title: "First attempt"
-    desc: "Validate a direction with one narrow job before betting on a full project."
-  - title: "Iteration"
-    desc: "Keep a promising version and tighten the brief with real feedback."
-  - title: "Team discussion"
-    desc: "Bring a concrete draft so the conversation can focus on choices and trade-offs."
-forwho:
-  - "People validating a direction quickly"
-  - "Small teams willing to review an AI first pass"
-notforwho:
-  - "Anyone expecting unreviewed output to be publish-ready"
 ---
 
-I treat Brandmark as a way to accelerate a first draft, not as a button that makes the final call. Try it on one real, narrow task first; whether it saves the next step matters more than a polished demo.
+Brandmark stands out among AI logo tools for finished-looking results: not font splicing, but complete schemes with color logic and type pairings, rendered onto business cards and app icons.
 
 ## Getting started
 
-State the goal, source material, or constraints clearly. Review one pass, then tighten the brief from actual feedback. Save the promising version—rarely is the first output the finished one.
+Enter the brand name and a one-line description, pick style directions, then fine-tune with the palette. Don't expect deep rework of a generated mark.
 
 ## What you can actually do
 
-- **First attempt**: make a concrete starting point for a real discussion.
-- **Iteration**: try a few versions against the same brief.
-- **Team discussion**: turn vague preferences into choices people can evaluate.
+- Logo generation by industry and style
+- VI kit: type, colors, social headers
+- Mockups: cards, signage, app icons
 
 ## Trade-offs and gotchas
 
-AI output is a candidate, not a fact source or final deliverable. Verify pricing, rights, detail, and time-sensitive claims; return to the source material for important work.
+AI sameness is real — crowded industries collide often. Vector export is paid; free tier is previews only. Run a trademark search before registering.
 
 ## Alternatives
 
-Compare workflows rather than screenshots alone: some alternatives prioritize collaboration, some finer control, and others work better for a specific language, channel, or format.
+Looka for more control, a human designer for real custom work, Uizard for UI screens.

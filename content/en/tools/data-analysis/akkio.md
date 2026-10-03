@@ -11,40 +11,40 @@ faq:
   - q: "What kind of data is it best for?"
     a: "It is designed for tabular business data in marketing, sales, and operations."
 highlights:
-  - "Use Akkio inside a real workflow, not as a novelty"
-  - "Review the output before you keep it"
-  - "Check free limits and sharing boundaries early"
+  - "Train predictive models without an ML background"
+  - "From spreadsheet to deployable prediction in minutes"
+  - "Templated flows built for business scenarios"
 usecases:
-  - title: "Pre-delivery check"
-    desc: "Use Akkio for one deliberate final pass"
-  - title: "Repeatable work"
-    desc: "Turn a recurring cleanup step into a habit"
-  - title: "Team handoff"
-    desc: "Keep the conclusion tied to its source context"
+  - title: "Churn prediction"
+    desc: "Score churn probability from history."
+  - title: "Lead scoring"
+    desc: "Rank sales leads automatically."
+  - title: "Forecasting"
+    desc: "Business estimates from past trends."
 forwho:
-  - "People with a concrete job to finish"
-  - "Individuals or small teams willing to review AI output"
+  - "SMBs without data-science teams"
+  - "Business analysts going DIY"
 notforwho:
-  - "Anyone expecting error-free output without review"
-  - "People seeking a one-click answer with no source material"
+  - "Teams needing custom algorithms"
+  - "Heavily regulated core-finance use"
 ---
 
-Akkio is most useful as a sharp helper inside a real job, not as a substitute for judgment. Try it for a week on work already in motion; a polished demo will not tell you whether it earns a permanent place.
+Akkio reduces machine learning to upload-select-train: predictive models for marketing and sales without code, deployable as an API for business systems.
 
 ## Getting started
 
-Start with one small task that is genuinely blocking you. Compare its result with your source, keep the steps that feel natural, and skip the ones that add ceremony. It can make the first draft and final pass much faster, but the last call is still yours.
+Prepare historical data with the outcome column (e.g. churned yes/no), upload, pick the target, train. Judge the baseline before tuning.
 
 ## What you can do with it
 
-- Ask a CSV about trends and outliers, then verify the claim in the rows.
-- Build charts and a traceable narrative for an ops report instead of handing over a screenshot.
-- Probe an analysis in plain language before turning important calculations into a repeatable workflow.
+- Train a churn model on historical orders with explainable probability scores.
+- Score and rank sales leads automatically so reps call the best ones first.
+- Deploy the trained model as an API for real-time predictions in your systems.
 
 ## Limits and gotchas
 
-A complete-looking answer is not automatically correct, formatted properly, or safe to share. Free plans often cap runs or exports. Test with non-sensitive material before connecting customer data or paying, and agree on who owns the final version when a team uses it.
+Model quality is capped by data quality — dirty in, wrong out. Compliance matters for lending-style use. The free tier is limited.
 
 ## Alternatives
 
-Hex suits deeper notebook work, Mode is stronger for BI modeling, and Julius is the quick conversational spreadsheet option.
+Obviously AI and Polymer are similar; Python for control; Tableau and Power BI for the BI layer.

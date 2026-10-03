@@ -5,6 +5,21 @@ translationKey: "grok"
 category: "AI 对话"
 website: "https://grok.x.ai"
 price: "Free / $16"
+highlights:
+  - "X（推特）实时数据接入，时事问题占优"
+  - "人设宽松，敢说敢评"
+  - "X Premium 订阅即可使用"
+usecases:
+  - title: "实时热点追问"
+    desc: "结合 X 平台实时讨论回答时事。"
+  - title: "非审查视角"
+    desc: "获取与主流模型不同的观点表达。"
+forwho:
+  - "X 平台重度用户"
+  - "关注实时舆论的从业者"
+notforwho:
+  - "严肃事实核查（幻觉不少）"
+  - "对内容尺度敏感的团队"
 faq:
   - q: "Grok 在国内能用吗？"
     a: "需代理访问，国内无法直连。"

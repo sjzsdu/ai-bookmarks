@@ -5,45 +5,46 @@ translationKey: "looka"
 category: "Design & Creativity"
 website: "https://looka.com"
 price: "From $20"
+highlights:
+  - "Full logo sets generated from your brand name"
+  - "Editor for symbol, font, and color tweaks"
+  - "VI package with complete brand collateral"
+usecases:
+  - title: "New brand visuals"
+    desc: "From name to logo plus collateral in one session."
+  - title: "Internal pitch"
+    desc: "Several styles for the team to vote on."
+  - title: "Small-shop launch"
+    desc: "Complete basics for cafés and retail."
+forwho:
+  - "Small business owners without designers"
+  - "Founders wanting fast VI"
+notforwho:
+  - "Brands needing original bespoke design"
+  - "Users requiring fully editable vector sources"
 faq:
   - q: "Can I use Looka logos commercially?"
     a: "Yes, purchase includes full copyright files for commercial use."
   - q: "Does it work globally?"
     a: "Accessible worldwide but requires international payment."
-highlights:
-  - "Get a concrete first draft quickly"
-  - "Reduce repetitive setup work"
-  - "Keep human judgment in the real workflow"
-usecases:
-  - title: "First attempt"
-    desc: "Validate a direction with one narrow job before betting on a full project."
-  - title: "Iteration"
-    desc: "Keep a promising version and tighten the brief with real feedback."
-  - title: "Team discussion"
-    desc: "Bring a concrete draft so the conversation can focus on choices and trade-offs."
-forwho:
-  - "People validating a direction quickly"
-  - "Small teams willing to review an AI first pass"
-notforwho:
-  - "Anyone expecting unreviewed output to be publish-ready"
 ---
 
-I treat Looka as a way to accelerate a first draft, not as a button that makes the final call. Try it on one real, narrow task first; whether it saves the next step matters more than a polished demo.
+Looka's flow is built for people who know nothing about design: enter a name and industry, get logo sets, tune the pick in the editor, and walk away with cards, social headers, and more.
 
 ## Getting started
 
-State the goal, source material, or constraints clearly. Review one pass, then tighten the brief from actual feedback. Save the promising version—rarely is the first output the finished one.
+Generate several rounds to build candidates, refine the favorite in the editor, and compare single-item vs bundle pricing — bundles win when you need the full kit.
 
 ## What you can actually do
 
-- **First attempt**: make a concrete starting point for a real discussion.
-- **Iteration**: try a few versions against the same brief.
-- **Team discussion**: turn vague preferences into choices people can evaluate.
+- Logo generation by industry and style
+- Online editor for marks, type, and colors
+- Brand kit: social, cards, email signatures
 
 ## Trade-offs and gotchas
 
-AI output is a candidate, not a fact source or final deliverable. Verify pricing, rights, detail, and time-sensitive claims; return to the source material for important work.
+Exclusivity is limited — someone else can buy the same mark, so download fast and run a trademark check. Refunds are time-boxed.
 
 ## Alternatives
 
-Compare workflows rather than screenshots alone: some alternatives prioritize collaboration, some finer control, and others work better for a specific language, channel, or format.
+Brandmark for design polish, a freelance designer for custom work, Uizard for UI screens.

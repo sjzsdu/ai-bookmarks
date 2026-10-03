@@ -5,45 +5,46 @@ translationKey: "azure-tts"
 category: "Audio & Music"
 website: "https://azure.microsoft.com/products/ai-services/text-to-speech"
 price: "$4 / 1M characters"
+highlights:
+  - "Enterprise TTS with SLA-backed stability"
+  - "Hundreds of voices and languages, custom voice support"
+  - "Per-character billing makes costs predictable"
+usecases:
+  - title: "Product voice"
+    desc: "Stable speech for support lines, IVR, and navigation."
+  - title: "Batch narration"
+    desc: "Long documents to audio at predictable cost."
+  - title: "Brand voice"
+    desc: "Train a signature voice for brand touchpoints."
+forwho:
+  - "Enterprise apps needing SLAs"
+  - "Teams inside the Azure ecosystem"
+notforwho:
+  - "Creators chasing peak expressiveness (ElevenLabs)"
+  - "Light personal use (setup is heavy)"
 faq:
   - q: "Is Azure TTS available in China?"
     a: "Yes, via Azure China (21Vianet) with RMB billing and compliance."
   - q: "What scenarios fit it?"
     a: "Large-scale, low-latency, SLA-backed production voice needs."
-highlights:
-  - "Get a concrete first draft quickly"
-  - "Reduce repetitive setup work"
-  - "Keep human judgment in the real workflow"
-usecases:
-  - title: "First attempt"
-    desc: "Validate a direction with one narrow job before betting on a full project."
-  - title: "Iteration"
-    desc: "Keep a promising version and tighten the brief with real feedback."
-  - title: "Team discussion"
-    desc: "Bring a concrete draft so the conversation can focus on choices and trade-offs."
-forwho:
-  - "People validating a direction quickly"
-  - "Small teams willing to review an AI first pass"
-notforwho:
-  - "Anyone expecting unreviewed output to be publish-ready"
 ---
 
-I treat Microsoft Azure TTS as a way to accelerate a first draft, not as a button that makes the final call. Try it on one real, narrow task first; whether it saves the next step matters more than a polished demo.
+Azure TTS is the default enterprise voice: not the most dazzling, but stable, compliant, and cost-predictable, with hundreds of voices across major languages and trainable brand voices.
 
 ## Getting started
 
-State the goal, source material, or constraints clearly. Review one pass, then tighten the brief from actual feedback. Save the promising version—rarely is the first output the finished one.
+Audition voices in Speech Studio, then tune pauses and pace with SSML; integrate via SDK. The free tier's 500k characters monthly is enough for testing.
 
 ## What you can actually do
 
-- **First attempt**: make a concrete starting point for a real discussion.
-- **Iteration**: try a few versions against the same brief.
-- **Team discussion**: turn vague preferences into choices people can evaluate.
+- Standard/neural voices: many languages and timbres
+- SSML control: pauses, pace, emotion tags
+- Custom voice: train a brand signature
 
 ## Trade-offs and gotchas
 
-AI output is a candidate, not a fact source or final deliverable. Verify pricing, rights, detail, and time-sensitive claims; return to the source material for important work.
+The console and billing setup is unfriendly to newcomers — plan quotas and regions ahead. Neural voices are competent rather than emotive: fine for narration, flat for audiobooks.
 
 ## Alternatives
 
-Compare workflows rather than screenshots alone: some alternatives prioritize collaboration, some finer control, and others work better for a specific language, channel, or format.
+ElevenLabs for emotion and cloning; open-source self-hosting with CosyVoice or ChatTTS; for China, iFlytek and Volcengine voice services.

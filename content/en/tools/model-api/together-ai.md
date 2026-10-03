@@ -6,22 +6,45 @@ category: "Model API"
 website: "https://together.ai"
 price: "$0.03 / 1M tokens"
 highlights:
-  - "A practical choice for 多种开源模型的托管推理与微调, not a magic AI layer."
-  - "Prove one repetitive workflow before rolling it out widely."
-  - "Budgeting, retries, and human handoff matter as much as the demo."
+  - "Serverless hosting for 200+ open-source models"
+  - "Fine-tuning and dedicated endpoints in the same platform"
+  - "Strong price-performance for open-model inference"
 usecases:
-  - title: "Validate one repetitive job"
-    desc: "Turn a copying, sorting, or research task into a small observable loop first."
-  - title: "Keep a human handoff"
-    desc: "Require review before external messages, database writes, or spend."
+  - title: "Open-model inference"
+    desc: "200+ models served serverlessly."
+  - title: "Fine-tuning"
+    desc: "Tune and deploy on the same platform."
+  - title: "Cost optimization"
+    desc: "The open route under closed-API pricing."
 forwho:
-  - "Product and operations teams willing to test with real workflows"
-  - "Developers who can maintain integrations and failure handling"
+  - "Teams betting on open models"
+  - "Products fine-tuning their own weights"
 notforwho:
-  - "Teams expecting zero setup and fully autonomous judgment"
+  - "Closed-flagship capability"
+  - "Direct China access (proxy needed)"
 faq:
-  - q: "Where should I start?"
-    a: "Pick a low-risk workflow with human review, then track quality, time saved, and actual cost."
-  - q: "Is it ready for production?"
-    a: "Potentially, after you add access control, rate limits, logs, retries, and an escalation path."
----\n\nTogether AI is worth considering when you specifically need **hosted open models and fine-tuning**. Start with one narrow, measurable workflow instead of treating it as a generic AI add-on.\n\n## Getting started\nUse realistic but redacted data in a read-only proof of concept. Check access, rate limits, failure notifications, and the cost of a normal week before connecting anything that writes or sends.\n\n## What you can actually do\n- Turn incoming documents, forms, or requests into a reviewable first draft.\n- Give support, sales, or research a first pass at retrieval, classification, and summarization.\n- Connect a bounded API action, such as looking up a record, creating a task, or routing an exception.\n- Compare prompts or model settings on a small sample before changing a live workflow.\n\n## Trade-offs and gotchas\nThe attractive demo is the easy part. Production needs explicit ownership for bad inputs, permissions, retries, occasional wrong output, and spend limits. Do not remove the human review step until you have measured real failures.\n\n## Alternatives\nChoose a lower-code alternative when speed of setup matters, a self-hosted option when data control matters, or a code-first framework when the workflow needs tests and fine-grained behavior. Those priorities usually pull in different directions.\n
+  - q: "Which models?"
+    a: "Llama, Qwen, DeepSeek, Mistral and 200+ others for serverless inference and tuning."
+  - q: "Billing?"
+    a: "Per token for serverless; dedicated endpoints bill per instance."
+---
+
+Together AI focuses on serverless inference and fine-tuning for open models: 200+ models billed per token, with dedicated endpoints for steady throughput — common infrastructure for the open route.
+
+## Getting started
+
+Integrate via the OpenAI-compatible SDK and compare candidates in the Playground; fine-tuning runs from data upload to deployment in-platform.
+
+## What you can actually do
+
+- Serverless inference across 200+ models
+- Fine-tuning from upload to endpoint
+- Dedicated endpoints for production throughput
+
+## Trade-offs and gotchas
+
+Open models cap at their own ability levels. Little free quota. Proxy and overseas-card payment needed from China.
+
+## Alternatives
+
+SiliconFlow for domestic access, Groq for speed, OpenRouter for closed+open aggregation.

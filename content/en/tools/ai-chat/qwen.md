@@ -5,6 +5,21 @@ translationKey: "qwen"
 category: "AI Chat"
 website: "https://tongyi.aliyun.com"
 price: "Free"
+highlights:
+  - "Free access to the capable Qwen family"
+  - "Alibaba ecosystem ties (DingTalk, Alibaba Cloud)"
+  - "Full multimodal: documents, images, voice"
+usecases:
+  - title: "Office Q&A"
+    desc: "Summaries, writing, translation in one place."
+  - title: "Multimodal tasks"
+    desc: "Image understanding and audio transcription."
+forwho:
+  - "Alibaba ecosystem users"
+  - "Students wanting free strong models"
+notforwho:
+  - "Frontier-reasoning seekers"
+  - "Western-ecosystem-dependent users"
 faq:
   - q: "Is Qwen free?"
     a: "Yes, free to use with Alibaba Cloud account, direct access in China."

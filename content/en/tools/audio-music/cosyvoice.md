@@ -5,45 +5,46 @@ translationKey: "cosyvoice"
 category: "Audio & Music"
 website: "https://github.com/FunAudioLLM/CosyVoice"
 price: "Free"
+highlights:
+  - "Alibaba's open TTS — clones a voice from 3 seconds of audio"
+  - "Multilingual: Chinese, English, Japanese, Korean, Cantonese"
+  - "Open, commercially usable, active community"
+usecases:
+  - title: "Voice cloning"
+    desc: "Reproduce a target voice from a short sample."
+  - title: "Multilingual content"
+    desc: "One voice speaking several languages."
+  - title: "Private deployment"
+    desc: "Run open models inside your intranet."
+forwho:
+  - "Content teams needing cloning"
+  - "Enterprises self-hosting voice"
+notforwho:
+  - "Users wanting zero-setup simplicity"
+  - "Light setups without GPUs"
 faq:
   - q: "How does CosyVoice compare to ChatTTS?"
     a: "Better multi-language support; ChatTTS has more flexible prosody control."
   - q: "Can it run locally?"
     a: "Yes, open-source model runs locally on GPU."
-highlights:
-  - "Get a concrete first draft quickly"
-  - "Reduce repetitive setup work"
-  - "Keep human judgment in the real workflow"
-usecases:
-  - title: "First attempt"
-    desc: "Validate a direction with one narrow job before betting on a full project."
-  - title: "Iteration"
-    desc: "Keep a promising version and tighten the brief with real feedback."
-  - title: "Team discussion"
-    desc: "Bring a concrete draft so the conversation can focus on choices and trade-offs."
-forwho:
-  - "People validating a direction quickly"
-  - "Small teams willing to review an AI first pass"
-notforwho:
-  - "Anyone expecting unreviewed output to be publish-ready"
 ---
 
-I treat CosyVoice as a way to accelerate a first draft, not as a button that makes the final call. Try it on one real, narrow task first; whether it saves the next step matters more than a polished demo.
+CosyVoice, from Alibaba's FunAudioLLM team, is the practical star of open TTS: zero-shot cloning from a 3-second reference while keeping multilingual quality high.
 
 ## Getting started
 
-State the goal, source material, or constraints clearly. Review one pass, then tighten the brief from actual feedback. Save the promising version—rarely is the first output the finished one.
+Prepare clean 3–10 second reference audio with no background noise — it transforms cloning quality. Tune emotion and pace on short text before batch runs.
 
 ## What you can actually do
 
-- **First attempt**: make a concrete starting point for a real discussion.
-- **Iteration**: try a few versions against the same brief.
-- **Team discussion**: turn vague preferences into choices people can evaluate.
+- Zero/few-shot cloning from short clips
+- Multilingual synthesis across major languages
+- Instruct control: describe speaking style in words
 
 ## Trade-offs and gotchas
 
-AI output is a candidate, not a fact source or final deliverable. Verify pricing, rights, detail, and time-sensitive claims; return to the source material for important work.
+Mind the legal line on cloning — only voices you're authorized to use. Mid-range VRAM needs; CPU inference is slow, batch on GPU.
 
 ## Alternatives
 
-Compare workflows rather than screenshots alone: some alternatives prioritize collaboration, some finer control, and others work better for a specific language, channel, or format.
+ElevenLabs for no-fuss cloning, ChatTTS for Chinese conversational tone, Azure TTS for managed enterprise service.

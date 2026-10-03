@@ -11,40 +11,40 @@ faq:
   - q: "Does it work globally?"
     a: "Accessible worldwide, AI features call external APIs."
 highlights:
-  - "Use Taskade inside a real workflow, not as a novelty"
-  - "Review the output before you keep it"
-  - "Check free limits and sharing boundaries early"
+  - "Tasks, docs, chat, and calls in one workspace"
+  - "AI turns goals into project task trees"
+  - "List/board/calendar/mindmap views"
 usecases:
-  - title: "Pre-delivery check"
-    desc: "Use Taskade for one deliberate final pass"
-  - title: "Repeatable work"
-    desc: "Turn a recurring cleanup step into a habit"
-  - title: "Team handoff"
-    desc: "Keep the conclusion tied to its source context"
+  - title: "Project planning"
+    desc: "AI decomposes a goal into an executable tree."
+  - title: "Small-team ops"
+    desc: "One space for tasks and talk."
+  - title: "Meeting follow-ups"
+    desc: "Discussion lands directly as todos."
 forwho:
-  - "People with a concrete job to finish"
-  - "Individuals or small teams willing to review AI output"
+  - "Remote small teams"
+  - "Individuals unifying notes and tasks"
 notforwho:
-  - "Anyone expecting error-free output without review"
-  - "People seeking a one-click answer with no source material"
+  - "Heavy project management"
+  - "Minimalist single-list users"
 ---
 
-Taskade is most useful as a sharp helper inside a real job, not as a substitute for judgment. Try it for a week on work already in motion; a polished demo will not tell you whether it earns a permanent place.
+Taskade plays lightweight-unified: tasks, docs, chat, and video in one workspace, with AI expanding a one-line goal into a task tree. Not deep project management — just enough for small teams, fast to start.
 
 ## Getting started
 
-Start with one small task that is genuinely blocking you. Compare its result with your source, keep the steps that feel natural, and skip the ones that add ceremony. It can make the first draft and final pass much faster, but the last call is still yours.
+Create a workspace, generate a project template with AI, assign members, and pick list or board view by habit.
 
 ## What you can do with it
 
-- Turn loose meeting notes into a page the team can actually keep using.
-- Make a clear outline, whiteboard, or presentation for a client meeting.
-- Keep tasks, source material, and discussion together instead of hunting across tabs.
+- Give AI a project goal, get a task tree, assign it across three people.
+- Capture meeting notes directly as todos synced to the team board.
+- Sketch the project as a mindmap, then flip it into an actionable task list.
 
 ## Limits and gotchas
 
-A complete-looking answer is not automatically correct, formatted properly, or safe to share. Free plans often cap runs or exports. Test with non-sensitive material before connecting customer data or paying, and agree on who owns the final version when a team uses it.
+Depth is shallow (dependencies, time tracking). Free tier caps spaces and members. Integrations stay basic.
 
 ## Alternatives
 
-Notion is stronger for deep docs, Canva for presentation design, and Asana or ClickUp for heavier process management.
+ClickUp/Asana for heavyweight PM, Notion for docs, Feishu/DingTalk tasks for domestic teams.

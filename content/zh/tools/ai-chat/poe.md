@@ -5,6 +5,21 @@ translationKey: "poe"
 category: "AI 对话"
 website: "https://poe.com"
 price: "Free / $20"
+highlights:
+  - "一个应用聚合 GPT/Claude/Gemini/开源模型"
+  - "按需切换模型，不用分别订阅"
+  - "可自建和分享自定义机器人"
+usecases:
+  - title: "多模型对比"
+    desc: "同一问题换模型对比答案。"
+  - title: "低成本多模型"
+    desc: "一份订阅用遍主流模型。"
+forwho:
+  - "想尝遍各家模型的人"
+  - "轻度多模型用户"
+notforwho:
+  - "重度单一模型用户（直连官方更好）"
+  - "API 集成需求（用 OpenRouter）"
 faq:
   - q: "Poe 在国内能用吗？"
     a: "需代理访问，国内无法直连。"

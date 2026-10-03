@@ -5,45 +5,46 @@ translationKey: "phrasee"
 category: "E-commerce & Marketing"
 website: "https://phrasee.co"
 price: "Contact for pricing"
+highlights:
+  - "AI built specifically for marketing language"
+  - "Enterprise-grade brand-voice control"
+  - "Models trained continuously on your real engagement data"
+usecases:
+  - title: "Subject lines"
+    desc: "Generate and predict higher-open variants at scale."
+  - title: "Push & SMS"
+    desc: "Optimize short-form message copy."
+  - title: "Voice consistency"
+    desc: "One brand sound across millions of touches."
+forwho:
+  - "CRM/lifecycle teams at large brands"
+  - "Enterprises with heavy email/push volume"
+notforwho:
+  - "SMB sellers (pricing and process mismatch)"
+  - "Visual asset needs (copy only)"
 faq:
   - q: "Is Phrasee suitable for small businesses?"
     a: "Not really. It's enterprise-focused with custom pricing — you'll need to contact sales."
   - q: "What does it optimize?"
     a: "Email subject lines, push notifications, and ad copy for better click-through rates."
-highlights:
-  - "Get a concrete first draft quickly"
-  - "Reduce repetitive setup work"
-  - "Keep human judgment in the real workflow"
-usecases:
-  - title: "First attempt"
-    desc: "Validate a direction with one narrow job before betting on a full project."
-  - title: "Iteration"
-    desc: "Keep a promising version and tighten the brief with real feedback."
-  - title: "Team discussion"
-    desc: "Bring a concrete draft so the conversation can focus on choices and trade-offs."
-forwho:
-  - "People validating a direction quickly"
-  - "Small teams willing to review an AI first pass"
-notforwho:
-  - "Anyone expecting unreviewed output to be publish-ready"
 ---
 
-I treat Phrasee as a way to accelerate a first draft, not as a button that makes the final call. Try it on one real, narrow task first; whether it saves the next step matters more than a polished demo.
+Phrasee isn't a generic copywriter: it optimizes marketing language at scale — subject lines and push copy in your brand voice, continuously trained on your real open and conversion data. This is the P&G-and-Vodafone tier of tooling.
 
 ## Getting started
 
-State the goal, source material, or constraints clearly. Review one pass, then tighten the brief from actual feedback. Save the promising version—rarely is the first output the finished one.
+Connect your ESP's data and start with subject lines — the highest-frequency, fastest-feedback channel. The more brand corpus it learns, the better the voice fit.
 
 ## What you can actually do
 
-- **First attempt**: make a concrete starting point for a real discussion.
-- **Iteration**: try a few versions against the same brief.
-- **Team discussion**: turn vague preferences into choices people can evaluate.
+- Language generation: subjects, bodies, pushes
+- Performance prediction for opens and clicks
+- Brand-voice training on enterprise corpus
 
 ## Trade-offs and gotchas
 
-AI output is a candidate, not a fact source or final deliverable. Verify pricing, rights, detail, and time-sensitive claims; return to the source material for important work.
+Enterprise pricing is opaque with a high floor; value scales with send volume. Onboarding takes integration time — not plug-and-play.
 
 ## Alternatives
 
-Compare workflows rather than screenshots alone: some alternatives prioritize collaboration, some finer control, and others work better for a specific language, channel, or format.
+Copy.ai and Writesonic for lightweight needs, Jasper for general AI writing, native AI in Klaviyo-class platforms.

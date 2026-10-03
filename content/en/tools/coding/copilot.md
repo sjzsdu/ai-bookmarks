@@ -5,6 +5,21 @@ translationKey: "copilot"
 category: "Coding & Development"
 website: "https://github.com/features/copilot"
 price: "Free / $10"
+highlights:
+  - "The de-facto completion standard, widest IDE coverage"
+  - "Free tier included in VS Code"
+  - "Enterprise policies and knowledge bases"
+usecases:
+  - title: "Daily completion"
+    desc: "Line- and function-level suggestions while typing."
+  - title: "Chat & explain"
+    desc: "In-IDE Q&A, explanations, and fixes."
+forwho:
+  - "Daily developers across major IDEs"
+  - "Enterprise standardization"
+notforwho:
+  - "Heavy agentic work (Claude Code)"
+  - "Teams avoiding the GitHub ecosystem"
 faq:
   - q: "Is there a free tier?"
     a: "Free for students and some open-source contributors; paid plans otherwise."

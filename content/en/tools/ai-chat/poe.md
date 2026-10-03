@@ -5,6 +5,21 @@ translationKey: "poe"
 category: "AI Chat"
 website: "https://poe.com"
 price: "Free / $20"
+highlights:
+  - "GPT, Claude, Gemini, and open models in one app"
+  - "Switch models on demand without separate subscriptions"
+  - "Build and share custom bots"
+usecases:
+  - title: "Model comparison"
+    desc: "Same prompt, different models, side by side."
+  - title: "One subscription"
+    desc: "Sample every major model cheaply."
+forwho:
+  - "Model explorers"
+  - "Light multi-model users"
+notforwho:
+  - "Single-model power users (go direct)"
+  - "API integrations (use OpenRouter)"
 faq:
   - q: "What models are available?"
     a: "GPT-4, Claude, Gemini, Llama, and more — one subscription with credits for each."

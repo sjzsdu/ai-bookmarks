@@ -11,40 +11,40 @@ faq:
   - q: "How accurate is the transcription?"
     a: "Very accurate for Chinese, supports various accents and dialects."
 highlights:
-  - "Use Tongyi Tingwu inside a real workflow, not as a novelty"
-  - "Review the output before you keep it"
-  - "Check free limits and sharing boundaries early"
+  - "Alibaba's transcription with high Chinese accuracy"
+  - "Chapter summaries and action items beyond raw text"
+  - "Generous free tier with direct access"
 usecases:
-  - title: "Pre-delivery check"
-    desc: "Use Tongyi Tingwu for one deliberate final pass"
-  - title: "Repeatable work"
-    desc: "Turn a recurring cleanup step into a habit"
-  - title: "Team handoff"
-    desc: "Keep the conclusion tied to its source context"
+  - title: "Meeting minutes"
+    desc: "Transcripts with AI summaries and todos."
+  - title: "Interview processing"
+    desc: "Long recordings split by speaker."
+  - title: "Course notes"
+    desc: "Lecture videos into searchable text."
 forwho:
-  - "People with a concrete job to finish"
-  - "Individuals or small teams willing to review AI output"
+  - "Chinese meeting and interview note-takers"
+  - "Students processing AV content"
 notforwho:
-  - "Anyone expecting error-free output without review"
-  - "People seeking a one-click answer with no source material"
+  - "English-first meetings (Otter)"
+  - "Ultra-low-latency live captioning"
 ---
 
-Tongyi Tingwu is most useful as a sharp helper inside a real job, not as a substitute for judgment. Try it for a week on work already in motion; a polished demo will not tell you whether it earns a permanent place.
+Tongyi Tingwu is Alibaba's audio/video transcription tool: strong Chinese accuracy, speaker separation, chapter summaries, and action-item extraction — a top pick for Chinese transcription work.
 
 ## Getting started
 
-Start with one small task that is genuinely blocking you. Compare its result with your source, keep the steps that feel natural, and skip the ones that add ceremony. It can make the first draft and final pass much faster, but the last call is still yours.
+Upload the recording or link, read the AI summary first, then check against the transcript. Label speakers in settings beforehand.
 
 ## What you can do with it
 
-- Ask a CSV about trends and outliers, then verify the claim in the rows.
-- Build charts and a traceable narrative for an ops report instead of handing over a screenshot.
-- Probe an analysis in plain language before turning important calculations into a repeatable workflow.
+- Upload an hour of meeting audio and get a speaker-labeled transcript with a summary.
+- Extract key conclusions and action items from interviews with timestamps for review.
+- Turn lecture videos into searchable text notes for your archive.
 
 ## Limits and gotchas
 
-A complete-looking answer is not automatically correct, formatted properly, or safe to share. Free plans often cap runs or exports. Test with non-sensitive material before connecting customer data or paying, and agree on who owns the final version when a team uses it.
+Proper nouns occasionally miswritten — proofread important minutes. Long-audio queue times vary. Overlapping speakers degrade separation.
 
 ## Alternatives
 
-Hex suits deeper notebook work, Mode is stronger for BI modeling, and Julius is the quick conversational spreadsheet option.
+Otter or Fireflies for English meetings, open-source Whisper locally, Feishu Miaoji as a platform-native option.

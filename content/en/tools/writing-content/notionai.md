@@ -11,40 +11,40 @@ faq:
   - q: "Does it work globally?"
     a: "Notion is accessible worldwide, AI features call external APIs."
 highlights:
-  - "Use Notion AI inside a real workflow, not as a novelty"
-  - "Review the output before you keep it"
-  - "Check free limits and sharing boundaries early"
+  - "AI living inside Notion: Q&A, writing, organizing"
+  - "Reads your workspace as context"
+  - "AI database properties are genuinely useful"
 usecases:
-  - title: "Pre-delivery check"
-    desc: "Use Notion AI for one deliberate final pass"
-  - title: "Repeatable work"
-    desc: "Turn a recurring cleanup step into a habit"
-  - title: "Team handoff"
-    desc: "Keep the conclusion tied to its source context"
+  - title: "Note cleanup"
+    desc: "Auto-organize and summarize scattered notes."
+  - title: "Personal Q&A"
+    desc: "Ask questions over your own Notion."
+  - title: "Database boost"
+    desc: "AI tags and fills entries automatically."
 forwho:
-  - "People with a concrete job to finish"
-  - "Individuals or small teams willing to review AI output"
+  - "Deep Notion users"
+  - "People wanting their knowledge base smarter"
 notforwho:
-  - "Anyone expecting error-free output without review"
-  - "People seeking a one-click answer with no source material"
+  - "Non-Notion users"
+  - "Subscription-wary light users"
 ---
 
-Notion AI is most useful as a sharp helper inside a real job, not as a substitute for judgment. Try it for a week on work already in motion; a polished demo will not tell you whether it earns a permanent place.
+Notion AI's value is context: it reads your workspace to answer and write, and AI database properties auto-classify entries. A natural upgrade for Notion regulars; irrelevant otherwise.
 
 ## Getting started
 
-Start with one small task that is genuinely blocking you. Compare its result with your source, keep the steps that feel natural, and skip the ones that add ceremony. It can make the first draft and final pass much faster, but the last call is still yours.
+Press space or '/' in a page for AI; test workspace-questioning to gauge retrieval; add AI properties to databases for auto-tagging.
 
 ## What you can do with it
 
-- Finish a customer email, then accept only the suggestions that preserve your voice.
-- Run a resume, abstract, or landing page through a final pass for small but costly mistakes.
-- Compare tone rewrites beside the original instead of replacing a draft blindly.
+- Ask your workspace for 'the key conclusion from last month's proposal' and land on the page.
+- Select scattered meeting notes and let AI merge them into the knowledge base.
+- Add AI properties to a reading database that tags entries by theme.
 
 ## Limits and gotchas
 
-A complete-looking answer is not automatically correct, formatted properly, or safe to share. Free plans often cap runs or exports. Test with non-sensitive material before connecting customer data or paying, and agree on who owns the final version when a team uses it.
+Monthly subscription isn't cheap. Retrieval quality wobbles on large workspaces. Chinese output is usable but occasionally stiff.
 
 ## Alternatives
 
-Hemingway is better for plain readability; QuillBot is more rewrite-oriented; Microsoft Editor is the convenient Word-native option.
+General assistants for single documents, Feishu/DingTalk AI for team knowledge, dedicated tools for writing.

@@ -5,45 +5,46 @@ translationKey: "metaso"
 category: "Search & Browser"
 website: "https://metaso.cn"
 price: "Free"
+highlights:
+  - "The benchmark for Chinese AI search: sources over links"
+  - "Academic mode reaches CNKI and other Chinese databases"
+  - "Free, direct access, ad-free"
+usecases:
+  - title: "Chinese research"
+    desc: "Structured digests of Chinese pages and documents."
+  - title: "Academic pre-screening"
+    desc: "Direct search of Chinese scholarly sources."
+  - title: "Industry tracking"
+    desc: "Structured summaries of vertical-domain news."
+forwho:
+  - "Researchers working in Chinese"
+  - "Students and knowledge workers"
+notforwho:
+  - "Deep English research (Perplexity)"
+  - "Breaking-news speed needs"
 faq:
   - q: "Can I use it outside China?"
     a: "Yes, though it's optimized for Chinese language queries."
   - q: "Is it really free?"
     a: "Yes, completely free with no usage limits."
-highlights:
-  - "Get a concrete first draft quickly"
-  - "Reduce repetitive setup work"
-  - "Keep human judgment in the real workflow"
-usecases:
-  - title: "First attempt"
-    desc: "Validate a direction with one narrow job before betting on a full project."
-  - title: "Iteration"
-    desc: "Keep a promising version and tighten the brief with real feedback."
-  - title: "Team discussion"
-    desc: "Bring a concrete draft so the conversation can focus on choices and trade-offs."
-forwho:
-  - "People validating a direction quickly"
-  - "Small teams willing to review an AI first pass"
-notforwho:
-  - "Anyone expecting unreviewed output to be publish-ready"
 ---
 
-I treat Metaso as a way to accelerate a first draft, not as a button that makes the final call. Try it on one real, narrow task first; whether it saves the next step matters more than a polished demo.
+Metaso (Mita) was among the first Chinese AI search products to work well: results organized into outlined, sourced pages, with an academic mode connected to Chinese scholarly databases — coverage where overseas tools are weakest.
 
 ## Getting started
 
-State the goal, source material, or constraints clearly. Review one pass, then tighten the brief from actual feedback. Save the promising version—rarely is the first output the finished one.
+Search directly for general queries; switch to Academic mode with date filters for papers; the report mode builds structured outlines for long topics.
 
 ## What you can actually do
 
-- **First attempt**: make a concrete starting point for a real discussion.
-- **Iteration**: try a few versions against the same brief.
-- **Team discussion**: turn vague preferences into choices people can evaluate.
+- AI search with outlines and source lists
+- Academic mode for Chinese databases
+- Auto-generated mind maps and outlines
 
 ## Trade-offs and gotchas
 
-AI output is a candidate, not a fact source or final deliverable. Verify pricing, rights, detail, and time-sensitive claims; return to the source material for important work.
+Answer depth follows the Chinese web's depth — specialized questions can feel shallow. Sources skew Chinese; pair with English tools for comparative research.
 
 ## Alternatives
 
-Compare workflows rather than screenshots alone: some alternatives prioritize collaboration, some finer control, and others work better for a specific language, channel, or format.
+Perplexity for English depth, Nano AI for multi-model switching domestically, Genspark for agentic search overseas.

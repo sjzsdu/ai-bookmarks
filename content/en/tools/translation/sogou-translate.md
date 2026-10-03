@@ -5,45 +5,46 @@ translationKey: "sogou-translate"
 category: "Translation"
 website: "https://fanyi.sogou.com"
 price: "Free"
+highlights:
+  - "Direct access in China with natural colloquial output"
+  - "Fast camera and voice translation"
+  - "Ties into the Sogou input-method ecosystem"
+usecases:
+  - title: "Everyday Chinese users"
+    desc: "Colloquial Chinese rendered smoothly abroad."
+  - title: "Travel"
+    desc: "Menus and signs translated on sight."
+  - title: "While typing"
+    desc: "Translation invoked inside the IME."
+forwho:
+  - "Users inside the Sogou ecosystem"
+  - "Light users with occasional needs"
+notforwho:
+  - "Professional document translation"
+  - "Deep minor-language coverage"
 faq:
   - q: "Is Sogou Translate available outside China?"
     a: "Yes, but it's mainly designed for Chinese users. The interface is in Chinese."
   - q: "How does it compare to Google Translate?"
     a: "For Chinese-English translation, it's competitive. For other language pairs, Google is better."
-highlights:
-  - "Get a concrete first draft quickly"
-  - "Reduce repetitive setup work"
-  - "Keep human judgment in the workflow"
-usecases:
-  - title: "First attempt"
-    desc: "Validate a direction with one narrow, real task."
-  - title: "Iteration"
-    desc: "Keep a promising version and refine it with feedback."
-  - title: "Team discussion"
-    desc: "Give people a concrete draft to evaluate."
-forwho:
-  - "People validating a direction quickly"
-  - "Small teams willing to review an AI first pass"
-notforwho:
-  - "Anyone expecting unreviewed output to be publish-ready"
 ---
 
-I use Sogou Translate to accelerate a first draft, not as a button that makes the final call. Test it on one real, narrow task first; whether it saves the next step matters more than a polished demo.
+Backed by Sogou's input-method heritage, Sogou Translate renders colloquial Chinese naturally, with camera and voice modes for daily scenarios. Depth and specialization aren't its game.
 
 ## Getting started
 
-State the goal, source material, or constraints clearly. Review one pass, then tighten the brief from actual feedback. Save the promising version—rarely is the first output the finished one.
+Paste text on the web; IME users can invoke it from the toolbox; aim the camera squarely at text for best results.
 
 ## What you can actually do
 
-- **First attempt**: make a concrete starting point for a real discussion.
-- **Iteration**: try a few versions against the same brief.
-- **Team discussion**: turn vague preferences into choices people can evaluate.
+- Text, camera, and voice translation
+- Colloquial-Chinese phrasing quality
+- Quick translation from the input method
 
 ## Trade-offs and gotchas
 
-AI output is a candidate, not a fact source or final deliverable. Verify pricing, rights, detail, and time-sensitive claims; return to the source material for important work.
+Limited language coverage and no document mode; terminology accuracy is average; long-term investment follows company strategy.
 
 ## Alternatives
 
-Compare workflows rather than screenshots alone: some alternatives prioritize collaboration, some finer control, and others work better for a specific language, channel, or format.
+Youdao and DeepL for depth, Caiyun for documents, Baidu Translate for minor languages.

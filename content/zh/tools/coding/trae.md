@@ -5,6 +5,21 @@ translationKey: "trae"
 category: "编程与开发"
 website: "https://trae.ai"
 price: "Free"
+highlights:
+  - "字节出品的 AI 原生 IDE，界面对标 Cursor"
+  - "国内版免费且直连"
+  - "Builder 模式从需求直接生成项目"
+usecases:
+  - title: "AI 原生开发"
+    desc: "在专门为 AI 设计的 IDE 里编程。"
+  - title: "从零建项目"
+    desc: "描述需求直接生成可运行项目。"
+forwho:
+  - "想要免费 Cursor 替代的国内开发者"
+  - "字节生态用户"
+notforwho:
+  - "深度依赖 VS Code 插件生态的用户"
+  - "对数据出境敏感的海外团队"
 faq:
   - q: "Trae 真的完全免费吗？"
     a: "目前阶段完全免费，AI 功能不限量，字节在推广期烧钱获客。"

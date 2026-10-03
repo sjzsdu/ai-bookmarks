@@ -5,45 +5,46 @@ translationKey: "elevenlabs"
 category: "Audio & Music"
 website: "https://elevenlabs.io"
 price: "Free / $5+"
+highlights:
+  - "Industry-leading cloning and emotional delivery"
+  - "First-tier naturalness across 30+ languages"
+  - "Stable API with mature production workflows"
+usecases:
+  - title: "Audiobooks & podcasts"
+    desc: "Expressive long-form narration close to human performance."
+  - title: "Voice cloning"
+    desc: "Replicate your own or licensed voices from minutes of audio."
+  - title: "Multilingual dubbing"
+    desc: "Keep the timbre while switching languages."
+forwho:
+  - "Podcast and audiobook creators"
+  - "Developers needing quality cloning"
+notforwho:
+  - "Budget-sensitive bulk work (per-character pricing adds up)"
+  - "Fully offline production"
 faq:
   - q: "How good is the Chinese voice?"
     a: "Supports Chinese with high realism, though native models can feel more natural."
   - q: "Can I clone a voice?"
     a: "Yes, with consent; commercial use requires proper licensing."
-highlights:
-  - "Get a concrete first draft quickly"
-  - "Reduce repetitive setup work"
-  - "Keep human judgment in the real workflow"
-usecases:
-  - title: "First attempt"
-    desc: "Validate a direction with one narrow job before betting on a full project."
-  - title: "Iteration"
-    desc: "Keep a promising version and tighten the brief with real feedback."
-  - title: "Team discussion"
-    desc: "Bring a concrete draft so the conversation can focus on choices and trade-offs."
-forwho:
-  - "People validating a direction quickly"
-  - "Small teams willing to review an AI first pass"
-notforwho:
-  - "Anyone expecting unreviewed output to be publish-ready"
 ---
 
-I treat ElevenLabs as a way to accelerate a first draft, not as a button that makes the final call. Try it on one real, narrow task first; whether it saves the next step matters more than a polished demo.
+ElevenLabs is the acknowledged ceiling of AI voice: cloning from minutes of samples, delivery with real emotional breath, first-tier naturalness in 30+ languages. It isn't cheap, but nothing else sounds as human.
 
 ## Getting started
 
-State the goal, source material, or constraints clearly. Review one pass, then tighten the brief from actual feedback. Save the promising version—rarely is the first output the finished one.
+Try ready voices from the Voice Library before committing to cloning; manage long content with Projects instead of pasting walls of text.
 
 ## What you can actually do
 
-- **First attempt**: make a concrete starting point for a real discussion.
-- **Iteration**: try a few versions against the same brief.
-- **Team discussion**: turn vague preferences into choices people can evaluate.
+- Cloning: high-fidelity from minutes of samples
+- Multilingual TTS: one voice, many languages
+- Dubbing: video voiceover preserving original style
 
 ## Trade-offs and gotchas
 
-AI output is a candidate, not a fact source or final deliverable. Verify pricing, rights, detail, and time-sensitive claims; return to the source material for important work.
+Per-character pricing compounds on long content — estimate volume first. Only clone voices you own or have rights to. Occasional mispronunciations need segment regenerations.
 
 ## Alternatives
 
-Compare workflows rather than screenshots alone: some alternatives prioritize collaboration, some finer control, and others work better for a specific language, channel, or format.
+Open-source on a budget (CosyVoice/ChatTTS), Azure TTS for enterprise SLAs, ChatTTS for Chinese conversational tone.

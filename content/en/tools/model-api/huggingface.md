@@ -6,22 +6,45 @@ category: "Model API"
 website: "https://huggingface.co"
 price: "Free"
 highlights:
-  - "A practical choice for 发现、评估和部署开源模型, not a magic AI layer."
-  - "Prove one repetitive workflow before rolling it out widely."
-  - "Budgeting, retries, and human handoff matter as much as the demo."
+  - "The home of open models: 1M+ models and datasets"
+  - "Inference Endpoints and Spaces for hosting and demos"
+  - "Transformers library is the ecosystem's common tongue"
 usecases:
-  - title: "Validate one repetitive job"
-    desc: "Turn a copying, sorting, or research task into a small observable loop first."
-  - title: "Keep a human handoff"
-    desc: "Require review before external messages, database writes, or spend."
+  - title: "Model discovery"
+    desc: "Search a million models and datasets."
+  - title: "Online inference"
+    desc: "Try models via API without GPUs."
+  - title: "App hosting"
+    desc: "Spaces deploys demos in one click."
 forwho:
-  - "Product and operations teams willing to test with real workflows"
-  - "Developers who can maintain integrations and failure handling"
+  - "AI researchers and engineers"
+  - "App teams sourcing open models"
 notforwho:
-  - "Teams expecting zero setup and fully autonomous judgment"
+  - "Closed-API-only users"
+  - "Direct China access (mirrors exist)"
 faq:
-  - q: "Where should I start?"
-    a: "Pick a low-risk workflow with human review, then track quality, time saved, and actual cost."
-  - q: "Is it ready for production?"
-    a: "Potentially, after you add access control, rate limits, logs, retries, and an escalation path."
----\n\nHugging Face is worth considering when you specifically need **open-model discovery and deployment**. Start with one narrow, measurable workflow instead of treating it as a generic AI add-on.\n\n## Getting started\nUse realistic but redacted data in a read-only proof of concept. Check access, rate limits, failure notifications, and the cost of a normal week before connecting anything that writes or sends.\n\n## What you can actually do\n- Turn incoming documents, forms, or requests into a reviewable first draft.\n- Give support, sales, or research a first pass at retrieval, classification, and summarization.\n- Connect a bounded API action, such as looking up a record, creating a task, or routing an exception.\n- Compare prompts or model settings on a small sample before changing a live workflow.\n\n## Trade-offs and gotchas\nThe attractive demo is the easy part. Production needs explicit ownership for bad inputs, permissions, retries, occasional wrong output, and spend limits. Do not remove the human review step until you have measured real failures.\n\n## Alternatives\nChoose a lower-code alternative when speed of setup matters, a self-hosted option when data control matters, or a code-first framework when the workflow needs tests and fine-grained behavior. Those priorities usually pull in different directions.\n
+  - q: "Is Hugging Face free?"
+    a: "Model downloads and Spaces free tiers work; Inference Endpoints and enterprise features are paid."
+  - q: "Access from China?"
+    a: "The official site needs a proxy; mirrors like hf-mirror serve model downloads."
+---
+
+Hugging Face is the de-facto headquarters of open AI: millions of models, datasets, and Spaces demos, with the Transformers library as the industry's common interface. Finding, trying, and deploying models all start here.
+
+## Getting started
+
+Filter models by task (watch downloads and leaderboards), try via the Inference API or local transformers, and fork a Space to customize.
+
+## What you can actually do
+
+- Model Hub with task/license filtering
+- Inference API for GPU-free trials
+- Spaces hosting for Gradio/Streamlit apps
+
+## Trade-offs and gotchas
+
+Quality varies wildly — check downloads, activity, and license. Inference API cold-starts slowly. Production wants dedicated inference, not free endpoints.
+
+## Alternatives
+
+OpenRouter/Together for aggregated APIs, Ollama for local serving, hf-mirror for domestic downloads.

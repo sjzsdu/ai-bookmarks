@@ -5,6 +5,21 @@ translationKey: "ernie"
 category: "AI 对话"
 website: "https://yiyan.baidu.com"
 price: "Free"
+highlights:
+  - "文心大模型迭代多年，中文知识积累深"
+  - "国内合规标杆：已完成备案、可商用"
+  - "与百度搜索生态联动"
+usecases:
+  - title: "中文内容创作"
+    desc: "中文语料理解深，公文和营销文案顺手。"
+  - title: "企业合规应用"
+    desc: "合规要求下的对话能力接入。"
+forwho:
+  - "对合规有硬要求的企业"
+  - "百度生态用户"
+notforwho:
+  - "追求最新模型能力的极客"
+  - "英文任务为主的场景"
 faq:
   - q: "文心一言需要翻墙吗？"
     a: "不需要，国内直连，手机号注册即可。"

@@ -5,6 +5,21 @@ translationKey: "windsurf"
 category: "编程与开发"
 website: "https://codeium.com/windsurf"
 price: "Free / $15"
+highlights:
+  - "Codeium 团队出品的首个「Agent 化 IDE」"
+  - "Cascade 代理能跨文件感知并执行任务"
+  - "界面接近 VS Code，迁移成本低"
+usecases:
+  - title: "代理式开发"
+    desc: "Cascade 理解整个项目后自主执行任务。"
+  - title: "VS Code 平滑迁移"
+    desc: "保留熟悉的界面获得 AI 能力。"
+forwho:
+  - "想要一体化代理 IDE 的开发者"
+  - "从 VS Code/Cursor 迁移的用户"
+notforwho:
+  - "只想要轻量补全的用户"
+  - "对被收购后产品走向观望的团队"
 faq:
   - q: "Windsurf 国内能用吗？"
     a: "可以访问，但 AI 功能走海外服务器，国内直连偶尔不稳定，订阅需要外币卡。"

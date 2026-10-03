@@ -11,40 +11,40 @@ faq:
   - q: "Does it show steps?"
     a: "Yes, detailed step-by-step solutions with multiple methods."
 highlights:
-  - "Use Photomath inside a real workflow, not as a novelty"
-  - "Review the output before you keep it"
-  - "Check free limits and sharing boundaries early"
+  - "Snap a math problem, get clear step-by-step solutions"
+  - "Engine covering arithmetic through calculus"
+  - "Interactive graphs for understanding functions"
 usecases:
-  - title: "Pre-delivery check"
-    desc: "Use Photomath for one deliberate final pass"
-  - title: "Repeatable work"
-    desc: "Turn a recurring cleanup step into a habit"
-  - title: "Team handoff"
-    desc: "Keep the conclusion tied to its source context"
+  - title: "Homework help"
+    desc: "Photograph and learn the method stepwise."
+  - title: "Parent checking"
+    desc: "Verify a child's solution process fast."
+  - title: "Concept building"
+    desc: "Interactive plots show function behavior."
 forwho:
-  - "People with a concrete job to finish"
-  - "Individuals or small teams willing to review AI output"
+  - "Secondary students and parents"
+  - "Students wanting worked references"
 notforwho:
-  - "Anyone expecting error-free output without review"
-  - "People seeking a one-click answer with no source material"
+  - "Advanced university math"
+  - "Copy-the-answer usage"
 ---
 
-Photomath is most useful as a sharp helper inside a real job, not as a substitute for judgment. Try it for a week on work already in motion; a polished demo will not tell you whether it earns a permanent place.
+Photomath is the veteran of photo math: snap a problem for step-by-step solutions from arithmetic to calculus, with explanation depth that separates it from answer-only apps.
 
 ## Getting started
 
-Start with one small task that is genuinely blocking you. Compare its result with your source, keep the steps that feel natural, and skip the ones that add ceremony. It can make the first draft and final pass much faster, but the last call is still yours.
+After snapping, attempt from step one yourself before revealing the next; a subscription unlocks deeper explanations.
 
 ## What you can do with it
 
-- Break a fuzzy topic into a ten-minute exercise instead of rereading an explanation.
-- Review for an exam or interview with mistakes, flashcards, or questions over your own material.
-- Ask about a confusing derivation, then redo it yourself.
+- Snap a quadratic problem and find exactly which step tripped you.
+- Drag coefficients in the interactive graph to see the parabola change.
+- Parents verify homework steps from the scan in seconds.
 
 ## Limits and gotchas
 
-A complete-looking answer is not automatically correct, formatted properly, or safe to share. Free plans often cap runs or exports. Test with non-sensitive material before connecting customer data or paying, and agree on who owns the final version when a team uses it.
+Handwriting recognition occasionally errs. It teaches methods, not concepts — long-term answer dependence hurts learning. Some depth is paywalled.
 
 ## Alternatives
 
-Coursera is better for structured courses, Quizlet for drills and cards, and Elicit for evidence from papers.
+Gauth for all-subject AI solving, Khan Academy for concepts, Brilliant for intuition.

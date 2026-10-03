@@ -5,45 +5,46 @@ translationKey: "smartcat"
 category: "Translation"
 website: "https://smartcat.com"
 price: "Free / $99"
+highlights:
+  - "Cloud all-in-one: CAT, MT, and translator payouts"
+  - "Multiple MT engines mixable per language pair"
+  - "Usage-based pricing with a low entry floor"
+usecases:
+  - title: "Project management"
+    desc: "Assign, track, and deliver multilingual work."
+  - title: "MT + human review"
+    desc: "Machine drafts with human post-editing."
+  - title: "Translator payments"
+    desc: "Pay external linguists in-platform."
+forwho:
+  - "Small localization agencies and teams"
+  - "Enterprises unifying multilingual content ops"
+notforwho:
+  - "Individuals translating one document"
+  - "Strict-compliance orgs needing self-hosting"
 faq:
   - q: "What is Smartcat?"
     a: "An enterprise platform combining AI translation with human translation workflows for large-scale localization projects."
   - q: "Is it expensive?"
     a: "Free tier works for small projects. Enterprise starts at $99/month."
-highlights:
-  - "Get a concrete first draft quickly"
-  - "Reduce repetitive setup work"
-  - "Keep human judgment in the workflow"
-usecases:
-  - title: "First attempt"
-    desc: "Validate a direction with one narrow, real task."
-  - title: "Iteration"
-    desc: "Keep a promising version and refine it with feedback."
-  - title: "Team discussion"
-    desc: "Give people a concrete draft to evaluate."
-forwho:
-  - "People validating a direction quickly"
-  - "Small teams willing to review an AI first pass"
-notforwho:
-  - "Anyone expecting unreviewed output to be publish-ready"
 ---
 
-I use Smartcat to accelerate a first draft, not as a button that makes the final call. Test it on one real, narrow task first; whether it saves the next step matters more than a polished demo.
+Smartcat moves a translation company's whole toolkit to the cloud: CAT editor, MT engines, termbases, linguist collaboration, and payments — a full production line with usage pricing below legacy TMS floors.
 
 ## Getting started
 
-State the goal, source material, or constraints clearly. Review one pass, then tighten the brief from actual feedback. Save the promising version—rarely is the first output the finished one.
+Create a project, upload files, draft with MT, then invite editors for post-editing. Build the termbase in project one — it compounds.
 
 ## What you can actually do
 
-- **First attempt**: make a concrete starting point for a real discussion.
-- **Iteration**: try a few versions against the same brief.
-- **Team discussion**: turn vague preferences into choices people can evaluate.
+- Browser-based CAT editor
+- Multi-engine MT chosen per language pair
+- Collaboration and built-in payouts
 
 ## Trade-offs and gotchas
 
-AI output is a candidate, not a fact source or final deliverable. Verify pricing, rights, detail, and time-sensitive claims; return to the source material for important work.
+Broad but deep-nested UI takes days to learn. MT quality varies sharply by pair — sample first. Long-document layout fidelity needs checking.
 
 ## Alternatives
 
-Compare workflows rather than screenshots alone: some alternatives prioritize collaboration, some finer control, and others work better for a specific language, channel, or format.
+Trados and Crowdin for legacy enterprise, DeepL for individuals, Weblate for open-source self-hosting.

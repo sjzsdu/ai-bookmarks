@@ -11,40 +11,40 @@ faq:
   - q: "How is the course quality?"
     a: "Jeremy Howard's courses are highly regarded in the ML community."
 highlights:
-  - "Use fast.ai inside a real workflow, not as a novelty"
-  - "Review the output before you keep it"
-  - "Check free limits and sharing boundaries early"
+  - "A completely free deep-learning practical course"
+  - "Top-down teaching: run it first, understand after"
+  - "The fastai library is respected engineering"
 usecases:
-  - title: "Pre-delivery check"
-    desc: "Use fast.ai for one deliberate final pass"
-  - title: "Repeatable work"
-    desc: "Turn a recurring cleanup step into a habit"
-  - title: "Team handoff"
-    desc: "Keep the conclusion tied to its source context"
+  - title: "DL onboarding"
+    desc: "Train your first model in lesson one."
+  - title: "Engineering practice"
+    desc: "Learn respected training tricks and flows."
+  - title: "Career shift"
+    desc: "An engineer's hands-on path into ML."
 forwho:
-  - "People with a concrete job to finish"
-  - "Individuals or small teams willing to review AI output"
+  - "Engineers with coding basics"
+  - "Self-learners"
 notforwho:
-  - "Anyone expecting error-free output without review"
-  - "People seeking a one-click answer with no source material"
+  - "Absolute beginners without code"
+  - "Theory-first learners"
 ---
 
-fast.ai is most useful as a sharp helper inside a real job, not as a substitute for judgment. Try it for a week on work already in motion; a polished demo will not tell you whether it earns a permanent place.
+fast.ai (course plus open-source library) is among the best free deep-learning educations: Jeremy Howard's top-down approach has you training an image classifier in lesson one, theory following after, with excellent library quality.
 
 ## Getting started
 
-Start with one small task that is genuinely blocking you. Compare its result with your source, keep the steps that feel natural, and skip the ones that add ceremony. It can make the first draft and final pass much faster, but the last call is still yours.
+Start 'Practical Deep Learning for Coders' lesson one and run the notebooks on Colab or locally; the docs and forums are learning materials too.
 
 ## What you can do with it
 
-- Break a fuzzy topic into a ten-minute exercise instead of rereading an explanation.
-- Review for an exam or interview with mistakes, flashcards, or questions over your own material.
-- Ask about a confusing derivation, then redo it yourself.
+- Train your first image classifier in lesson one on Colab, theory after.
+- Use the fastai DataBlock API to handle your own datasets quickly.
+- Compare approaches on the forums to pick up production-grade training tricks.
 
 ## Limits and gotchas
 
-A complete-looking answer is not automatically correct, formatted properly, or safe to share. Free plans often cap runs or exports. Test with non-sensitive material before connecting customer data or paying, and agree on who owns the final version when a team uses it.
+Python basics required. Top-down doesn't suit everyone. Some materials lag the latest library versions.
 
 ## Alternatives
 
-Coursera is better for structured courses, Quizlet for drills and cards, and Elicit for evidence from papers.
+Coursera specializations for theory, Elicit for papers, Brilliant for math intuition.

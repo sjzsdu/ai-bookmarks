@@ -5,6 +5,21 @@ translationKey: "grok"
 category: "AI Chat"
 website: "https://grok.x.ai"
 price: "Free / $16"
+highlights:
+  - "Live X (Twitter) data for real-time questions"
+  - "Loose persona, blunt commentary"
+  - "Included with X Premium"
+usecases:
+  - title: "Breaking topics"
+    desc: "Answer current events from live X discussion."
+  - title: "Unfiltered takes"
+    desc: "Perspectives mainstream models avoid."
+forwho:
+  - "Heavy X users"
+  - "People tracking live discourse"
+notforwho:
+  - "Serious fact-checking (hallucinates)"
+  - "Teams sensitive to edgy content"
 faq:
   - q: "Is Grok free?"
     a: "Basic access available; full features require X Premium+ (~16 USD/month)."

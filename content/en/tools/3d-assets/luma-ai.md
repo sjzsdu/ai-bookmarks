@@ -5,45 +5,46 @@ translationKey: "luma-ai"
 category: "3D & Assets"
 website: "https://lumalabs.ai"
 price: "Free / $10"
+highlights:
+  - "LiDAR phone scans turn real objects into usable 3D"
+  - "Room-scale capture outputs floor plans and measurements"
+  - "Full export path into engines and 3D printing"
+usecases:
+  - title: "Product digitization"
+    desc: "Scan physical items into models for listings and AR previews."
+  - title: "Space records"
+    desc: "Capture rooms with dimensions for renovation planning."
+  - title: "Asset sourcing"
+    desc: "Collect real-world 3D reference for game and film projects."
+forwho:
+  - "Creators needing real-world 3D"
+  - "Exhibition and interior professionals"
+notforwho:
+  - "Users wanting generative modeling (this is capture)"
+  - "High-precision needs without LiDAR hardware"
 faq:
   - q: "How do I use Luma AI?"
     a: "Use the phone app to shoot video around an object and it auto-reconstructs a 3D model."
   - q: "How's the quality?"
     a: "Great for simple objects. Complex items may need multiple scans."
-highlights:
-  - "Get a concrete first draft quickly"
-  - "Reduce repetitive setup work"
-  - "Keep human judgment in the real workflow"
-usecases:
-  - title: "First attempt"
-    desc: "Validate a direction with one narrow job before betting on a full project."
-  - title: "Iteration"
-    desc: "Keep a promising version and tighten the brief with real feedback."
-  - title: "Team discussion"
-    desc: "Bring a concrete draft so the conversation can focus on choices and trade-offs."
-forwho:
-  - "People validating a direction quickly"
-  - "Small teams willing to review an AI first pass"
-notforwho:
-  - "Anyone expecting unreviewed output to be publish-ready"
 ---
 
-I treat Luma AI as a way to accelerate a first draft, not as a button that makes the final call. Try it on one real, narrow task first; whether it saves the next step matters more than a polished demo.
+Luma AI is about capturing reality: circle an object with a LiDAR iPhone and get an exportable 3D model in minutes, or scan an entire room. It doesn't generate — it makes reality capture a one-phone task.
 
 ## Getting started
 
-State the goal, source material, or constraints clearly. Review one pass, then tighten the brief from actual feedback. Save the promising version—rarely is the first output the finished one.
+Start with small, well-lit, richly textured objects for the best success rate; reflective, transparent, and plain-white surfaces are its weakness. Check the mesh before worrying about textures — a rescan beats patching.
 
 ## What you can actually do
 
-- **First attempt**: make a concrete starting point for a real discussion.
-- **Iteration**: try a few versions against the same brief.
-- **Team discussion**: turn vague preferences into choices people can evaluate.
+- Object scans: products, sculptures, furniture into exportable models
+- Room capture: floor plans and measurements from a walk-around
+- Outputs: OBJ/GLB/FBX straight into Unity, Blender, or a printer
 
 ## Trade-offs and gotchas
 
-AI output is a candidate, not a fact source or final deliverable. Verify pricing, rights, detail, and time-sensitive claims; return to the source material for important work.
+Photo-mode accuracy drops noticeably without LiDAR; scan large objects in segments and expect to clean up the seams. The free tier limits exports.
 
 ## Alternatives
 
-Compare workflows rather than screenshots alone: some alternatives prioritize collaboration, some finer control, and others work better for a specific language, channel, or format.
+For generative 3D look at Meshy and Tripo; professional capture needs dedicated rigs — Polycam is the closest consumer rival.

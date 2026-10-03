@@ -5,45 +5,46 @@ translationKey: "bark"
 category: "Audio & Music"
 website: "https://github.com/suno-ai/bark"
 price: "Free"
+highlights:
+  - "Open source and free — runs locally, even offline"
+  - "Generates laughter, sighs, and non-verbal sounds"
+  - "Multilingual mixing with usable Chinese"
+usecases:
+  - title: "Offline voice"
+    desc: "Speech generation that never leaves your machine."
+  - title: "Creative SFX"
+    desc: "Speech with emotion, pauses, and laughs baked in."
+  - title: "Hacking"
+    desc: "Build your own voice apps on open weights."
+forwho:
+  - "Developers with GPUs who tinker"
+  - "Privacy-sensitive setups"
+notforwho:
+  - "Users wanting plug-and-play"
+  - "Production stability (output variance is high)"
 faq:
   - q: "Can Bark run locally?"
     a: "Yes, open-source model runs locally on GPU, no internet needed."
   - q: "How does it compare to commercial TTS?"
     a: "Good multi-language and emotional expression, but lower quality than commercial options."
-highlights:
-  - "Get a concrete first draft quickly"
-  - "Reduce repetitive setup work"
-  - "Keep human judgment in the real workflow"
-usecases:
-  - title: "First attempt"
-    desc: "Validate a direction with one narrow job before betting on a full project."
-  - title: "Iteration"
-    desc: "Keep a promising version and tighten the brief with real feedback."
-  - title: "Team discussion"
-    desc: "Bring a concrete draft so the conversation can focus on choices and trade-offs."
-forwho:
-  - "People validating a direction quickly"
-  - "Small teams willing to review an AI first pass"
-notforwho:
-  - "Anyone expecting unreviewed output to be publish-ready"
 ---
 
-I treat Bark as a way to accelerate a first draft, not as a button that makes the final call. Try it on one real, narrow task first; whether it saves the next step matters more than a polished demo.
+Bark is Suno's open-source TTS, and its claim to fame is humanity: it laughs, sighs, pauses, and can mix languages mid-sentence. The trade-off is variance — the same line twice can sound very different.
 
 ## Getting started
 
-State the goal, source material, or constraints clearly. Review one pass, then tighten the brief from actual feedback. Save the promising version—rarely is the first output the finished one.
+Call it via transformers after a Python setup; generate several candidates per line and pick, keeping the noise parameter modest.
 
 ## What you can actually do
 
-- **First attempt**: make a concrete starting point for a real discussion.
-- **Iteration**: try a few versions against the same brief.
-- **Team discussion**: turn vague preferences into choices people can evaluate.
+- Multilingual TTS: Chinese/English/Japanese mixing works
+- Non-verbal sounds: realistic laughs, sighs, throat clears
+- Local deployment: downloadable open weights
 
 ## Trade-offs and gotchas
 
-AI output is a candidate, not a fact source or final deliverable. Verify pricing, rights, detail, and time-sensitive claims; return to the source material for important work.
+No fine-grained controls — stable voices rely on prompt tricks and rerolling. VRAM needs are nontrivial; split long texts and stitch the audio.
 
 ## Alternatives
 
-Compare workflows rather than screenshots alone: some alternatives prioritize collaboration, some finer control, and others work better for a specific language, channel, or format.
+Azure TTS for stable commercial use, ChatTTS for Chinese prosody, CosyVoice or Fish Speech for cloning.

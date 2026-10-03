@@ -5,6 +5,21 @@ translationKey: "ernie"
 category: "AI Chat"
 website: "https://yiyan.baidu.com"
 price: "Free"
+highlights:
+  - "Years of ERNIE iteration with deep Chinese knowledge"
+  - "China-compliance benchmark, cleared for commercial use"
+  - "Baidu search ecosystem integration"
+usecases:
+  - title: "Chinese content"
+    desc: "Strong on official and marketing copy in Chinese."
+  - title: "Enterprise compliance"
+    desc: "Chat capability under strict compliance regimes."
+forwho:
+  - "Compliance-driven enterprises"
+  - "Baidu ecosystem users"
+notforwho:
+  - "Frontier-model enthusiasts"
+  - "English-first workloads"
 faq:
   - q: "Is ERNIE Bot available outside China?"
     a: "Primarily China-focused; global users typically use ChatGPT, Claude, or Gemini."

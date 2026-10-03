@@ -5,45 +5,46 @@ translationKey: "chattts"
 category: "Audio & Music"
 website: "https://github.com/2noise/ChatTTS"
 price: "Free"
+highlights:
+  - "Standout Chinese prosody with natural conversational feel"
+  - "Open and deployable, with prosody-tag control"
+  - "Fine-grained pace and pause parameters"
+usecases:
+  - title: "Chinese podcasts"
+    desc: "Conversational narration that doesn't sound robotic."
+  - title: "Dialogue audio"
+    desc: "Two-voice exchanges with natural ups and downs."
+  - title: "Local integration"
+    desc: "Embed the open model in your own pipeline."
+forwho:
+  - "Chinese audio creators"
+  - "Developers wanting an open option"
+notforwho:
+  - "English-first use cases"
+  - "Production environments needing SLAs"
 faq:
   - q: "How is the Chinese voice quality?"
     a: "Among the best open-source TTS for Chinese, with strong conversational feel."
   - q: "Can it be used commercially?"
     a: "Open-source license allows commercial use; check the repository for specific terms."
-highlights:
-  - "Get a concrete first draft quickly"
-  - "Reduce repetitive setup work"
-  - "Keep human judgment in the real workflow"
-usecases:
-  - title: "First attempt"
-    desc: "Validate a direction with one narrow job before betting on a full project."
-  - title: "Iteration"
-    desc: "Keep a promising version and tighten the brief with real feedback."
-  - title: "Team discussion"
-    desc: "Bring a concrete draft so the conversation can focus on choices and trade-offs."
-forwho:
-  - "People validating a direction quickly"
-  - "Small teams willing to review an AI first pass"
-notforwho:
-  - "Anyone expecting unreviewed output to be publish-ready"
 ---
 
-I treat ChatTTS as a way to accelerate a first draft, not as a button that makes the final call. Try it on one real, narrow task first; whether it saves the next step matters more than a polished demo.
+ChatTTS sets the bar for Chinese conversational TTS among open models: speech, not recitation — natural pitch movement and pauses suited to podcasts and dialogue content. Prosody tags keep pace and pauses controllable.
 
 ## Getting started
 
-State the goal, source material, or constraints clearly. Review one pass, then tighten the brief from actual feedback. Save the promising version—rarely is the first output the finished one.
+Use the official fixed seeds to get a flow going; once you like a voice, lock the parameters. Split long text by sentence and keep punctuation for phrasing.
 
 ## What you can actually do
 
-- **First attempt**: make a concrete starting point for a real discussion.
-- **Iteration**: try a few versions against the same brief.
-- **Team discussion**: turn vague preferences into choices people can evaluate.
+- Chinese conversational synthesis with natural tone
+- Prosody tags for pauses and pace
+- Open local deployment with zero call costs
 
 ## Trade-offs and gotchas
 
-AI output is a candidate, not a fact source or final deliverable. Verify pricing, rights, detail, and time-sensitive claims; return to the source material for important work.
+English and other languages trail its Chinese quality. Numbers and proper nouns sometimes mispronounce — proof-listen. Check the license for commercial restrictions.
 
 ## Alternatives
 
-Compare workflows rather than screenshots alone: some alternatives prioritize collaboration, some finer control, and others work better for a specific language, channel, or format.
+Bark or CosyVoice for multilingual, Azure for enterprise stability, Fish Speech for voice cloning.

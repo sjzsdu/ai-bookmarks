@@ -5,45 +5,46 @@ translationKey: "immersive-translate"
 category: "Translation"
 website: "https://immersivetranslate.com"
 price: "Free / $10"
+highlights:
+  - "The open-source benchmark for bilingual web reading"
+  - "Bring any engine: DeepL, LLMs, Google"
+  - "PDFs, e-books, and subtitles included"
+usecases:
+  - title: "Foreign-language browsing"
+    desc: "Side-by-side original and translation."
+  - title: "PDFs and e-books"
+    desc: "Layout-preserving bilingual reading."
+  - title: "Video subtitles"
+    desc: "Real-time translation of online captions."
+forwho:
+  - "Heavy readers of foreign content"
+  - "Advanced users who choose their engines"
+notforwho:
+  - "Users wanting translation only"
+  - "Locked-down browsers without extensions"
 faq:
   - q: "How does it work?"
     a: "It adds translated text below each paragraph while keeping the original, creating a bilingual view."
   - q: "Can I use it with PDFs?"
     a: "Yes, it supports web pages, PDFs, and EPUB ebooks."
-highlights:
-  - "Get a concrete first draft quickly"
-  - "Reduce repetitive setup work"
-  - "Keep human judgment in the workflow"
-usecases:
-  - title: "First attempt"
-    desc: "Validate a direction with one narrow, real task."
-  - title: "Iteration"
-    desc: "Keep a promising version and refine it with feedback."
-  - title: "Team discussion"
-    desc: "Give people a concrete draft to evaluate."
-forwho:
-  - "People validating a direction quickly"
-  - "Small teams willing to review an AI first pass"
-notforwho:
-  - "Anyone expecting unreviewed output to be publish-ready"
 ---
 
-I use Immersive Translate to accelerate a first draft, not as a button that makes the final call. Test it on one real, narrow task first; whether it saves the next step matters more than a polished demo.
+Immersive Translate made bilingual reading the default: paragraphs shown side-by-side, engines of your choice (DeepL, OpenAI, Google), extending to PDFs, e-books, and subtitles — the best-regarded browser translation extension in open source.
 
 ## Getting started
 
-State the goal, source material, or constraints clearly. Review one pass, then tighten the brief from actual feedback. Save the promising version—rarely is the first output the finished one.
+Configure a primary engine after install (a DeepL or OpenAI key helps); hover or hotkey to translate paragraphs.
 
 ## What you can actually do
 
-- **First attempt**: make a concrete starting point for a real discussion.
-- **Iteration**: try a few versions against the same brief.
-- **Team discussion**: turn vague preferences into choices people can evaluate.
+- Bilingual web pages, paragraph by paragraph
+- Multi-engine: DeepL/OpenAI/Google and more
+- PDF, EPUB, and subtitle translation
 
 ## Trade-offs and gotchas
 
-AI output is a candidate, not a fact source or final deliverable. Verify pricing, rights, detail, and time-sensitive claims; return to the source material for important work.
+LLM engine costs are yours to bear — long pages add up. Some dynamic sites break layout. Mobile depends on supported browsers.
 
 ## Alternatives
 
-Compare workflows rather than screenshots alone: some alternatives prioritize collaboration, some finer control, and others work better for a specific language, channel, or format.
+Caiyun for an in-house engine, built-in browser translation for whole pages, DeepL for documents.

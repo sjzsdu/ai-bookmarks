@@ -5,6 +5,21 @@ translationKey: "lovable"
 category: "Coding & Development"
 website: "https://lovable.dev"
 price: "Free / $20"
+highlights:
+  - "Conversational full-stack apps wired to Supabase"
+  - "Working output, with code export"
+  - "A shortcut for non-developers to ship products"
+usecases:
+  - title: "Fast MVP"
+    desc: "Iterate a database-backed app by chat."
+  - title: "Internal tools"
+    desc: "Admin panels and dashboards in hours."
+forwho:
+  - "Non-technical founders"
+  - "Ops teams needing internal tools"
+notforwho:
+  - "Complex business logic (take over the code)"
+  - "Users avoiding subscriptions"
 faq:
   - q: "Is Lovable suitable for non-programmers?"
     a: "Yes. Users can describe a product in natural language and refine it through a visual preview."

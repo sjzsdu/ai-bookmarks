@@ -5,6 +5,21 @@ translationKey: "kimi"
 category: "AI Chat"
 website: "https://kimi.moonshot.cn"
 price: "Free"
+highlights:
+  - "Signature long-context: hundreds of pages at once"
+  - "Smooth web and mobile experience, direct access"
+  - "Strong file parsing (PDF/pages/papers)"
+usecases:
+  - title: "Long-doc speed-read"
+    desc: "Drop in a 100-page report, get the essentials."
+  - title: "Research digests"
+    desc: "Merge sources into structured notes."
+forwho:
+  - "Users handling very long documents"
+  - "Students and new researchers"
+notforwho:
+  - "Hard reasoning tasks (R1-class models win)"
+  - "Deep ecosystem integrations"
 faq:
   - q: "What is Kimi strong at?"
     a: "Ultra-long context — can process 200K+ characters, great for document analysis."

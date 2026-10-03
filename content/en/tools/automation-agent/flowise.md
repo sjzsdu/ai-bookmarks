@@ -6,22 +6,45 @@ category: "Automation & Agent"
 website: "https://flowiseai.com"
 price: "Free / $9"
 highlights:
-  - "A practical choice for 拖拽式 langchain 流程原型, not a magic AI layer."
-  - "Prove one repetitive workflow before rolling it out widely."
-  - "Budgeting, retries, and human handoff matter as much as the demo."
+  - "Drag-and-drop builder for LangChain-style LLM pipelines"
+  - "Open source with self-hosting and API deployment built in"
+  - "Great middle ground between notebooks and full code"
 usecases:
-  - title: "Validate one repetitive job"
-    desc: "Turn a copying, sorting, or research task into a small observable loop first."
-  - title: "Keep a human handoff"
-    desc: "Require review before external messages, database writes, or spend."
+  - title: "LLM prototypes"
+    desc: "Validate RAG and agent ideas by dragging nodes."
+  - title: "Internal tools"
+    desc: "Quick conversational query tools for teams."
+  - title: "Teaching"
+    desc: "Visual explanations of LLM app anatomy."
 forwho:
-  - "Product and operations teams willing to test with real workflows"
-  - "Developers who can maintain integrations and failure handling"
+  - "Engineers learning LLM development"
+  - "Teams needing fast prototypes"
 notforwho:
-  - "Teams expecting zero setup and fully autonomous judgment"
+  - "Non-technical users (concepts still required)"
+  - "Large-scale production (self-maintained)"
 faq:
-  - q: "Where should I start?"
-    a: "Pick a low-risk workflow with human review, then track quality, time saved, and actual cost."
-  - q: "Is it ready for production?"
-    a: "Potentially, after you add access control, rate limits, logs, retries, and an escalation path."
----\n\nFlowise is worth considering when you specifically need **visual LangChain-style prototypes**. Start with one narrow, measurable workflow instead of treating it as a generic AI add-on.\n\n## Getting started\nUse realistic but redacted data in a read-only proof of concept. Check access, rate limits, failure notifications, and the cost of a normal week before connecting anything that writes or sends.\n\n## What you can actually do\n- Turn incoming documents, forms, or requests into a reviewable first draft.\n- Give support, sales, or research a first pass at retrieval, classification, and summarization.\n- Connect a bounded API action, such as looking up a record, creating a task, or routing an exception.\n- Compare prompts or model settings on a small sample before changing a live workflow.\n\n## Trade-offs and gotchas\nThe attractive demo is the easy part. Production needs explicit ownership for bad inputs, permissions, retries, occasional wrong output, and spend limits. Do not remove the human review step until you have measured real failures.\n\n## Alternatives\nChoose a lower-code alternative when speed of setup matters, a self-hosted option when data control matters, or a code-first framework when the workflow needs tests and fine-grained behavior. Those priorities usually pull in different directions.\n
+  - q: "Is Flowise free?"
+    a: "Self-hosted open source is free; the cloud tier bills by usage."
+  - q: "Flowise vs Langflow?"
+    a: "Both are visual LLM builders — Flowise sits on LangChain.js, Langflow on Python's LangChain. Pick by stack."
+---
+
+Flowise is the visual orchestrator for the LangChain ecosystem: chains, agents, retrievers, and memory as draggable nodes, publishable as APIs or embedded chat widgets.
+
+## Getting started
+
+Import a RAG chatflow from the template market, swap in your documents and model keys, then reshape it into your own flow.
+
+## What you can actually do
+
+- Drag-and-drop composition of chains and agents
+- Chat embeds for websites
+- One-click REST API publishing
+
+## Trade-offs and gotchas
+
+Complex canvases get unmaintainable — split into subflows. Built on LangChain.js, so some Python-ecosystem pieces are unavailable. Fast releases mean occasional breakage.
+
+## Alternatives
+
+Langflow for Python stacks, Dify for a productized platform, LangChain for full code control.

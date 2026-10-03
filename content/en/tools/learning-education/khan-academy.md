@@ -11,40 +11,40 @@ faq:
   - q: "What subjects are covered?"
     a: "Math, science, computing, humanities — from elementary to college level."
 highlights:
-  - "Use Khan Academy inside a real workflow, not as a novelty"
-  - "Review the output before you keep it"
-  - "Check free limits and sharing boundaries early"
+  - "A completely free nonprofit education platform"
+  - "Khanmigo AI tutor guides Socratically"
+  - "Math from elementary to college, fully covered"
 usecases:
-  - title: "Pre-delivery check"
-    desc: "Use Khan Academy for one deliberate final pass"
-  - title: "Repeatable work"
-    desc: "Turn a recurring cleanup step into a habit"
-  - title: "Team handoff"
-    desc: "Keep the conclusion tied to its source context"
+  - title: "Math foundations"
+    desc: "Knowledge-point drills with tests."
+  - title: "AI tutoring"
+    desc: "Khanmigo leads you to the answer, not with it."
+  - title: "Self-study"
+    desc: "Complete K12-to-freshman curriculum free."
 forwho:
-  - "People with a concrete job to finish"
-  - "Individuals or small teams willing to review AI output"
+  - "K12 students and parents"
+  - "Adults rebuilding math and science"
 notforwho:
-  - "Anyone expecting error-free output without review"
-  - "People seeking a one-click answer with no source material"
+  - "Chinese-curriculum needs (content is English)"
+  - "Exam-technique training"
 ---
 
-Khan Academy is most useful as a sharp helper inside a real job, not as a substitute for judgment. Try it for a week on work already in motion; a polished demo will not tell you whether it earns a permanent place.
+Khan Academy is the nonprofit benchmark: entirely free, complete math and science tracks, and the Khanmigo AI tutor that guides rather than answers.
 
 ## Getting started
 
-Start with one small task that is genuinely blocking you. Compare its result with your source, keep the steps that feel natural, and skip the ones that add ceremony. It can make the first draft and final pass much faster, but the last call is still yours.
+Take a placement check to find your level and follow the recommended path; Khanmigo requires a subscription or regional free programs.
 
 ## What you can do with it
 
-- Break a fuzzy topic into a ten-minute exercise instead of rereading an explanation.
-- Review for an exam or interview with mistakes, flashcards, or questions over your own material.
-- Ask about a confusing derivation, then redo it yourself.
+- Take the placement check, then close specific math gaps along the recommended path.
+- Use Khanmigo's guided questions to actually understand mistakes, not copy answers.
+- Work through the full free chain from algebra to precalculus.
 
 ## Limits and gotchas
 
-A complete-looking answer is not automatically correct, formatted properly, or safe to share. Free plans often cap runs or exports. Test with non-sensitive material before connecting customer data or paying, and agree on who owns the final version when a team uses it.
+Content is English-first — a language hurdle for some. Khanmigo coverage expands gradually. Progress tracking demands self-discipline.
 
 ## Alternatives
 
-Coursera is better for structured courses, Quizlet for drills and cards, and Elicit for evidence from papers.
+Brilliant for interactive math, Elicit for research tools, domestic platforms for Chinese curricula.

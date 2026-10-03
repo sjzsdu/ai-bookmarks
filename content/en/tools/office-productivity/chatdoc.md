@@ -11,40 +11,40 @@ faq:
   - q: "Does it cite the source document?"
     a: "Yes. ChatDOC links answers to relevant passages so users can verify them."
 highlights:
-  - "Use ChatDOC inside a real workflow, not as a novelty"
-  - "Review the output before you keep it"
-  - "Check free limits and sharing boundaries early"
+  - "Answers with page-level citations for easy verification"
+  - "Solid structure and table understanding in long PDFs"
+  - "Free quota covers light daily use"
 usecases:
-  - title: "Pre-delivery check"
-    desc: "Use ChatDOC for one deliberate final pass"
-  - title: "Repeatable work"
-    desc: "Turn a recurring cleanup step into a habit"
-  - title: "Team handoff"
-    desc: "Keep the conclusion tied to its source context"
+  - title: "Paper speed-reading"
+    desc: "Question-driven reading with source jumps."
+  - title: "Contract extraction"
+    desc: "Key clauses pulled from long documents."
+  - title: "Report digests"
+    desc: "AI summary first for 100-page reports."
 forwho:
-  - "People with a concrete job to finish"
-  - "Individuals or small teams willing to review AI output"
+  - "Students and researchers reading long PDFs"
+  - "Professionals handling contracts and reports"
 notforwho:
-  - "Anyone expecting error-free output without review"
-  - "People seeking a one-click answer with no source material"
+  - "Open-domain questions (document-bound)"
+  - "Scan-heavy documents (OCR limits)"
 ---
 
-ChatDOC is most useful as a sharp helper inside a real job, not as a substitute for judgment. Try it for a week on work already in motion; a polished demo will not tell you whether it earns a permanent place.
+ChatDOC leads the citation-rigorous school of document Q&A: answers carry page numbers and source positions, with structured reading of headings and tables — built for serious verification.
 
 ## Getting started
 
-Start with one small task that is genuinely blocking you. Compare its result with your source, keep the steps that feel natural, and skip the ones that add ceremony. It can make the first draft and final pass much faster, but the last call is still yours.
+Upload a PDF, skim the auto-generated questions, then ask by section; verify key conclusions by jumping to citations.
 
 ## What you can do with it
 
-- Turn loose meeting notes into a page the team can actually keep using.
-- Make a clear outline, whiteboard, or presentation for a client meeting.
-- Keep tasks, source material, and discussion together instead of hunting across tabs.
+- Question an 80-page industry report with answers cited to exact pages.
+- Pull payment terms and liability clauses from a procurement contract.
+- Set up paper Q&A to locate experiment setup descriptions by section.
 
 ## Limits and gotchas
 
-A complete-looking answer is not automatically correct, formatted properly, or safe to share. Free plans often cap runs or exports. Test with non-sensitive material before connecting customer data or paying, and agree on who owns the final version when a team uses it.
+Scan quality caps answer quality. Complex tables occasionally misparse. Free tier limits pages and queries.
 
 ## Alternatives
 
-Notion is stronger for deep docs, Canva for presentation design, and Asana or ClickUp for heavier process management.
+NotebookLM for source libraries, general LLMs with file upload, Elicit for paper extraction.

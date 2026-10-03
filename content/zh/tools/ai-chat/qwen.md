@@ -5,6 +5,21 @@ translationKey: "qwen"
 category: "AI 对话"
 website: "https://tongyi.aliyun.com"
 price: "Free"
+highlights:
+  - "通义千问系列免费可用，模型能力强"
+  - "与阿里生态（钉钉/阿里云）联动"
+  - "文档、图像、语音多模态齐全"
+usecases:
+  - title: "日常办公问答"
+    desc: "文档总结、写作、翻译一站式。"
+  - title: "多模态任务"
+    desc: "图片理解、音视频转写分析。"
+forwho:
+  - "阿里生态用户"
+  - "想要免费强模型的学生"
+notforwho:
+  - "追求最强推理的用户"
+  - "海外生态依赖者"
 faq:
   - q: "通义千问需要翻墙吗？"
     a: "不需要，国内直连，阿里云账号登录即用。"

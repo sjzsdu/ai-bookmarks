@@ -5,6 +5,21 @@ translationKey: "kimi"
 category: "AI 对话"
 website: "https://kimi.moonshot.cn"
 price: "Free"
+highlights:
+  - "长文本处理是招牌：几十万字文档一次读完"
+  - "国产直连，网页和手机体验流畅"
+  - "文件解析能力强（PDF/网页/论文）"
+usecases:
+  - title: "长文档速读"
+    desc: "上百页报告丢进去提炼要点。"
+  - title: "资料调研"
+    desc: "多来源资料汇总梳理成结构化笔记。"
+forwho:
+  - "需要处理超长文档的用户"
+  - "学生和研究入门者"
+notforwho:
+  - "复杂推理任务（R1 类模型更强）"
+  - "需要联网生态整合的场景"
 faq:
   - q: "Kimi 需要翻墙吗？"
     a: "不需要，国内直连，手机号注册即可。"

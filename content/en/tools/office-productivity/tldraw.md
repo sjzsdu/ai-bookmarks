@@ -11,40 +11,40 @@ faq:
   - q: "Do I need to install anything?"
     a: "No, it's browser-based. You can also self-host."
 highlights:
-  - "Use tldraw inside a real workflow, not as a novelty"
-  - "Review the output before you keep it"
-  - "Check free limits and sharing boundaries early"
+  - "Hand-drawn-style whiteboard, free and open source"
+  - "Fluid infinite canvas with frictionless collaboration"
+  - "make-real turns sketches into interactive pages"
 usecases:
-  - title: "Pre-delivery check"
-    desc: "Use tldraw for one deliberate final pass"
-  - title: "Repeatable work"
-    desc: "Turn a recurring cleanup step into a habit"
-  - title: "Team handoff"
-    desc: "Keep the conclusion tied to its source context"
+  - title: "Brainstorms"
+    desc: "Live drawing and discussion on one canvas."
+  - title: "Sketch to demo"
+    desc: "make-real makes UI sketches clickable."
+  - title: "Teaching visuals"
+    desc: "Charming hand-drawn diagrams."
 forwho:
-  - "People with a concrete job to finish"
-  - "Individuals or small teams willing to review AI output"
+  - "Teams that like the sketch aesthetic"
+  - "Product folks wanting a light board"
 notforwho:
-  - "Anyone expecting error-free output without review"
-  - "People seeking a one-click answer with no source material"
+  - "Formal diagram output (Visio territory)"
+  - "Template-heavy workshops (Miro)"
 ---
 
-tldraw is most useful as a sharp helper inside a real job, not as a substitute for judgment. Try it for a week on work already in motion; a polished demo will not tell you whether it earns a permanent place.
+tldraw made its name on the hand-drawn whiteboard: open source, free, infinite canvas with charming sketchy strokes. Its experimental make-real turns drawn UI sketches into interactive webpages.
 
 ## Getting started
 
-Start with one small task that is genuinely blocking you. Compare its result with your source, keep the steps that feel natural, and skip the ones that add ceremony. It can make the first draft and final pass much faster, but the last call is still yours.
+Open the web app — no signup needed to try; invite collaborators by link; find make-real under the AI menu.
 
 ## What you can do with it
 
-- Turn loose meeting notes into a page the team can actually keep using.
-- Make a clear outline, whiteboard, or presentation for a client meeting.
-- Keep tasks, source material, and discussion together instead of hunting across tabs.
+- Sketch a competitor architecture live on the shared infinite canvas.
+- Draw a UI sketch and use make-real to get a clickable web prototype.
+- Create hand-drawn teaching diagrams and export them as lecture figures.
 
 ## Limits and gotchas
 
-A complete-looking answer is not automatically correct, formatted properly, or safe to share. Free plans often cap runs or exports. Test with non-sensitive material before connecting customer data or paying, and agree on who owns the final version when a team uses it.
+Deliberately minimal — diagram templates trail Miro. make-real is experimental with uneven output. No enterprise permissioning.
 
 ## Alternatives
 
-Notion is stronger for deep docs, Canva for presentation design, and Asana or ClickUp for heavier process management.
+Miro and FigJam for full-feature boards, draw.io for formal diagrams, Notion for whiteboard-plus-docs.
