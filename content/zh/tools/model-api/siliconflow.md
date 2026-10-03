@@ -6,9 +6,9 @@ category: "模型 API"
 website: "https://siliconflow.cn"
 price: "Free"
 highlights:
-  - "国内可访问的开源模型推理 API，先用小流程验证再扩大。"
-  - "真正的价值在于少一次人工搬运，不是多一个聊天窗口。"
-  - "把成本、失败重试和人工兜底写进流程才经得起上线。"
+  - "国产聚合平台：一个 API 调用多家开源模型"
+  - "DeepSeek/Qwen/GLM 推理价格有竞争力"
+  - "OpenAI 兼容接口，国内直连"
 usecases:
   - title: "先跑通一个重复动作"
     desc: "选一个每天都在复制、分类或查资料的动作，先做可观察的最小闭环。"

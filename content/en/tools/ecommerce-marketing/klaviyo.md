@@ -5,45 +5,46 @@ translationKey: "klaviyo"
 category: "E-commerce & Marketing"
 website: "https://klaviyo.com"
 price: "Free / $20"
+highlights:
+  - "E-commerce email platform wired into store data"
+  - "Predictive segments: repeat-purchase and churn risk"
+  - "Mature automation flow library"
+usecases:
+  - title: "Abandoned cart"
+    desc: "Triggered recovery sequences on autopilot."
+  - title: "Lifecycle marketing"
+    desc: "Welcome, repeat, and win-back flows."
+  - title: "Behavioral segments"
+    desc: "Reach customers by what they did, not who they are."
+forwho:
+  - "DTC brands and Shopify sellers"
+  - "Teams treating email as a core channel"
+notforwho:
+  - "Non-commerce email needs (Mailchimp)"
+  - "China-centric WeChat operations"
 faq:
   - q: "Is Klaviyo good for non-US markets?"
     a: "It works globally, but it's most popular with Shopify stores targeting Western markets."
   - q: "What AI features does it have?"
     a: "Smart send time optimization, personalized recommendations, churn prediction, automated flows."
-highlights:
-  - "Get a concrete first draft quickly"
-  - "Reduce repetitive setup work"
-  - "Keep human judgment in the real workflow"
-usecases:
-  - title: "First attempt"
-    desc: "Validate a direction with one narrow job before betting on a full project."
-  - title: "Iteration"
-    desc: "Keep a promising version and tighten the brief with real feedback."
-  - title: "Team discussion"
-    desc: "Bring a concrete draft so the conversation can focus on choices and trade-offs."
-forwho:
-  - "People validating a direction quickly"
-  - "Small teams willing to review an AI first pass"
-notforwho:
-  - "Anyone expecting unreviewed output to be publish-ready"
 ---
 
-I treat Klaviyo as a way to accelerate a first draft, not as a button that makes the final call. Try it on one real, narrow task first; whether it saves the next step matters more than a polished demo.
+Klaviyo is near-default in e-commerce email: it reads store orders and behavior directly, computing repeat-purchase probability and churn risk per customer — distribution by person, not blast.
 
 ## Getting started
 
-State the goal, source material, or constraints clearly. Review one pass, then tighten the brief from actual feedback. Save the promising version—rarely is the first output the finished one.
+After connecting your store, launch the two standard flows first: welcome series and abandoned cart. Start segments simple, like 'no purchase in 90 days'.
 
 ## What you can actually do
 
-- **First attempt**: make a concrete starting point for a real discussion.
-- **Iteration**: try a few versions against the same brief.
-- **Team discussion**: turn vague preferences into choices people can evaluate.
+- Automated flows: cart, welcome, post-purchase
+- Predictive segments: repeat probability, LTV
+- AI content for subject lines and copy
 
 ## Trade-offs and gotchas
 
-AI output is a candidate, not a fact source or final deliverable. Verify pricing, rights, detail, and time-sensitive claims; return to the source material for important work.
+Pricing scales with contact count — prune inactive contacts regularly. Templates skew Western; localize visuals for Chinese brands.
 
 ## Alternatives
 
-Compare workflows rather than screenshots alone: some alternatives prioritize collaboration, some finer control, and others work better for a specific language, channel, or format.
+Mailchimp for general email, WeChat tools for domestic private-domain, Klaviyo SMS as a paid add-on.

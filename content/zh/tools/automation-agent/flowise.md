@@ -6,9 +6,9 @@ category: "自动化与 Agent"
 website: "https://flowiseai.com"
 price: "Free / $9"
 highlights:
-  - "拖拽式 LangChain 流程原型，先用小流程验证再扩大。"
-  - "真正的价值在于少一次人工搬运，不是多一个聊天窗口。"
-  - "把成本、失败重试和人工兜底写进流程才经得起上线。"
+  - "拖拽搭建 LangChain 式 LLM 流程"
+  - "开源可自托管，API 发布内建"
+  - "介于 Notebook 和全代码之间的平衡点"
 usecases:
   - title: "先跑通一个重复动作"
     desc: "选一个每天都在复制、分类或查资料的动作，先做可观察的最小闭环。"

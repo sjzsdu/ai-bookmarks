@@ -11,29 +11,29 @@ faq:
   - q: "Does it support Chinese?"
     a: "Interface supports Chinese but AI-generated content is primarily English."
 highlights:
-  - "Use Beautiful.ai inside a real workflow, not as a novelty"
-  - "Review the output before you keep it"
-  - "Check free limits and sharing boundaries early"
+  - "Design rules built in: everything lands aligned"
+  - "Smart templates re-layout as content changes"
+  - "Team libraries keep brand visuals unified"
 usecases:
-  - title: "Pre-delivery check"
-    desc: "Use Beautiful.ai for one deliberate final pass"
-  - title: "Repeatable work"
-    desc: "Turn a recurring cleanup step into a habit"
-  - title: "Team handoff"
-    desc: "Keep the conclusion tied to its source context"
+  - title: "Business decks"
+    desc: "Cleanly laid-out presentations, fast."
+  - title: "Template governance"
+    desc: "Lock layouts for team consistency."
+  - title: "Non-designer rescue"
+    desc: "Decent slides without design skills."
 forwho:
-  - "People with a concrete job to finish"
-  - "Individuals or small teams willing to review AI output"
+  - "Presenters who aren't designers"
+  - "Teams needing template discipline"
 notforwho:
-  - "Anyone expecting error-free output without review"
-  - "People seeking a one-click answer with no source material"
+  - "Designers wanting freeform control"
+  - "Complex animation requirements"
 ---
 
-Beautiful.ai is most useful as a sharp helper inside a real job, not as a substitute for judgment. Try it for a week on work already in motion; a polished demo will not tell you whether it earns a permanent place.
+Beautiful.ai sells a design-rules engine: you own content, it owns layout — charts align themselves, pages re-flow as you add, and nothing comes out crooked.
 
 ## Getting started
 
-Start with one small task that is genuinely blocking you. Compare its result with your source, keep the steps that feel natural, and skip the ones that add ceremony. It can make the first draft and final pass much faster, but the last call is still yours.
+Pick a template close to your need and fill in the outline; resist nudging elements before the auto-layout has worked.
 
 ## What you can do with it
 
@@ -43,8 +43,8 @@ Start with one small task that is genuinely blocking you. Compare its result wit
 
 ## Limits and gotchas
 
-A complete-looking answer is not automatically correct, formatted properly, or safe to share. Free plans often cap runs or exports. Test with non-sensitive material before connecting customer data or paying, and agree on who owns the final version when a team uses it.
+Freedom is the trade-off — designs outside the templates aren't happening. Chinese template and font support is thin. PPT export drops some effects.
 
 ## Alternatives
 
-Notion is stronger for deep docs, Canva for presentation design, and Asana or ClickUp for heavier process management.
+Gamma for AI outlines, WPS AI domestically, PowerPoint/Keynote for freeform design.

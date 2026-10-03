@@ -6,9 +6,9 @@ category: "模型 API"
 website: "https://ai.google.dev"
 price: "Free"
 highlights:
-  - "Gemini 的多模态与 Google 开发入口，先用小流程验证再扩大。"
-  - "真正的价值在于少一次人工搬运，不是多一个聊天窗口。"
-  - "把成本、失败重试和人工兜底写进流程才经得起上线。"
+  - "一个 API 覆盖 Gemini 全系多模态模型"
+  - "超大上下文窗口和原生多模态输入"
+  - "企业级部署可走 Vertex AI 路线"
 usecases:
   - title: "先跑通一个重复动作"
     desc: "选一个每天都在复制、分类或查资料的动作，先做可观察的最小闭环。"

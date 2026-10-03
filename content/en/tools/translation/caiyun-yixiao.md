@@ -1,6 +1,6 @@
 ---
 title: "Caiyun Xiaoyi"
-description: "The pioneer of bilingual side-by-side web translation — read original and译文 together."
+description: "The pioneer of bilingual side-by-side web translation — read original and translated text together."
 translationKey: "caiyun-yixiao"
 category: "Translation"
 website: "https://fanyi.caiyunapp.com"
@@ -20,7 +20,7 @@ forwho:
   - "English learners reading foreign content"
   - "Reviewers comparing source and translation"
 notforwho:
-  - "Users wanting译文 only"
+  - "Users wanting translation only"
   - "Wide language-pair needs"
 faq:
   - q: "Is it free?"
@@ -29,7 +29,7 @@ faq:
     a: "Both do bilingual; Immersive supports more engines (DeepL/LLM), Caiyun's own engine is consistently good."
 ---
 
-Caiyun Xiaoyi pioneered the bilingual side-by-side pattern: translated pages show原文 and译文 paragraph by paragraph, so reading foreign articles doubles as language study. Its in-house EN↔ZH engine has long been respected domestically, and LLM translation has been added.
+Caiyun Xiaoyi pioneered the bilingual side-by-side pattern: translated pages show the original and its translation paragraph by paragraph, so reading foreign articles doubles as language study. Its in-house EN↔ZH engine has long been respected domestically, and LLM translation has been added.
 
 ## Strengths
 - Bilingual web translation

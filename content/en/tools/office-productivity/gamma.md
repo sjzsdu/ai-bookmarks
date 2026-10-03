@@ -11,29 +11,29 @@ faq:
   - q: "Does it work globally?"
     a: "Accessible worldwide, AI generation calls external APIs."
 highlights:
-  - "Use Gamma inside a real workflow, not as a novelty"
-  - "Review the output before you keep it"
-  - "Check free limits and sharing boundaries early"
+  - "One prompt to a full presentation"
+  - "Card-based layout adapts to content length"
+  - "Deck, webpage, and doc modes interchangeable"
 usecases:
-  - title: "Pre-delivery check"
-    desc: "Use Gamma for one deliberate final pass"
-  - title: "Repeatable work"
-    desc: "Turn a recurring cleanup step into a habit"
-  - title: "Team handoff"
-    desc: "Keep the conclusion tied to its source context"
+  - title: "Fast proposals"
+    desc: "Topic to presentable deck in minutes."
+  - title: "Web-style reports"
+    desc: "Shareable interactive pages instead of slides."
+  - title: "Format shifting"
+    desc: "Docs into decks or pages one-click."
 forwho:
-  - "People with a concrete job to finish"
-  - "Individuals or small teams willing to review AI output"
+  - "People presenting constantly"
+  - "Creators tired of formatting"
 notforwho:
-  - "Anyone expecting error-free output without review"
-  - "People seeking a one-click answer with no source material"
+  - "Projects needing precise design control"
+  - "Workflows requiring classic PPT"
 ---
 
-Gamma is most useful as a sharp helper inside a real job, not as a substitute for judgment. Try it for a week on work already in motion; a polished demo will not tell you whether it earns a permanent place.
+Gamma redefined 'making a deck': give it a topic or outline, get a full card-based presentation with layout that adapts to content, switchable between deck, page, and doc. Formatting time approaches zero.
 
 ## Getting started
 
-Start with one small task that is genuinely blocking you. Compare its result with your source, keep the steps that feel natural, and skip the ones that add ceremony. It can make the first draft and final pass much faster, but the last call is still yours.
+Prompt for an outline, adjust it, then generate the full set; export PDF or share the link for review.
 
 ## What you can do with it
 
@@ -43,8 +43,8 @@ Start with one small task that is genuinely blocking you. Compare its result wit
 
 ## Limits and gotchas
 
-A complete-looking answer is not automatically correct, formatted properly, or safe to share. Free plans often cap runs or exports. Test with non-sensitive material before connecting customer data or paying, and agree on who owns the final version when a team uses it.
+The card style is recognizable — formal settings may want traditional. Image quality rides AI generation. Quota ends fast without a subscription.
 
 ## Alternatives
 
-Notion is stronger for deep docs, Canva for presentation design, and Asana or ClickUp for heavier process management.
+Beautiful.ai for template governance, PowerPoint for classic flows, WPS AI for Chinese contexts.

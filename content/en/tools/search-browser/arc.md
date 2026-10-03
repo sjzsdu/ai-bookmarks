@@ -5,45 +5,46 @@ translationKey: "arc"
 category: "Search & Browser"
 website: "https://arc.net"
 price: "Free"
+highlights:
+  - "A bold UI rethink: Spaces and tabs as a new mental model"
+  - "Built-in AI that summarizes and acts on the current page"
+  - "Command Bar navigation is genuinely fast"
+usecases:
+  - title: "Project isolation"
+    desc: "Spaces keep each project's tabs apart."
+  - title: "Speed-reading"
+    desc: "AI summarizes long pages and videos."
+  - title: "Fast navigation"
+    desc: "Command Bar reaches pages, tabs, and actions."
+forwho:
+  - "Chronic tab-hoarders"
+  - "Product people who enjoy new interactions"
+notforwho:
+  - "Extension-ecosystem power users"
+  - "Windows users (features lag)"
 faq:
   - q: "Is it stable enough for daily use?"
     a: "Yes, it's been stable for over a year. Some features are Mac-first."
   - q: "Can I import my Chrome data?"
     a: "Yes, one-click import of bookmarks, history, and extensions."
-highlights:
-  - "Get a concrete first draft quickly"
-  - "Reduce repetitive setup work"
-  - "Keep human judgment in the real workflow"
-usecases:
-  - title: "First attempt"
-    desc: "Validate a direction with one narrow job before betting on a full project."
-  - title: "Iteration"
-    desc: "Keep a promising version and tighten the brief with real feedback."
-  - title: "Team discussion"
-    desc: "Bring a concrete draft so the conversation can focus on choices and trade-offs."
-forwho:
-  - "People validating a direction quickly"
-  - "Small teams willing to review an AI first pass"
-notforwho:
-  - "Anyone expecting unreviewed output to be publish-ready"
 ---
 
-I treat Arc Browser as a way to accelerate a first draft, not as a button that makes the final call. Try it on one real, narrow task first; whether it saves the next step matters more than a polished demo.
+Arc is the boldest browser rethink in a decade: tabs evolve into Spaces, pinned tabs, and splits, with an AI assistant that questions and acts on the current page. It assumes you'll relearn the browser — those who do rarely go back.
 
 ## Getting started
 
-State the goal, source material, or constraints clearly. Review one pass, then tighten the brief from actual feedback. Save the promising version—rarely is the first output the finished one.
+Create 2–3 Spaces to group current work, replace the address bar with Command Bar, and summon the AI with Cmd+T to question the page.
 
 ## What you can actually do
 
-- **First attempt**: make a concrete starting point for a real discussion.
-- **Iteration**: try a few versions against the same brief.
-- **Team discussion**: turn vague preferences into choices people can evaluate.
+- Spaces: project-level tab isolation
+- AI assistant: summarize, ask, fill forms
+- Splits and previews for side-by-side work
 
 ## Trade-offs and gotchas
 
-AI output is a candidate, not a fact source or final deliverable. Verify pricing, rights, detail, and time-sensitive claims; return to the source material for important work.
+Fast updates ship bugs. The Browser Company has pivoted to a new product (Dia), so long-term pacing is uncertain. RAM usage runs high.
 
 ## Alternatives
 
-Compare workflows rather than screenshots alone: some alternatives prioritize collaboration, some finer control, and others work better for a specific language, channel, or format.
+Edge Copilot and Opera Aria for steadier AI, Brave for privacy, Chrome for the mainstream.

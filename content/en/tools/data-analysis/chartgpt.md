@@ -11,29 +11,29 @@ faq:
   - q: "Do I need to upload data?"
     a: "You can upload data or describe it in text."
 highlights:
-  - "Use ChartGPT inside a real workflow, not as a novelty"
-  - "Review the output before you keep it"
-  - "Check free limits and sharing boundaries early"
+  - "Charts generated straight from a text description"
+  - "Auto chart-type and palette selection"
+  - "Presentation-ready visuals for decks and reports"
 usecases:
-  - title: "Pre-delivery check"
-    desc: "Use ChartGPT for one deliberate final pass"
-  - title: "Repeatable work"
-    desc: "Turn a recurring cleanup step into a habit"
-  - title: "Team handoff"
-    desc: "Keep the conclusion tied to its source context"
+  - title: "Report visuals"
+    desc: "Describe the data, get a usable chart."
+  - title: "Fast visualization"
+    desc: "Chart without opening a spreadsheet."
+  - title: "Variant comparison"
+    desc: "Multiple chart types from one dataset."
 forwho:
-  - "People with a concrete job to finish"
-  - "Individuals or small teams willing to review AI output"
+  - "Non-analysts who chart often"
+  - "Content creators"
 notforwho:
-  - "Anyone expecting error-free output without review"
-  - "People seeking a one-click answer with no source material"
+  - "Heavy data cleaning and modeling"
+  - "BI scenarios with strict precision"
 ---
 
-ChartGPT is most useful as a sharp helper inside a real job, not as a substitute for judgment. Try it for a week on work already in motion; a polished demo will not tell you whether it earns a permanent place.
+ChartGPT fixes 'I have data but can't chart': describe the expression you want and it generates the chart — type, palette, and report-ready output included.
 
 ## Getting started
 
-Start with one small task that is genuinely blocking you. Compare its result with your source, keep the steps that feel natural, and skip the ones that add ceremony. It can make the first draft and final pass much faster, but the last call is still yours.
+Describe the data and the emphasis together ('quarterly growth, highlight Q4'), then fine-tune the result.
 
 ## What you can do with it
 
@@ -43,8 +43,8 @@ Start with one small task that is genuinely blocking you. Compare its result wit
 
 ## Limits and gotchas
 
-A complete-looking answer is not automatically correct, formatted properly, or safe to share. Free plans often cap runs or exports. Test with non-sensitive material before connecting customer data or paying, and agree on who owns the final version when a team uses it.
+Reshape multi-table data into simple structures first. Output is presentation-grade, not publication-grade. Free usage is capped.
 
 ## Alternatives
 
-Hex suits deeper notebook work, Mode is stronger for BI modeling, and Julius is the quick conversational spreadsheet option.
+Julius for analysis after cleaning, Tableau/Power BI for BI-grade charts, Arcwise for in-sheet plotting.

@@ -11,29 +11,29 @@ faq:
   - q: "Do I need a data science background?"
     a: "No. The interface is designed for business users with zero ML experience."
 highlights:
-  - "Use Obviously AI inside a real workflow, not as a novelty"
-  - "Review the output before you keep it"
-  - "Check free limits and sharing boundaries early"
+  - "Spreadsheet to prediction model in about 30 seconds"
+  - "Zero code: pick a column, train, get a report"
+  - "One-click deployment as API and dashboard"
 usecases:
-  - title: "Pre-delivery check"
-    desc: "Use Obviously AI for one deliberate final pass"
-  - title: "Repeatable work"
-    desc: "Turn a recurring cleanup step into a habit"
-  - title: "Team handoff"
-    desc: "Keep the conclusion tied to its source context"
+  - title: "Fast prediction"
+    desc: "Sales, churn, and risk models quickly."
+  - title: "Signal testing"
+    desc: "Check whether data holds predictive signal."
+  - title: "Lightweight AI"
+    desc: "Predictions without an ML engineer."
 forwho:
-  - "People with a concrete job to finish"
-  - "Individuals or small teams willing to review AI output"
+  - "Business users validating ML value"
+  - "Small companies without算法 resources"
 notforwho:
-  - "Anyone expecting error-free output without review"
-  - "People seeking a one-click answer with no source material"
+  - "Scenarios needing explainability audits"
+  - "Large-scale feature engineering"
 ---
 
-Obviously AI is most useful as a sharp helper inside a real job, not as a substitute for judgment. Try it for a week on work already in motion; a polished demo will not tell you whether it earns a permanent place.
+Obviously AI sells speed: upload a CSV, pick the target, get a model and an interpretation report in about half a minute, deployable as an API. The floor is nearly zero — so is the ceiling.
 
 ## Getting started
 
-Start with one small task that is genuinely blocking you. Compare its result with your source, keep the steps that feel natural, and skip the ones that add ceremony. It can make the first draft and final pass much faster, but the last call is still yours.
+Run a classification on a few thousand clean rows first; read the feature importances to sanity-check business sense.
 
 ## What you can do with it
 
@@ -43,8 +43,8 @@ Start with one small task that is genuinely blocking you. Compare its result wit
 
 ## Limits and gotchas
 
-A complete-looking answer is not automatically correct, formatted properly, or safe to share. Free plans often cap runs or exports. Test with non-sensitive material before connecting customer data or paying, and agree on who owns the final version when a team uses it.
+Auto-modeling has a clear accuracy ceiling — don't lean on it for critical calls. Review data-privacy terms. Pricing climbs with frequency.
 
 ## Alternatives
 
-Hex suits deeper notebook work, Mode is stronger for BI modeling, and Julius is the quick conversational spreadsheet option.
+Akkio or Python for control, Tableau for BI, Julius for conversational analysis.

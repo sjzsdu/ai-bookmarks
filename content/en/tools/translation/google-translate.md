@@ -5,45 +5,46 @@ translationKey: "google-translate"
 category: "Translation"
 website: "https://translate.google.com"
 price: "Free"
+highlights:
+  - "The widest language coverage of any translator"
+  - "Mature live camera and conversation modes"
+  - "Deep integration with Google and Android"
+usecases:
+  - title: "Travel"
+    desc: "Point the camera at signs and menus."
+  - title: "Minor languages"
+    desc: "Often the only coverage available."
+  - title: "Full-page translation"
+    desc: "One click inside Chrome."
+forwho:
+  - "Travelers and multilingual environments"
+  - "Anyone needing rare languages"
+notforwho:
+  - "Quality long-form translation (DeepL)"
+  - "Use inside China without a proxy"
 faq:
   - q: "Is Google Translate accurate enough for professional use?"
     a: "For quick understanding, yes. For formal documents, use DeepL or human translation."
   - q: "Does it work offline?"
     a: "Yes, the mobile app lets you download language packs for offline use."
-highlights:
-  - "Get a concrete first draft quickly"
-  - "Reduce repetitive setup work"
-  - "Keep human judgment in the real workflow"
-usecases:
-  - title: "First attempt"
-    desc: "Validate a direction with one narrow job before betting on a full project."
-  - title: "Iteration"
-    desc: "Keep a promising version and tighten the brief with real feedback."
-  - title: "Team discussion"
-    desc: "Bring a concrete draft so the conversation can focus on choices and trade-offs."
-forwho:
-  - "People validating a direction quickly"
-  - "Small teams willing to review an AI first pass"
-notforwho:
-  - "Anyone expecting unreviewed output to be publish-ready"
 ---
 
-I treat Google Translate as a way to accelerate a first draft, not as a button that makes the final call. Try it on one real, narrow task first; whether it saves the next step matters more than a polished demo.
+Google Translate owns coverage: 130+ languages, live camera, conversation mode, full-page translation — the most complete feature set. Single-sentence quality has been surpassed by DeepL and LLMs, but 'any language, anywhere' remains unmatched.
 
 ## Getting started
 
-State the goal, source material, or constraints clearly. Review one pass, then tighten the brief from actual feedback. Save the promising version—rarely is the first output the finished one.
+Download offline packs for your language pairs on mobile; full-page translation is native in Chrome; conversation mode for face-to-face.
 
 ## What you can actually do
 
-- **First attempt**: make a concrete starting point for a real discussion.
-- **Iteration**: try a few versions against the same brief.
-- **Team discussion**: turn vague preferences into choices people can evaluate.
+- Text translation across 130+ languages
+- Camera/voice/conversation live modes
+- Whole-page and document translation
 
 ## Trade-offs and gotchas
 
-AI output is a candidate, not a fact source or final deliverable. Verify pricing, rights, detail, and time-sensitive claims; return to the source material for important work.
+Proxy required in China. Terminology consistency suffers on specialist documents. Minor-language quality varies — verify what matters.
 
 ## Alternatives
 
-Compare workflows rather than screenshots alone: some alternatives prioritize collaboration, some finer control, and others work better for a specific language, channel, or format.
+DeepL for European-language quality, Youdao for Chinese, Baidu and Microsoft for accessibility in China.

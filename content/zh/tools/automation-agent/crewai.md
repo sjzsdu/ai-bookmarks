@@ -6,9 +6,9 @@ category: "自动化与 Agent"
 website: "https://crewai.com"
 price: "Free / $50"
 highlights:
-  - "按角色分工的 Python Agent 团队，先用小流程验证再扩大。"
-  - "真正的价值在于少一次人工搬运，不是多一个聊天窗口。"
-  - "把成本、失败重试和人工兜底写进流程才经得起上线。"
+  - "角色化 Agent 编排：分工明确协同完成"
+  - "干净的 Python 抽象，多智能体上手友好"
+  - "任意 LLM 供应商开箱即用"
 usecases:
   - title: "先跑通一个重复动作"
     desc: "选一个每天都在复制、分类或查资料的动作，先做可观察的最小闭环。"

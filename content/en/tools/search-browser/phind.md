@@ -5,45 +5,46 @@ translationKey: "phind"
 category: "Search & Browser"
 website: "https://phind.com"
 price: "Free / $15"
+highlights:
+  - "Developer search that defaults to code answers"
+  - "Answer quality above general engines for technical queries"
+  - "VS Code plugin brings local code context"
+usecases:
+  - title: "Error triage"
+    desc: "Paste an error, get an actionable fix."
+  - title: "Approach comparison"
+    desc: "Multiple implementations for one requirement."
+  - title: "Tech onboarding"
+    desc: "Starter examples and common pitfalls."
+forwho:
+  - "Developers coding for a living"
+  - "People tired of blog-SEO hunting"
+notforwho:
+  - "Non-technical searches"
+  - "Brand-new frameworks (index lag)"
 faq:
   - q: "How does it differ from Perplexity?"
     a: "Phind is focused on programming and technical questions, with code examples and GitHub links."
   - q: "Can I use it for non-coding searches?"
     a: "You can, but it's optimized for technical queries."
-highlights:
-  - "Get a concrete first draft quickly"
-  - "Reduce repetitive setup work"
-  - "Keep human judgment in the real workflow"
-usecases:
-  - title: "First attempt"
-    desc: "Validate a direction with one narrow job before betting on a full project."
-  - title: "Iteration"
-    desc: "Keep a promising version and tighten the brief with real feedback."
-  - title: "Team discussion"
-    desc: "Bring a concrete draft so the conversation can focus on choices and trade-offs."
-forwho:
-  - "People validating a direction quickly"
-  - "Small teams willing to review an AI first pass"
-notforwho:
-  - "Anyone expecting unreviewed output to be publish-ready"
 ---
 
-I treat Phind as a way to accelerate a first draft, not as a button that makes the final call. Try it on one real, narrow task first; whether it saves the next step matters more than a polished demo.
+Phind shaped developer search into code-first form: questions return explained code blocks with sources, filtered of marketing noise. For daily coding it often beats Google to the answer.
 
 ## Getting started
 
-State the goal, source material, or constraints clearly. Review one pass, then tighten the brief from actual feedback. Save the promising version—rarely is the first output the finished one.
+Be specific — language, version, context — and paste full errors. Pro search adds multi-source depth.
 
 ## What you can actually do
 
-- **First attempt**: make a concrete starting point for a real discussion.
-- **Iteration**: try a few versions against the same brief.
-- **Team discussion**: turn vague preferences into choices people can evaluate.
+- Code Q&A with runnable examples by default
+- Source citations linking docs and threads
+- IDE integration for context-aware questions
 
 ## Trade-offs and gotchas
 
-AI output is a candidate, not a fact source or final deliverable. Verify pricing, rights, detail, and time-sensitive claims; return to the source material for important work.
+Niche languages and fresh libraries lag in the index. Run snippets before trusting them. Free usage is capped; Pro unlocks stronger models.
 
 ## Alternatives
 
-Compare workflows rather than screenshots alone: some alternatives prioritize collaboration, some finer control, and others work better for a specific language, channel, or format.
+Devv leans more doc-like, Perplexity for general AI search, AI coding assistants for direct conversation.

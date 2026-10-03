@@ -11,29 +11,29 @@ faq:
   - q: "Are the certificates worth it?"
     a: "Recognized by employers, especially Google, IBM, and Stanford certificates."
 highlights:
-  - "Use Coursera inside a real workflow, not as a novelty"
-  - "Review the output before you keep it"
-  - "Check free limits and sharing boundaries early"
+  - "Authentic courses from top universities and companies"
+  - "Certificates carry real hiring signals"
+  - "Coursera Coach AI tutoring rolling out"
 usecases:
-  - title: "Pre-delivery check"
-    desc: "Use Coursera for one deliberate final pass"
-  - title: "Repeatable work"
-    desc: "Turn a recurring cleanup step into a habit"
-  - title: "Team handoff"
-    desc: "Keep the conclusion tied to its source context"
+  - title: "Structured learning"
+    desc: "Specializations as complete paths."
+  - title: "Career certificates"
+    desc: "Google/IBM credentials for your resume."
+  - title: "Audit for free"
+    desc: "University course content without paying."
 forwho:
-  - "People with a concrete job to finish"
-  - "Individuals or small teams willing to review AI output"
+  - "Learners wanting structured paths"
+  - "Career switchers needing verifiable certificates"
 notforwho:
-  - "Anyone expecting error-free output without review"
-  - "People seeking a one-click answer with no source material"
+  - "Bite-size learners"
+  - "People needing one specific answer now"
 ---
 
-Coursera is most useful as a sharp helper inside a real job, not as a substitute for judgment. Try it for a week on work already in motion; a polished demo will not tell you whether it earns a permanent place.
+Coursera is the most 'official' MOOC platform: courses from Stanford, Yale, Google, and IBM, with complete specialization and certificate tracks — a staple for career switches and resume backing.
 
 ## Getting started
 
-Start with one small task that is genuinely blocking you. Compare its result with your source, keep the steps that feel natural, and skip the ones that add ceremony. It can make the first draft and final pass much faster, but the last call is still yours.
+Pick a specialization aligned to a job goal rather than single courses; audit mode is free, certificates cost money; set a weekly pace.
 
 ## What you can do with it
 
@@ -43,8 +43,8 @@ Start with one small task that is genuinely blocking you. Compare its result wit
 
 ## Limits and gotchas
 
-A complete-looking answer is not automatically correct, formatted properly, or safe to share. Free plans often cap runs or exports. Test with non-sensitive material before connecting customer data or paying, and agree on who owns the final version when a team uses it.
+Certificates don't guarantee jobs; quality varies by institution — check recent reviews. Subscription costs grow with slow progress.
 
 ## Alternatives
 
-Coursera is better for structured courses, Quizlet for drills and cards, and Elicit for evidence from papers.
+YouTube and Bilibili for bite-size learning, Elicit for literature, Brilliant for math intuition.

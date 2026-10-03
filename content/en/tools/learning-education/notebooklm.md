@@ -11,29 +11,29 @@ faq:
   - q: "What sources can it use?"
     a: "It accepts common documents and web sources; supported formats and limits are listed in the product."
 highlights:
-  - "Use NotebookLM inside a real workflow, not as a novelty"
-  - "Review the output before you keep it"
-  - "Check free limits and sharing boundaries early"
+  - "Your uploaded sources become a queryable knowledge base"
+  - "Answers restricted to your material with citations"
+  - "Audio Overview turns documents into podcast chats"
 usecases:
-  - title: "Pre-delivery check"
-    desc: "Use NotebookLM for one deliberate final pass"
-  - title: "Repeatable work"
-    desc: "Turn a recurring cleanup step into a habit"
-  - title: "Team handoff"
-    desc: "Keep the conclusion tied to its source context"
+  - title: "Paper study"
+    desc: "Multiple PDFs, question-driven retrieval."
+  - title: "Exam review"
+    desc: "Course materials as Q&A and audio."
+  - title: "Project knowledge"
+    desc: "Team docs as a grounded assistant."
 forwho:
-  - "People with a concrete job to finish"
-  - "Individuals or small teams willing to review AI output"
+  - "Researchers and students facing document piles"
+  - "Teams needing grounded Q&A"
 notforwho:
-  - "Anyone expecting error-free output without review"
-  - "People seeking a one-click answer with no source material"
+  - "Open-web questions (it only knows your sources)"
+  - "A replacement for search engines"
 ---
 
-NotebookLM is most useful as a sharp helper inside a real job, not as a substitute for judgment. Try it for a week on work already in motion; a polished demo will not tell you whether it earns a permanent place.
+NotebookLM (Google) is uniquely grounded: upload PDFs, links, and videos, and it summarizes, answers with citations, and even turns the material into a two-host podcast via Audio Overview.
 
 ## Getting started
 
-Start with one small task that is genuinely blocking you. Compare its result with your source, keep the steps that feel natural, and skip the ones that add ceremony. It can make the first draft and final pass much faster, but the last call is still yours.
+Create a notebook, upload core sources, verify the auto-summary against your understanding, then question and check citations.
 
 ## What you can do with it
 
@@ -43,8 +43,8 @@ Start with one small task that is genuinely blocking you. Compare its result wit
 
 ## Limits and gotchas
 
-A complete-looking answer is not automatically correct, formatted properly, or safe to share. Free plans often cap runs or exports. Test with non-sensitive material before connecting customer data or paying, and agree on who owns the final version when a team uses it.
+Answers bounded by your material — a feature and a limit. Upload long documents in batches. Citations occasionally need manual locating.
 
 ## Alternatives
 
-Coursera is better for structured courses, Quizlet for drills and cards, and Elicit for evidence from papers.
+General AI assistants for open-domain Q&A, Elicit for paper extraction, Notion AI for team knowledge.

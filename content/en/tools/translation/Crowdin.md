@@ -5,45 +5,46 @@ translationKey: "crowdin"
 category: "Translation"
 website: "https://crowdin.com"
 price: "Free / $40"
+highlights:
+  - "A de-facto standard for localization management"
+  - "Context previews and term locks cut mistranslation"
+  - "Real-time repo sync fits dev workflows"
+usecases:
+  - title: "App/software l10n"
+    desc: "String files synced with the repo, translated continuously."
+  - title: "Crowdsourcing"
+    desc: "Invite community translators with review flows."
+  - title: "Quality gates"
+    desc: "QA checks and termbases keep it consistent."
+forwho:
+  - "Software and game localization teams"
+  - "Products shipping many languages continuously"
+notforwho:
+  - "One-off document translation (overkill)"
+  - "Tiny-budget projects (free tier is limited)"
 faq:
   - q: "Is Crowdin just a translation tool?"
     a: "No, it's a localization project management platform. It connects to your code repo and manages the whole translation workflow."
   - q: "Is it free for open source?"
     a: "Yes, open source projects get free access to enterprise features."
-highlights:
-  - "Get a concrete first draft quickly"
-  - "Reduce repetitive setup work"
-  - "Keep human judgment in the real workflow"
-usecases:
-  - title: "First attempt"
-    desc: "Validate a direction with one narrow job before betting on a full project."
-  - title: "Iteration"
-    desc: "Keep a promising version and tighten the brief with real feedback."
-  - title: "Team discussion"
-    desc: "Bring a concrete draft so the conversation can focus on choices and trade-offs."
-forwho:
-  - "People validating a direction quickly"
-  - "Small teams willing to review an AI first pass"
-notforwho:
-  - "Anyone expecting unreviewed output to be publish-ready"
 ---
 
-I treat Crowdin as a way to accelerate a first draft, not as a button that makes the final call. Try it on one real, narrow task first; whether it saves the next step matters more than a polished demo.
+Crowdin is a flagship translation-management system: strings, documents, and translator collaboration under one roof, syncing live with GitHub-style repos so new copy flows straight into translation queues.
 
 ## Getting started
 
-State the goal, source material, or constraints clearly. Review one pass, then tighten the brief from actual feedback. Save the promising version—rarely is the first output the finished one.
+Connect a repo or upload resource files, set termbases and translation memory, then bring in translators or MT engines.
 
 ## What you can actually do
 
-- **First attempt**: make a concrete starting point for a real discussion.
-- **Iteration**: try a few versions against the same brief.
-- **Team discussion**: turn vague preferences into choices people can evaluate.
+- Repo sync between code and translations
+- Collaborative translation with roles and reviews
+- QA via termbases, memory, and checkers
 
 ## Trade-offs and gotchas
 
-AI output is a candidate, not a fact source or final deliverable. Verify pricing, rights, detail, and time-sensitive claims; return to the source material for important work.
+Pricing scales with hosted words — large projects cost real money. Setup has a learning curve. MT engine usage bills separately.
 
 ## Alternatives
 
-Compare workflows rather than screenshots alone: some alternatives prioritize collaboration, some finer control, and others work better for a specific language, channel, or format.
+Smartcat for a lighter cloud take, Phrase as a rival, Weblate as open source, DeepL API when no collaboration is needed.

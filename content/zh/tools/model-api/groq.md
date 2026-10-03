@@ -6,9 +6,9 @@ category: "模型 API"
 website: "https://groq.com"
 price: "Free"
 highlights:
-  - "极低延迟的开源模型推理，先用小流程验证再扩大。"
-  - "真正的价值在于少一次人工搬运，不是多一个聊天窗口。"
-  - "把成本、失败重试和人工兜底写进流程才经得起上线。"
+  - "LPU 推理带来极高的每秒 token 输出"
+  - "开源模型（Llama/Mixtral）近即时延迟"
+  - "OpenAI 兼容接口，迁移几乎零成本"
 usecases:
   - title: "先跑通一个重复动作"
     desc: "选一个每天都在复制、分类或查资料的动作，先做可观察的最小闭环。"

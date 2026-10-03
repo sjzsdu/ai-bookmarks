@@ -6,9 +6,9 @@ category: "自动化与 Agent"
 website: "https://www.langflow.org"
 price: "Free（开源）"
 highlights:
-  - "可视化搭建 LangChain 风格应用，先用小流程验证再扩大。"
-  - "真正的价值在于少一次人工搬运，不是多一个聊天窗口。"
-  - "把成本、失败重试和人工兜底写进流程才经得起上线。"
+  - "可视化画布编排 LangChain 与 LLM 工作流"
+  - "Python 原生：流程可导出成代码不被锁定"
+  - "开源社区组件生态增长快"
 usecases:
   - title: "先跑通一个重复动作"
     desc: "选一个每天都在复制、分类或查资料的动作，先做可观察的最小闭环。"

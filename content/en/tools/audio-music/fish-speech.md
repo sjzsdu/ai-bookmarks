@@ -5,45 +5,46 @@ translationKey: "fish-speech"
 category: "Audio & Music"
 website: "https://fish.audio"
 price: "Free"
+highlights:
+  - "Open TTS + cloning with Chinese as a strength"
+  - "Fast synthesis with friendly VRAM requirements"
+  - "Fast-moving community releases"
+usecases:
+  - title: "Chinese narration at scale"
+    desc: "Low-cost batch Chinese voice content."
+  - title: "Voice cloning"
+    desc: "Few-sample timbre replication for creative work."
+  - title: "Self-hosted service"
+    desc: "Stand up your own voice API."
+forwho:
+  - "Chinese-language content creators"
+  - "Developers wanting open cloning"
+notforwho:
+  - "Scenes demanding peak emotion"
+  - "Devices without any GPU"
 faq:
   - q: "How much audio do I need for cloning?"
     a: "A few seconds to a dozen seconds of sample audio is enough."
   - q: "Is it available globally?"
     a: "Yes, accessible directly in most regions with free credits."
-highlights:
-  - "Get a concrete first draft quickly"
-  - "Reduce repetitive setup work"
-  - "Keep human judgment in the real workflow"
-usecases:
-  - title: "First attempt"
-    desc: "Validate a direction with one narrow job before betting on a full project."
-  - title: "Iteration"
-    desc: "Keep a promising version and tighten the brief with real feedback."
-  - title: "Team discussion"
-    desc: "Bring a concrete draft so the conversation can focus on choices and trade-offs."
-forwho:
-  - "People validating a direction quickly"
-  - "Small teams willing to review an AI first pass"
-notforwho:
-  - "Anyone expecting unreviewed output to be publish-ready"
 ---
 
-I treat Fish Audio as a way to accelerate a first draft, not as a button that makes the final call. Try it on one real, narrow task first; whether it saves the next step matters more than a polished demo.
+Fish Speech (now Fish Audio) is a serious contender in open voice: low cloning barriers, strong Chinese, fast inference, and an open API — a common foundation for developers building their own voice services.
 
 ## Getting started
 
-State the goal, source material, or constraints clearly. Review one pass, then tighten the brief from actual feedback. Save the promising version—rarely is the first output the finished one.
+Test on the official hosted version first; once the voice and pace feel right, move to local or API. Reference audio quality caps cloning quality — record ten clean minutes.
 
 ## What you can actually do
 
-- **First attempt**: make a concrete starting point for a real discussion.
-- **Iteration**: try a few versions against the same brief.
-- **Team discussion**: turn vague preferences into choices people can evaluate.
+- Cloning: few-sample timbre replication
+- Multilingual TTS: balanced Chinese/English
+- Open API: hosted or self-deployed
 
 ## Trade-offs and gotchas
 
-AI output is a candidate, not a fact source or final deliverable. Verify pricing, rights, detail, and time-sensitive claims; return to the source material for important work.
+Cloning compliance is on you. Long-form coherence needs segmenting. Releases move fast — pin versions in production.
 
 ## Alternatives
 
-Compare workflows rather than screenshots alone: some alternatives prioritize collaboration, some finer control, and others work better for a specific language, channel, or format.
+ElevenLabs for the quality ceiling, ChatTTS for Chinese conversational tone, Azure TTS for managed service.

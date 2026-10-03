@@ -11,29 +11,29 @@ faq:
   - q: "Can I find existing study sets?"
     a: "Yes, 200M+ study sets covering most textbooks and exams."
 highlights:
-  - "Use Quizlet inside a real workflow, not as a novelty"
-  - "Review the output before you keep it"
-  - "Check free limits and sharing boundaries early"
+  - "The largest platform for flashcard learning"
+  - "AI-generated sets and adaptive Learn mode"
+  - "Huge library of shared card decks"
 usecases:
-  - title: "Pre-delivery check"
-    desc: "Use Quizlet for one deliberate final pass"
-  - title: "Repeatable work"
-    desc: "Turn a recurring cleanup step into a habit"
-  - title: "Team handoff"
-    desc: "Keep the conclusion tied to its source context"
+  - title: "Exam memorization"
+    desc: "Terms, vocab, and facts as cards."
+  - title: "Spaced self-testing"
+    desc: "Learn mode schedules review by mastery."
+  - title: "Shared decks"
+    desc: "Use decks others already built."
 forwho:
-  - "People with a concrete job to finish"
-  - "Individuals or small teams willing to review AI output"
+  - "Students with heavy memorization"
+  - "Language and medical learners"
 notforwho:
-  - "Anyone expecting error-free output without review"
-  - "People seeking a one-click answer with no source material"
+  - "Understanding-driven subjects"
+  - "Frequent users avoiding paywalls"
 ---
 
-Quizlet is most useful as a sharp helper inside a real job, not as a substitute for judgment. Try it for a week on work already in motion; a polished demo will not tell you whether it earns a permanent place.
+Quizlet is synonymous with flashcards: build your own or borrow shared decks, with Learn mode scheduling repetition by mastery — the exam-week memory machine.
 
 ## Getting started
 
-Start with one small task that is genuinely blocking you. Compare its result with your source, keep the steps that feel natural, and skip the ones that add ceremony. It can make the first draft and final pass much faster, but the last call is still yours.
+Search for an existing deck first; add your own only for gaps. Use Learn mode, not passive flipping.
 
 ## What you can do with it
 
@@ -43,8 +43,8 @@ Start with one small task that is genuinely blocking you. Compare its result wit
 
 ## Limits and gotchas
 
-A complete-looking answer is not automatically correct, formatted properly, or safe to share. Free plans often cap runs or exports. Test with non-sensitive material before connecting customer data or paying, and agree on who owns the final version when a team uses it.
+Free tier grows more limited and ad-heavy. Shared decks contain errors — proofread. AI features increasingly sit behind subscriptions.
 
 ## Alternatives
 
-Coursera is better for structured courses, Quizlet for drills and cards, and Elicit for evidence from papers.
+Anki as the open-source spaced-repetition king, Khan Academy for understanding, Elicit for papers.

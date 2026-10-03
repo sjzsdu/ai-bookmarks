@@ -6,9 +6,9 @@ category: "模型 API"
 website: "https://platform.moonshot.cn"
 price: "¥4 / 百万 tokens 起"
 highlights:
-  - "Kimi 背后的中文长上下文 API，先用小流程验证再扩大。"
-  - "真正的价值在于少一次人工搬运，不是多一个聊天窗口。"
-  - "把成本、失败重试和人工兜底写进流程才经得起上线。"
+  - "Kimi 模型以超长中文上下文理解见长"
+  - "OpenAI 兼容 API 接入简单稳定"
+  - "内建工具调用和联网搜索能力"
 usecases:
   - title: "先跑通一个重复动作"
     desc: "选一个每天都在复制、分类或查资料的动作，先做可观察的最小闭环。"

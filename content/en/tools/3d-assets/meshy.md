@@ -5,45 +5,46 @@ translationKey: "meshy"
 category: "3D & Assets"
 website: "https://meshy.ai"
 price: "Free / $20"
+highlights:
+  - "Text or image to textured 3D in under a minute"
+  - "Auto topology and PBR maps, engine-ready output"
+  - "Free tier covers personal projects and light production"
+usecases:
+  - title: "Game asset blocks"
+    desc: "Generate props and set pieces to validate scale in-engine."
+  - title: "Concept visualization"
+    desc: "Turn concept art into 3D to judge the form."
+  - title: "Texturing"
+    desc: "Auto-generate PBR materials for existing models."
+forwho:
+  - "Indie game developers"
+  - "Designers needing quick 3D prototypes"
+notforwho:
+  - "Teams demanding production-perfect topology"
+  - "Fully offline pipelines"
 faq:
   - q: "What can Meshy generate?"
     a: "Enter text descriptions or images and it auto-generates 3D models with textures."
   - q: "How's the model quality?"
     a: "Good for game prototypes and concept design. Fine modeling still needs professional tools."
-highlights:
-  - "Get a concrete first draft quickly"
-  - "Reduce repetitive setup work"
-  - "Keep human judgment in the real workflow"
-usecases:
-  - title: "First attempt"
-    desc: "Validate a direction with one narrow job before betting on a full project."
-  - title: "Iteration"
-    desc: "Keep a promising version and tighten the brief with real feedback."
-  - title: "Team discussion"
-    desc: "Bring a concrete draft so the conversation can focus on choices and trade-offs."
-forwho:
-  - "People validating a direction quickly"
-  - "Small teams willing to review an AI first pass"
-notforwho:
-  - "Anyone expecting unreviewed output to be publish-ready"
 ---
 
-I treat Meshy as a way to accelerate a first draft, not as a button that makes the final call. Try it on one real, narrow task first; whether it saves the next step matters more than a polished demo.
+Meshy is the smoothest on-ramp to generative 3D: a prompt or an image becomes a textured model in under a minute, with auto topology and PBR maps good enough to drop into Unity or Unreal rather than just admire.
 
 ## Getting started
 
-State the goal, source material, or constraints clearly. Review one pass, then tighten the brief from actual feedback. Save the promising version—rarely is the first output the finished one.
+Generate from text to explore direction, then switch to image mode to control the shape — img2-3D is far more predictable. Inspect wireframe and UVs after generation; touch up important assets in Blender first.
 
 ## What you can actually do
 
-- **First attempt**: make a concrete starting point for a real discussion.
-- **Iteration**: try a few versions against the same brief.
-- **Team discussion**: turn vague preferences into choices people can evaluate.
+- Text-to-3D: prompt to textured model
+- Image-to-3D: concept art into meshes
+- AI texturing: PBR materials for existing models
 
 ## Trade-offs and gotchas
 
-AI output is a candidate, not a fact source or final deliverable. Verify pricing, rights, detail, and time-sensitive claims; return to the source material for important work.
+Topology still tangles on complex shapes — characters and hard-surface pieces need manual cleanup. Free-tier outputs carry commercial-use limits; read the terms.
 
 ## Alternatives
 
-Compare workflows rather than screenshots alone: some alternatives prioritize collaboration, some finer control, and others work better for a specific language, channel, or format.
+Rodin (Hyper3D) for higher precision, Tencent Hunyuan3D for free unlimited, Sloyd for parametric game props.

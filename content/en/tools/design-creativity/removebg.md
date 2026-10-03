@@ -5,45 +5,46 @@ translationKey: "removebg"
 category: "Design & Creativity"
 website: "https://removebg.com"
 price: "Free / $1.99"
+highlights:
+  - "The industry standard for background removal"
+  - "Upload and get clean edges in seconds"
+  - "Mature API for automated pipelines"
+usecases:
+  - title: "White-background products"
+    desc: "Fast background cleanup for listing images."
+  - title: "ID photos"
+    desc: "Portrait cutouts with new backing colors."
+  - title: "Pipeline integration"
+    desc: "Auto-process uploads via API."
+forwho:
+  - "Users who need exactly one thing: cutout"
+  - "Developers wiring removal into workflows"
+notforwho:
+  - "Background/scene replacement (use Photoroom)"
+  - "High-volume use (per-image credits add up)"
 faq:
   - q: "What are the free tier limits?"
     a: "Free download is low-resolution, HD download requires payment or credits."
   - q: "How is the quality?"
     a: "Good for most scenes, complex edges like hair may need manual adjustment."
-highlights:
-  - "Get a concrete first draft quickly"
-  - "Reduce repetitive setup work"
-  - "Keep human judgment in the real workflow"
-usecases:
-  - title: "First attempt"
-    desc: "Validate a direction with one narrow job before betting on a full project."
-  - title: "Iteration"
-    desc: "Keep a promising version and tighten the brief with real feedback."
-  - title: "Team discussion"
-    desc: "Bring a concrete draft so the conversation can focus on choices and trade-offs."
-forwho:
-  - "People validating a direction quickly"
-  - "Small teams willing to review an AI first pass"
-notforwho:
-  - "Anyone expecting unreviewed output to be publish-ready"
 ---
 
-I treat Remove.bg as a way to accelerate a first draft, not as a button that makes the final call. Try it on one real, narrow task first; whether it saves the next step matters more than a polished demo.
+remove.bg does one thing supremely well: upload an image, receive a transparent-background cutout in seconds, with portrait and product edges that set the industry bar.
 
 ## Getting started
 
-State the goal, source material, or constraints clearly. Review one pass, then tighten the brief from actual feedback. Save the promising version—rarely is the first output the finished one.
+Upload on the web to try; free previews are watermarked and small, with HD/commercial downloads costing credits. Frequent use favors the API.
 
 ## What you can actually do
 
-- **First attempt**: make a concrete starting point for a real discussion.
-- **Iteration**: try a few versions against the same brief.
-- **Team discussion**: turn vague preferences into choices people can evaluate.
+- One-click removal for people, products, vehicles
+- API for automation-friendly integration
+- Batch cleanup of image libraries
 
 ## Trade-offs and gotchas
 
-AI output is a candidate, not a fact source or final deliverable. Verify pricing, rights, detail, and time-sensitive claims; return to the source material for important work.
+Free tier is small previews only. Semi-transparent edges (hair, glass) occasionally degrade. Credit pricing stings at volume.
 
 ## Alternatives
 
-Compare workflows rather than screenshots alone: some alternatives prioritize collaboration, some finer control, and others work better for a specific language, channel, or format.
+Photoroom for background swaps, Clipdrop for a multi-tool kit, open-source rembg for free local use.

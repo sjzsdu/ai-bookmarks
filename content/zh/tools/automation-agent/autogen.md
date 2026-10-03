@@ -6,9 +6,9 @@ category: "自动化与 Agent"
 website: "https://github.com/microsoft/autogen"
 price: "Free（开源）"
 highlights:
-  - "多 Agent 的对话、代码执行和人工接管，先用小流程验证再扩大。"
-  - "真正的价值在于少一次人工搬运，不是多一个聊天窗口。"
-  - "把成本、失败重试和人工兜底写进流程才经得起上线。"
+  - "多智能体对话：Agent 之间互相协作与互评"
+  - "微软背景的开源项目，v0.4 架构演进迅速"
+  - "支持代码执行型 Agent，任务结果可验证"
 usecases:
   - title: "先跑通一个重复动作"
     desc: "选一个每天都在复制、分类或查资料的动作，先做可观察的最小闭环。"

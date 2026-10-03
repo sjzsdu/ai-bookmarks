@@ -11,29 +11,29 @@ faq:
   - q: "What data formats does it support?"
     a: "CSV, Excel, JSON, and database connections."
 highlights:
-  - "Use Julius AI inside a real workflow, not as a novelty"
-  - "Review the output before you keep it"
-  - "Check free limits and sharing boundaries early"
+  - "Conversational analysis and charting over uploaded tables"
+  - "Runs real Python for stats and cleaning"
+  - "Transparent steps you can audit"
 usecases:
-  - title: "Pre-delivery check"
-    desc: "Use Julius AI for one deliberate final pass"
-  - title: "Repeatable work"
-    desc: "Turn a recurring cleanup step into a habit"
-  - title: "Team handoff"
-    desc: "Keep the conclusion tied to its source context"
+  - title: "Data Q&A"
+    desc: "Ask questions, get statistical answers."
+  - title: "Cleaning"
+    desc: "Handle missing values and formats automatically."
+  - title: "Visualization"
+    desc: "Charts generated through dialogue."
 forwho:
-  - "People with a concrete job to finish"
-  - "Individuals or small teams willing to review AI output"
+  - "People who read conclusions, not code"
+  - "Researchers needing fast results"
 notforwho:
-  - "Anyone expecting error-free output without review"
-  - "People seeking a one-click answer with no source material"
+  - "Enterprise BI and governance"
+  - "Very large datasets (cloud limits)"
 ---
 
-Julius AI is most useful as a sharp helper inside a real job, not as a substitute for judgment. Try it for a week on work already in motion; a polished demo will not tell you whether it earns a permanent place.
+Julius is a conversational data analyst: upload a CSV/Excel, ask in plain language, and it writes and runs real Python for statistics, cleaning, and plots — showing its steps for audit.
 
 ## Getting started
 
-Start with one small task that is genuinely blocking you. Compare its result with your source, keep the steps that feel natural, and skip the ones that add ceremony. It can make the first draft and final pass much faster, but the last call is still yours.
+Upload, ask for a data overview first, then question by question. Request the code for any load-bearing conclusion.
 
 ## What you can do with it
 
@@ -43,8 +43,8 @@ Start with one small task that is genuinely blocking you. Compare its result wit
 
 ## Limits and gotchas
 
-A complete-looking answer is not automatically correct, formatted properly, or safe to share. Free plans often cap runs or exports. Test with non-sensitive material before connecting customer data or paying, and agree on who owns the final version when a team uses it.
+Be careful with sensitive data in the cloud. Check that statistical methods are appropriate. Message-based billing climbs with heavy use.
 
 ## Alternatives
 
-Hex suits deeper notebook work, Mode is stronger for BI modeling, and Julius is the quick conversational spreadsheet option.
+Hex/Deepnote for engineering collaboration, Arcwise in-sheet, Akkio for predictive modeling.

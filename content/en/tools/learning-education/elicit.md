@@ -11,29 +11,29 @@ faq:
   - q: "Can it do full literature reviews?"
     a: "It can synthesize findings across papers, but you still need to review and edit."
 highlights:
-  - "Use Elicit inside a real workflow, not as a novelty"
-  - "Review the output before you keep it"
-  - "Check free limits and sharing boundaries early"
+  - "AI reads papers: methods, samples, outcomes extracted"
+  - "Evidence screening by study design"
+  - "Massive speedup for literature reviews"
 usecases:
-  - title: "Pre-delivery check"
-    desc: "Use Elicit for one deliberate final pass"
-  - title: "Repeatable work"
-    desc: "Turn a recurring cleanup step into a habit"
-  - title: "Team handoff"
-    desc: "Keep the conclusion tied to its source context"
+  - title: "Screening"
+    desc: "Judge which papers deserve a full read."
+  - title: "Evidence tables"
+    desc: "Key data across studies in one grid."
+  - title: "Methods reference"
+    desc: "Find how similar studies were designed."
 forwho:
-  - "People with a concrete job to finish"
-  - "Individuals or small teams willing to review AI output"
+  - "Grad students and researchers"
+  - "Evidence-based practitioners in policy and health"
 notforwho:
-  - "Anyone expecting error-free output without review"
-  - "People seeking a one-click answer with no source material"
+  - "A substitute for careful reading"
+  - "Non-academic information needs"
 ---
 
-Elicit is most useful as a sharp helper inside a real job, not as a substitute for judgment. Try it for a week on work already in motion; a polished demo will not tell you whether it earns a permanent place.
+Elicit hands the slowest part of 'reading papers' to AI: extracting methods, sample sizes, and outcomes into comparable evidence tables. A genuinely practical tool for the review stage.
 
 ## Getting started
 
-Start with one small task that is genuinely blocking you. Compare its result with your source, keep the steps that feel natural, and skip the ones that add ceremony. It can make the first draft and final pass much faster, but the last call is still yours.
+Start from one clear research question, import a paper set, and have it extract columns matching your focus; spot-check extraction accuracy first.
 
 ## What you can do with it
 
@@ -43,8 +43,8 @@ Start with one small task that is genuinely blocking you. Compare its result wit
 
 ## Limits and gotchas
 
-A complete-looking answer is not automatically correct, formatted properly, or safe to share. Free plans often cap runs or exports. Test with non-sensitive material before connecting customer data or paying, and agree on who owns the final version when a team uses it.
+Extraction can err — verify key data against source. Coverage leans English. Free quota is limited.
 
 ## Alternatives
 
-Coursera is better for structured courses, Quizlet for drills and cards, and Elicit for evidence from papers.
+Consensus for consensus meters, Wolfram Alpha for computation, Zotero for full-text management.

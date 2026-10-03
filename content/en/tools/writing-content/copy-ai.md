@@ -11,29 +11,29 @@ faq:
   - q: "How is the Chinese content quality?"
     a: "English is its strength, Chinese output is less polished. Pair with other tools for Chinese content."
 highlights:
-  - "Use Copy.ai inside a real workflow, not as a novelty"
-  - "Review the output before you keep it"
-  - "Check free limits and sharing boundaries early"
+  - "A marketing template library covering everything"
+  - "Workflow mode automates copy pipelines"
+  - "Free tier to try the core"
 usecases:
-  - title: "Pre-delivery check"
-    desc: "Use Copy.ai for one deliberate final pass"
-  - title: "Repeatable work"
-    desc: "Turn a recurring cleanup step into a habit"
-  - title: "Team handoff"
-    desc: "Keep the conclusion tied to its source context"
+  - title: "Ads & social"
+    desc: "Multi-platform variants in batch."
+  - title: "Email sequences"
+    desc: "Automated marketing email drafting."
+  - title: "Brand voice"
+    desc: "Set the tone once, apply everywhere."
 forwho:
-  - "People with a concrete job to finish"
-  - "Individuals or small teams willing to review AI output"
+  - "Small marketing teams on many channels"
+  - "Freelance marketers"
 notforwho:
-  - "Anyone expecting error-free output without review"
-  - "People seeking a one-click answer with no source material"
+  - "Deep long-form writing"
+  - "Chinese-first copy needs"
 ---
 
-Copy.ai is most useful as a sharp helper inside a real job, not as a substitute for judgment. Try it for a week on work already in motion; a polished demo will not tell you whether it earns a permanent place.
+Copy.ai started as copy templates and grew into a marketing workflow platform: dozens of templates plus pipelines chaining research, generation, and polish for batch content production.
 
 ## Getting started
 
-Start with one small task that is genuinely blocking you. Compare its result with your source, keep the steps that feel natural, and skip the ones that add ceremony. It can make the first draft and final pass much faster, but the last call is still yours.
+Try ad and social templates first; build workflows (trend-scan → generate → review) once output becomes routine.
 
 ## What you can do with it
 
@@ -43,8 +43,8 @@ Start with one small task that is genuinely blocking you. Compare its result wit
 
 ## Limits and gotchas
 
-A complete-looking answer is not automatically correct, formatted properly, or safe to share. Free plans often cap runs or exports. Test with non-sensitive material before connecting customer data or paying, and agree on who owns the final version when a team uses it.
+English copy outshines its Chinese. Workflows burn credits fast. Templated output needs a human pass for personality.
 
 ## Alternatives
 
-Hemingway is better for plain readability; QuillBot is more rewrite-oriented; Microsoft Editor is the convenient Word-native option.
+Writesonic for SEO long-form, Writer for enterprise, Mita Xiezuocat for Chinese marketing copy.

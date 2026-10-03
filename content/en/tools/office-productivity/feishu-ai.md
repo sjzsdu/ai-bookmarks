@@ -11,29 +11,29 @@ faq:
   - q: "How does it compare to Notion AI?"
     a: "Feishu AI has better direct access in China and stronger collaboration; Notion has richer ecosystem and templates."
 highlights:
-  - "Use Feishu AI inside a real workflow, not as a novelty"
-  - "Review the output before you keep it"
-  - "Check free limits and sharing boundaries early"
+  - "AI across the Feishu suite: docs, sheets, meetings"
+  - "Miaoji meeting minutes with solid accuracy"
+  - "Q&A grounded in your company knowledge base"
 usecases:
-  - title: "Pre-delivery check"
-    desc: "Use Feishu AI for one deliberate final pass"
-  - title: "Repeatable work"
-    desc: "Turn a recurring cleanup step into a habit"
-  - title: "Team handoff"
-    desc: "Keep the conclusion tied to its source context"
+  - title: "Meeting minutes"
+    desc: "Transcription with decisions and todos extracted."
+  - title: "Doc writing"
+    desc: "AI continue and polish inside Feishu docs."
+  - title: "Internal search"
+    desc: "Ask policies and project docs directly."
 forwho:
-  - "People with a concrete job to finish"
-  - "Individuals or small teams willing to review AI output"
+  - "Teams already collaborating on Feishu"
+  - "Managers wiring AI into workflows"
 notforwho:
-  - "Anyone expecting error-free output without review"
-  - "People seeking a one-click answer with no source material"
+  - "Non-Feishu organizations"
+  - "Personal standalone productivity"
 ---
 
-Feishu AI is most useful as a sharp helper inside a real job, not as a substitute for judgment. Try it for a week on work already in motion; a polished demo will not tell you whether it earns a permanent place.
+Feishu's AI lives inside the collaboration flow: continue-writing in docs, Miaoji transcribing meetings, formula generation in sheets, Q&A over company knowledge — native steps, no tool switching.
 
 ## Getting started
 
-Start with one small task that is genuinely blocking you. Compare its result with your source, keep the steps that feel natural, and skip the ones that add ceremony. It can make the first draft and final pass much faster, but the last call is still yours.
+Type '/' in a cloud doc for AI commands; enable Miaoji for auto transcription; admins connect the knowledge base for internal Q&A.
 
 ## What you can do with it
 
@@ -43,8 +43,8 @@ Start with one small task that is genuinely blocking you. Compare its result wit
 
 ## Limits and gotchas
 
-A complete-looking answer is not automatically correct, formatted properly, or safe to share. Free plans often cap runs or exports. Test with non-sensitive material before connecting customer data or paying, and agree on who owns the final version when a team uses it.
+Features tier by plan — advanced needs enterprise editions. Data flows within Feishu cloud; assess compliance internally. Non-Feishu file support is limited.
 
 ## Alternatives
 
-Notion is stronger for deep docs, Canva for presentation design, and Asana or ClickUp for heavier process management.
+DingTalk AI is the direct counterpart, Notion AI for personal docs, general assistants for writing.

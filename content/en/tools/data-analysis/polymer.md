@@ -11,29 +11,29 @@ faq:
   - q: "What data sources does it support?"
     a: "CSV, Excel, Google Sheets, Airtable, and more."
 highlights:
-  - "Use Polymer inside a real workflow, not as a novelty"
-  - "Review the output before you keep it"
-  - "Check free limits and sharing boundaries early"
+  - "Spreadsheets become searchable smart dashboards instantly"
+  - "AI flags anomalies and insight points"
+  - "Easy sharing and embedding for demos"
 usecases:
-  - title: "Pre-delivery check"
-    desc: "Use Polymer for one deliberate final pass"
-  - title: "Repeatable work"
-    desc: "Turn a recurring cleanup step into a habit"
-  - title: "Team handoff"
-    desc: "Keep the conclusion tied to its source context"
+  - title: "Data presentation"
+    desc: "Static tables into interactive boards."
+  - title: "Sales analysis"
+    desc: "Order data sliced by dimensions fast."
+  - title: "Client reporting"
+    desc: "Lightweight ways to show customers data."
 forwho:
-  - "People with a concrete job to finish"
-  - "Individuals or small teams willing to review AI output"
+  - "Ops folks making data presentable"
+  - "Teams demoing data to clients"
 notforwho:
-  - "Anyone expecting error-free output without review"
-  - "People seeking a one-click answer with no source material"
+  - "Deep analytical modeling"
+  - "Complex data governance"
 ---
 
-Polymer is most useful as a sharp helper inside a real job, not as a substitute for judgment. Try it for a week on work already in motion; a polished demo will not tell you whether it earns a permanent place.
+Polymer plays the presentation layer: upload a table and it builds a searchable, filterable interactive board, flagging anomalies and insights — data made 'showable' fast.
 
 ## Getting started
 
-Start with one small task that is genuinely blocking you. Compare its result with your source, keep the steps that feel natural, and skip the ones that add ceremony. It can make the first draft and final pass much faster, but the last call is still yours.
+Upload clean structured data, review the default board, then tune dimensions and metric priority.
 
 ## What you can do with it
 
@@ -43,8 +43,8 @@ Start with one small task that is genuinely blocking you. Compare its result wit
 
 ## Limits and gotchas
 
-A complete-looking answer is not automatically correct, formatted properly, or safe to share. Free plans often cap runs or exports. Test with non-sensitive material before connecting customer data or paying, and agree on who owns the final version when a team uses it.
+Analysis depth is limited by design. Updates need re-uploads or a configured connection. Free tier caps data size.
 
 ## Alternatives
 
-Hex suits deeper notebook work, Mode is stronger for BI modeling, and Julius is the quick conversational spreadsheet option.
+Tableau/Power BI for heavy BI, Julius/Hex for analysis, Akkio for modeling.

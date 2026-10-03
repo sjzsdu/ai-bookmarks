@@ -11,29 +11,29 @@ faq:
   - q: "Is it good for individuals?"
     a: "Yes, the free tier has enough for personal use. Mainly designed for data teams."
 highlights:
-  - "Use Hex inside a real workflow, not as a novelty"
-  - "Review the output before you keep it"
-  - "Check free limits and sharing boundaries early"
+  - "SQL, Python, and charts in one notebook"
+  - "Team collaboration plus report publishing"
+  - "AI assistant writes queries and reads results"
 usecases:
-  - title: "Pre-delivery check"
-    desc: "Use Hex for one deliberate final pass"
-  - title: "Repeatable work"
-    desc: "Turn a recurring cleanup step into a habit"
-  - title: "Team handoff"
-    desc: "Keep the conclusion tied to its source context"
+  - title: "Analysis projects"
+    desc: "SQL pulls plus Python processing end to end."
+  - title: "Data apps"
+    desc: "Publish analyses as interactive pages."
+  - title: "Team review"
+    desc: "Colleagues comment and re-run in place."
 forwho:
-  - "People with a concrete job to finish"
-  - "Individuals or small teams willing to review AI output"
+  - "Data analysts and scientists"
+  - "Teams operationalizing notebooks"
 notforwho:
-  - "Anyone expecting error-free output without review"
-  - "People seeking a one-click answer with no source material"
+  - "Pure SQL pulls (overkill)"
+  - "Business users with no code background"
 ---
 
-Hex is most useful as a sharp helper inside a real job, not as a substitute for judgment. Try it for a week on work already in motion; a polished demo will not tell you whether it earns a permanent place.
+Hex is the collaborative notebook for data teams: SQL and Python cells mixed, charts and controls embedded in the analysis, published as interactive reports — no more work stranded in .ipynb files.
 
 ## Getting started
 
-Start with one small task that is genuinely blocking you. Compare its result with your source, keep the steps that feel natural, and skip the ones that add ceremony. It can make the first draft and final pass much faster, but the last call is still yours.
+Connect a warehouse, run a SQL cell, convert results to a DataFrame for Python; use layout mode to shape the final report.
 
 ## What you can do with it
 
@@ -43,8 +43,8 @@ Start with one small task that is genuinely blocking you. Compare its result wit
 
 ## Limits and gotchas
 
-A complete-looking answer is not automatically correct, formatted properly, or safe to share. Free plans often cap runs or exports. Test with non-sensitive material before connecting customer data or paying, and agree on who owns the final version when a team uses it.
+Per-seat pricing needs team planning. Environment management for heavy notebooks has a learning curve. Free tier limits projects and collaborators.
 
 ## Alternatives
 
-Hex suits deeper notebook work, Mode is stronger for BI modeling, and Julius is the quick conversational spreadsheet option.
+Deepnote for lighter collaboration, Mode for BI publishing, Jupyter as the free local option.

@@ -5,45 +5,46 @@ translationKey: "canva"
 category: "Design & Creativity"
 website: "https://canva.com"
 price: "Free / $13"
+highlights:
+  - "A template for nearly every design scenario"
+  - "Magic Studio AI: cutout, expand, rewrite — all handy"
+  - "Mature team collaboration and Brand Kit"
+usecases:
+  - title: "Marketing collateral"
+    desc: "Posters, covers, decks — pick a template and go."
+  - title: "Brand management"
+    desc: "Lock brand colors and fonts in Brand Kit."
+  - title: "Quick retouching"
+    desc: "Background removal and magic eraser in-editor."
+forwho:
+  - "Non-designers in ops and admin"
+  - "Small teams producing collateral together"
+notforwho:
+  - "Precision-driven designers (constraints chafe)"
+  - "Offline environments (cloud-first)"
 faq:
   - q: "Does Canva work globally?"
     a: "Yes, accessible worldwide with Chinese version available."
   - q: "Is the free tier enough?"
     a: "Most templates and features are free. AI features and premium assets need Pro."
-highlights:
-  - "Get a concrete first draft quickly"
-  - "Reduce repetitive setup work"
-  - "Keep human judgment in the real workflow"
-usecases:
-  - title: "First attempt"
-    desc: "Validate a direction with one narrow job before betting on a full project."
-  - title: "Iteration"
-    desc: "Keep a promising version and tighten the brief with real feedback."
-  - title: "Team discussion"
-    desc: "Bring a concrete draft so the conversation can focus on choices and trade-offs."
-forwho:
-  - "People validating a direction quickly"
-  - "Small teams willing to review an AI first pass"
-notforwho:
-  - "Anyone expecting unreviewed output to be publish-ready"
 ---
 
-I treat Canva as a way to accelerate a first draft, not as a button that makes the final call. Try it on one real, narrow task first; whether it saves the next step matters more than a polished demo.
+Canva's position is hard to displace: massive templates, drag-and-drop editing, and a full AI toolkit let non-designers produce respectable work. With Magic Studio, cutout, erase, and expand no longer require another app.
 
 ## Getting started
 
-State the goal, source material, or constraints clearly. Review one pass, then tighten the brief from actual feedback. Save the promising version—rarely is the first output the finished one.
+Search by scenario (e.g. 'Instagram post'), pick a template, swap text and images. Save brand colors and logo to Brand Kit for one-click application later.
 
 ## What you can actually do
 
-- **First attempt**: make a concrete starting point for a real discussion.
-- **Iteration**: try a few versions against the same brief.
-- **Team discussion**: turn vague preferences into choices people can evaluate.
+- Template editing across millions of layouts
+- AI photo tools: cutout, erase, expand, enhance
+- Team features: comments, approvals, brand assets
 
 ## Trade-offs and gotchas
 
-AI output is a candidate, not a fact source or final deliverable. Verify pricing, rights, detail, and time-sensitive claims; return to the source material for important work.
+Premium templates and AI features sit behind paid tiers; confirm commercial rights on the free plan. Template-heavy designs look alike — personalize before publishing.
 
 ## Alternatives
 
-Compare workflows rather than screenshots alone: some alternatives prioritize collaboration, some finer control, and others work better for a specific language, channel, or format.
+Gaoding for Chinese templates, Brandmark or Looka for logos, Figma for professional UI.
