@@ -10,34 +10,41 @@ highlights:
   - "Microsoft-backed open source with a fast-moving v0.4 architecture"
   - "Code-executing agents for verified, hands-off task completion"
 usecases:
-  - title: "Validate one repetitive job"
-    desc: "Turn a copying, sorting, or research task into a small observable loop first."
-  - title: "Keep a human handoff"
-    desc: "Require review before external messages, database writes, or spend."
+  - title: "Multi-agent research"
+    desc: "Agents split work, debate, and cross-check conclusions."
+  - title: "Code generation"
+    desc: "Agents write, run, and self-correct from execution output."
+  - title: "Human-in-the-loop"
+    desc: "Pause for review at critical decision points."
 forwho:
-  - "Product and operations teams willing to test with real workflows"
-  - "Developers who can maintain integrations and failure handling"
+  - "Developers researching multi-agent systems"
+  - "Engineering teams needing verifiable execution"
 notforwho:
-  - "Teams expecting zero setup and fully autonomous judgment"
+  - "No-code users"
+  - "Single-assistant use cases"
 faq:
-  - q: "Where should I start?"
-    a: "Pick a low-risk workflow with human review, then track quality, time saved, and actual cost."
-  - q: "Is it ready for production?"
-    a: "Potentially, after you add access control, rate limits, logs, retries, and an escalation path."
+  - q: "AutoGen or CrewAI?"
+    a: "AutoGen excels at conversational collaboration and code execution; CrewAI's role abstraction is simpler. For deep Python work, AutoGen."
+  - q: "Does it cost money?"
+    a: "The framework is free and open source; you pay your model provider for calls."
 ---
-AutoGen is worth considering when you specifically need **multi-agent conversations and code execution**. Start with one narrow, measurable workflow instead of treating it as a generic AI add-on.
+
+AutoGen is Microsoft's open-source multi-agent framework built on conversation: a planner agent, an executor, and a critic talk to each other, critique, and revise until the job is done.
 
 ## Getting started
-Use realistic but redacted data in a read-only proof of concept. Check access, rate limits, failure notifications, and the cost of a normal week before connecting anything that writes or sends.
+
+Start with the official notebooks: two-agent conversation first, understand the assistant/user-proxy split, then add code execution and human review.
 
 ## What you can actually do
-- Turn incoming documents, forms, or requests into a reviewable first draft.
-- Give support, sales, or research a first pass at retrieval, classification, and summarization.
-- Connect a bounded API action, such as looking up a record, creating a task, or routing an exception.
-- Compare prompts or model settings on a small sample before changing a live workflow.
+
+- Conversational orchestration with speaker order and rules
+- Code-executing agents that self-correct from errors
+- Human callbacks at key decision points
 
 ## Trade-offs and gotchas
-The attractive demo is the easy part. Production needs explicit ownership for bad inputs, permissions, retries, occasional wrong output, and spend limits. Do not remove the human review step until you have measured real failures.
+
+Multi-agent debugging costs far more than single-agent — runaway conversation loops burn tokens fast. v0.4 broke APIs from older versions; check tutorial versions.
 
 ## Alternatives
-Choose a lower-code alternative when speed of setup matters, a self-hosted option when data control matters, or a code-first framework when the workflow needs tests and fine-grained behavior. Those priorities usually pull in different directions.
+
+CrewAI for simpler role abstraction, Langflow and Flowise for visual builds, Dify for a ready-made product.

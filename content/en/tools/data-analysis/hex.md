@@ -37,9 +37,9 @@ Connect a warehouse, run a SQL cell, convert results to a DataFrame for Python; 
 
 ## What you can do with it
 
-- Ask a CSV about trends and outliers, then verify the claim in the rows.
-- Build charts and a traceable narrative for an ops report instead of handing over a screenshot.
-- Probe an analysis in plain language before turning important calculations into a repeatable workflow.
+- Chain SQL pulls, Python cleaning, and charts inside one notebook.
+- Publish analyses as interactive reports with filters business users can drive.
+- Use the AI assistant to draft SQL and explain existing queries.
 
 ## Limits and gotchas
 

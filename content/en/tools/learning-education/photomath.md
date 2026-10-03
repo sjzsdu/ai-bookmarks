@@ -37,9 +37,9 @@ After snapping, attempt from step one yourself before revealing the next; a subs
 
 ## What you can do with it
 
-- Break a fuzzy topic into a ten-minute exercise instead of rereading an explanation.
-- Review for an exam or interview with mistakes, flashcards, or questions over your own material.
-- Ask about a confusing derivation, then redo it yourself.
+- Snap a quadratic problem and find exactly which step tripped you.
+- Drag coefficients in the interactive graph to see the parabola change.
+- Parents verify homework steps from the scan in seconds.
 
 ## Limits and gotchas
 

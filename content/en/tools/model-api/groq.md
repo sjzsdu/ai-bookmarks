@@ -10,34 +10,41 @@ highlights:
   - "Run open models (Llama, Mixtral) at near-instant latency"
   - "Simple OpenAI-compatible endpoint for easy migration"
 usecases:
-  - title: "Validate one repetitive job"
-    desc: "Turn a copying, sorting, or research task into a small observable loop first."
-  - title: "Keep a human handoff"
-    desc: "Require review before external messages, database writes, or spend."
+  - title: "Low-latency chat"
+    desc: "LPU inference makes open models instant."
+  - title: "Voice-class apps"
+    desc: "Token throughput fits real-time UX."
+  - title: "Open-model sampling"
+    desc: "Free tier to compare models quickly."
 forwho:
-  - "Product and operations teams willing to test with real workflows"
-  - "Developers who can maintain integrations and failure handling"
+  - "Latency-sensitive applications"
+  - "Devs trialing open models cheaply"
 notforwho:
-  - "Teams expecting zero setup and fully autonomous judgment"
+  - "Latest closed-model capability"
+  - "High-volume production (plan rate limits)"
 faq:
-  - q: "Where should I start?"
-    a: "Pick a low-risk workflow with human review, then track quality, time saved, and actual cost."
-  - q: "Is it ready for production?"
-    a: "Potentially, after you add access control, rate limits, logs, retries, and an escalation path."
+  - q: "Which models run on Groq?"
+    a: "Open models mainly — Llama, Mixtral, Qwen, DeepSeek; see the live models page."
+  - q: "Why is it fast?"
+    a: "Custom LPU inference chips tuned for LLM workloads — leading throughput and time-to-first-token."
 ---
-Groq is worth considering when you specifically need **very-low-latency open-model inference**. Start with one narrow, measurable workflow instead of treating it as a generic AI add-on.
+
+Groq runs open models on custom LPU chips at near-instant speed: hundreds to thousands of tokens per second, the first production-grade fluency for chat and voice apps.
 
 ## Getting started
-Use realistic but redacted data in a read-only proof of concept. Check access, rate limits, failure notifications, and the cost of a normal week before connecting anything that writes or sends.
+
+Grab a free key and swap the OpenAI-compatible base_url to Groq; mind the free-tier rate limits.
 
 ## What you can actually do
-- Turn incoming documents, forms, or requests into a reviewable first draft.
-- Give support, sales, or research a first pass at retrieval, classification, and summarization.
-- Connect a bounded API action, such as looking up a record, creating a task, or routing an exception.
-- Compare prompts or model settings on a small sample before changing a live workflow.
+
+- OpenAI-compatible API — one line to migrate
+- Llama/Mixtral/Qwen and more
+- Hundreds of tokens/second output
 
 ## Trade-offs and gotchas
-The attractive demo is the easy part. Production needs explicit ownership for bad inputs, permissions, retries, occasional wrong output, and spend limits. Do not remove the human review step until you have measured real failures.
+
+The model list shifts with policy — confirm before depending on one. Strict rate limits; production wants paid tiers. Context windows run smaller.
 
 ## Alternatives
-Choose a lower-code alternative when speed of setup matters, a self-hosted option when data control matters, or a code-first framework when the workflow needs tests and fine-grained behavior. Those priorities usually pull in different directions.
+
+Together/OpenRouter for model breadth, Ollama for local, official APIs for closed-model capability.

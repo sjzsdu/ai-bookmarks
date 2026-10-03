@@ -37,9 +37,9 @@ Upload clean structured data, review the default board, then tune dimensions and
 
 ## What you can do with it
 
-- Ask a CSV about trends and outliers, then verify the claim in the rows.
-- Build charts and a traceable narrative for an ops report instead of handing over a screenshot.
-- Probe an analysis in plain language before turning important calculations into a repeatable workflow.
+- Turn an order sheet into a searchable, filterable board your team can self-serve.
+- Let AI flag anomalies and trend points worth attention.
+- Publish branded data pages for client-ready reporting.
 
 ## Limits and gotchas
 

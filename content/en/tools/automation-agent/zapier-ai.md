@@ -10,34 +10,41 @@ highlights:
   - "AI steps and Agents woven into classic Zaps"
   - "Easiest start in automation, zero infrastructure"
 usecases:
-  - title: "Validate one repetitive job"
-    desc: "Turn a copying, sorting, or research task into a small observable loop first."
-  - title: "Keep a human handoff"
-    desc: "Require review before external messages, database writes, or spend."
+  - title: "Cross-app automation"
+    desc: "Sheets, mail, and CRM moving in concert."
+  - title: "AI steps"
+    desc: "Summaries, classification, and generation in Zaps."
+  - title: "Chatbots"
+    desc: "Q&A bots over your own data, quickly."
 forwho:
-  - "Product and operations teams willing to test with real workflows"
-  - "Developers who can maintain integrations and failure handling"
+  - "Non-technical operators"
+  - "Teams needing breadth of integrations"
 notforwho:
-  - "Teams expecting zero setup and fully autonomous judgment"
+  - "Cost-sensitive high-frequency automation"
+  - "Self-hosting and code-first teams"
 faq:
-  - q: "Where should I start?"
-    a: "Pick a low-risk workflow with human review, then track quality, time saved, and actual cost."
-  - q: "Is it ready for production?"
-    a: "Potentially, after you add access control, rate limits, logs, retries, and an escalation path."
+  - q: "Free tier?"
+    a: "100 tasks/month, single-step Zaps; multi-step and AI need paid plans."
+  - q: "Does AI cost extra?"
+    a: "AI steps consume task quota; Agents sit in higher tiers."
 ---
-Zapier AI is worth considering when you specifically need **AI actions across SaaS tools**. Start with one narrow, measurable workflow instead of treating it as a generic AI add-on.
+
+Zapier runs the largest integration library in automation (6,000+ apps), with AI (steps, chatbots, agents) layered directly onto classic Zaps. Fastest to start; pricing grows visibly with usage.
 
 ## Getting started
-Use realistic but redacted data in a read-only proof of concept. Check access, rate limits, failure notifications, and the cost of a normal week before connecting anything that writes or sends.
+
+Begin with a two-step Zap (trigger + action), add AI steps and paths once it proves value, and use Zap History for debugging.
 
 ## What you can actually do
-- Turn incoming documents, forms, or requests into a reviewable first draft.
-- Give support, sales, or research a first pass at retrieval, classification, and summarization.
-- Connect a bounded API action, such as looking up a record, creating a task, or routing an exception.
-- Compare prompts or model settings on a small sample before changing a live workflow.
+
+- Massive integration coverage across mainstream SaaS
+- AI by Zapier: summarize, classify, extract
+- Tables and Interfaces for light data and UI
 
 ## Trade-offs and gotchas
-The attractive demo is the easy part. Production needs explicit ownership for bad inputs, permissions, retries, occasional wrong output, and spend limits. Do not remove the human review step until you have measured real failures.
+
+Per-task billing is the big trap at volume. Branching expression is weaker than Make. Deep customization hits platform abstractions.
 
 ## Alternatives
-Choose a lower-code alternative when speed of setup matters, a self-hosted option when data control matters, or a code-first framework when the workflow needs tests and fine-grained behavior. Those priorities usually pull in different directions.
+
+Make for control and price, n8n for self-hosting, direct APIs for developers.

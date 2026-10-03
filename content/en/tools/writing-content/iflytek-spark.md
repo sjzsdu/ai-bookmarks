@@ -16,7 +16,7 @@ highlights:
   - "Rich templates for official documents and decks"
 usecases:
   - title: "Official document writing"
-    desc: "Generate and polish per Chinese公文 norms."
+    desc: "Generate and polish per Chinese official-document norms."
   - title: "Voice office"
     desc: "Speech-to-document and meeting notes."
   - title: "Education support"
@@ -37,9 +37,9 @@ Use the web or app directly; document templates match official formats; the full
 
 ## What you can do with it
 
-- Finish a customer email, then accept only the suggestions that preserve your voice.
-- Run a resume, abstract, or landing page through a final pass for small but costly mistakes.
-- Compare tone rewrites beside the original instead of replacing a draft blindly.
+- Draft a meeting notice from an official-document template, then tune the format.
+- Speak your thinking aloud and get a structured document draft.
+- Turn meeting recordings into key-point minutes on iFlytek office hardware.
 
 ## Limits and gotchas
 

@@ -10,34 +10,41 @@ highlights:
   - "Visual flow editor for retrieval, tools, and dialogue"
   - "Chinese-first community with active enterprise deployments"
 usecases:
-  - title: "Validate one repetitive job"
-    desc: "Turn a copying, sorting, or research task into a small observable loop first."
-  - title: "Keep a human handoff"
-    desc: "Require review before external messages, database writes, or spend."
+  - title: "KB Q&A"
+    desc: "Rapid deployment for support, policy, and docs."
+  - title: "Ticket triage"
+    desc: "Smart routing with human handoff into business systems."
+  - title: "App orchestration"
+    desc: "Visual flows combining retrieval and tools."
 forwho:
-  - "Product and operations teams willing to test with real workflows"
-  - "Developers who can maintain integrations and failure handling"
+  - "Chinese knowledge-base teams"
+  - "Enterprises self-hosting"
 notforwho:
-  - "Teams expecting zero setup and fully autonomous judgment"
+  - "Multimodal or complex agent needs"
+  - "English-first corpora"
 faq:
-  - q: "Where should I start?"
-    a: "Pick a low-risk workflow with human review, then track quality, time saved, and actual cost."
-  - q: "Is it ready for production?"
-    a: "Potentially, after you add access control, rate limits, logs, retries, and an escalation path."
+  - q: "Is FastGPT free?"
+    a: "Self-hosted open source is free; the hosted cloud bills by usage."
+  - q: "Supported models?"
+    a: "Any OpenAI-compatible endpoint; docs for DeepSeek, Qwen, and GLM are first-class."
 ---
-FastGPT is worth considering when you specifically need **Chinese knowledge-base assistants**. Start with one narrow, measurable workflow instead of treating it as a generic AI add-on.
+
+FastGPT is a Chinese open-source KB Q&A platform that goes deep on RAG: ingestion, chunking, QA-pair generation, retrieval testing, plus visual orchestration for real business flows.
 
 ## Getting started
-Use realistic but redacted data in a read-only proof of concept. Check access, rate limits, failure notifications, and the cost of a normal week before connecting anything that writes or sends.
+
+After self-hosting, build the knowledge base and check chunk quality — it caps answer quality — then test a simple Q&A app.
 
 ## What you can actually do
-- Turn incoming documents, forms, or requests into a reviewable first draft.
-- Give support, sales, or research a first pass at retrieval, classification, and summarization.
-- Connect a bounded API action, such as looking up a record, creating a task, or routing an exception.
-- Compare prompts or model settings on a small sample before changing a live workflow.
+
+- KB management: multi-format import and tuning
+- Visual orchestration: retrieval, branches, HTTP nodes
+- Channels: Feishu, WeChat, API embeds
 
 ## Trade-offs and gotchas
-The attractive demo is the easy part. Production needs explicit ownership for bad inputs, permissions, retries, occasional wrong output, and spend limits. Do not remove the human review step until you have measured real failures.
+
+Tuned for Chinese; English corpora underperform. Retrieval quality depends heavily on chunking and cleanup. Deep customization means reading source.
 
 ## Alternatives
-Choose a lower-code alternative when speed of setup matters, a self-hosted option when data control matters, or a code-first framework when the workflow needs tests and fine-grained behavior. Those priorities usually pull in different directions.
+
+Dify for broader platforms, OneAPI for model aggregation, LangChain for the Western toolchain.

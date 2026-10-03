@@ -37,9 +37,9 @@ Describe the data and the emphasis together ('quarterly growth, highlight Q4'), 
 
 ## What you can do with it
 
-- Ask a CSV about trends and outliers, then verify the claim in the rows.
-- Build charts and a traceable narrative for an ops report instead of handing over a screenshot.
-- Probe an analysis in plain language before turning important calculations into a repeatable workflow.
+- Paste quarterly sales and get a labeled bar or line chart from one sentence.
+- Switch the same comparison across pie, bar, and line variants to pick the best for your deck.
+- Export presentation-ready palettes straight into slides and weekly reports.
 
 ## Limits and gotchas
 

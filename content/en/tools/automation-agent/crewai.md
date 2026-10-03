@@ -10,34 +10,41 @@ highlights:
   - "Clean Python abstraction over multi-agent orchestration"
   - "Works with any LLM provider out of the box"
 usecases:
-  - title: "Validate one repetitive job"
-    desc: "Turn a copying, sorting, or research task into a small observable loop first."
-  - title: "Keep a human handoff"
-    desc: "Require review before external messages, database writes, or spend."
+  - title: "Content pipelines"
+    desc: "Researcher, writer, and reviewer roles relay output."
+  - title: "Research tasks"
+    desc: "Roles split gathering, synthesis, and reporting."
+  - title: "Process automation"
+    desc: "Business flows decomposed into role chains."
 forwho:
-  - "Product and operations teams willing to test with real workflows"
-  - "Developers who can maintain integrations and failure handling"
+  - "Python devs entering multi-agent"
+  - "Small teams adding AI division of labor"
 notforwho:
-  - "Teams expecting zero setup and fully autonomous judgment"
+  - "Fine conversation control (AutoGen)"
+  - "Non-technical users"
 faq:
-  - q: "Where should I start?"
-    a: "Pick a low-risk workflow with human review, then track quality, time saved, and actual cost."
-  - q: "Is it ready for production?"
-    a: "Potentially, after you add access control, rate limits, logs, retries, and an escalation path."
+  - q: "Is CrewAI free?"
+    a: "Open source and free; model calls bill to your provider."
+  - q: "Relation to LangChain?"
+    a: "CrewAI can use LangChain tools but has its own orchestration, focused on role-based collaboration."
 ---
-CrewAI is worth considering when you specifically need **role-based Python agent crews**. Start with one narrow, measurable workflow instead of treating it as a generic AI add-on.
+
+CrewAI abstracts multi-agent work into crews: define each agent's role, goal, and tools, and the framework relays tasks through them to completion.
 
 ## Getting started
-Use realistic but redacted data in a read-only proof of concept. Check access, rate limits, failure notifications, and the cost of a normal week before connecting anything that writes or sends.
+
+Build a minimal three-role crew (goal, backstory, tools), get it running, then add process control and task dependencies.
 
 ## What you can actually do
-- Turn incoming documents, forms, or requests into a reviewable first draft.
-- Give support, sales, or research a first pass at retrieval, classification, and summarization.
-- Connect a bounded API action, such as looking up a record, creating a task, or routing an exception.
-- Compare prompts or model settings on a small sample before changing a live workflow.
+
+- Role definitions with goals, backstories, tools
+- Task chains with outputs and dependencies
+- Sequential and hierarchical processes
 
 ## Trade-offs and gotchas
-The attractive demo is the easy part. Production needs explicit ownership for bad inputs, permissions, retries, occasional wrong output, and spend limits. Do not remove the human review step until you have measured real failures.
+
+Roles aren't smart by default — prompt quality decides output. Errors cascade in long chains. Token burn grows linearly with agent count.
 
 ## Alternatives
-Choose a lower-code alternative when speed of setup matters, a self-hosted option when data control matters, or a code-first framework when the workflow needs tests and fine-grained behavior. Those priorities usually pull in different directions.
+
+AutoGen for conversational control and code execution, Flowise for visual builds, Dify for a productized platform.

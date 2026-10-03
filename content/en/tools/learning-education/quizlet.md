@@ -37,9 +37,9 @@ Search for an existing deck first; add your own only for gaps. Use Learn mode, n
 
 ## What you can do with it
 
-- Break a fuzzy topic into a ten-minute exercise instead of rereading an explanation.
-- Review for an exam or interview with mistakes, flashcards, or questions over your own material.
-- Ask about a confusing derivation, then redo it yourself.
+- Find a shared anatomy deck and run Learn mode through exam week.
+- Convert class notes into cards with AI-generated practice tests.
+- Drill foreign-language vocabulary on the spaced self-testing loop.
 
 ## Limits and gotchas
 

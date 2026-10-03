@@ -37,9 +37,9 @@ Try ad and social templates first; build workflows (trend-scan → generate → 
 
 ## What you can do with it
 
-- Finish a customer email, then accept only the suggestions that preserve your voice.
-- Run a resume, abstract, or landing page through a final pass for small but costly mistakes.
-- Compare tone rewrites beside the original instead of replacing a draft blindly.
+- Generate ten social-post variants for one campaign and A/B them.
+- Build a research-draft-polish workflow to keep the blog fed weekly.
+- Load brand-voice material so every channel sounds the same.
 
 ## Limits and gotchas
 

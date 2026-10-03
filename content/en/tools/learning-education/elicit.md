@@ -37,9 +37,9 @@ Start from one clear research question, import a paper set, and have it extract 
 
 ## What you can do with it
 
-- Break a fuzzy topic into a ten-minute exercise instead of rereading an explanation.
-- Review for an exam or interview with mistakes, flashcards, or questions over your own material.
-- Ask about a confusing derivation, then redo it yourself.
+- Import 20 papers and have AI extract sample sizes and methods into a comparison grid.
+- Screen evidence by study design (RCT/cohort) to weigh conclusion strength.
+- Draft the methods section of a review from the extracted columns.
 
 ## Limits and gotchas
 

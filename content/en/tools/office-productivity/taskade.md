@@ -37,9 +37,9 @@ Create a workspace, generate a project template with AI, assign members, and pic
 
 ## What you can do with it
 
-- Turn loose meeting notes into a page the team can actually keep using.
-- Make a clear outline, whiteboard, or presentation for a client meeting.
-- Keep tasks, source material, and discussion together instead of hunting across tabs.
+- Give AI a project goal, get a task tree, assign it across three people.
+- Capture meeting notes directly as todos synced to the team board.
+- Sketch the project as a mindmap, then flip it into an actionable task list.
 
 ## Limits and gotchas
 

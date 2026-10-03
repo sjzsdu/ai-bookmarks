@@ -37,9 +37,9 @@ Paste your draft and edit by color; Grade 8–10 is the comfort zone for most bu
 
 ## What you can do with it
 
-- Finish a customer email, then accept only the suggestions that preserve your voice.
-- Run a resume, abstract, or landing page through a final pass for small but costly mistakes.
-- Compare tone rewrites beside the original instead of replacing a draft blindly.
+- Paste a bloated product page and cut every yellow-flagged sentence.
+- Check readability pre-publish and move Grade 14 paragraphs to Grade 9.
+- Use adverb highlights to quit leaning on 'very' and 'really'.
 
 ## Limits and gotchas
 

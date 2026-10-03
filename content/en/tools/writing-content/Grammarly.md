@@ -37,9 +37,9 @@ Install the browser extension for sitewide coverage; switch to formal tone for i
 
 ## What you can do with it
 
-- Finish a customer email, then accept only the suggestions that preserve your voice.
-- Run a resume, abstract, or landing page through a final pass for small but costly mistakes.
-- Compare tone rewrites beside the original instead of replacing a draft blindly.
+- Tone check turns 'too direct' sentences into polite ones before sending.
+- Read each error explanation to turn corrections into lessons as an ESL writer.
+- Site-wide browser coverage ends cross-platform spelling embarrassment.
 
 ## Limits and gotchas
 

@@ -37,9 +37,9 @@ Prompt for an outline, adjust it, then generate the full set; export PDF or shar
 
 ## What you can do with it
 
-- Turn loose meeting notes into a page the team can actually keep using.
-- Make a clear outline, whiteboard, or presentation for a client meeting.
-- Keep tasks, source material, and discussion together instead of hunting across tabs.
+- Turn a product-launch topic into a full proposal deck in two minutes.
+- Convert an existing Word doc into a shareable web-style report.
+- Build interactive quote pages clients can actually scroll and share.
 
 ## Limits and gotchas
 

@@ -37,9 +37,9 @@ Upload the recording or link, read the AI summary first, then check against the 
 
 ## What you can do with it
 
-- Ask a CSV about trends and outliers, then verify the claim in the rows.
-- Build charts and a traceable narrative for an ops report instead of handing over a screenshot.
-- Probe an analysis in plain language before turning important calculations into a repeatable workflow.
+- Upload an hour of meeting audio and get a speaker-labeled transcript with a summary.
+- Extract key conclusions and action items from interviews with timestamps for review.
+- Turn lecture videos into searchable text notes for your archive.
 
 ## Limits and gotchas
 

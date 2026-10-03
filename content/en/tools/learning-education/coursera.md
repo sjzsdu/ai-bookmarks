@@ -37,9 +37,9 @@ Pick a specialization aligned to a job goal rather than single courses; audit mo
 
 ## What you can do with it
 
-- Break a fuzzy topic into a ten-minute exercise instead of rereading an explanation.
-- Review for an exam or interview with mistakes, flashcards, or questions over your own material.
-- Ask about a confusing derivation, then redo it yourself.
+- Complete the Google Data Analytics certificate as a resume-ready credential.
+- Audit Stanford and Yale course content before deciding to pay.
+- Use weekly schedules and deadlines to turn spare hours into structured study.
 
 ## Limits and gotchas
 

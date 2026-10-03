@@ -37,9 +37,9 @@ Paste a sentence and pick a strength (Synonyms is conservative, Fluency most nat
 
 ## What you can do with it
 
-- Finish a customer email, then accept only the suggestions that preserve your voice.
-- Run a resume, abstract, or landing page through a final pass for small but costly mistakes.
-- Compare tone rewrites beside the original instead of replacing a draft blindly.
+- Rewrite high-similarity thesis paragraphs on Fluency mode to keep meaning, cut duplication.
+- Compare three paraphrase outputs and pick the most academic register.
+- Distill a 30-page paper into a key-sentence list with the summarizer.
 
 ## Limits and gotchas
 

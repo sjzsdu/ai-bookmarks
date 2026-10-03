@@ -37,9 +37,9 @@ Select text in a doc to summon the AI menu (summarize/translate/rewrite); use na
 
 ## What you can do with it
 
-- Turn loose meeting notes into a page the team can actually keep using.
-- Make a clear outline, whiteboard, or presentation for a client meeting.
-- Keep tasks, source material, and discussion together instead of hunting across tabs.
+- Drop a doc link in the group chat, co-edit live, and AI-polish the result.
+- Generate spreadsheet formulas from one sentence instead of a function manual.
+- Summarize long meeting notes into key points for absent teammates.
 
 ## Limits and gotchas
 

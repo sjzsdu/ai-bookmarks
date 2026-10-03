@@ -37,9 +37,9 @@ Invest in Brand Voice setup first (feed it brand material), organize output by c
 
 ## What you can do with it
 
-- Finish a customer email, then accept only the suggestions that preserve your voice.
-- Run a resume, abstract, or landing page through a final pass for small but costly mistakes.
-- Compare tone rewrites beside the original instead of replacing a draft blindly.
+- Set Brand Voice once so the whole team's output matches the brand.
+- Organize blogs, emails, and ad copy production by campaign.
+- Pair with Surfer's score panel to lift posts to SEO targets.
 
 ## Limits and gotchas
 

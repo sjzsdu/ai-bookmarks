@@ -37,9 +37,9 @@ Fixed 10–15 minutes daily beats weekend binges; keep streaks and reminders on;
 
 ## What you can do with it
 
-- Break a fuzzy topic into a ten-minute exercise instead of rereading an explanation.
-- Review for an exam or interview with mistakes, flashcards, or questions over your own material.
-- Ask about a confusing derivation, then redo it yourself.
+- Keep a 10-minute daily streak alive to hold onto Spanish.
+- Practice ordering food and asking directions in Max's AI roleplay.
+- Sample a new language for free before committing deeper.
 
 ## Limits and gotchas
 

@@ -37,9 +37,9 @@ Start 'Practical Deep Learning for Coders' lesson one and run the notebooks on C
 
 ## What you can do with it
 
-- Break a fuzzy topic into a ten-minute exercise instead of rereading an explanation.
-- Review for an exam or interview with mistakes, flashcards, or questions over your own material.
-- Ask about a confusing derivation, then redo it yourself.
+- Train your first image classifier in lesson one on Colab, theory after.
+- Use the fastai DataBlock API to handle your own datasets quickly.
+- Compare approaches on the forums to pick up production-grade training tricks.
 
 ## Limits and gotchas
 

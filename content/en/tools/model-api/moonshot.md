@@ -10,34 +10,41 @@ highlights:
   - "Stable OpenAI-compatible API for easy integration"
   - "Tool-calling and web-search capabilities built in"
 usecases:
-  - title: "Validate one repetitive job"
-    desc: "Turn a copying, sorting, or research task into a small observable loop first."
-  - title: "Keep a human handoff"
-    desc: "Require review before external messages, database writes, or spend."
+  - title: "Long-document apps"
+    desc: "Kimi models over very long inputs."
+  - title: "Grounded Q&A"
+    desc: "Built-in web search in conversations."
+  - title: "Domestic integration"
+    desc: "OpenAI-compatible and quick to wire."
 forwho:
-  - "Product and operations teams willing to test with real workflows"
-  - "Developers who can maintain integrations and failure handling"
+  - "Products processing long documents"
+  - "Moonshot ecosystem users"
 notforwho:
-  - "Teams expecting zero setup and fully autonomous judgment"
+  - "Rock-bottom-cost batch jobs"
+  - "Multimodal input needs"
 faq:
-  - q: "Where should I start?"
-    a: "Pick a low-risk workflow with human review, then track quality, time saved, and actual cost."
-  - q: "Is it ready for production?"
-    a: "Potentially, after you add access control, rate limits, logs, retries, and an escalation path."
+  - q: "Is Moonshot free?"
+    a: "Token-billed with some free quota by tier; the Kimi web app is free for individuals."
+  - q: "How long is the context?"
+    a: "The Kimi line is known for long context — windows update with versions; check docs."
 ---
-Moonshot AI is worth considering when you specifically need **Chinese long-context workloads**. Start with one narrow, measurable workflow instead of treating it as a generic AI add-on.
+
+Moonshot's platform serves the Kimi model family: long-context understanding is the signature, with tool calling and web search on top, all behind an OpenAI-compatible interface.
 
 ## Getting started
-Use realistic but redacted data in a read-only proof of concept. Check access, rate limits, failure notifications, and the cost of a normal week before connecting anything that writes or sends.
+
+Integrate via the OpenAI-compatible SDK; test context window and pricing on real documents before scaling.
 
 ## What you can actually do
-- Turn incoming documents, forms, or requests into a reviewable first draft.
-- Give support, sales, or research a first pass at retrieval, classification, and summarization.
-- Connect a bounded API action, such as looking up a record, creating a task, or routing an exception.
-- Compare prompts or model settings on a small sample before changing a live workflow.
+
+- Kimi APIs for long-context chat and reasoning
+- Standard function calling
+- Built-in web search augmentation
 
 ## Trade-offs and gotchas
-The attractive demo is the easy part. Production needs explicit ownership for bad inputs, permissions, retries, occasional wrong output, and spend limits. Do not remove the human review step until you have measured real failures.
+
+Long inputs bill by token — plan chunking. Behavior can shift across model updates. Multimodal stays limited.
 
 ## Alternatives
-Choose a lower-code alternative when speed of setup matters, a self-hosted option when data control matters, or a code-first framework when the workflow needs tests and fine-grained behavior. Those priorities usually pull in different directions.
+
+DeepSeek/Anthropic for long text, Gemini for multimodal, OpenRouter for aggregation.

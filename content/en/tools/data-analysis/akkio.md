@@ -37,9 +37,9 @@ Prepare historical data with the outcome column (e.g. churned yes/no), upload, p
 
 ## What you can do with it
 
-- Ask a CSV about trends and outliers, then verify the claim in the rows.
-- Build charts and a traceable narrative for an ops report instead of handing over a screenshot.
-- Probe an analysis in plain language before turning important calculations into a repeatable workflow.
+- Train a churn model on historical orders with explainable probability scores.
+- Score and rank sales leads automatically so reps call the best ones first.
+- Deploy the trained model as an API for real-time predictions in your systems.
 
 ## Limits and gotchas
 

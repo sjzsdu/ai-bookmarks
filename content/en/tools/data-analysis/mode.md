@@ -37,9 +37,9 @@ Connect a warehouse, build a SQL report, parameterize dates for auto-refresh; or
 
 ## What you can do with it
 
-- Ask a CSV about trends and outliers, then verify the claim in the rows.
-- Build charts and a traceable narrative for an ops report instead of handing over a screenshot.
-- Probe an analysis in plain language before turning important calculations into a repeatable workflow.
+- Build parameterized SQL reports where stakeholders pick their own date ranges.
+- Follow SQL with Python attribution analysis and publish as a subscribable page.
+- Turn recurring metric queries into templates new analysts can reuse.
 
 ## Limits and gotchas
 

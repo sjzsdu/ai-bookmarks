@@ -37,9 +37,9 @@ Press space or '/' in a page for AI; test workspace-questioning to gauge retriev
 
 ## What you can do with it
 
-- Finish a customer email, then accept only the suggestions that preserve your voice.
-- Run a resume, abstract, or landing page through a final pass for small but costly mistakes.
-- Compare tone rewrites beside the original instead of replacing a draft blindly.
+- Ask your workspace for 'the key conclusion from last month's proposal' and land on the page.
+- Select scattered meeting notes and let AI merge them into the knowledge base.
+- Add AI properties to a reading database that tags entries by theme.
 
 ## Limits and gotchas
 

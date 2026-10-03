@@ -37,9 +37,9 @@ Type '/' in a cloud doc for AI commands; enable Miaoji for auto transcription; a
 
 ## What you can do with it
 
-- Turn loose meeting notes into a page the team can actually keep using.
-- Make a clear outline, whiteboard, or presentation for a client meeting.
-- Keep tasks, source material, and discussion together instead of hunting across tabs.
+- Leave the meeting with Miaoji minutes and extracted todos auto-shared.
+- Draft and polish weekly reports in Feishu docs with AI templates.
+- Ask the company knowledge base about expense policy and get sourced answers.
 
 ## Limits and gotchas
 

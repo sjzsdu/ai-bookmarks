@@ -37,9 +37,9 @@ Upload a PDF, skim the auto-generated questions, then ask by section; verify key
 
 ## What you can do with it
 
-- Turn loose meeting notes into a page the team can actually keep using.
-- Make a clear outline, whiteboard, or presentation for a client meeting.
-- Keep tasks, source material, and discussion together instead of hunting across tabs.
+- Question an 80-page industry report with answers cited to exact pages.
+- Pull payment terms and liability clauses from a procurement contract.
+- Set up paper Q&A to locate experiment setup descriptions by section.
 
 ## Limits and gotchas
 

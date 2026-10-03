@@ -20,7 +20,7 @@ forwho:
   - "Heavy readers of foreign content"
   - "Advanced users who choose their engines"
 notforwho:
-  - "Users wanting译文 only"
+  - "Users wanting translation only"
   - "Locked-down browsers without extensions"
 faq:
   - q: "How does it work?"

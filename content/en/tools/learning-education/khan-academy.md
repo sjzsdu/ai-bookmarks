@@ -37,9 +37,9 @@ Take a placement check to find your level and follow the recommended path; Khanm
 
 ## What you can do with it
 
-- Break a fuzzy topic into a ten-minute exercise instead of rereading an explanation.
-- Review for an exam or interview with mistakes, flashcards, or questions over your own material.
-- Ask about a confusing derivation, then redo it yourself.
+- Take the placement check, then close specific math gaps along the recommended path.
+- Use Khanmigo's guided questions to actually understand mistakes, not copy answers.
+- Work through the full free chain from algebra to precalculus.
 
 ## Limits and gotchas
 

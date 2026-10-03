@@ -10,34 +10,41 @@ highlights:
   - "Publish once to Discord, Telegram, and web apps"
   - "ByteDance ecosystem with generous free tier"
 usecases:
-  - title: "Validate one repetitive job"
-    desc: "Turn a copying, sorting, or research task into a small observable loop first."
-  - title: "Keep a human handoff"
-    desc: "Require review before external messages, database writes, or spend."
+  - title: "Support bots"
+    desc: "Knowledge-base Q&A for pre- and after-sales."
+  - title: "Multi-platform publishing"
+    desc: "One bot live on Discord, Telegram, and web."
+  - title: "Workflow bots"
+    desc: "Visual flows for complex reply logic."
 forwho:
-  - "Product and operations teams willing to test with real workflows"
-  - "Developers who can maintain integrations and failure handling"
+  - "Ops and PMs shipping quickly"
+  - "ByteDance-ecosystem creators"
 notforwho:
-  - "Teams expecting zero setup and fully autonomous judgment"
+  - "Teams needing self-hosting"
+  - "Dev teams with deep custom pipelines"
 faq:
-  - q: "Where should I start?"
-    a: "Pick a low-risk workflow with human review, then track quality, time saved, and actual cost."
-  - q: "Is it ready for production?"
-    a: "Potentially, after you add access control, rate limits, logs, retries, and an escalation path."
+  - q: "Coze China vs global?"
+    a: "The domestic version (Kouzi) ties into Doubao/Feishu with direct access; coze.com publishes to Discord/Telegram internationally."
+  - q: "Free?"
+    a: "Core features are free; model usage is metered in tiers."
 ---
-Coze is worth considering when you specifically need **a Chinese-first bot and workflow launchpad**. Start with one narrow, measurable workflow instead of treating it as a generic AI add-on.
+
+Coze is ByteDance's no-code bot builder: prompts, plugins, knowledge bases, and workflows assemble on a web canvas into a bot that chats, retrieves, and acts.
 
 ## Getting started
-Use realistic but redacted data in a read-only proof of concept. Check access, rate limits, failure notifications, and the cost of a normal week before connecting anything that writes or sends.
+
+Build a knowledge-base bot first — upload docs, configure retrieval, test answers — then add plugins and workflows.
 
 ## What you can actually do
-- Turn incoming documents, forms, or requests into a reviewable first draft.
-- Give support, sales, or research a first pass at retrieval, classification, and summarization.
-- Connect a bounded API action, such as looking up a record, creating a task, or routing an exception.
-- Compare prompts or model settings on a small sample before changing a live workflow.
+
+- KB Q&A with automatic document indexing
+- Plugin marketplace for ready skills
+- One-click publishing to web and IM platforms
 
 ## Trade-offs and gotchas
-The attractive demo is the easy part. Production needs explicit ownership for bad inputs, permissions, retries, occasional wrong output, and spend limits. Do not remove the human review step until you have measured real failures.
+
+Platform lock-in is real; export paths are limited. Free-tier model calls are quotaed. Workflow debugging trails pro tools.
 
 ## Alternatives
-Choose a lower-code alternative when speed of setup matters, a self-hosted option when data control matters, or a code-first framework when the workflow needs tests and fine-grained behavior. Those priorities usually pull in different directions.
+
+Dify and FastGPT for open-source self-hosting, Botpress internationally, Tencent/Alibaba bots for WeChat ecosystems.

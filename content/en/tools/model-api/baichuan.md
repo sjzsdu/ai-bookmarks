@@ -10,34 +10,41 @@ highlights:
   - "Open-weight releases enable private deployment"
   - "Domestic compliance with local support channels"
 usecases:
-  - title: "Validate one repetitive job"
-    desc: "Turn a copying, sorting, or research task into a small observable loop first."
-  - title: "Keep a human handoff"
-    desc: "Require review before external messages, database writes, or spend."
+  - title: "Medical Q&A"
+    desc: "Healthcare-tuned dialogue and retrieval."
+  - title: "Legal assistance"
+    desc: "Understanding and drafting on legal corpora."
+  - title: "Domestic deployment"
+    desc: "Open weights self-hosted or official API."
 forwho:
-  - "Product and operations teams willing to test with real workflows"
-  - "Developers who can maintain integrations and failure handling"
+  - "Healthcare and legal verticals"
+  - "Teams needing compliant domestic models"
 notforwho:
-  - "Teams expecting zero setup and fully autonomous judgment"
+  - "Frontier general capability"
+  - "Overseas-first businesses"
 faq:
-  - q: "Where should I start?"
-    a: "Pick a low-risk workflow with human review, then track quality, time saved, and actual cost."
-  - q: "Is it ready for production?"
-    a: "Potentially, after you add access control, rate limits, logs, retries, and an escalation path."
+  - q: "Which models does Baichuan offer?"
+    a: "Open-weight Baichuan releases plus commercial API tiers — see current docs."
+  - q: "Private deployment?"
+    a: "Open weights self-host freely; enterprise private clouds go through sales."
 ---
-Baichuan AI is worth considering when you specifically need **Chinese-language model serving**. Start with one narrow, measurable workflow instead of treating it as a generic AI add-on.
+
+Baichuan was among the first Chinese labs to open-source large models; its API strengthens medical and legal verticals and offers both open weights and commercial API paths.
 
 ## Getting started
-Use realistic but redacted data in a read-only proof of concept. Check access, rate limits, failure notifications, and the cost of a normal week before connecting anything that writes or sends.
+
+Register on the platform and compare model tiers in the Playground; integrate via the OpenAI-compatible interface.
 
 ## What you can actually do
-- Turn incoming documents, forms, or requests into a reviewable first draft.
-- Give support, sales, or research a first pass at retrieval, classification, and summarization.
-- Connect a bounded API action, such as looking up a record, creating a task, or routing an exception.
-- Compare prompts or model settings on a small sample before changing a live workflow.
+
+- Chat and embedding model APIs
+- Vertical boosts for medical and legal text
+- Open weights with commercial licensing
 
 ## Trade-offs and gotchas
-The attractive demo is the easy part. Production needs explicit ownership for bad inputs, permissions, retries, occasional wrong output, and spend limits. Do not remove the human review step until you have measured real failures.
+
+General capability trails the first tier — evaluate on your own data before committing. License terms vary per release; verify each.
 
 ## Alternatives
-Choose a lower-code alternative when speed of setup matters, a self-hosted option when data control matters, or a code-first framework when the workflow needs tests and fine-grained behavior. Those priorities usually pull in different directions.
+
+DeepSeek/Qwen for stronger general use, SiliconFlow for aggregation, Bailian for enterprise KB stacks.

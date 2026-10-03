@@ -10,34 +10,41 @@ highlights:
   - "Full model lineup: reasoning, multimodal, embeddings, audio"
   - "Tooling maturity: function calling, batching, fine-tuning"
 usecases:
-  - title: "Validate one repetitive job"
-    desc: "Turn a copying, sorting, or research task into a small observable loop first."
-  - title: "Keep a human handoff"
-    desc: "Require review before external messages, database writes, or spend."
+  - title: "General AI features"
+    desc: "GPT chat, reasoning, and multimodality."
+  - title: "Agents & tools"
+    desc: "Function calling, batching, fine-tuning."
+  - title: "Speech & images"
+    desc: "TTS, transcription, image generation APIs."
 forwho:
-  - "Product and operations teams willing to test with real workflows"
-  - "Developers who can maintain integrations and failure handling"
+  - "Teams wanting the most mature API"
+  - "Products needing text+speech+image in one"
 notforwho:
-  - "Teams expecting zero setup and fully autonomous judgment"
+  - "Cost-sensitive batch workloads"
+  - "Direct China access"
 faq:
-  - q: "Where should I start?"
-    a: "Pick a low-risk workflow with human review, then track quality, time saved, and actual cost."
-  - q: "Is it ready for production?"
-    a: "Potentially, after you add access control, rate limits, logs, retries, and an escalation path."
+  - q: "Is the OpenAI API expensive?"
+    a: "Token-billed; mini tiers are far cheaper, Batch API is half price, caching helps."
+  - q: "Usable from China?"
+    a: "Official access needs overseas network/payment, or route through Azure OpenAI."
 ---
-OpenAI API is worth considering when you specifically need **GPT, multimodal features, and a mature ecosystem**. Start with one narrow, measurable workflow instead of treating it as a generic AI add-on.
+
+The OpenAI API is the industry's most-integrated model interface: the GPT lineup covers chat, reasoning, and multimodal, wrapped in function calling, batching, fine-tuning, and evals — most tutorials assume you start here.
 
 ## Getting started
-Use realistic but redacted data in a read-only proof of concept. Check access, rate limits, failure notifications, and the cost of a normal week before connecting anything that writes or sends.
+
+Get a key and send a first request with the official SDK; start on a mini tier and upgrade only if quality demands.
 
 ## What you can actually do
-- Turn incoming documents, forms, or requests into a reviewable first draft.
-- Give support, sales, or research a first pass at retrieval, classification, and summarization.
-- Connect a bounded API action, such as looking up a record, creating a task, or routing an exception.
-- Compare prompts or model settings on a small sample before changing a live workflow.
+
+- Chat Completions/Responses with streaming
+- Tool calling and structured outputs
+- Batch API and prompt caching for savings
 
 ## Trade-offs and gotchas
-The attractive demo is the easy part. Production needs explicit ownership for bad inputs, permissions, retries, occasional wrong output, and spend limits. Do not remove the human review step until you have measured real failures.
+
+Access and payment barriers from China. Fast deprecation cycles — watch announcements in production. Costs scale linearly; set budget alerts.
 
 ## Alternatives
-Choose a lower-code alternative when speed of setup matters, a self-hosted option when data control matters, or a code-first framework when the workflow needs tests and fine-grained behavior. Those priorities usually pull in different directions.
+
+DeepSeek for value, OpenRouter for aggregation, Azure OpenAI for enterprise compliance.

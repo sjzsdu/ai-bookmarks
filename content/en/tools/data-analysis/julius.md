@@ -37,9 +37,9 @@ Upload, ask for a data overview first, then question by question. Request the co
 
 ## What you can do with it
 
-- Ask a CSV about trends and outliers, then verify the claim in the rows.
-- Build charts and a traceable narrative for an ops report instead of handing over a screenshot.
-- Probe an analysis in plain language before turning important calculations into a repeatable workflow.
+- Upload sales detail and ask 'which region dropped most MoM' with charts back.
+- Have it fix missing values and date formats into a clean dataset automatically.
+- Ask for the Python code behind any conclusion to audit the method.
 
 ## Limits and gotchas
 

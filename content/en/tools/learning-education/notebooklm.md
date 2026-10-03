@@ -37,9 +37,9 @@ Create a notebook, upload core sources, verify the auto-summary against your und
 
 ## What you can do with it
 
-- Break a fuzzy topic into a ten-minute exercise instead of rereading an explanation.
-- Review for an exam or interview with mistakes, flashcards, or questions over your own material.
-- Ask about a confusing derivation, then redo it yourself.
+- Build a notebook over ten course PDFs and quiz yourself with citations open.
+- Generate an Audio Overview podcast from your notes for the commute.
+- Set up a project-source notebook so new members onboard by asking questions.
 
 ## Limits and gotchas
 

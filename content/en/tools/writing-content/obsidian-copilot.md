@@ -37,9 +37,9 @@ Install from the community plugins, configure an API key or Ollama URL, and set 
 
 ## What you can do with it
 
-- Finish a customer email, then accept only the suggestions that preserve your voice.
-- Run a resume, abstract, or landing page through a final pass for small but costly mistakes.
-- Compare tone rewrites beside the original instead of replacing a draft blindly.
+- Ask your vault 'what was that deployment plan I noted' and get source-linked answers.
+- Wire a local Ollama model so note Q&A never leaves the machine.
+- Continue the current note's paragraph in your own writing style.
 
 ## Limits and gotchas
 

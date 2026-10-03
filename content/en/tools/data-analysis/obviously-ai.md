@@ -23,7 +23,7 @@ usecases:
     desc: "Predictions without an ML engineer."
 forwho:
   - "Business users validating ML value"
-  - "Small companies without算法 resources"
+  - "Small companies without ML engineering resources"
 notforwho:
   - "Scenarios needing explainability audits"
   - "Large-scale feature engineering"
@@ -37,9 +37,9 @@ Run a classification on a few thousand clean rows first; read the feature import
 
 ## What you can do with it
 
-- Ask a CSV about trends and outliers, then verify the claim in the rows.
-- Build charts and a traceable narrative for an ops report instead of handing over a screenshot.
-- Probe an analysis in plain language before turning important calculations into a repeatable workflow.
+- Upload customer history and get a churn classifier in about 30 seconds.
+- Read the feature importances to sanity-check the model against business sense.
+- Ship the model as an API or dashboard that business systems call directly.
 
 ## Limits and gotchas
 

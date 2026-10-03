@@ -10,34 +10,41 @@ highlights:
   - "Massive integration ecosystem: models, vector stores, tools"
   - "LangGraph adds stateful, controllable agent orchestration"
 usecases:
-  - title: "Validate one repetitive job"
-    desc: "Turn a copying, sorting, or research task into a small observable loop first."
-  - title: "Keep a human handoff"
-    desc: "Require review before external messages, database writes, or spend."
+  - title: "LLM app development"
+    desc: "Apps with tool calling and data grounding."
+  - title: "RAG systems"
+    desc: "The standard component set for retrieval Q&A."
+  - title: "Agent orchestration"
+    desc: "Stateful multi-step agents via LangGraph."
 forwho:
-  - "Product and operations teams willing to test with real workflows"
-  - "Developers who can maintain integrations and failure handling"
+  - "Developers building AI applications"
+  - "Systems integrating many models and sources"
 notforwho:
-  - "Teams expecting zero setup and fully autonomous judgment"
+  - "Users wanting a finished product"
+  - "Minimal use cases (the framework is heavy)"
 faq:
-  - q: "Where should I start?"
-    a: "Pick a low-risk workflow with human review, then track quality, time saved, and actual cost."
-  - q: "Is it ready for production?"
-    a: "Potentially, after you add access control, rate limits, logs, retries, and an escalation path."
+  - q: "Is LangChain hard to learn?"
+    a: "Core abstractions (models, prompts, chains, retrievers) are simple; the integration sprawl is the challenge. Adopt incrementally."
+  - q: "LangChain vs LangGraph?"
+    a: "LangGraph is the team's stateful agent orchestration library — the recommended path for production agents."
 ---
-LangChain is worth considering when you specifically need **code-level model, retrieval, and tool integration**. Start with one narrow, measurable workflow instead of treating it as a generic AI add-on.
+
+LangChain is the standard library of LLM app development: unified model calls, prompt templates, retrieval, tools, and memory, with an enormous integration ecosystem — the default starting point for AI apps in Python/JS.
 
 ## Getting started
-Use realistic but redacted data in a read-only proof of concept. Check access, rate limits, failure notifications, and the cost of a normal week before connecting anything that writes or sends.
+
+Compose a minimal chain (model + prompt + parser) with LCEL, then add retrieval or tools as needed; go straight to LangGraph for production agents.
 
 ## What you can actually do
-- Turn incoming documents, forms, or requests into a reviewable first draft.
-- Give support, sales, or research a first pass at retrieval, classification, and summarization.
-- Connect a bounded API action, such as looking up a record, creating a task, or routing an exception.
-- Compare prompts or model settings on a small sample before changing a live workflow.
+
+- One model interface across OpenAI/Anthropic/local
+- Retrieval components: loaders, splitters, vector stores
+- LangGraph for graph-based stateful agents
 
 ## Trade-offs and gotchas
-The attractive demo is the easy part. Production needs explicit ownership for bad inputs, permissions, retries, occasional wrong output, and spend limits. Do not remove the human review step until you have measured real failures.
+
+Many abstractions and fast releases — tutorials rot constantly. Over-abstraction hurts simple use cases. Pin versions and write integration tests for production.
 
 ## Alternatives
-Choose a lower-code alternative when speed of setup matters, a self-hosted option when data control matters, or a code-first framework when the workflow needs tests and fine-grained behavior. Those priorities usually pull in different directions.
+
+Official SDKs for lightweight direct calls, Langflow/Flowise for visuals, Dify for a productized platform.

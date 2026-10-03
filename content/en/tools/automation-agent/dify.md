@@ -10,34 +10,41 @@ highlights:
   - "Self-host or use the cloud, with production-grade observability"
   - "One platform covers chatbots, agents, and automation backends"
 usecases:
-  - title: "Validate one repetitive job"
-    desc: "Turn a copying, sorting, or research task into a small observable loop first."
-  - title: "Keep a human handoff"
-    desc: "Require review before external messages, database writes, or spend."
+  - title: "Enterprise KB Q&A"
+    desc: "RAG apps built over uploaded documents."
+  - title: "AI workflows"
+    desc: "Visual orchestration of models and logic."
+  - title: "Self-hosting"
+    desc: "Docker deployment for data compliance."
 forwho:
-  - "Product and operations teams willing to test with real workflows"
-  - "Developers who can maintain integrations and failure handling"
+  - "Teams shipping LLM apps fast"
+  - "Companies with data-sovereignty needs"
 notforwho:
-  - "Teams expecting zero setup and fully autonomous judgment"
+  - "Users wanting just a chat UI"
+  - "Teams avoiding ops (use hosted)"
 faq:
-  - q: "Where should I start?"
-    a: "Pick a low-risk workflow with human review, then track quality, time saved, and actual cost."
-  - q: "Is it ready for production?"
-    a: "Potentially, after you add access control, rate limits, logs, retries, and an escalation path."
+  - q: "Is Dify free?"
+    a: "The open-source self-hosted edition is free; the cloud version bills by usage with some features paid."
+  - q: "Dify or FastGPT?"
+    a: "Dify is broader (agents, workflows, model management); FastGPT focuses harder on Chinese KB Q&A. Both self-host."
 ---
-Dify is worth considering when you specifically need **operational RAG and LLM workflows**. Start with one narrow, measurable workflow instead of treating it as a generic AI add-on.
+
+Dify is among the most complete open-source LLM app platforms: prompt orchestration, RAG knowledge bases, agents, and visual workflows, plus API publishing and logging — prototype to production in one place.
 
 ## Getting started
-Use realistic but redacted data in a read-only proof of concept. Check access, rate limits, failure notifications, and the cost of a normal week before connecting anything that writes or sends.
+
+Self-host via Docker Compose or use the cloud; build a KB app to prove out RAG, then explore workflow orchestration.
 
 ## What you can actually do
-- Turn incoming documents, forms, or requests into a reviewable first draft.
-- Give support, sales, or research a first pass at retrieval, classification, and summarization.
-- Connect a bounded API action, such as looking up a record, creating a task, or routing an exception.
-- Compare prompts or model settings on a small sample before changing a live workflow.
+
+- Visual composition: prompts, tools, branches
+- RAG engine: chunking, retrieval, citations
+- Publishing as WebApp, API, or embed script
 
 ## Trade-offs and gotchas
-The attractive demo is the easy part. Production needs explicit ownership for bad inputs, permissions, retries, occasional wrong output, and spend limits. Do not remove the human review step until you have measured real failures.
+
+Self-hosting means managing provider keys and vector stores. Complex workflow debugging is log-driven. Community edition differs from paid tiers.
 
 ## Alternatives
-Choose a lower-code alternative when speed of setup matters, a self-hosted option when data control matters, or a code-first framework when the workflow needs tests and fine-grained behavior. Those priorities usually pull in different directions.
+
+FastGPT for KB-focused builds, Flowise/Langflow for visual flows, LangChain for pure code.

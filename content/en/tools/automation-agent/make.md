@@ -10,34 +10,41 @@ highlights:
   - "1500+ app integrations at a lower price point than Zapier"
   - "Scenario blueprinting makes complex flows shareable"
 usecases:
-  - title: "Validate one repetitive job"
-    desc: "Turn a copying, sorting, or research task into a small observable loop first."
-  - title: "Keep a human handoff"
-    desc: "Require review before external messages, database writes, or spend."
+  - title: "Business automation"
+    desc: "Forms, mail, and CRM data flowing automatically."
+  - title: "AI-augmented flows"
+    desc: "LLM steps inserted mid-pipeline."
+  - title: "Data sync"
+    desc: "Moving and transforming data across SaaS."
 forwho:
-  - "Product and operations teams willing to test with real workflows"
-  - "Developers who can maintain integrations and failure handling"
+  - "Ops users wanting finer control than Zapier"
+  - "Budget-conscious automators"
 notforwho:
-  - "Teams expecting zero setup and fully autonomous judgment"
+  - "Self-hosting requirements"
+  - "Pure developer pipelines"
 faq:
-  - q: "Where should I start?"
-    a: "Pick a low-risk workflow with human review, then track quality, time saved, and actual cost."
-  - q: "Is it ready for production?"
-    a: "Potentially, after you add access control, rate limits, logs, retries, and an escalation path."
+  - q: "Make or Zapier?"
+    a: "Make has finer branching, looping, and error handling at lower cost; Zapier has more integrations and an easier start. Complex flows favor Make."
+  - q: "Is the free tier enough?"
+    a: "1,000 operations monthly — fine for light automation."
 ---
-Make is worth considering when you specifically need **visual SaaS automation and data mapping**. Start with one narrow, measurable workflow instead of treating it as a generic AI add-on.
+
+Make (formerly Integromat) is known for its flowchart-style editor: module wiring, branching, loops, and error handling all finer-grained than Zapier, at lower prices — the mainstream pick for cost-aware teams.
 
 ## Getting started
-Use realistic but redacted data in a read-only proof of concept. Check access, rate limits, failure notifications, and the cost of a normal week before connecting anything that writes or sends.
+
+Start with a two- or three-module scenario (form → AI summary → email); understand operations billing before scaling complexity.
 
 ## What you can actually do
-- Turn incoming documents, forms, or requests into a reviewable first draft.
-- Give support, sales, or research a first pass at retrieval, classification, and summarization.
-- Connect a bounded API action, such as looking up a record, creating a task, or routing an exception.
-- Compare prompts or model settings on a small sample before changing a live workflow.
+
+- Flowchart editor with visual branches, loops, aggregators
+- AI modules: OpenAI-class steps built in
+- Error handling with breakpoints and routing
 
 ## Trade-offs and gotchas
-The attractive demo is the easy part. Production needs explicit ownership for bad inputs, permissions, retries, occasional wrong output, and spend limits. Do not remove the human review step until you have measured real failures.
+
+Operations billing compounds on high-frequency triggers. Steeper learning curve than Zapier. Third-party API changes can silently break scenarios.
 
 ## Alternatives
-Choose a lower-code alternative when speed of setup matters, a self-hosted option when data control matters, or a code-first framework when the workflow needs tests and fine-grained behavior. Those priorities usually pull in different directions.
+
+Zapier for simplicity, n8n/Activepieces for self-hosting, direct code for developer pipelines.
